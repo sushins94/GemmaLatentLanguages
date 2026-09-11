@@ -9,8 +9,8 @@
 # Results:  outputs/<wordlist>/<model>/<class>_<n>shot/
 set -euo pipefail
 
-MODEL_DIR=../data/models
-ROMANLENS=../Romanlens/llm_logit_lens/data/langs
+MODEL_DIR=../../data/models
+ROMANLENS=../../Romanlens/llm_logit_lens/data/langs
 
 # model:dtype. 12B-class models do not fit in float32 on a 48 GB card.
 # Naming differs across generations: Gemma 3 base is suffixed -pt, Gemma 4 base
@@ -19,8 +19,8 @@ MODELS=(gemma-3-4b-pt:float32
         gemma-3-4b-it:float32
         gemma-3-12b-pt:bfloat16
         gemma-3-12b-it:bfloat16)
-#       gemma-4-12B:bfloat16
-#       gemma-4-12B-it:bfloat16
+#        gemma-4-12B:bfloat16
+#        gemma-4-12B-it:bfloat16)
 
 SHOTS="1 2 3 4"
 # Corpora to fit a Jacobian lens on. Fitting on more than one is the point:
