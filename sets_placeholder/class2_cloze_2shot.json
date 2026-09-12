@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "cloze_hi_hi_native_flower",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "उसे प्यास लगी और उसने ___ पिया\nउसने ___ खोली और पढ़ने लगा\nमधुमक्खी ___ पर बैठी \"",
+    "answers": {
+      "en": "flower",
+      "hi_native": "फूल",
+      "hi_roman": "phool",
+      "en_control": "audio",
+      "ta_native": "பூ",
+      "src": "फूल"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_water",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसने ___ खोली और पढ़ने लगा\nउसे प्यास लगी और उसने ___ पिया \"",
+    "answers": {
+      "en": "water",
+      "hi_native": "पानी",
+      "hi_roman": "paani",
+      "en_control": "business",
+      "ta_native": "தண்ணீர்",
+      "src": "पानी"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_book",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nउसने ___ खोली और पढ़ने लगा \"",
+    "answers": {
+      "en": "book",
+      "hi_native": "किताब",
+      "hi_roman": "kitaab",
+      "en_control": "trying",
+      "ta_native": "புத்தகம்",
+      "src": "किताब"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_sun",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nसुबह ___ पूरब में उगता है \"",
+    "answers": {
+      "en": "sun",
+      "hi_native": "सूरज",
+      "hi_roman": "sooraj",
+      "en_control": "via",
+      "ta_native": "சூரியன்",
+      "src": "सूरज"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_mountain",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nपर्वतारोही ___ की चोटी पर पहुँचे \"",
+    "answers": {
+      "en": "mountain",
+      "hi_native": "पहाड़",
+      "hi_roman": "pahaad",
+      "en_control": "advantage",
+      "ta_native": "மலை",
+      "src": "पहाड़"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_fire",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nवे गर्म ___ के चारों ओर बैठे \"",
+    "answers": {
+      "en": "fire",
+      "hi_native": "आग",
+      "hi_roman": "aag",
+      "en_control": "human",
+      "ta_native": "நெருப்பு",
+      "src": "आग"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_house",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nकाम के बाद वह अपने ___ लौटा \"",
+    "answers": {
+      "en": "house",
+      "hi_native": "घर",
+      "hi_roman": "ghar",
+      "en_control": "little",
+      "ta_native": "வீடு",
+      "src": "घर"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_night",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nतारे ___ को निकलते हैं \"",
+    "answers": {
+      "en": "night",
+      "hi_native": "रात",
+      "hi_roman": "raat",
+      "en_control": "basket",
+      "ta_native": "இரவு",
+      "src": "रात"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_milk",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nबच्चे ने एक गिलास ___ पिया \"",
+    "answers": {
+      "en": "milk",
+      "hi_native": "दूध",
+      "hi_roman": "doodh",
+      "en_control": "candle",
+      "ta_native": "பால்",
+      "src": "दूध"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_tree",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nपक्षी ने ___ में घोंसला बनाया \"",
+    "answers": {
+      "en": "tree",
+      "hi_native": "पेड़",
+      "hi_roman": "ped",
+      "en_control": "morning",
+      "ta_native": "மரம்",
+      "src": "पेड़"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_bus",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nवह स्टॉप पर ___ का इंतज़ार करती रही \"",
+    "answers": {
+      "en": "bus",
+      "hi_native": "बस",
+      "hi_roman": "bas",
+      "en_control": "window",
+      "ta_native": "பேருந்து",
+      "src": "बस"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_hotel",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nहम स्टेशन के पास एक छोटे ___ में ठहरे \"",
+    "answers": {
+      "en": "hotel",
+      "hi_native": "होटल",
+      "hi_roman": "hotel",
+      "en_control": "meadow",
+      "ta_native": "ஹோட்டல்",
+      "src": "होटल"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_coffee",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nउसने एक कप ___ मंगाई \"",
+    "answers": {
+      "en": "coffee",
+      "hi_native": "कॉफी",
+      "hi_roman": "coffee",
+      "en_control": "pocket",
+      "ta_native": "காபி",
+      "src": "कॉफी"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_hi_native_mobile",
+    "task": "cloze",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "hi_native",
+    "prompt": "मधुमक्खी ___ पर बैठी\nउसे प्यास लगी और उसने ___ पिया\nवह अपना ___ घर पर भूल गया \"",
+    "answers": {
+      "en": "mobile",
+      "hi_native": "मोबाइल",
+      "hi_roman": "mobile",
+      "en_control": "basket",
+      "ta_native": "மொபைல்",
+      "src": "मोबाइल"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_flower",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "उसे प्यास लगी और उसने ___ पिया \"paani\".\nउसने ___ खोली और पढ़ने लगा \"kitaab\".\nमधुमक्खी ___ पर बैठी \"",
+    "answers": {
+      "en": "flower",
+      "hi_native": "फूल",
+      "hi_roman": "phool",
+      "en_control": "audio",
+      "ta_native": "பூ",
+      "src": "phool"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_water",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसने ___ खोली और पढ़ने लगा \"kitaab\".\nउसे प्यास लगी और उसने ___ पिया \"",
+    "answers": {
+      "en": "water",
+      "hi_native": "पानी",
+      "hi_roman": "paani",
+      "en_control": "business",
+      "ta_native": "தண்ணீர்",
+      "src": "paani"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_book",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nउसने ___ खोली और पढ़ने लगा \"",
+    "answers": {
+      "en": "book",
+      "hi_native": "किताब",
+      "hi_roman": "kitaab",
+      "en_control": "trying",
+      "ta_native": "புத்தகம்",
+      "src": "kitaab"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_sun",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nसुबह ___ पूरब में उगता है \"",
+    "answers": {
+      "en": "sun",
+      "hi_native": "सूरज",
+      "hi_roman": "sooraj",
+      "en_control": "via",
+      "ta_native": "சூரியன்",
+      "src": "sooraj"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_mountain",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nपर्वतारोही ___ की चोटी पर पहुँचे \"",
+    "answers": {
+      "en": "mountain",
+      "hi_native": "पहाड़",
+      "hi_roman": "pahaad",
+      "en_control": "advantage",
+      "ta_native": "மலை",
+      "src": "pahaad"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_fire",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nवे गर्म ___ के चारों ओर बैठे \"",
+    "answers": {
+      "en": "fire",
+      "hi_native": "आग",
+      "hi_roman": "aag",
+      "en_control": "human",
+      "ta_native": "நெருப்பு",
+      "src": "aag"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_house",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nकाम के बाद वह अपने ___ लौटा \"",
+    "answers": {
+      "en": "house",
+      "hi_native": "घर",
+      "hi_roman": "ghar",
+      "en_control": "little",
+      "ta_native": "வீடு",
+      "src": "ghar"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_night",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nतारे ___ को निकलते हैं \"",
+    "answers": {
+      "en": "night",
+      "hi_native": "रात",
+      "hi_roman": "raat",
+      "en_control": "basket",
+      "ta_native": "இரவு",
+      "src": "raat"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_milk",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nबच्चे ने एक गिलास ___ पिया \"",
+    "answers": {
+      "en": "milk",
+      "hi_native": "दूध",
+      "hi_roman": "doodh",
+      "en_control": "candle",
+      "ta_native": "பால்",
+      "src": "doodh"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_tree",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nपक्षी ने ___ में घोंसला बनाया \"",
+    "answers": {
+      "en": "tree",
+      "hi_native": "पेड़",
+      "hi_roman": "ped",
+      "en_control": "morning",
+      "ta_native": "மரம்",
+      "src": "ped"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_bus",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nवह स्टॉप पर ___ का इंतज़ार करती रही \"",
+    "answers": {
+      "en": "bus",
+      "hi_native": "बस",
+      "hi_roman": "bas",
+      "en_control": "window",
+      "ta_native": "பேருந்து",
+      "src": "bas"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_hotel",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nहम स्टेशन के पास एक छोटे ___ में ठहरे \"",
+    "answers": {
+      "en": "hotel",
+      "hi_native": "होटल",
+      "hi_roman": "hotel",
+      "en_control": "meadow",
+      "ta_native": "ஹோட்டல்",
+      "src": "hotel"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_coffee",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nउसने एक कप ___ मंगाई \"",
+    "answers": {
+      "en": "coffee",
+      "hi_native": "कॉफी",
+      "hi_roman": "coffee",
+      "en_control": "pocket",
+      "ta_native": "காபி",
+      "src": "coffee"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_mobile",
+    "task": "cloze",
+    "src_lang": "hi_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "hi_roman",
+    "prompt": "मधुमक्खी ___ पर बैठी \"phool\".\nउसे प्यास लगी और उसने ___ पिया \"paani\".\nवह अपना ___ घर पर भूल गया \"",
+    "answers": {
+      "en": "mobile",
+      "hi_native": "मोबाइल",
+      "hi_roman": "mobile",
+      "en_control": "basket",
+      "ta_native": "மொபைல்",
+      "src": "mobile"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_flower",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "அவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nஅவன் ___ திறந்து படிக்கத் தொடங்கினான்\nதேனீ ___ மீது அமர்ந்தது \"",
+    "answers": {
+      "en": "flower",
+      "ta_native": "பூ",
+      "ta_roman": "poo",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "src": "பூ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_water",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவன் ___ திறந்து படிக்கத் தொடங்கினான்\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"",
+    "answers": {
+      "en": "water",
+      "ta_native": "தண்ணீர்",
+      "ta_roman": "thanneer",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "src": "தண்ணீர்"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_book",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nஅவன் ___ திறந்து படிக்கத் தொடங்கினான் \"",
+    "answers": {
+      "en": "book",
+      "ta_native": "புத்தகம்",
+      "ta_roman": "puthagam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "src": "புத்தகம்"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_sun",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nகாலையில் ___ கிழக்கில் உதிக்கும் \"",
+    "answers": {
+      "en": "sun",
+      "ta_native": "சூரியன்",
+      "ta_roman": "sooriyan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "src": "சூரியன்"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_mountain",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nமலையேறுபவர்கள் ___ உச்சியை அடைந்தனர் \"",
+    "answers": {
+      "en": "mountain",
+      "ta_native": "மலை",
+      "ta_roman": "malai",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "src": "மலை"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_fire",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nஅவர்கள் சூடான ___ சுற்றி அமர்ந்தனர் \"",
+    "answers": {
+      "en": "fire",
+      "ta_native": "நெருப்பு",
+      "ta_roman": "neruppu",
+      "en_control": "human",
+      "hi_native": "आग",
+      "src": "நெருப்பு"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_house",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nவேலைக்குப் பிறகு அவன் தன் ___ திரும்பினான் \"",
+    "answers": {
+      "en": "house",
+      "ta_native": "வீடு",
+      "ta_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "src": "வீடு"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_night",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nநட்சத்திரங்கள் ___ வெளிவரும் \"",
+    "answers": {
+      "en": "night",
+      "ta_native": "இரவு",
+      "ta_roman": "iravu",
+      "en_control": "river",
+      "hi_native": "रात",
+      "src": "இரவு"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_milk",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nகுழந்தை ஒரு டம்ளர் ___ குடித்தது \"",
+    "answers": {
+      "en": "milk",
+      "ta_native": "பால்",
+      "ta_roman": "paal",
+      "en_control": "pocket",
+      "hi_native": "दूध",
+      "src": "பால்"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_tree",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nபறவை ___ கூடு கட்டியது \"",
+    "answers": {
+      "en": "tree",
+      "ta_native": "மரம்",
+      "ta_roman": "maram",
+      "en_control": "letter",
+      "hi_native": "पेड़",
+      "src": "மரம்"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_bus",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nஅவள் நிறுத்தத்தில் ___ காத்திருந்தாள் \"",
+    "answers": {
+      "en": "bus",
+      "ta_native": "பேருந்து",
+      "ta_roman": "bus",
+      "en_control": "river",
+      "hi_native": "बस",
+      "src": "பேருந்து"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_hotel",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nநாங்கள் நிலையத்திற்கு அருகிலுள்ள ஒரு சிறிய ___ இல் தங்கினோம் \"",
+    "answers": {
+      "en": "hotel",
+      "ta_native": "ஹோட்டல்",
+      "ta_roman": "hotel",
+      "en_control": "basket",
+      "hi_native": "होटल",
+      "src": "ஹோட்டல்"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_coffee",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nஅவள் ஒரு கப் ___ ஆர்டர் செய்தாள் \"",
+    "answers": {
+      "en": "coffee",
+      "ta_native": "காபி",
+      "ta_roman": "coffee",
+      "en_control": "candle",
+      "hi_native": "कॉफी",
+      "src": "காபி"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_ta_native_mobile",
+    "task": "cloze",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ta_native",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள்\nஅவன் தனது ___ வீட்டில் மறந்துவிட்டா \"",
+    "answers": {
+      "en": "mobile",
+      "ta_native": "மொபைல்",
+      "ta_roman": "mobile",
+      "en_control": "harbour",
+      "hi_native": "मोबाइल",
+      "src": "மொபைல்"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_flower",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "அவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nஅவன் ___ திறந்து படிக்கத் தொடங்கினான் \"puthagam\".\nதேனீ ___ மீது அமர்ந்தது \"",
+    "answers": {
+      "en": "flower",
+      "ta_native": "பூ",
+      "ta_roman": "poo",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "src": "poo"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_water",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவன் ___ திறந்து படிக்கத் தொடங்கினான் \"puthagam\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"",
+    "answers": {
+      "en": "water",
+      "ta_native": "தண்ணீர்",
+      "ta_roman": "thanneer",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "src": "thanneer"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_book",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nஅவன் ___ திறந்து படிக்கத் தொடங்கினான் \"",
+    "answers": {
+      "en": "book",
+      "ta_native": "புத்தகம்",
+      "ta_roman": "puthagam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "src": "puthagam"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_sun",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nகாலையில் ___ கிழக்கில் உதிக்கும் \"",
+    "answers": {
+      "en": "sun",
+      "ta_native": "சூரியன்",
+      "ta_roman": "sooriyan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "src": "sooriyan"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_mountain",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nமலையேறுபவர்கள் ___ உச்சியை அடைந்தனர் \"",
+    "answers": {
+      "en": "mountain",
+      "ta_native": "மலை",
+      "ta_roman": "malai",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "src": "malai"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_fire",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nஅவர்கள் சூடான ___ சுற்றி அமர்ந்தனர் \"",
+    "answers": {
+      "en": "fire",
+      "ta_native": "நெருப்பு",
+      "ta_roman": "neruppu",
+      "en_control": "human",
+      "hi_native": "आग",
+      "src": "neruppu"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_house",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nவேலைக்குப் பிறகு அவன் தன் ___ திரும்பினான் \"",
+    "answers": {
+      "en": "house",
+      "ta_native": "வீடு",
+      "ta_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "src": "veedu"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_night",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nநட்சத்திரங்கள் ___ வெளிவரும் \"",
+    "answers": {
+      "en": "night",
+      "ta_native": "இரவு",
+      "ta_roman": "iravu",
+      "en_control": "river",
+      "hi_native": "रात",
+      "src": "iravu"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_milk",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nகுழந்தை ஒரு டம்ளர் ___ குடித்தது \"",
+    "answers": {
+      "en": "milk",
+      "ta_native": "பால்",
+      "ta_roman": "paal",
+      "en_control": "pocket",
+      "hi_native": "दूध",
+      "src": "paal"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_tree",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nபறவை ___ கூடு கட்டியது \"",
+    "answers": {
+      "en": "tree",
+      "ta_native": "மரம்",
+      "ta_roman": "maram",
+      "en_control": "letter",
+      "hi_native": "पेड़",
+      "src": "maram"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_bus",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nஅவள் நிறுத்தத்தில் ___ காத்திருந்தாள் \"",
+    "answers": {
+      "en": "bus",
+      "ta_native": "பேருந்து",
+      "ta_roman": "bus",
+      "en_control": "river",
+      "hi_native": "बस",
+      "src": "bus"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_hotel",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nநாங்கள் நிலையத்திற்கு அருகிலுள்ள ஒரு சிறிய ___ இல் தங்கினோம் \"",
+    "answers": {
+      "en": "hotel",
+      "ta_native": "ஹோட்டல்",
+      "ta_roman": "hotel",
+      "en_control": "basket",
+      "hi_native": "होटल",
+      "src": "hotel"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_coffee",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nஅவள் ஒரு கப் ___ ஆர்டர் செய்தாள் \"",
+    "answers": {
+      "en": "coffee",
+      "ta_native": "காபி",
+      "ta_roman": "coffee",
+      "en_control": "candle",
+      "hi_native": "कॉफी",
+      "src": "coffee"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_mobile",
+    "task": "cloze",
+    "src_lang": "ta_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ta_roman",
+    "prompt": "தேனீ ___ மீது அமர்ந்தது \"poo\".\nஅவளுக்கு தாகம் எடுத்தது, அவள் ___ குடித்தாள் \"thanneer\".\nஅவன் தனது ___ வீட்டில் மறந்துவிட்டா \"",
+    "answers": {
+      "en": "mobile",
+      "ta_native": "மொபைல்",
+      "ta_roman": "mobile",
+      "en_control": "harbour",
+      "hi_native": "मोबाइल",
+      "src": "mobile"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_flower",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "അവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nഅവൻ ___ തുറന്ന് വായിക്കാൻ തുടങ്ങി\nതേനീച്ച ___ മേൽ ഇരുന്നു \"",
+    "answers": {
+      "en": "flower",
+      "ml_native": "പൂവ്",
+      "ml_roman": "poovu",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "src": "പൂവ്"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_water",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൻ ___ തുറന്ന് വായിക്കാൻ തുടങ്ങി\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"",
+    "answers": {
+      "en": "water",
+      "ml_native": "വെള്ളം",
+      "ml_roman": "vellam",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "src": "വെള്ളം"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_book",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nഅവൻ ___ തുറന്ന് വായിക്കാൻ തുടങ്ങി \"",
+    "answers": {
+      "en": "book",
+      "ml_native": "പുസ്തകം",
+      "ml_roman": "pusthakam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "src": "പുസ്തകം"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_sun",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nരാവിലെ ___ കിഴക്ക് ഉദിക്കുന്നു \"",
+    "answers": {
+      "en": "sun",
+      "ml_native": "സൂര്യൻ",
+      "ml_roman": "sooryan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "src": "സൂര്യൻ"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_mountain",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nപർവതാരോഹകർ ___ മുകളിൽ എത്തി \"",
+    "answers": {
+      "en": "mountain",
+      "ml_native": "മല",
+      "ml_roman": "mala",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "src": "മല"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_fire",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nഅവർ ചൂടുള്ള ___ ചുറ്റും ഇരുന്നു \"",
+    "answers": {
+      "en": "fire",
+      "ml_native": "തീ",
+      "ml_roman": "thee",
+      "en_control": "human",
+      "hi_native": "आग",
+      "src": "തീ"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_house",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nജോലി കഴിഞ്ഞ് അവൻ തന്റെ ___ മടങ്ങി \"",
+    "answers": {
+      "en": "house",
+      "ml_native": "വീട്",
+      "ml_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "src": "വീട്"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_night",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nനക്ഷത്രങ്ങൾ ___ പുറത്തുവരുന്നു \"",
+    "answers": {
+      "en": "night",
+      "ml_native": "രാത്രി",
+      "ml_roman": "raathri",
+      "en_control": "lantern",
+      "hi_native": "रात",
+      "src": "രാത്രി"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_milk",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nകുട്ടി ഒരു ഗ്ലാസ് ___ കുടിച്ചു \"",
+    "answers": {
+      "en": "milk",
+      "ml_native": "പാൽ",
+      "ml_roman": "paal",
+      "en_control": "bridge",
+      "hi_native": "दूध",
+      "src": "പാൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_tree",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nപക്ഷി ___ കൂട് ഉണ്ടാക്കി \"",
+    "answers": {
+      "en": "tree",
+      "ml_native": "മരം",
+      "ml_roman": "maram",
+      "en_control": "paper",
+      "hi_native": "पेड़",
+      "src": "മരം"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_bus",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nഅവൾ സ്റ്റോപ്പിൽ ___ കാത്തിരുന്നു \"",
+    "answers": {
+      "en": "bus",
+      "ml_native": "ബസ്",
+      "ml_roman": "bas",
+      "en_control": "paper",
+      "hi_native": "बस",
+      "src": "ബസ്"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_hotel",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nഞങ്ങൾ സ്റ്റേഷനടുത്തുള്ള ഒരു ചെറിയ ___ ൽ താമസിച്ചു \"",
+    "answers": {
+      "en": "hotel",
+      "ml_native": "ഹോട്ടൽ",
+      "ml_roman": "hotel",
+      "en_control": "candle",
+      "hi_native": "होटल",
+      "src": "ഹോട്ടൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_coffee",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nഅവൾ ഒരു കപ്പ് ___ ഓർഡർ ചെയ്തു \"",
+    "answers": {
+      "en": "coffee",
+      "ml_native": "കാപ്പി",
+      "ml_roman": "coffee",
+      "en_control": "letter",
+      "hi_native": "कॉफी",
+      "src": "കാപ്പി"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_ml_native_mobile",
+    "task": "cloze",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ml_native",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു\nഅവൻ തന്റെ ___ വീട്ടിൽ മറന്നു \"",
+    "answers": {
+      "en": "mobile",
+      "ml_native": "മൊബൈൽ",
+      "ml_roman": "mobile",
+      "en_control": "meadow",
+      "hi_native": "मोबाइल",
+      "src": "മൊബൈൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_flower",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "അവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nഅവൻ ___ തുറന്ന് വായിക്കാൻ തുടങ്ങി \"pusthakam\".\nതേനീച്ച ___ മേൽ ഇരുന്നു \"",
+    "answers": {
+      "en": "flower",
+      "ml_native": "പൂവ്",
+      "ml_roman": "poovu",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "src": "poovu"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_water",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൻ ___ തുറന്ന് വായിക്കാൻ തുടങ്ങി \"pusthakam\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"",
+    "answers": {
+      "en": "water",
+      "ml_native": "വെള്ളം",
+      "ml_roman": "vellam",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "src": "vellam"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_book",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nഅവൻ ___ തുറന്ന് വായിക്കാൻ തുടങ്ങി \"",
+    "answers": {
+      "en": "book",
+      "ml_native": "പുസ്തകം",
+      "ml_roman": "pusthakam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "src": "pusthakam"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_sun",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nരാവിലെ ___ കിഴക്ക് ഉദിക്കുന്നു \"",
+    "answers": {
+      "en": "sun",
+      "ml_native": "സൂര്യൻ",
+      "ml_roman": "sooryan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "src": "sooryan"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_mountain",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nപർവതാരോഹകർ ___ മുകളിൽ എത്തി \"",
+    "answers": {
+      "en": "mountain",
+      "ml_native": "മല",
+      "ml_roman": "mala",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "src": "mala"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_fire",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nഅവർ ചൂടുള്ള ___ ചുറ്റും ഇരുന്നു \"",
+    "answers": {
+      "en": "fire",
+      "ml_native": "തീ",
+      "ml_roman": "thee",
+      "en_control": "human",
+      "hi_native": "आग",
+      "src": "thee"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_house",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nജോലി കഴിഞ്ഞ് അവൻ തന്റെ ___ മടങ്ങി \"",
+    "answers": {
+      "en": "house",
+      "ml_native": "വീട്",
+      "ml_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "src": "veedu"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_night",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nനക്ഷത്രങ്ങൾ ___ പുറത്തുവരുന്നു \"",
+    "answers": {
+      "en": "night",
+      "ml_native": "രാത്രി",
+      "ml_roman": "raathri",
+      "en_control": "lantern",
+      "hi_native": "रात",
+      "src": "raathri"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_milk",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nകുട്ടി ഒരു ഗ്ലാസ് ___ കുടിച്ചു \"",
+    "answers": {
+      "en": "milk",
+      "ml_native": "പാൽ",
+      "ml_roman": "paal",
+      "en_control": "bridge",
+      "hi_native": "दूध",
+      "src": "paal"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_tree",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nപക്ഷി ___ കൂട് ഉണ്ടാക്കി \"",
+    "answers": {
+      "en": "tree",
+      "ml_native": "മരം",
+      "ml_roman": "maram",
+      "en_control": "paper",
+      "hi_native": "पेड़",
+      "src": "maram"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_bus",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nഅവൾ സ്റ്റോപ്പിൽ ___ കാത്തിരുന്നു \"",
+    "answers": {
+      "en": "bus",
+      "ml_native": "ബസ്",
+      "ml_roman": "bas",
+      "en_control": "paper",
+      "hi_native": "बस",
+      "src": "bas"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_hotel",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nഞങ്ങൾ സ്റ്റേഷനടുത്തുള്ള ഒരു ചെറിയ ___ ൽ താമസിച്ചു \"",
+    "answers": {
+      "en": "hotel",
+      "ml_native": "ഹോട്ടൽ",
+      "ml_roman": "hotel",
+      "en_control": "candle",
+      "hi_native": "होटल",
+      "src": "hotel"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_coffee",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nഅവൾ ഒരു കപ്പ് ___ ഓർഡർ ചെയ്തു \"",
+    "answers": {
+      "en": "coffee",
+      "ml_native": "കാപ്പി",
+      "ml_roman": "coffee",
+      "en_control": "letter",
+      "hi_native": "कॉफी",
+      "src": "coffee"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_mobile",
+    "task": "cloze",
+    "src_lang": "ml_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 2,
+    "target_label": "ml_roman",
+    "prompt": "തേനീച്ച ___ മേൽ ഇരുന്നു \"poovu\".\nഅവൾക്ക് ദാഹിച്ചു, അവൾ ___ കുടിച്ചു \"vellam\".\nഅവൻ തന്റെ ___ വീട്ടിൽ മറന്നു \"",
+    "answers": {
+      "en": "mobile",
+      "ml_native": "മൊബൈൽ",
+      "ml_roman": "mobile",
+      "en_control": "meadow",
+      "hi_native": "मोबाइल",
+      "src": "mobile"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ]
+  }
+]

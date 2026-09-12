@@ -1,0 +1,397 @@
+=== word list ===
+[romanlens] en         132 words
+[romanlens] fr         117 words
+[romanlens] de         120 words
+[romanlens] zh         139 words
+[romanlens] hi         132 words
+[romanlens] ta         132 words
+[romanlens] ml         132 words
+[romanlens] hi_roman   132 words
+[romanlens] ta_roman   132 words
+[romanlens] ml_roman   132 words
+[romanlens] 132 words complete across hi/ta/ml native + roman
+[romanlens] 117/132 have French (needed for the fr-source condition); 132 have cloze frames in all languages
+[cognate] flagged 8/132 at similarity >= 0.6
+[cognate]   station / hi:station  (1.00)
+[cognate]   school / ml:school  (1.00)
+[cognate]   bag / hi:bagg  (0.86)
+[cognate]   three / hi:teen  (0.67)
+[cognate]   rice / ml:arrie  (0.67)
+[cognate]   mouth / hi:munh  (0.67)
+[cognate]   sun / ml:suuryan  (0.60)
+[cognate]   star / hi:taaraa  (0.60)
+[cognate] too few to split on. Report the control as underpowered, or hand-flag loanwords in data/words.json.
+[read] 132 usable, 0 skipped
+
+[vocab] tokenizer 262145 tokens
+
+ lang    cond    n  1tok   fert  kept  kept%
+   hi  native  132   117   1.12   132   100%
+   hi   roman  132    22   2.08   113    86%
+   ta  native  132    61   1.61   132   100%
+   ta   roman  132     8   2.39   121    92%
+   ml  native  132    16   2.40   132   100%
+   ml   roman  132     8   2.44   120    91%
+
+[cloze]   132/132 rows have frames (class2 uses only these)
+[cognate] 8/132 flagged as English loanwords
+
+[wrote] promptutils/words.json (132 entries)
+[next]  python run.py sets --out sets/
+[pool] loading top 40000 English words ...
+
+[wrote] promptutils/controls.json: 132 controls
+[match] Zipf gap  median 0.05  90th pct 0.05  max 0.05
+[match] |Start(w)| matched exactly for 132/132
+[match] distinct control words: 116
+
+[sample]
+   book         -> trying       zipf 5.43 vs 5.47  |Start| 8 vs 8
+   cloud        -> jordan       zipf 4.46 vs 4.51  |Start| 8 vs 8
+   bag          -> lie          zipf 4.79 vs 4.84  |Start| 6 vs 6
+   mouth        -> award        zipf 4.83 vs 4.88  |Start| 9 vs 9
+   soil         -> drew         zipf 4.42 vs 4.46  |Start| 7 vs 7
+   mountain     -> advantage    zipf 4.73 vs 4.78  |Start| 10 vs 10
+   cloth        -> advances     zipf 4.03 vs 4.08  |Start| 9 vs 9
+   heart        -> taken        zipf 5.31 vs 5.33  |Start| 10 vs 10
+
+[next] python3 run.py sets --out sets_romanlens/
+
+=== prompt sets ===
+[controls] en_control is frequency- and length-matched (promptutils/controls.json)
+sets_romanlens/class1_translation_1shot.json: 1494 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class1_translation_2shot.json: 1494 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class1_translation_3shot.json: 1494 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class1_translation_4shot.json: 1494 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class2_cloze_1shot.json: 792 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class2_cloze_2shot.json: 792 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class2_cloze_3shot.json: 792 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class2_cloze_4shot.json: 792 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class3_repetition_1shot.json: 792 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class3_repetition_2shot.json: 792 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class3_repetition_3shot.json: 792 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class3_repetition_4shot.json: 792 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class4_lang_swap.json: 1494 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class5_gibberish.json: 90 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class6_roman_to_roman_1shot.json: 396 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class6_roman_to_roman_2shot.json: 396 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class6_roman_to_roman_3shot.json: 396 prompts  langs=['hi', 'ml', 'ta']
+sets_romanlens/class6_roman_to_roman_4shot.json: 396 prompts  langs=['hi', 'ml', 'ta']
+======================================================================
+PLACEHOLDER WORD LIST (14 entries). Fine for debugging; not for any reported number.
+  python3 build_words.py --romanlens <path> --model <model>
+======================================================================
+[controls] en_control is frequency- and length-matched (promptutils/controls.json)
+sets_placeholder/class1_translation_1shot.json: 168 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class1_translation_2shot.json: 168 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class1_translation_3shot.json: 168 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class1_translation_4shot.json: 168 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class2_cloze_1shot.json: 84 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class2_cloze_2shot.json: 84 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class2_cloze_3shot.json: 84 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class2_cloze_4shot.json: 84 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class3_repetition_1shot.json: 84 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class3_repetition_2shot.json: 84 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class3_repetition_3shot.json: 84 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class3_repetition_4shot.json: 84 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class4_lang_swap.json: 168 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class5_gibberish.json: 90 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class6_roman_to_roman_1shot.json: 42 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class6_roman_to_roman_2shot.json: 42 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class6_roman_to_roman_3shot.json: 42 prompts  langs=['hi', 'ml', 'ta']
+sets_placeholder/class6_roman_to_roman_4shot.json: 42 prompts  langs=['hi', 'ml', 'ta']
+
+=== corpora ===
+[flores] en <- Muennighoff/flores200 (997 rows)
+[flores] hi <- Muennighoff/flores200 (997 rows)
+[flores] ta <- Muennighoff/flores200 (997 rows)
+[flores] ml <- Muennighoff/flores200 (997 rows)
+[corpora] corpora/en.txt: 30 documents
+[corpora] corpora/hi.txt: 30 documents
+[corpora] corpora/ta.txt: 30 documents
+[corpora] corpora/ml.txt: 30 documents
+[corpora] corpora/indic.txt: 30 documents
+[corpora] corpora/mixed.txt: 30 documents
+
+=== fitting jlens: gemma-3-4b-pt on en ===
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (bfloat16)
+[fit] 30 texts available, using 25
+[fit] 1/25 prompts (128 tokens)
+[fit] 2/25 prompts (128 tokens)
+[fit] 3/25 prompts (128 tokens)
+[fit] 4/25 prompts (128 tokens)
+[fit] 5/25 prompts (128 tokens)
+[fit] 6/25 prompts (128 tokens)
+[fit] 7/25 prompts (128 tokens)
+[fit] 8/25 prompts (128 tokens)
+[fit] 9/25 prompts (128 tokens)
+[fit] 10/25 prompts (128 tokens)
+[fit] 11/25 prompts (126 tokens)
+[fit] 12/25 prompts (128 tokens)
+[fit] 13/25 prompts (128 tokens)
+[fit] 14/25 prompts (128 tokens)
+[fit] 15/25 prompts (128 tokens)
+[fit] 16/25 prompts (128 tokens)
+[fit] 17/25 prompts (123 tokens)
+[fit] 18/25 prompts (128 tokens)
+[fit] 19/25 prompts (128 tokens)
+[fit] 20/25 prompts (120 tokens)
+[fit] 21/25 prompts (128 tokens)
+[fit] 22/25 prompts (128 tokens)
+[fit] 23/25 prompts (128 tokens)
+[fit] 24/25 prompts (128 tokens)
+[fit] 25/25 prompts (128 tokens)
+[fit] done: 25 prompts, 3085 source positions
+[fit] saved lenses/gemma-3-4b-pt_en.pt
+[spec] layer 1: s_max/s_median = 204.8
+[spec] layer 17: s_max/s_median = 89.7
+[spec] layer 31: s_max/s_median = 12.6
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (float32)
+
+[validate] finite-difference check (cosine below 0.3 means the Jacobian is wrong)
+  layer  1: cos +0.019 +/- 0.127   norm ratio 0.208   TOO NOISY
+  layer 11: cos +0.082 +/- 0.173   norm ratio 0.392   TOO NOISY
+  layer 22: cos +0.375 +/- 0.088   norm ratio 0.645   OK
+  layer 31: cos +0.853 +/- 0.015   norm ratio 0.971   OK
+
+=== fitting jlens: gemma-3-4b-pt on indic ===
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (bfloat16)
+[fit] 30 texts available, using 25
+[fit] 1/25 prompts (128 tokens)
+[fit] 2/25 prompts (128 tokens)
+[fit] 3/25 prompts (128 tokens)
+[fit] 4/25 prompts (128 tokens)
+[fit] 5/25 prompts (128 tokens)
+[fit] 6/25 prompts (128 tokens)
+[fit] 7/25 prompts (128 tokens)
+[fit] 8/25 prompts (128 tokens)
+[fit] 9/25 prompts (128 tokens)
+[fit] 10/25 prompts (128 tokens)
+[fit] 11/25 prompts (128 tokens)
+[fit] 12/25 prompts (128 tokens)
+[fit] 13/25 prompts (128 tokens)
+[fit] 14/25 prompts (128 tokens)
+[fit] 15/25 prompts (128 tokens)
+[fit] 16/25 prompts (128 tokens)
+[fit] 17/25 prompts (128 tokens)
+[fit] 18/25 prompts (128 tokens)
+[fit] 19/25 prompts (128 tokens)
+[fit] 20/25 prompts (128 tokens)
+[fit] 21/25 prompts (128 tokens)
+[fit] 22/25 prompts (128 tokens)
+[fit] 23/25 prompts (128 tokens)
+[fit] 24/25 prompts (128 tokens)
+[fit] 25/25 prompts (128 tokens)
+[fit] done: 25 prompts, 3100 source positions
+[fit] saved lenses/gemma-3-4b-pt_indic.pt
+[spec] layer 1: s_max/s_median = 370.3
+[spec] layer 17: s_max/s_median = 142.4
+[spec] layer 31: s_max/s_median = 13.9
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (float32)
+
+[validate] finite-difference check (cosine below 0.3 means the Jacobian is wrong)
+  layer  1: cos +0.073 +/- 0.176   norm ratio 0.228   TOO NOISY
+  layer 11: cos +0.186 +/- 0.367   norm ratio 0.431   TOO NOISY
+  layer 22: cos +0.257 +/- 0.135   norm ratio 0.689   TOO NOISY
+  layer 31: cos +0.806 +/- 0.010   norm ratio 0.975   OK
+
+=== fitting jlens: gemma-3-4b-pt on mixed ===
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (bfloat16)
+[fit] 30 texts available, using 25
+[fit] 1/25 prompts (128 tokens)
+[fit] 2/25 prompts (128 tokens)
+[fit] 3/25 prompts (128 tokens)
+[fit] 4/25 prompts (128 tokens)
+[fit] 5/25 prompts (128 tokens)
+[fit] 6/25 prompts (128 tokens)
+[fit] 7/25 prompts (128 tokens)
+[fit] 8/25 prompts (128 tokens)
+[fit] 9/25 prompts (128 tokens)
+[fit] 10/25 prompts (128 tokens)
+[fit] 11/25 prompts (128 tokens)
+[fit] 12/25 prompts (128 tokens)
+[fit] 13/25 prompts (128 tokens)
+[fit] 14/25 prompts (128 tokens)
+[fit] 15/25 prompts (128 tokens)
+[fit] 16/25 prompts (128 tokens)
+[fit] 17/25 prompts (128 tokens)
+[fit] 18/25 prompts (128 tokens)
+[fit] 19/25 prompts (128 tokens)
+[fit] 20/25 prompts (128 tokens)
+[fit] 21/25 prompts (128 tokens)
+[fit] 22/25 prompts (128 tokens)
+[fit] 23/25 prompts (128 tokens)
+[fit] 24/25 prompts (128 tokens)
+[fit] 25/25 prompts (128 tokens)
+[fit] done: 25 prompts, 3100 source positions
+[fit] saved lenses/gemma-3-4b-pt_mixed.pt
+[spec] layer 1: s_max/s_median = 300.4
+[spec] layer 17: s_max/s_median = 130.2
+[spec] layer 31: s_max/s_median = 13.8
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (float32)
+
+[validate] finite-difference check (cosine below 0.3 means the Jacobian is wrong)
+  layer  1: cos +0.049 +/- 0.126   norm ratio 0.261   TOO NOISY
+  layer 11: cos +0.146 +/- 0.207   norm ratio 0.299   TOO NOISY
+  layer 22: cos +0.220 +/- 0.085   norm ratio 0.662   TOO NOISY
+  layer 31: cos +0.827 +/- 0.017   norm ratio 0.976   OK
+
+=== fitting jlens: gemma-3-4b-it on en ===
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (bfloat16)
+[fit] 30 texts available, using 25
+[fit] 1/25 prompts (128 tokens)
+[fit] 2/25 prompts (128 tokens)
+[fit] 3/25 prompts (128 tokens)
+[fit] 4/25 prompts (128 tokens)
+[fit] 5/25 prompts (128 tokens)
+[fit] 6/25 prompts (128 tokens)
+[fit] 7/25 prompts (128 tokens)
+[fit] 8/25 prompts (128 tokens)
+[fit] 9/25 prompts (128 tokens)
+[fit] 10/25 prompts (128 tokens)
+[fit] 11/25 prompts (126 tokens)
+[fit] 12/25 prompts (128 tokens)
+[fit] 13/25 prompts (128 tokens)
+[fit] 14/25 prompts (128 tokens)
+[fit] 15/25 prompts (128 tokens)
+[fit] 16/25 prompts (128 tokens)
+[fit] 17/25 prompts (123 tokens)
+[fit] 18/25 prompts (128 tokens)
+[fit] 19/25 prompts (128 tokens)
+[fit] 20/25 prompts (120 tokens)
+[fit] 21/25 prompts (128 tokens)
+[fit] 22/25 prompts (128 tokens)
+[fit] 23/25 prompts (128 tokens)
+[fit] 24/25 prompts (128 tokens)
+[fit] 25/25 prompts (128 tokens)
+[fit] done: 25 prompts, 3085 source positions
+[fit] saved lenses/gemma-3-4b-it_en.pt
+[spec] layer 1: s_max/s_median = 270.3
+[spec] layer 17: s_max/s_median = 98.0
+[spec] layer 31: s_max/s_median = 13.5
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (float32)
+
+[validate] finite-difference check (cosine below 0.3 means the Jacobian is wrong)
+  layer  1: cos -0.023 +/- 0.083   norm ratio 0.355   TOO NOISY
+  layer 11: cos +0.001 +/- 0.121   norm ratio 0.349   TOO NOISY
+  layer 22: cos +0.282 +/- 0.089   norm ratio 0.601   TOO NOISY
+  layer 31: cos +0.821 +/- 0.053   norm ratio 0.913   OK
+
+=== fitting jlens: gemma-3-4b-it on indic ===
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (bfloat16)
+[fit] 30 texts available, using 25
+[fit] 1/25 prompts (128 tokens)
+[fit] 2/25 prompts (128 tokens)
+[fit] 3/25 prompts (128 tokens)
+[fit] 4/25 prompts (128 tokens)
+[fit] 5/25 prompts (128 tokens)
+[fit] 6/25 prompts (128 tokens)
+[fit] 7/25 prompts (128 tokens)
+[fit] 8/25 prompts (128 tokens)
+[fit] 9/25 prompts (128 tokens)
+[fit] 10/25 prompts (128 tokens)
+[fit] 11/25 prompts (128 tokens)
+[fit] 12/25 prompts (128 tokens)
+[fit] 13/25 prompts (128 tokens)
+[fit] 14/25 prompts (128 tokens)
+[fit] 15/25 prompts (128 tokens)
+[fit] 16/25 prompts (128 tokens)
+[fit] 17/25 prompts (128 tokens)
+[fit] 18/25 prompts (128 tokens)
+[fit] 19/25 prompts (128 tokens)
+[fit] 20/25 prompts (128 tokens)
+[fit] 21/25 prompts (128 tokens)
+[fit] 22/25 prompts (128 tokens)
+[fit] 23/25 prompts (128 tokens)
+[fit] 24/25 prompts (128 tokens)
+[fit] 25/25 prompts (128 tokens)
+[fit] done: 25 prompts, 3100 source positions
+[fit] saved lenses/gemma-3-4b-it_indic.pt
+[spec] layer 1: s_max/s_median = 333.0
+[spec] layer 17: s_max/s_median = 152.4
+[spec] layer 31: s_max/s_median = 15.1
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (float32)
+
+[validate] finite-difference check (cosine below 0.3 means the Jacobian is wrong)
+  layer  1: cos +0.002 +/- 0.041   norm ratio 0.151   TOO NOISY
+  layer 11: cos +0.102 +/- 0.133   norm ratio 0.416   TOO NOISY
+  layer 22: cos +0.257 +/- 0.104   norm ratio 0.562   TOO NOISY
+  layer 31: cos +0.795 +/- 0.042   norm ratio 1.010   OK
+
+=== fitting jlens: gemma-3-4b-it on mixed ===
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (bfloat16)
+[fit] 30 texts available, using 25
+[fit] 1/25 prompts (128 tokens)
+[fit] 2/25 prompts (128 tokens)
+[fit] 3/25 prompts (128 tokens)
+[fit] 4/25 prompts (128 tokens)
+[fit] 5/25 prompts (128 tokens)
+[fit] 6/25 prompts (128 tokens)
+[fit] 7/25 prompts (128 tokens)
+[fit] 8/25 prompts (128 tokens)
+[fit] 9/25 prompts (128 tokens)
+[fit] 10/25 prompts (128 tokens)
+[fit] 11/25 prompts (128 tokens)
+[fit] 12/25 prompts (128 tokens)
+[fit] 13/25 prompts (128 tokens)
+[fit] 14/25 prompts (128 tokens)
+[fit] 15/25 prompts (128 tokens)
+[fit] 16/25 prompts (128 tokens)
+[fit] 17/25 prompts (128 tokens)
+[fit] 18/25 prompts (128 tokens)
+[fit] 19/25 prompts (128 tokens)
+[fit] 20/25 prompts (128 tokens)
+[fit] 21/25 prompts (128 tokens)
+[fit] 22/25 prompts (128 tokens)
+[fit] 23/25 prompts (128 tokens)
+[fit] 24/25 prompts (128 tokens)
+[fit] 25/25 prompts (128 tokens)
+[fit] done: 25 prompts, 3100 source positions
+[fit] saved lenses/gemma-3-4b-it_mixed.pt
+[spec] layer 1: s_max/s_median = 283.0
+[spec] layer 17: s_max/s_median = 142.1
+[spec] layer 31: s_max/s_median = 14.8
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (float32)
+
+[validate] finite-difference check (cosine below 0.3 means the Jacobian is wrong)
+  layer  1: cos +0.036 +/- 0.153   norm ratio 0.323   TOO NOISY
+  layer 11: cos +0.145 +/- 0.183   norm ratio 0.356   TOO NOISY
+  layer 22: cos +0.305 +/- 0.202   norm ratio 0.531   OK
+  layer 31: cos +0.784 +/- 0.048   norm ratio 0.949   OK
+
+=== fitting jlens: gemma-3-12b-pt on en ===
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (bfloat16)
+[fit] 30 texts available, using 25
+[fit] 1/25 prompts (128 tokens)
+[fit] 2/25 prompts (128 tokens)
+[fit] 3/25 prompts (128 tokens)
+[fit] 4/25 prompts (128 tokens)
+[fit] 5/25 prompts (128 tokens)
+[fit] 6/25 prompts (128 tokens)
+[fit] 7/25 prompts (128 tokens)
+[fit] 8/25 prompts (128 tokens)
+[fit] 9/25 prompts (128 tokens)
+[fit] 10/25 prompts (128 tokens)
+[fit] 11/25 prompts (126 tokens)
+[fit] 12/25 prompts (128 tokens)
+[fit] 13/25 prompts (128 tokens)
+[fit] 14/25 prompts (128 tokens)
+[fit] 15/25 prompts (128 tokens)
+[fit] 16/25 prompts (128 tokens)
+[fit] 17/25 prompts (123 tokens)
+[fit] 18/25 prompts (128 tokens)
+[fit] 19/25 prompts (128 tokens)
+[fit] 20/25 prompts (120 tokens)
+[fit] 21/25 prompts (128 tokens)
+[fit] 22/25 prompts (128 tokens)
+[fit] 23/25 prompts (128 tokens)
+[fit] 24/25 prompts (128 tokens)
+[fit] 25/25 prompts (128 tokens)
+[fit] done: 25 prompts, 3085 source positions
+[fit] saved lenses/gemma-3-12b-pt_en.pt
+[spec] layer 1: s_max/s_median = 447.0
+[spec] layer 24: s_max/s_median = 176.9
+[spec] layer 45: s_max/s_median = 37.8
+[model] Gemma3ForConditionalGeneration failed: OutOfMemoryError
+[model] AutoModelForImageTextToText failed: OutOfMemoryError
+[model] AutoModelForCausalLM failed: OutOfMemoryError

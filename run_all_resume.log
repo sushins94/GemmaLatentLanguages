@@ -1,0 +1,55 @@
+=== lens coverage ===
+MODEL              DTYPE      LENSES
+gemma-3-4b-pt      float32    logit jlens_en jlens_indic jlens_mixed
+gemma-3-4b-it      float32    logit jlens_en jlens_indic jlens_mixed
+gemma-3-12b-pt     bfloat16   logit jlens_en
+gemma-3-12b-it     bfloat16   logit
+
+word lists: romanlens placeholder
+prompt sets per list: 18
+
+
+=== romanlens / gemma-3-4b-pt (float32)  lenses: logit jlens_en=lenses/gemma-3-4b-pt_en.pt jlens_indic=lenses/gemma-3-4b-pt_indic.pt jlens_mixed=lenses/gemma-3-4b-pt_mixed.pt ===
+[lens] ['logit', 'jlens_en', 'jlens_indic', 'jlens_mixed']
+[model] Gemma3ForConditionalGeneration -> Gemma3ForConditionalGeneration on cuda (float32)
+[model] class            Gemma3ForConditionalGeneration
+[model] backbone_path    model.language_model
+[model] n_layers         34
+[model] d_model          2560
+[model] vocab_head       262208
+[model] vocab_tokenizer  262145
+[model] softcap          None
+[model] tied             True
+[vocab] indexing (once per model) ...
+
+[run] outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot
+[vocab] 84/1494 items collide (excluded)
+[run] 0/1494  translation_fr_hi_native_cloud
+[run] 50/1494  translation_fr_hi_native_ten
+[run] 100/1494  translation_fr_hi_native_tail
+[run] 150/1494  translation_en_hi_native_ball
+[run] 200/1494  translation_en_hi_native_school
+[run] 250/1494  translation_fr_hi_roman_bag
+[run] 300/1494  translation_fr_hi_roman_head
+[run] 350/1494  translation_fr_hi_roman_mother
+[run] 400/1494  translation_en_hi_roman_painting
+[run] 450/1494  translation_en_hi_roman_structure
+[run] 500/1494  translation_fr_ta_native_mouth
+[run] 550/1494  translation_fr_ta_native_street
+[run] 600/1494  translation_fr_ta_native_east
+[run] 650/1494  translation_en_ta_native_station
+[run] 700/1494  translation_en_ta_native_tie
+[run] 750/1494  translation_fr_ta_roman_soil
+[run] 800/1494  translation_fr_ta_roman_part
+[run] 850/1494  translation_fr_ta_roman_return
+[run] 900/1494  translation_en_ta_roman_rice
+[run] 950/1494  translation_en_ta_roman_example
+[run] 1000/1494  translation_fr_ml_native_mountain
+[run] 1050/1494  translation_fr_ml_native_eye
+[run] 1100/1494  translation_fr_ml_native_speech
+[run] 1150/1494  translation_en_ml_native_red
+[run] 1200/1494  translation_en_ml_native_face
+[run] 1250/1494  translation_fr_ml_roman_heart
+[run] 1300/1494  translation_fr_ml_roman_field
+[run] 1350/1494  translation_fr_ml_roman_child
+[run] 1400/1494  translation_en_ml_roman_line

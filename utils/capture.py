@@ -76,7 +76,7 @@ def normalise(s):
     return s.strip().strip('"\u201c\u201d\u2018\u2019\'.,;:!?()[]').casefold()
 
 
-def first_token_correct(probs_last_layer, want, tokenizer):
+def first_token_correct(top1_id, want, tokenizer):
     """Does the top token equal the first token of the answer?
 
     This is the metric that matches the curves: P(lang) sums over tokens that
@@ -86,31 +86,38 @@ def first_token_correct(probs_last_layer, want, tokenizer):
     if not want:
         return None
     ids = tokenizer.encode(" " + want, add_special_tokens=False)
-    return int(probs_last_layer.argmax()) == ids[0] if ids else None
+    return top1_id == ids[0] if ids else None
 
 
-def _rank_matrix(probs):
-    """rank[l, t] = position of token t in layer l's ordering, 0 = top."""
-    order = probs.argsort(dim=-1, descending=True)
-    pos = torch.empty_like(order)
-    pos.scatter_(1, order, torch.arange(probs.shape[1]).expand_as(order).clone())
-    return pos
+def best_rank(probs, ids):
+    """Best (lowest) rank among `ids`, per layer. 0 = top of the distribution.
+
+    A rank is just how many tokens beat this one, so it needs a comparison and
+    a sum -- not a sort. Full-sorting the 262k-wide distribution per layer per
+    lens (the earlier implementation) was the single largest cost in capture.
+
+    The minimum rank over a set is the rank of the set's most probable member,
+    so one comparison against that maximum suffices.
+    """
+    pmax = probs[:, ids].max(-1, keepdim=True).values
+    return (probs > pmax).sum(-1)
 
 
 def score(probs, token_sets, rid, curves, ranks, script_ids=None):
     """P(label) and rank per layer, plus whole-script mass.
 
-    Script mass needs no answer key, so it is defined for gibberish and for
-    verse continuation, and it is the only transition measure comparable across
-    every prompt class.
+    `probs` stays on the GPU; only the small per-layer results come back.
+    Script mass needs no answer key, so it is defined for gibberish too, and it
+    is the only transition measure comparable across every prompt class.
     """
-    pos = _rank_matrix(probs)
+    dev = probs.device
     for label, ids in token_sets.items():
-        t = torch.tensor(ids)
-        curves[f"{rid}::{label}"] = probs[:, t].sum(-1).numpy()
-        ranks[f"{rid}::{label}"] = pos[:, t].min(-1).values.numpy()
+        t = torch.as_tensor(ids, device=dev)
+        curves[f"{rid}::{label}"] = probs[:, t].sum(-1).cpu().numpy()
+        ranks[f"{rid}::{label}"] = best_rank(probs, t).cpu().numpy()
     for scr, ids in (script_ids or {}).items():
-        curves[f"{rid}::script_{scr}"] = probs[:, ids].sum(-1).numpy()
+        t = ids.to(dev)
+        curves[f"{rid}::script_{scr}"] = probs[:, t].sum(-1).cpu().numpy()
 
 
 class Session:
@@ -205,11 +212,11 @@ def capture_set(session, prompts_path, out_dir=None, lenses=None, chat=False,
         resid[i] = h.cpu().numpy()
 
         for ln in lenses:
-            probs = lens_probs(h, ln, backbone, W, cap,
-                               device=session.device).cpu()
+            probs = lens_probs(h, ln, backbone, W, cap, device=session.device)
             if isinstance(ln, IdentityLens):
-                entropy[i] = -(probs * torch.log(probs + 1e-30)).sum(-1).numpy()
-                probs_logit = probs
+                entropy[i] = (-(probs * torch.log(probs + 1e-30)).sum(-1)
+                              .cpu().numpy())
+                top1 = int(probs[-1].argmax())
             c, k = per_lens[ln.name]
             score(probs, token_sets[r["id"]], r["id"], c, k,
                   session.script_ids)
@@ -223,8 +230,7 @@ def capture_set(session, prompts_path, out_dir=None, lenses=None, chat=False,
         nw, no = normalise(want), normalise(first_answer(out))
         r["correct"] = bool(want) and (nw in no)
         r["correct_exact"] = bool(want) and no.split()[:1] == [nw]
-        r["correct_first_token"] = first_token_correct(probs_logit[-1], want,
-                                                       tokenizer)
+        r["correct_first_token"] = first_token_correct(top1, want, tokenizer)
         completions.append({"id": r["id"], "completion": out,
                             "answer_span": first_answer(out),
                             "expected": want, "correct": r["correct"],

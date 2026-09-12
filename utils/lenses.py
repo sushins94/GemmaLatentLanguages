@@ -84,16 +84,29 @@ class JacobianLens(Lens):
         self._meta = meta or {}
         self.lam = lam
         self.name = name or self._meta.get("kind", "jlens")
+        self._dev_cache = None           # (device, stacked [L, d, d] tensor)
+
+    def _stacked(self, device):
+        """J for all layers as one [L, d, d] tensor, cached on the device.
+
+        Without the cache this moved ~890 MB from host to device on EVERY
+        layer of EVERY prompt, which dominated runtime by a wide margin.
+        Shrinkage is folded in once here rather than per call.
+        """
+        if self._dev_cache is not None and self._dev_cache[0] == str(device):
+            return self._dev_cache[1]
+        layers = sorted(self.J)
+        M = torch.stack([self.J[l] for l in layers]).to(device)
+        if self.lam:
+            M = M + self.lam * torch.eye(M.shape[-1], device=device,
+                                         dtype=M.dtype)
+        self._dev_cache = (str(device), M)
+        return M
 
     def transport(self, h, device="cuda"):
-        out = []
-        for l in range(h.shape[0]):
-            M = self.J[l].to(device)
-            if self.lam:
-                M = M + self.lam * torch.eye(M.shape[0], device=device,
-                                             dtype=M.dtype)
-            out.append(h[l] @ M.T)
-        return torch.stack(out)
+        # bmm over layers in one call instead of a Python loop
+        M = self._stacked(device)
+        return torch.bmm(h.unsqueeze(1), M.transpose(1, 2)).squeeze(1)
 
     @property
     def meta(self):
@@ -266,6 +279,17 @@ def finite_difference_check(model, lens, tokenizer, layer, eps=1e-2,
     corpus average of a nonlinear function -- so read COSINE, not error. Below
     ~0.3 means something is wrong, not merely noisy.
 
+    EXPECT COSINE TO RISE WITH DEPTH. J is fitted by backpropagating from the
+    target layer down, so error accumulates over distance and early layers are
+    genuinely less faithful -- this is the documented weakness of J-lens and
+    the reason R-lens exists, not a bug. A typical 34-layer fit might read
+    0.02 at layer 1, 0.4 mid-stack and 0.85 one layer below the target.
+
+    The hard check is `identity_check` below: at the target layer J must BE the
+    identity. If that fails, the implementation is wrong. A low cosine at layer
+    1 on its own tells you only that the corpus average is a poor description
+    of any single prompt there.
+
     This validates a J-lens. It does NOT validate an R-lens: LRP deliberately
     departs from the true derivative, so a low cosine there is expected.
     """
@@ -315,3 +339,22 @@ def finite_difference_check(model, lens, tokenizer, layer, eps=1e-2,
     return {"layer": layer, "cosine": float(np.mean(cos)),
             "cosine_sd": float(np.std(cos)),
             "norm_ratio": float(np.mean(ratio))}
+
+
+def identity_check(lens):
+    """At the target layer, J must be the identity: h_target maps to itself.
+
+    This is the one pass/fail test of the fitting code. Unlike the
+    finite-difference cosine, it does not depend on the corpus, the model or
+    the layer -- it is true by construction, so a failure means the
+    accumulation, the target index or the cotangent construction is wrong.
+    """
+    target = lens._meta.get("target_layer")
+    if target is None or target not in lens.J:
+        return None
+    J = lens.J[target].float()
+    I = torch.eye(J.shape[0])
+    err = (J - I).abs().max().item()
+    rel = (J - I).norm().item() / I.norm().item()
+    return {"layer": target, "max_abs_dev": err, "rel_frobenius": rel,
+            "pass": rel < 0.05}
