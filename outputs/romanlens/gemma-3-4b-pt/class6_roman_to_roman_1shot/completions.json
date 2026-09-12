@@ -1,0 +1,3566 @@
+[
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_book",
+    "completion": "pudakkai\"\n",
+    "answer_span": "pudakkai",
+    "expected": "puththagam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_cloud",
+    "completion": "pazham\"\nHindi",
+    "answer_span": "pazham",
+    "expected": "maegam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_bag",
+    "completion": "pattanam\"\nHindi",
+    "answer_span": "pattanam",
+    "expected": "paii",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_mouth",
+    "completion": "mun\"\nHindi: \"",
+    "answer_span": "mun",
+    "expected": "vaai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_soil",
+    "completion": "mitty\"\nHindi:",
+    "answer_span": "mitty",
+    "expected": "mann",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_mountain",
+    "completion": "pattinam\"\nHindi",
+    "answer_span": "pattinam",
+    "expected": "malai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_cloth",
+    "completion": "kavadam\"\nHindi",
+    "answer_span": "kavadam",
+    "expected": "thuni",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_heart",
+    "completion": "kudhirai\"\n",
+    "answer_span": "kudhirai",
+    "expected": "idhayam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_hand",
+    "completion": "kalam\"\nHindi:",
+    "answer_span": "kalam",
+    "expected": "kaii",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_day",
+    "completion": "dinnu\"\nHindi",
+    "answer_span": "dinnu",
+    "expected": "naall",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_star",
+    "completion": "thiruvizha\"",
+    "answer_span": "thiruvizha",
+    "expected": "natchatthiram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_spring",
+    "completion": "pazham\"\nHindi",
+    "answer_span": "pazham",
+    "expected": "ilavaenil",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_moon",
+    "completion": "chandra\"\nHindi:",
+    "answer_span": "chandra",
+    "expected": "nilaa",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_wood",
+    "completion": "pottu\"\nHindi",
+    "answer_span": "pottu",
+    "expected": "maram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_village",
+    "completion": "kudimaram\"\n",
+    "answer_span": "kudimaram",
+    "expected": "gramam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_forest",
+    "completion": "kudimaramathu\"",
+    "answer_span": "kudimaramathu",
+    "expected": "kaadu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_fruit",
+    "completion": "pazham\"\nHindi",
+    "answer_span": "pazham",
+    "expected": "pazham",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_grid",
+    "completion": "pazham\"\nHindi",
+    "answer_span": "pazham",
+    "expected": "sattagam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_song",
+    "completion": "naattukku\"\n",
+    "answer_span": "naattukku",
+    "expected": "paadal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_water",
+    "completion": "pazham\"\nHindi",
+    "answer_span": "pazham",
+    "expected": "neer",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_pond",
+    "completion": "thalam\"\nHindi:",
+    "answer_span": "thalam",
+    "expected": "kulam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_sand",
+    "completion": "raithu\"\nHindi",
+    "answer_span": "raithu",
+    "expected": "manal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_river",
+    "completion": "nadi\"\nHindi:",
+    "answer_span": "nadi",
+    "expected": "aaru",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_law",
+    "completion": "kannu\"\nHindi",
+    "answer_span": "kannu",
+    "expected": "sattam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_wave",
+    "completion": "pothu\"\nHindi",
+    "answer_span": "pothu",
+    "expected": "alai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_ocean",
+    "completion": "mahanadhi\"\nHindi",
+    "answer_span": "mahanadhi",
+    "expected": "kadal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_cave",
+    "completion": "kudimaram\"\n",
+    "answer_span": "kudimaram",
+    "expected": "kugai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_sea",
+    "completion": "samudram\"\nHindi",
+    "answer_span": "samudram",
+    "expected": "kadal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_lake",
+    "completion": "thalam\"\nHindi:",
+    "answer_span": "thalam",
+    "expected": "aeri",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_source",
+    "completion": "srottham\"\nHindi",
+    "answer_span": "srottham",
+    "expected": "moolam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_fire",
+    "completion": "kuzhambu\"\n",
+    "answer_span": "kuzhambu",
+    "expected": "neruppu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_point",
+    "completion": "pudhu\"\nHindi",
+    "answer_span": "pudhu",
+    "expected": "pulli",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_version",
+    "completion": "sankalpam\"\n",
+    "answer_span": "sankalpam",
+    "expected": "pathippu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_ball",
+    "completion": "kandaththiruk",
+    "answer_span": "kandaththiruk",
+    "expected": "pandhu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_painting",
+    "completion": "chiththirakkar",
+    "answer_span": "chiththirakkar",
+    "expected": "ooviyam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_station",
+    "completion": "thottam\"\nHindi:",
+    "answer_span": "thottam",
+    "expected": "nilaiyam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_rice",
+    "completion": "chavalai\"\nHindi",
+    "answer_span": "chavalai",
+    "expected": "arisi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_red",
+    "completion": "puli\"\nHindi:",
+    "answer_span": "puli",
+    "expected": "sivappu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_line",
+    "completion": "pattinam\"\nHindi",
+    "answer_span": "pattinam",
+    "expected": "koadu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_net",
+    "completion": "pazham\"\nHindi",
+    "answer_span": "pazham",
+    "expected": "valai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_flower",
+    "completion": "pookal\"\nHindi",
+    "answer_span": "pookal",
+    "expected": "puu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_tea",
+    "completion": "chaya\"\nHindi:",
+    "answer_span": "chaya",
+    "expected": "theneer",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_foot",
+    "completion": "padi\"\nHindi:",
+    "answer_span": "padi",
+    "expected": "kaall",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_gold",
+    "completion": "sona\"\nHindi:",
+    "answer_span": "sona",
+    "expected": "thangam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_door",
+    "completion": "thiruvizha\"",
+    "answer_span": "thiruvizha",
+    "expected": "kadhavu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_snow",
+    "completion": "pudhu\"\nHindi",
+    "answer_span": "pudhu",
+    "expected": "panii",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_horse",
+    "completion": "kattum\"\nHindi",
+    "answer_span": "kattum",
+    "expected": "kudhirai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_one",
+    "completion": "aaka\"\nHindi:",
+    "answer_span": "aaka",
+    "expected": "ondru",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_two",
+    "completion": "dhu\"\nHindi:",
+    "answer_span": "dhu",
+    "expected": "irandu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_three",
+    "completion": "thiruvizha\"",
+    "answer_span": "thiruvizha",
+    "expected": "moontru",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_four",
+    "completion": "chaththiram\"\n",
+    "answer_span": "chaththiram",
+    "expected": "naanku",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_five",
+    "completion": "pattanam\"\nHindi",
+    "answer_span": "pattanam",
+    "expected": "ainthu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_six",
+    "completion": "chah\"\nHindi:",
+    "answer_span": "chah",
+    "expected": "aaru",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_seven",
+    "completion": "sathai\"\nHindi",
+    "answer_span": "sathai",
+    "expected": "aezhu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_eight",
+    "completion": "aathth\"\nHindi",
+    "answer_span": "aathth",
+    "expected": "ettu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_nine",
+    "completion": "nāvu\"\nHindi",
+    "answer_span": "nāvu",
+    "expected": "onbathu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_ten",
+    "completion": "duss\"\nHindi:",
+    "answer_span": "duss",
+    "expected": "paththu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_head",
+    "completion": "sir\"\nHindi: \"",
+    "answer_span": "sir",
+    "expected": "thalai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_shop",
+    "completion": "thogai\"\nHindi",
+    "answer_span": "thogai",
+    "expected": "kadai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_strip",
+    "completion": "pattum\"\nHindi",
+    "answer_span": "pattum",
+    "expected": "pattai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_street",
+    "completion": "thalam\"\nHindi:",
+    "answer_span": "thalam",
+    "expected": "theru",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_part",
+    "completion": "pattanam\"\nHindi",
+    "answer_span": "pattanam",
+    "expected": "pakuthi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_eye",
+    "completion": "kann\"\nHindi:",
+    "answer_span": "kann",
+    "expected": "kann",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_field",
+    "completion": "kudimaram\"\n",
+    "answer_span": "kudimaram",
+    "expected": "vayal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_site",
+    "completion": "thalam\"\nHindi:",
+    "answer_span": "thalam",
+    "expected": "idam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_dance",
+    "completion": "nattuvangam\"",
+    "answer_span": "nattuvangam",
+    "expected": "nadanam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_word",
+    "completion": "pattukal\"\n",
+    "answer_span": "pattukal",
+    "expected": "soll",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_pair",
+    "completion": "puththagam\"\n",
+    "answer_span": "puththagam",
+    "expected": "jody",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_seat",
+    "completion": "aasan\"\nHindi:",
+    "answer_span": "aasan",
+    "expected": "irukkai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_light",
+    "completion": "poththum\"\n",
+    "answer_span": "poththum",
+    "expected": "olii",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_thousand",
+    "completion": "thiruvizha\"",
+    "answer_span": "thiruvizha",
+    "expected": "aayiram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_north",
+    "completion": "uththir\"\nHindi",
+    "answer_span": "uththir",
+    "expected": "vadakku",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_machine",
+    "completion": "yantra\"\nHindi:",
+    "answer_span": "yantra",
+    "expected": "iyanththiram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_time",
+    "completion": "samayam\"\nHindi:",
+    "answer_span": "samayam",
+    "expected": "neram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_benefit",
+    "completion": "pudhu\"\nHindi",
+    "answer_span": "pudhu",
+    "expected": "nanmai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_position",
+    "completion": "thiruvizha\"",
+    "answer_span": "thiruvizha",
+    "expected": "nilai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_province",
+    "completion": "pattinam\"\nHindi",
+    "answer_span": "pattinam",
+    "expected": "maagaanam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_exchange",
+    "completion": "adalam\"\nHindi:",
+    "answer_span": "adalam",
+    "expected": "parimaattram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_middle",
+    "completion": "madhayam\"\nHindi",
+    "answer_span": "madhayam",
+    "expected": "nadu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_friend",
+    "completion": "muthal\"\nHindi",
+    "answer_span": "muthal",
+    "expected": "nanban",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_color",
+    "completion": "pudhu\"\nHindi",
+    "answer_span": "pudhu",
+    "expected": "niram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_kind",
+    "completion": "dayalu\"\nHindi:",
+    "answer_span": "dayalu",
+    "expected": "anbu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_judge",
+    "completion": "nāyaka\"\n",
+    "answer_span": "nāyaka",
+    "expected": "neethipathi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_school",
+    "completion": "vidyalayam\"\nHindi",
+    "answer_span": "vidyalayam",
+    "expected": "palli",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_structure",
+    "completion": "thiruvizha\"",
+    "answer_span": "thiruvizha",
+    "expected": "kattamaippu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_tie",
+    "completion": "kann\"\nHindi:",
+    "answer_span": "kann",
+    "expected": "thodai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_example",
+    "completion": "udayaram\"\nHindi",
+    "answer_span": "udayaram",
+    "expected": "eduththukkaattu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_face",
+    "completion": "muthu\"\nHindi",
+    "answer_span": "muthu",
+    "expected": "mugam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_bridge",
+    "completion": "puththagam\"\n",
+    "answer_span": "puththagam",
+    "expected": "paalam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_item",
+    "completion": "pudhu\"\nHindi",
+    "answer_span": "pudhu",
+    "expected": "porul",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_delete",
+    "completion": "mitthanam\"\nHindi",
+    "answer_span": "mitthanam",
+    "expected": "azhikka",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_group",
+    "completion": "samayam\"\nHindi:",
+    "answer_span": "samayam",
+    "expected": "kuzhu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_talent",
+    "completion": "pattukkal\"\n",
+    "answer_span": "pattukkal",
+    "expected": "thiramai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_beauty",
+    "completion": "sundari\"\nHindi",
+    "answer_span": "sundari",
+    "expected": "azhagu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_platform",
+    "completion": "munch\"\nHindi:",
+    "answer_span": "munch",
+    "expected": "thalam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_house",
+    "completion": "kudiyiruppu",
+    "answer_span": "kudiyiruppu",
+    "expected": "veedu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_sun",
+    "completion": "suriyan\"\nHindi:",
+    "answer_span": "suriyan",
+    "expected": "suuriyan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_meeting",
+    "completion": "puththagam\"\n",
+    "answer_span": "puththagam",
+    "expected": "koottam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_history",
+    "completion": "ithihasam\"\nHindi",
+    "answer_span": "ithihasam",
+    "expected": "varalaaru",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_valley",
+    "completion": "kattalai\"\nHindi",
+    "answer_span": "kattalai",
+    "expected": "pallaththaakku",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_square",
+    "completion": "varthagam\"\nHindi",
+    "answer_span": "varthagam",
+    "expected": "sathuram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_generation",
+    "completion": "pudhu\"\nHindi",
+    "answer_span": "pudhu",
+    "expected": "thalaimurai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_south",
+    "completion": "thiruvizha\"",
+    "answer_span": "thiruvizha",
+    "expected": "therku",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_virtue",
+    "completion": "kavithai\"\n",
+    "answer_span": "kavithai",
+    "expected": "narpanpu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_tribe",
+    "completion": "janangam\"\nHindi",
+    "answer_span": "janangam",
+    "expected": "koottam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_city",
+    "completion": "saththam\"\nHindi",
+    "answer_span": "saththam",
+    "expected": "nagaram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_language",
+    "completion": "pattuppāṭṭ",
+    "answer_span": "pattuppāṭṭ",
+    "expected": "mozhi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_speed",
+    "completion": "kattuthu\"\n",
+    "answer_span": "kattuthu",
+    "expected": "vaegam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_ground",
+    "completion": "pudhu\"\nHindi",
+    "answer_span": "pudhu",
+    "expected": "tharai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_advance",
+    "completion": "aagum\"\nHindi",
+    "answer_span": "aagum",
+    "expected": "munnaettram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_attempt",
+    "completion": "pattiyum\"\n",
+    "answer_span": "pattiyum",
+    "expected": "muyarchi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_defeat",
+    "completion": "kavithai\"\n",
+    "answer_span": "kavithai",
+    "expected": "tholvi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_tail",
+    "completion": "puththagam\"\n",
+    "answer_span": "puththagam",
+    "expected": "wall",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_mother",
+    "completion": "manam\"\nHindi:",
+    "answer_span": "manam",
+    "expected": "thaai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_east",
+    "completion": "porul\"\nHindi:",
+    "answer_span": "porul",
+    "expected": "kilakku",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_return",
+    "completion": "vaapasi\"\nHindi",
+    "answer_span": "vaapasi",
+    "expected": "thirumbu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_speech",
+    "completion": "pattukal\"\n",
+    "answer_span": "pattukal",
+    "expected": "urai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_child",
+    "completion": "pudhu\"\nHindi",
+    "answer_span": "pudhu",
+    "expected": "kuzhandhai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_tower",
+    "completion": "pothu\"\nHindi",
+    "answer_span": "pothu",
+    "expected": "koopuram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_hair",
+    "completion": "pudhu\"\nHindi",
+    "answer_span": "pudhu",
+    "expected": "mudi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_household",
+    "completion": "parivar\"\nHindi:",
+    "answer_span": "parivar",
+    "expected": "veedu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_person",
+    "completion": "pudhu\"\nHindi",
+    "answer_span": "pudhu",
+    "expected": "nabar",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_section",
+    "completion": "anubhaagam\"\n",
+    "answer_span": "anubhaagam",
+    "expected": "pirivu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_official",
+    "completion": "aadhikaarikkam",
+    "answer_span": "aadhikaarikkam",
+    "expected": "athikaarappoorva",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_hundred",
+    "completion": "suththiram\"\n",
+    "answer_span": "suththiram",
+    "expected": "nooru",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_office",
+    "completion": "karuvalai\"\n",
+    "answer_span": "karuvalai",
+    "expected": "aluvalagam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_rock",
+    "completion": "pattanam\"\nHindi",
+    "answer_span": "pattanam",
+    "expected": "paarai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_rise",
+    "completion": "uththagam\"\nHindi",
+    "answer_span": "uththagam",
+    "expected": "uyara",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_left",
+    "completion": "puththagam\"\n",
+    "answer_span": "puththagam",
+    "expected": "idathu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_sound",
+    "completion": "thunai\"\nHindi",
+    "answer_span": "thunai",
+    "expected": "olii",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_power",
+    "completion": "thirumagal\"\n",
+    "answer_span": "thirumagal",
+    "expected": "valimai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_summer",
+    "completion": "kudhirai\"\n",
+    "answer_span": "kudhirai",
+    "expected": "koadai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_book",
+    "completion": "puththagam\"\n",
+    "answer_span": "puththagam",
+    "expected": "pusthakam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_cloud",
+    "completion": "maagam\"\nTamil:",
+    "answer_span": "maagam",
+    "expected": "megham",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_bag",
+    "completion": "padi\"\nTamil:",
+    "answer_span": "padi",
+    "expected": "sanchi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_mouth",
+    "completion": "vaayi\"\nTamil:",
+    "answer_span": "vaayi",
+    "expected": "vaaya",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_soil",
+    "completion": "manam\"\nTamil:",
+    "answer_span": "manam",
+    "expected": "mannu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_mountain",
+    "completion": "malai\"\nTamil:",
+    "answer_span": "malai",
+    "expected": "kodumudi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_cloth",
+    "completion": "thunni\"\nTamil",
+    "answer_span": "thunni",
+    "expected": "thuni",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_heart",
+    "completion": "idham\"\nTamil:",
+    "answer_span": "idham",
+    "expected": "hridayam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_hand",
+    "completion": "kai\"\nTamil: \"",
+    "answer_span": "kai",
+    "expected": "kaii",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_day",
+    "completion": "nallu\"\nTamil",
+    "answer_span": "nallu",
+    "expected": "dinam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_star",
+    "completion": "natchathiram\"\n",
+    "answer_span": "natchathiram",
+    "expected": "nakshatram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_spring",
+    "completion": "ilavanil\"\nTamil",
+    "answer_span": "ilavanil",
+    "expected": "vasantham",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_moon",
+    "completion": "nila\"\nTamil:",
+    "answer_span": "nila",
+    "expected": "chandran",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_wood",
+    "completion": "maram\"\nTamil:",
+    "answer_span": "maram",
+    "expected": "maram",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_village",
+    "completion": "gramam\"\nTamil:",
+    "answer_span": "gramam",
+    "expected": "graamam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_forest",
+    "completion": "kadu\"\nTamil:",
+    "answer_span": "kadu",
+    "expected": "kaadu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_fruit",
+    "completion": "pazham\"\nTamil",
+    "answer_span": "pazham",
+    "expected": "pazham",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_grid",
+    "completion": "sattakam\"\nTamil",
+    "answer_span": "sattakam",
+    "expected": "jaalakam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_song",
+    "completion": "padam\"\nTamil:",
+    "answer_span": "padam",
+    "expected": "gaanam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_water",
+    "completion": "neer\"\nTamil:",
+    "answer_span": "neer",
+    "expected": "jalam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_pond",
+    "completion": "kulam\"\nTamil:",
+    "answer_span": "kulam",
+    "expected": "kulam",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_sand",
+    "completion": "manal\"\nTamil:",
+    "answer_span": "manal",
+    "expected": "mannu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_river",
+    "completion": "aaru\"\nTamil:",
+    "answer_span": "aaru",
+    "expected": "nadhi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_law",
+    "completion": "sathyam\"\nTamil",
+    "answer_span": "sathyam",
+    "expected": "niyamam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_wave",
+    "completion": "alayam\"\nTamil:",
+    "answer_span": "alayam",
+    "expected": "tharamgam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_ocean",
+    "completion": "kadal\"\nTamil:",
+    "answer_span": "kadal",
+    "expected": "samudram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_cave",
+    "completion": "kudam\"\nTamil",
+    "answer_span": "kudam",
+    "expected": "guha",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_sea",
+    "completion": "kadal\"\nTamil:",
+    "answer_span": "kadal",
+    "expected": "kadal",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_lake",
+    "completion": "aari\"\nTamil:",
+    "answer_span": "aari",
+    "expected": "thadaakam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_source",
+    "completion": "moolam\"\nTamil",
+    "answer_span": "moolam",
+    "expected": "uravidam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_fire",
+    "completion": "neruppu\"\nTamil",
+    "answer_span": "neruppu",
+    "expected": "thee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_point",
+    "completion": "puliy\"\nTamil:",
+    "answer_span": "puliy",
+    "expected": "bindu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_version",
+    "completion": "pathippu\"\nTamil",
+    "answer_span": "pathippu",
+    "expected": "pathipp",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_ball",
+    "completion": "pandu\"\nTamil:",
+    "answer_span": "pandu",
+    "expected": "panthu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_painting",
+    "completion": "oviyam\"\nTamil:",
+    "answer_span": "oviyam",
+    "expected": "chithram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_station",
+    "completion": "nilayam\"\nTamil:",
+    "answer_span": "nilayam",
+    "expected": "steshan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_rice",
+    "completion": "arisi\"\nTamil:",
+    "answer_span": "arisi",
+    "expected": "arrie",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_red",
+    "completion": "sivappu\"\n",
+    "answer_span": "sivappu",
+    "expected": "chuvapp",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_line",
+    "completion": "koottu\"\nTamil",
+    "answer_span": "koottu",
+    "expected": "rekha",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_net",
+    "completion": "valayum\"\nTamil",
+    "answer_span": "valayum",
+    "expected": "vala",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_flower",
+    "completion": "pookkal\"\nTamil",
+    "answer_span": "pookkal",
+    "expected": "poovu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_tea",
+    "completion": "theen\"\nTamil:",
+    "answer_span": "theen",
+    "expected": "chaaya",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_foot",
+    "completion": "kallu\"\nTamil",
+    "answer_span": "kallu",
+    "expected": "call",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_gold",
+    "completion": "thangam\"\nTamil",
+    "answer_span": "thangam",
+    "expected": "svarnnam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_door",
+    "completion": "kadhavu\"\nTamil",
+    "answer_span": "kadhavu",
+    "expected": "vaathil",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_snow",
+    "completion": "pani\"\nTamil: \"",
+    "answer_span": "pani",
+    "expected": "manju",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_horse",
+    "completion": "kudhirai\"\n",
+    "answer_span": "kudhirai",
+    "expected": "kuthira",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_one",
+    "completion": "onnu\"\nTamil:",
+    "answer_span": "onnu",
+    "expected": "onnu",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_two",
+    "completion": "irandu\"\nTamil:",
+    "answer_span": "irandu",
+    "expected": "rund",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_three",
+    "completion": "moorthu\"\nTamil",
+    "answer_span": "moorthu",
+    "expected": "moonnu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_four",
+    "completion": "naan\"\nTamil:",
+    "answer_span": "naan",
+    "expected": "naalu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_five",
+    "completion": "ainthu\"\nTamil:",
+    "answer_span": "ainthu",
+    "expected": "anchu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_six",
+    "completion": "aaru\"\nTamil:",
+    "answer_span": "aaru",
+    "expected": "aarr",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_seven",
+    "completion": "aazhukal\"",
+    "answer_span": "aazhukal",
+    "expected": "ezhu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_eight",
+    "completion": "ettukal\"\nTamil",
+    "answer_span": "ettukal",
+    "expected": "ettu",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_nine",
+    "completion": "onbattu\"\nTamil",
+    "answer_span": "onbattu",
+    "expected": "ombathu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_ten",
+    "completion": "pathu\"\nTamil:",
+    "answer_span": "pathu",
+    "expected": "patthu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_head",
+    "completion": "thala\"\nTamil:",
+    "answer_span": "thala",
+    "expected": "thala",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_shop",
+    "completion": "kadai\"\nTamil:",
+    "answer_span": "kadai",
+    "expected": "kada",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_strip",
+    "completion": "pattai\"\nTamil:",
+    "answer_span": "pattai",
+    "expected": "patta",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_street",
+    "completion": "thiru\"\nTamil:",
+    "answer_span": "thiru",
+    "expected": "theruvu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_part",
+    "completion": "pakuthi\"\nTamil:",
+    "answer_span": "pakuthi",
+    "expected": "bhaagam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_eye",
+    "completion": "kannu\"\nTamil",
+    "answer_span": "kannu",
+    "expected": "kannu",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_field",
+    "completion": "vayal\"\nTamil:",
+    "answer_span": "vayal",
+    "expected": "maithanam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_site",
+    "completion": "idam\"\nTamil: \"",
+    "answer_span": "idam",
+    "expected": "sthalam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_dance",
+    "completion": "nadanam\"\nTamil:",
+    "answer_span": "nadanam",
+    "expected": "nritham",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_word",
+    "completion": "soll\"\nTamil:",
+    "answer_span": "soll",
+    "expected": "vaakk",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_pair",
+    "completion": "jodi\"\nTamil:",
+    "answer_span": "jodi",
+    "expected": "jodi",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_seat",
+    "completion": "irukkai\"\nTamil",
+    "answer_span": "irukkai",
+    "expected": "irippidam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_light",
+    "completion": "oli\"\nTamil: \"",
+    "answer_span": "oli",
+    "expected": "prakasham",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_thousand",
+    "completion": "ayiram\"\nTamil:",
+    "answer_span": "ayiram",
+    "expected": "aayiram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_north",
+    "completion": "vadakku\"\nTamil",
+    "answer_span": "vadakku",
+    "expected": "vadakk",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_machine",
+    "completion": "iyanththiram\"\n",
+    "answer_span": "iyanththiram",
+    "expected": "yanthram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_time",
+    "completion": "neram\"\nTamil:",
+    "answer_span": "neram",
+    "expected": "samayam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_benefit",
+    "completion": "nammal\"\nTamil",
+    "answer_span": "nammal",
+    "expected": "prayojanam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_position",
+    "completion": "nila\"\nTamil:",
+    "answer_span": "nila",
+    "expected": "sthaanam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_province",
+    "completion": "maaganam\"\nTamil",
+    "answer_span": "maaganam",
+    "expected": "pravishya",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_exchange",
+    "completion": "parimaattram\"\n",
+    "answer_span": "parimaattram",
+    "expected": "kaimaattam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_middle",
+    "completion": "nadu\"\nTamil:",
+    "answer_span": "nadu",
+    "expected": "maddhya",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_friend",
+    "completion": "nanban\"\nTamil:",
+    "answer_span": "nanban",
+    "expected": "suhruthu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_color",
+    "completion": "niram\"\nTamil:",
+    "answer_span": "niram",
+    "expected": "niram",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_kind",
+    "completion": "anbu\"\nTamil:",
+    "answer_span": "anbu",
+    "expected": "daya",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_judge",
+    "completion": "neethipathi\"\n",
+    "answer_span": "neethipathi",
+    "expected": "vichaarakan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_school",
+    "completion": "palli\"\nTamil:",
+    "answer_span": "palli",
+    "expected": "school",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_structure",
+    "completion": "kattumaippu\"",
+    "answer_span": "kattumaippu",
+    "expected": "ghadana",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_tie",
+    "completion": "thodai\"\nTamil",
+    "answer_span": "thodai",
+    "expected": "bandham",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_example",
+    "completion": "eduththukal\"",
+    "answer_span": "eduththukal",
+    "expected": "udaaharanam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_face",
+    "completion": "mukam\"\nTamil:",
+    "answer_span": "mukam",
+    "expected": "mukham",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_bridge",
+    "completion": "paalam\"\nTamil:",
+    "answer_span": "paalam",
+    "expected": "paalam",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_item",
+    "completion": "porul\"\nTamil:",
+    "answer_span": "porul",
+    "expected": "vasthu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_delete",
+    "completion": "azhikkal\"\n",
+    "answer_span": "azhikkal",
+    "expected": "illaathaakkuka",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_group",
+    "completion": "kuzhu\"\nTamil",
+    "answer_span": "kuzhu",
+    "expected": "samgham",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_talent",
+    "completion": "thirumai\"\n",
+    "answer_span": "thirumai",
+    "expected": "pratibha",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_beauty",
+    "completion": "azhagu\"\nTamil",
+    "answer_span": "azhagu",
+    "expected": "sandhryam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_platform",
+    "completion": "thalam\"\nTamil:",
+    "answer_span": "thalam",
+    "expected": "vedika",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_house",
+    "completion": "veedu\"\nTamil:",
+    "answer_span": "veedu",
+    "expected": "veedu",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_sun",
+    "completion": "suriyan\"\nTamil:",
+    "answer_span": "suriyan",
+    "expected": "suuryan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_meeting",
+    "completion": "koottam\"\nTamil",
+    "answer_span": "koottam",
+    "expected": "yogam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_history",
+    "completion": "varalaaru\"\nTamil",
+    "answer_span": "varalaaru",
+    "expected": "charithram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_valley",
+    "completion": "pusthakaakku",
+    "answer_span": "pusthakaakku",
+    "expected": "thazhvara",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_square",
+    "completion": "sathuram\"\nTamil",
+    "answer_span": "sathuram",
+    "expected": "chathuram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_generation",
+    "completion": "thalamurai\"\nTamil",
+    "answer_span": "thalamurai",
+    "expected": "thalamura",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_south",
+    "completion": "thirukkum\"\n",
+    "answer_span": "thirukkum",
+    "expected": "thekk",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_virtue",
+    "completion": "narpam\"\nTamil",
+    "answer_span": "narpam",
+    "expected": "gunam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_tribe",
+    "completion": "koottam\"\nTamil",
+    "answer_span": "koottam",
+    "expected": "gothram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_city",
+    "completion": "nagaram\"\nTamil:",
+    "answer_span": "nagaram",
+    "expected": "nagaram",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_language",
+    "completion": "moolam\"\nTamil",
+    "answer_span": "moolam",
+    "expected": "bhasha",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_speed",
+    "completion": "vaegam\"\nTamil",
+    "answer_span": "vaegam",
+    "expected": "vegatha",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_ground",
+    "completion": "thara\"\nTamil:",
+    "answer_span": "thara",
+    "expected": "thara",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_advance",
+    "completion": "munnatram\"\nTamil",
+    "answer_span": "munnatram",
+    "expected": "munnettam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_attempt",
+    "completion": "mutharam\"\nTamil",
+    "answer_span": "mutharam",
+    "expected": "shramam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_defeat",
+    "completion": "thulavi\"\nTamil",
+    "answer_span": "thulavi",
+    "expected": "parajayam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_tail",
+    "completion": "vall\"\nTamil: \"",
+    "answer_span": "vall",
+    "expected": "vaalu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_mother",
+    "completion": "thaayi\"\nTamil:",
+    "answer_span": "thaayi",
+    "expected": "amma",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_east",
+    "completion": "kilakku\"\nTamil",
+    "answer_span": "kilakku",
+    "expected": "kizhakk",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_return",
+    "completion": "thirambu\"\nTamil",
+    "answer_span": "thirambu",
+    "expected": "thirichuvaravu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_speech",
+    "completion": "uravu\"\nTamil:",
+    "answer_span": "uravu",
+    "expected": "prasangam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_child",
+    "completion": "kuzhandhai\"\n",
+    "answer_span": "kuzhandhai",
+    "expected": "kutty",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_tower",
+    "completion": "kooppam\"\nTamil",
+    "answer_span": "kooppam",
+    "expected": "gopuram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_hair",
+    "completion": "mudi\"\nTamil:",
+    "answer_span": "mudi",
+    "expected": "mudi",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_household",
+    "completion": "veedu\"\nTamil:",
+    "answer_span": "veedu",
+    "expected": "kudumbam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_person",
+    "completion": "nabar\"\nTamil:",
+    "answer_span": "nabar",
+    "expected": "vyakthi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_section",
+    "completion": "pirivu\"\nTamil:",
+    "answer_span": "pirivu",
+    "expected": "vibhaagam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_official",
+    "completion": "athikaraapoorva",
+    "answer_span": "athikaraapoorva",
+    "expected": "udyogapoorvvam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_hundred",
+    "completion": "nooru\"\nTamil:",
+    "answer_span": "nooru",
+    "expected": "nooru",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_office",
+    "completion": "aluvallagam\"\n",
+    "answer_span": "aluvallagam",
+    "expected": "oafees",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_rock",
+    "completion": "parai\"\nTamil:",
+    "answer_span": "parai",
+    "expected": "kallu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_rise",
+    "completion": "uyaram\"\nTamil:",
+    "answer_span": "uyaram",
+    "expected": "uyarcha",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_left",
+    "completion": "idath\"\nTamil:",
+    "answer_span": "idath",
+    "expected": "idathu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_sound",
+    "completion": "oli\"\nTamil: \"",
+    "answer_span": "oli",
+    "expected": "shabdam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_power",
+    "completion": "valimai\"\nTamil:",
+    "answer_span": "valimai",
+    "expected": "shakti",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_summer",
+    "completion": "koottu\"\nTamil",
+    "answer_span": "koottu",
+    "expected": "venal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_book",
+    "completion": "kitaab\"\nMalayalam",
+    "answer_span": "kitaab",
+    "expected": "pustak",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_cloud",
+    "completion": "megh\"\nMalayalam",
+    "answer_span": "megh",
+    "expected": "baadal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_bag",
+    "completion": "sanch\"\nMalayalam",
+    "answer_span": "sanch",
+    "expected": "bagg",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_mouth",
+    "completion": "vyaap\"\nMalay",
+    "answer_span": "vyaap",
+    "expected": "munh",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_soil",
+    "completion": "man\"\nMalayalam:",
+    "answer_span": "man",
+    "expected": "mitty",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_mountain",
+    "completion": "kadam\"\nMalayalam",
+    "answer_span": "kadam",
+    "expected": "parvat",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_cloth",
+    "completion": "thun\"\nMalayalam",
+    "answer_span": "thun",
+    "expected": "kapada",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_heart",
+    "completion": "hriday\"\nMalayalam",
+    "answer_span": "hriday",
+    "expected": "hriday",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_hand",
+    "completion": "kahi\"\nMalayalam",
+    "answer_span": "kahi",
+    "expected": "haath",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_day",
+    "completion": "din\"\nMalayalam:",
+    "answer_span": "din",
+    "expected": "dinn",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_star",
+    "completion": "nakshatra\"\nMalay",
+    "answer_span": "nakshatra",
+    "expected": "taaraa",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_spring",
+    "completion": "vasant\"\nMalayalam",
+    "answer_span": "vasant",
+    "expected": "basant",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_moon",
+    "completion": "chandra\"\nMalayalam",
+    "answer_span": "chandra",
+    "expected": "chandrama",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_wood",
+    "completion": "maram\"\nMalayalam",
+    "answer_span": "maram",
+    "expected": "lakadi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_village",
+    "completion": "gram\"\nMalayalam:",
+    "answer_span": "gram",
+    "expected": "gaanv",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_forest",
+    "completion": "van\"\nMalayalam:",
+    "answer_span": "van",
+    "expected": "jangal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_fruit",
+    "completion": "phalsa\"\nMalayalam",
+    "answer_span": "phalsa",
+    "expected": "phal",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_grid",
+    "completion": "jaal\"\nMalayalam",
+    "answer_span": "jaal",
+    "expected": "jaal",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_song",
+    "completion": "gaana\"\nMalayalam",
+    "answer_span": "gaana",
+    "expected": "gaanaa",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_water",
+    "completion": "jal\"\nMalayalam:",
+    "answer_span": "jal",
+    "expected": "paani",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_pond",
+    "completion": "kul\"\nMalayalam:",
+    "answer_span": "kul",
+    "expected": "talab",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_sand",
+    "completion": "man\"\nMalayalam:",
+    "answer_span": "man",
+    "expected": "rait",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_river",
+    "completion": "nadi\"\nMalayalam",
+    "answer_span": "nadi",
+    "expected": "nadee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_law",
+    "completion": "niyam\"\nMalayalam",
+    "answer_span": "niyam",
+    "expected": "kaanoon",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_wave",
+    "completion": "tharamgam\"\nMalay",
+    "answer_span": "tharamgam",
+    "expected": "lahar",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_ocean",
+    "completion": "samudra\"\nMalayalam",
+    "answer_span": "samudra",
+    "expected": "mahasagar",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_cave",
+    "completion": "gufa\"\nMalayalam",
+    "answer_span": "gufa",
+    "expected": "gufa",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_sea",
+    "completion": "samudra\"\nMalayalam",
+    "answer_span": "samudra",
+    "expected": "samudra",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_lake",
+    "completion": "thadaak\"\nMalay",
+    "answer_span": "thadaak",
+    "expected": "talab",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_source",
+    "completion": "urvidam\"\nMalay",
+    "answer_span": "urvidam",
+    "expected": "srot",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_fire",
+    "completion": "the\"\nMalayalam:",
+    "answer_span": "the",
+    "expected": "aag",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_point",
+    "completion": "bindu\"\nMalayalam",
+    "answer_span": "bindu",
+    "expected": "bindu",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_version",
+    "completion": "path\"\nMalayalam:",
+    "answer_span": "path",
+    "expected": "sanskaran",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_ball",
+    "completion": "panch\"\nMalayalam",
+    "answer_span": "panch",
+    "expected": "gend",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_painting",
+    "completion": "chitra\"\nMalayalam",
+    "answer_span": "chitra",
+    "expected": "chitrakaari",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_station",
+    "completion": "sthan\"\nMalayalam",
+    "answer_span": "sthan",
+    "expected": "station",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_rice",
+    "completion": "arvi\"\nMalayalam",
+    "answer_span": "arvi",
+    "expected": "chawal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_red",
+    "completion": "chupak\"\nMalay",
+    "answer_span": "chupak",
+    "expected": "laal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_line",
+    "completion": "rekha\"\nMalayalam",
+    "answer_span": "rekha",
+    "expected": "rekha",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_net",
+    "completion": "valli\"\nMalayalam",
+    "answer_span": "valli",
+    "expected": "jaal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_flower",
+    "completion": "phool\"\nMalayalam",
+    "answer_span": "phool",
+    "expected": "phool",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_tea",
+    "completion": "chaaya\"\nMalayalam",
+    "answer_span": "chaaya",
+    "expected": "chaay",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_foot",
+    "completion": "khol\"\nMalayalam",
+    "answer_span": "khol",
+    "expected": "pair",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_gold",
+    "completion": "svaran\"\nMalay",
+    "answer_span": "svaran",
+    "expected": "sonaa",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_door",
+    "completion": "path\"\nMalayalam:",
+    "answer_span": "path",
+    "expected": "darwaja",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_snow",
+    "completion": "manjhi\"\nMalay",
+    "answer_span": "manjhi",
+    "expected": "himm",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_horse",
+    "completion": "ghodi\"\nMalayalam",
+    "answer_span": "ghodi",
+    "expected": "ghodaa",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_one",
+    "completion": "ek\"\nMalayalam:",
+    "answer_span": "ek",
+    "expected": "aeka",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_two",
+    "completion": "randa\"\nMalayalam",
+    "answer_span": "randa",
+    "expected": "dou",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_three",
+    "completion": "moonh\"\nMalayalam",
+    "answer_span": "moonh",
+    "expected": "teen",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_four",
+    "completion": "nalki\"\nMalay",
+    "answer_span": "nalki",
+    "expected": "chaar",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_five",
+    "completion": "anchal\"\nMalayalam",
+    "answer_span": "anchal",
+    "expected": "paanch",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_six",
+    "completion": "aar\"\nMalayalam:",
+    "answer_span": "aar",
+    "expected": "chhah",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_seven",
+    "completion": "ek\"\nMalayalam:",
+    "answer_span": "ek",
+    "expected": "saat",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_eight",
+    "completion": "kutcha\"\nMalayalam",
+    "answer_span": "kutcha",
+    "expected": "aathh",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_nine",
+    "completion": "om\"\nMalayalam:",
+    "answer_span": "om",
+    "expected": "nau",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_ten",
+    "completion": "patra\"\nMalayalam",
+    "answer_span": "patra",
+    "expected": "duss",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_head",
+    "completion": "thala\"\nMalayalam",
+    "answer_span": "thala",
+    "expected": "sir",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_shop",
+    "completion": "kadam\"\nMalayalam",
+    "answer_span": "kadam",
+    "expected": "dukaan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_strip",
+    "completion": "patra\"\nMalayalam",
+    "answer_span": "patra",
+    "expected": "patti",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_street",
+    "completion": "gali\"\nMalayalam",
+    "answer_span": "gali",
+    "expected": "sadak",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_part",
+    "completion": "bhaag\"\nMalay",
+    "answer_span": "bhaag",
+    "expected": "hissa",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_eye",
+    "completion": "kanna\"\nMalayalam",
+    "answer_span": "kanna",
+    "expected": "aankh",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_field",
+    "completion": "maithan\"\nMalay",
+    "answer_span": "maithan",
+    "expected": "kshetra",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_site",
+    "completion": "sthal\"\nMalayalam",
+    "answer_span": "sthal",
+    "expected": "sthal",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_dance",
+    "completion": "nritam\"\nMalay",
+    "answer_span": "nritam",
+    "expected": "nritya",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_word",
+    "completion": "vak\"\nMalayalam:",
+    "answer_span": "vak",
+    "expected": "shabd",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_pair",
+    "completion": "jodi\"\nMalayalam",
+    "answer_span": "jodi",
+    "expected": "jodaa",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_seat",
+    "completion": "irada\"\nMalayalam",
+    "answer_span": "irada",
+    "expected": "aasan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_light",
+    "completion": "prakash\"\nMalayalam",
+    "answer_span": "prakash",
+    "expected": "prakaash",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_thousand",
+    "completion": "aayiram\"\nMalay",
+    "answer_span": "aayiram",
+    "expected": "hazaar",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_north",
+    "completion": "vadak\"\nMalayalam",
+    "answer_span": "vadak",
+    "expected": "uttar",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_machine",
+    "completion": "yantra\"\nMalayalam",
+    "answer_span": "yantra",
+    "expected": "yantra",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_time",
+    "completion": "samay\"\nMalayalam",
+    "answer_span": "samay",
+    "expected": "samay",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_benefit",
+    "completion": "prayog\"\nMalayalam",
+    "answer_span": "prayog",
+    "expected": "laabh",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_position",
+    "completion": "sthaan\"\nMalayalam",
+    "answer_span": "sthaan",
+    "expected": "sthiti",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_province",
+    "completion": "pustak\"\nMalay",
+    "answer_span": "pustak",
+    "expected": "praant",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_exchange",
+    "completion": "kimaat\"\nMalay",
+    "answer_span": "kimaat",
+    "expected": "adla",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_middle",
+    "completion": "madhyam\"\nMalay",
+    "answer_span": "madhyam",
+    "expected": "madhya",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_friend",
+    "completion": "sathiya\"\nMalay",
+    "answer_span": "sathiya",
+    "expected": "mitra",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_color",
+    "completion": "nirmal\"\nMalay",
+    "answer_span": "nirmal",
+    "expected": "rung",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_kind",
+    "completion": "daya\"\nMalayalam",
+    "answer_span": "daya",
+    "expected": "dayalu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_judge",
+    "completion": "vichar\"\nMalayalam",
+    "answer_span": "vichar",
+    "expected": "nyayadhish",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_school",
+    "completion": "vidyalaya\"\nMalay",
+    "answer_span": "vidyalaya",
+    "expected": "vidyalaya",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_structure",
+    "completion": "ghada\"\nMalayalam",
+    "answer_span": "ghada",
+    "expected": "dhancha",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_tie",
+    "completion": "bandhan\"\nMalayalam",
+    "answer_span": "bandhan",
+    "expected": "gaanth",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_example",
+    "completion": "udhar\"\nMalayalam",
+    "answer_span": "udhar",
+    "expected": "udaaharan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_face",
+    "completion": "mukha\"\nMalayalam",
+    "answer_span": "mukha",
+    "expected": "mukh",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_bridge",
+    "completion": "paalam\"\nMalayalam",
+    "answer_span": "paalam",
+    "expected": "pull",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_item",
+    "completion": "vasth\"\nMalayalam",
+    "answer_span": "vasth",
+    "expected": "vastu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_delete",
+    "completion": "illathakuka\"\n",
+    "answer_span": "illathakuka",
+    "expected": "mitana",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_group",
+    "completion": "samaj\"\nMalayalam",
+    "answer_span": "samaj",
+    "expected": "samooh",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_talent",
+    "completion": "pratibha\"\n",
+    "answer_span": "pratibha",
+    "expected": "pratibha",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_beauty",
+    "completion": "sandhi\"\nMalayalam",
+    "answer_span": "sandhi",
+    "expected": "sundarta",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_platform",
+    "completion": "vidya\"\nMalayalam",
+    "answer_span": "vidya",
+    "expected": "munch",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_house",
+    "completion": "ghar\"\nMalayalam:",
+    "answer_span": "ghar",
+    "expected": "ghar",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_sun",
+    "completion": "sooraj\"\nMalayalam",
+    "answer_span": "sooraj",
+    "expected": "suraj",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_meeting",
+    "completion": "yog\"\nMalayalam:",
+    "answer_span": "yog",
+    "expected": "baithak",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_history",
+    "completion": "charitra\"\nMalayalam",
+    "answer_span": "charitra",
+    "expected": "itihas",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_valley",
+    "completion": "thazhvara\"\n",
+    "answer_span": "thazhvara",
+    "expected": "ghaati",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_square",
+    "completion": "chatur\"\nMalayalam",
+    "answer_span": "chatur",
+    "expected": "varg",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_generation",
+    "completion": "thalam\"\nMalayalam",
+    "answer_span": "thalam",
+    "expected": "peedhi",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_south",
+    "completion": "theek\"\nMalayalam",
+    "answer_span": "theek",
+    "expected": "dakshin",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_virtue",
+    "completion": "gun\"\nMalayalam:",
+    "answer_span": "gun",
+    "expected": "guna",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_tribe",
+    "completion": "gotra\"\nMalayalam",
+    "answer_span": "gotra",
+    "expected": "janjaati",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_city",
+    "completion": "nagari\"\nMalayalam",
+    "answer_span": "nagari",
+    "expected": "shahar",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_language",
+    "completion": "bhasha\"\nMalay",
+    "answer_span": "bhasha",
+    "expected": "bhasha",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_speed",
+    "completion": "vighat\"\nMalay",
+    "answer_span": "vighat",
+    "expected": "gati",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_ground",
+    "completion": "tar\"\nMalayalam:",
+    "answer_span": "tar",
+    "expected": "jameen",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_advance",
+    "completion": "munh\"\nMalayalam",
+    "answer_span": "munh",
+    "expected": "aage",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_attempt",
+    "completion": "karm\"\nMalayalam",
+    "answer_span": "karm",
+    "expected": "prayaas",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_defeat",
+    "completion": "parajay\"\nMalay",
+    "answer_span": "parajay",
+    "expected": "haar",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_tail",
+    "completion": "vaali\"\nMalayalam",
+    "answer_span": "vaali",
+    "expected": "poonchh",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_mother",
+    "completion": "amma\"\nMalayalam:",
+    "answer_span": "amma",
+    "expected": "maan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_east",
+    "completion": "kizhak\"\nMalay",
+    "answer_span": "kizhak",
+    "expected": "poorv",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_return",
+    "completion": "thirichuvaravu",
+    "answer_span": "thirichuvaravu",
+    "expected": "vaapsee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_speech",
+    "completion": "prashang\"\nMalay",
+    "answer_span": "prashang",
+    "expected": "bhashan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_child",
+    "completion": "chota\"\nMalayalam",
+    "answer_span": "chota",
+    "expected": "bachcha",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_tower",
+    "completion": "gopuram\"\nMalay",
+    "answer_span": "gopuram",
+    "expected": "burj",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_hair",
+    "completion": "mudi\"\nMalayalam",
+    "answer_span": "mudi",
+    "expected": "baal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_household",
+    "completion": "khandan\"\nMalay",
+    "answer_span": "khandan",
+    "expected": "parivaar",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_person",
+    "completion": "vyakti\"\nMalayalam",
+    "answer_span": "vyakti",
+    "expected": "vyakti",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_section",
+    "completion": "vikas\"\nMalayalam",
+    "answer_span": "vikas",
+    "expected": "anubhaag",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_official",
+    "completion": "udyogapoorvam\"",
+    "answer_span": "udyogapoorvam",
+    "expected": "aadhikaarik",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_hundred",
+    "completion": "noor\"\nMalayalam",
+    "answer_span": "noor",
+    "expected": "sou",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_office",
+    "completion": "oath\"\nMalayalam",
+    "answer_span": "oath",
+    "expected": "karyalaya",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_rock",
+    "completion": "kalu\"\nMalayalam",
+    "answer_span": "kalu",
+    "expected": "pathar",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_rise",
+    "completion": "uchch\"\nMalayalam",
+    "answer_span": "uchch",
+    "expected": "uthaan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_left",
+    "completion": "idhar\"\nMalayalam",
+    "answer_span": "idhar",
+    "expected": "baayen",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_sound",
+    "completion": "shabd\"\nMalayalam",
+    "answer_span": "shabd",
+    "expected": "dhwani",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_power",
+    "completion": "shakti\"\nMalayalam",
+    "answer_span": "shakti",
+    "expected": "shakti",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_summer",
+    "completion": "bazar\"\nMalayalam",
+    "answer_span": "bazar",
+    "expected": "greeshm",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  }
+]

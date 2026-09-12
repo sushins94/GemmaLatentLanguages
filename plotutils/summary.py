@@ -39,17 +39,24 @@ def load_run(run_dir, lens="logit"):
 
 
 def collect(records, data, roles=True):
-    """-> {(task, language, script): {role: [arrays]}}"""
+    """-> {(task, language, script): {role: [arrays]}}
+
+    Roles are resolved PER RECORD, because "native" is ambiguous without
+    knowing the target: every item also tracks a third pivot language whose
+    label ends in "_native". Resolving globally averaged the two together.
+    """
     index = defaultdict(list)
     for key, arr in data.items():
         rid, _, label = key.partition("::")
-        index[rid].append((role_of(label) if roles else label, arr))
+        index[rid].append((label, arr))
     by = defaultdict(lambda: defaultdict(list))
     for r in records:
         if not r.get("kept", True):
             continue
         cell = (r["task"], r["language"], r["script"])
-        for ro, arr in index.get(r["id"], []):
+        tgt = r.get("target_label")
+        for label, arr in index.get(r["id"], []):
+            ro = role_of(label, tgt) if roles else label
             if ro and ro != "other":
                 by[cell][ro].append(arr)
     return by

@@ -15,9 +15,12 @@ from .summary import (available_lenses, cell_stats, collect, collect_scripts,
                       per_prompt_switch, render_table, summary_rows)
 
 COLOR = {"en": "#c0392b", "native": "#2471a3", "roman": "#f39c12",
-         "en_ctrl": "#7f8c8d", "src": "#27ae60"}
-STYLE = {"en": "-", "native": "-", "roman": "-", "en_ctrl": ":", "src": "--"}
-ROLE_ORDER = ("en", "native", "roman", "en_ctrl", "src")
+         "en_ctrl": "#7f8c8d", "src": "#27ae60", "pivot": "#8e44ad"}
+STYLE = {"en": "-", "native": "-", "roman": "-", "en_ctrl": ":", "src": "--",
+         "pivot": "-."}
+# "pivot" is the third language tracked on every item: if it tracks English,
+# then any high-resource language surfaces mid-stack and English is not special.
+ROLE_ORDER = ("en", "native", "roman", "en_ctrl", "src", "pivot")
 SCRIPT_COLOR = {"LATIN": "#c0392b", "DEVANAGARI": "#8e44ad",
                 "TAMIL": "#2471a3", "MALAYALAM": "#16a085"}
 METRICS = [("correct", "substring", "#34495e"),

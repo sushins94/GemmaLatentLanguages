@@ -125,8 +125,18 @@ def collision_detail(token_sets, index, labels=None):
     return out
 
 
-def role_of(label):
-    """Canonical role, so figures colour by meaning rather than by language."""
+def role_of(label, target_label=None):
+    """Canonical role, so figures colour by meaning rather than by language.
+
+    target_label MATTERS. Each item tracks the target's native form AND a third
+    "pivot" language's native form, and both end in "_native". Without knowing
+    which is the target, both collapse into the role "native" and the plotted
+    curve becomes their MEAN -- halving the target curve against a pivot that
+    sits near zero. Pass target_label so the pivot gets its own role.
+    """
+    if target_label and label != target_label and label.endswith("_native") \
+            and target_label.endswith(("_native", "_roman")):
+        return "pivot"
     if label == "en":
         return "en"
     if label == "en_control":

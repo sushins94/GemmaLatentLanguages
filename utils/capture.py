@@ -82,11 +82,22 @@ def first_token_correct(top1_id, want, tokenizer):
     This is the metric that matches the curves: P(lang) sums over tokens that
     could BEGIN the answer. A gap between this and acc_exact means the model
     reached the right concept but could not spell the rest.
+
+    BOTH variants are accepted. Encoding only " "+want gives the SentencePiece
+    space-prefixed token, but few-shot prompts end on an open quote so the real
+    next token usually has no leading space -- comparing against the
+    space-prefixed form alone made this metric read zero almost everywhere.
+    Start(w) has always handled both variants, which is why P(lang) was
+    unaffected.
     """
     if not want:
         return None
-    ids = tokenizer.encode(" " + want, add_special_tokens=False)
-    return top1_id == ids[0] if ids else None
+    first = set()
+    for variant in (" " + want, want):
+        ids = tokenizer.encode(variant, add_special_tokens=False)
+        if ids:
+            first.add(ids[0])
+    return top1_id in first if first else None
 
 
 def best_rank(probs, ids):
