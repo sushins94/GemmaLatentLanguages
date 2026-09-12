@@ -120,8 +120,8 @@ def cmd_fit_lens(args):
     tokenizer = AutoTokenizer.from_pretrained(args.model)
     model = load_model(args.model, device="cuda", dtype=torch.bfloat16)
     model.eval()
-    for p in model.parameters():
-        p.requires_grad_(False)          # gradients w.r.t. activations only
+    #for p in model.parameters():
+    #    p.requires_grad_(False)          # gradients w.r.t. activations only
 
     texts = [l.strip() for l in open(args.corpus) if l.strip()]
     print(f"[fit] {len(texts)} texts available, using {args.n_prompts}")

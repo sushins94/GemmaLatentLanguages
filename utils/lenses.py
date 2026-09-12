@@ -196,16 +196,34 @@ def fit_jacobian(model, tokenizer, texts, n_prompts=25, seq_len=128,
             h_tgt = cap.tensors[target]
             tensors = [cap.tensors[l] for l in range(n_layers)]
 
+            if h_tgt.grad_fn is None:
+                raise RuntimeError(
+                    "the forward pass built no autograd graph, so there is "
+                    "nothing to differentiate.\n"
+                    "Usual causes: model parameters were frozen with "
+                    "requires_grad_(False), or the call is inside "
+                    "torch.no_grad() / inference_mode.\n"
+                    "Fitting needs gradients w.r.t. ACTIVATIONS, which still "
+                    "requires the graph to exist.")
+
             for start in range(0, d, chunk):
                 idx = torch.arange(start, min(start + chunk, d), device=device)
                 C = len(idx)
                 cot = torch.zeros(C, 1, T, d, device=device, dtype=h_tgt.dtype)
                 cot[torch.arange(C), 0, :, idx] = 1.0
                 try:
+                    # is_grads_batched vmaps the C cotangents through one call
                     grads = torch.autograd.grad(
                         h_tgt, tensors, grad_outputs=cot, retain_graph=True,
                         allow_unused=True, is_grads_batched=True)
-                except Exception:                        # noqa: BLE001
+                except RuntimeError as e:
+                    # Only fall back for vmap-specific failures; a missing
+                    # graph would fail identically in the loop and the real
+                    # error would be buried under a second traceback.
+                    if "does not require grad" in str(e):
+                        raise
+                    print(f"[fit] batched grad failed ({e}); "
+                          f"falling back to one backward per direction")
                     grads = [torch.zeros(C, 1, T, d, device=device)
                              for _ in tensors]
                     for c in range(C):
