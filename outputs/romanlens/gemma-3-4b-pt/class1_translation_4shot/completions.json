@@ -6,7 +6,7 @@
     "expected": "बादल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_bag",
@@ -15,7 +15,7 @@
     "expected": "बैग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_mouth",
@@ -24,7 +24,7 @@
     "expected": "मुंह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_soil",
@@ -33,7 +33,7 @@
     "expected": "मिट्टी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_mountain",
@@ -42,7 +42,7 @@
     "expected": "पर्वत",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_heart",
@@ -60,7 +60,7 @@
     "expected": "हाथ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_day",
@@ -69,7 +69,7 @@
     "expected": "दिन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_star",
@@ -96,7 +96,7 @@
     "expected": "चंद्रमा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_wood",
@@ -105,7 +105,7 @@
     "expected": "लकड़ी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_village",
@@ -114,7 +114,7 @@
     "expected": "गांव",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_forest",
@@ -132,7 +132,7 @@
     "expected": "फल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_grid",
@@ -150,7 +150,7 @@
     "expected": "गाना",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_pond",
@@ -177,7 +177,7 @@
     "expected": "कानून",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_wave",
@@ -204,7 +204,7 @@
     "expected": "गुफा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_sea",
@@ -213,7 +213,7 @@
     "expected": "समुद्र",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_lake",
@@ -231,7 +231,7 @@
     "expected": "स्रोत",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_point",
@@ -240,7 +240,7 @@
     "expected": "बिंदु",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_version",
@@ -249,7 +249,7 @@
     "expected": "संस्करण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_ball",
@@ -276,7 +276,7 @@
     "expected": "चावल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_red",
@@ -285,7 +285,7 @@
     "expected": "लाल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_line",
@@ -294,7 +294,7 @@
     "expected": "रेखा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_net",
@@ -312,7 +312,7 @@
     "expected": "फूल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_tea",
@@ -321,7 +321,7 @@
     "expected": "चाय",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_foot",
@@ -330,7 +330,7 @@
     "expected": "पैर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_gold",
@@ -339,7 +339,7 @@
     "expected": "सोना",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_door",
@@ -348,7 +348,7 @@
     "expected": "दरवाजा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_snow",
@@ -357,7 +357,7 @@
     "expected": "हिम",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_horse",
@@ -366,7 +366,7 @@
     "expected": "घोड़ा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_one",
@@ -375,7 +375,7 @@
     "expected": "एक",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_two",
@@ -384,7 +384,7 @@
     "expected": "दो",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_three",
@@ -393,7 +393,7 @@
     "expected": "तीन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_four",
@@ -402,7 +402,7 @@
     "expected": "चार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_five",
@@ -411,7 +411,7 @@
     "expected": "पांच",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_six",
@@ -420,7 +420,7 @@
     "expected": "छह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_seven",
@@ -429,7 +429,7 @@
     "expected": "सात",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_eight",
@@ -438,7 +438,7 @@
     "expected": "आठ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_nine",
@@ -447,7 +447,7 @@
     "expected": "नौ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_ten",
@@ -456,7 +456,7 @@
     "expected": "दस",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_head",
@@ -465,7 +465,7 @@
     "expected": "सिर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_street",
@@ -492,7 +492,7 @@
     "expected": "आँख",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_field",
@@ -528,7 +528,7 @@
     "expected": "शब्द",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_pair",
@@ -555,7 +555,7 @@
     "expected": "प्रकाश",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_thousand",
@@ -564,7 +564,7 @@
     "expected": "हजार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_north",
@@ -573,7 +573,7 @@
     "expected": "उत्तर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_machine",
@@ -600,7 +600,7 @@
     "expected": "स्थिति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_province",
@@ -627,7 +627,7 @@
     "expected": "मध्य",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_color",
@@ -636,7 +636,7 @@
     "expected": "रंग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_kind",
@@ -654,7 +654,7 @@
     "expected": "न्यायाधीश",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_school",
@@ -690,7 +690,7 @@
     "expected": "उदाहरण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_face",
@@ -708,7 +708,7 @@
     "expected": "पुल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_delete",
@@ -717,7 +717,7 @@
     "expected": "मिटाना",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_group",
@@ -726,7 +726,7 @@
     "expected": "समूह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_talent",
@@ -762,7 +762,7 @@
     "expected": "घर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_sun",
@@ -789,7 +789,7 @@
     "expected": "इतिहास",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_valley",
@@ -798,7 +798,7 @@
     "expected": "घाटी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_square",
@@ -807,7 +807,7 @@
     "expected": "वर्ग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_generation",
@@ -825,7 +825,7 @@
     "expected": "दक्षिण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_virtue",
@@ -834,7 +834,7 @@
     "expected": "गुण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_tribe",
@@ -852,7 +852,7 @@
     "expected": "शहर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_speed",
@@ -861,7 +861,7 @@
     "expected": "गति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_ground",
@@ -879,7 +879,7 @@
     "expected": "आगे",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_attempt",
@@ -888,7 +888,7 @@
     "expected": "प्रयास",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_defeat",
@@ -897,7 +897,7 @@
     "expected": "हार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_tail",
@@ -915,7 +915,7 @@
     "expected": "माँ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_east",
@@ -933,7 +933,7 @@
     "expected": "वापसी",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_speech",
@@ -951,7 +951,7 @@
     "expected": "बच्चा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_tower",
@@ -978,7 +978,7 @@
     "expected": "व्यक्ति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_section",
@@ -1014,7 +1014,7 @@
     "expected": "उठान",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_left",
@@ -1032,7 +1032,7 @@
     "expected": "ध्वनि",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_power",
@@ -1041,7 +1041,7 @@
     "expected": "शक्ति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_summer",
@@ -1059,7 +1059,7 @@
     "expected": "पुस्तक",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_cloud",
@@ -1068,7 +1068,7 @@
     "expected": "बादल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_bag",
@@ -1077,7 +1077,7 @@
     "expected": "बैग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_mouth",
@@ -1086,7 +1086,7 @@
     "expected": "मुंह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_soil",
@@ -1095,7 +1095,7 @@
     "expected": "मिट्टी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_mountain",
@@ -1104,7 +1104,7 @@
     "expected": "पर्वत",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_cloth",
@@ -1113,7 +1113,7 @@
     "expected": "कपड़ा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_heart",
@@ -1131,7 +1131,7 @@
     "expected": "हाथ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_day",
@@ -1140,7 +1140,7 @@
     "expected": "दिन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_star",
@@ -1167,7 +1167,7 @@
     "expected": "चंद्रमा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_wood",
@@ -1176,7 +1176,7 @@
     "expected": "लकड़ी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_village",
@@ -1185,7 +1185,7 @@
     "expected": "गांव",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_forest",
@@ -1203,7 +1203,7 @@
     "expected": "फल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_grid",
@@ -1230,7 +1230,7 @@
     "expected": "पानी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_pond",
@@ -1257,7 +1257,7 @@
     "expected": "नदी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_law",
@@ -1266,7 +1266,7 @@
     "expected": "कानून",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_wave",
@@ -1284,7 +1284,7 @@
     "expected": "महासागर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_cave",
@@ -1302,7 +1302,7 @@
     "expected": "समुद्र",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_lake",
@@ -1320,7 +1320,7 @@
     "expected": "स्रोत",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_fire",
@@ -1329,7 +1329,7 @@
     "expected": "आग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_point",
@@ -1338,7 +1338,7 @@
     "expected": "बिंदु",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_version",
@@ -1347,7 +1347,7 @@
     "expected": "संस्करण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_ball",
@@ -1365,7 +1365,7 @@
     "expected": "चित्रकारी",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_station",
@@ -1374,7 +1374,7 @@
     "expected": "स्टेशन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_rice",
@@ -1383,7 +1383,7 @@
     "expected": "चावल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_red",
@@ -1392,7 +1392,7 @@
     "expected": "लाल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_line",
@@ -1401,7 +1401,7 @@
     "expected": "रेखा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_net",
@@ -1419,7 +1419,7 @@
     "expected": "फूल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_tea",
@@ -1428,7 +1428,7 @@
     "expected": "चाय",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_foot",
@@ -1437,7 +1437,7 @@
     "expected": "पैर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_gold",
@@ -1446,7 +1446,7 @@
     "expected": "सोना",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_door",
@@ -1455,7 +1455,7 @@
     "expected": "दरवाजा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_snow",
@@ -1464,7 +1464,7 @@
     "expected": "हिम",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_horse",
@@ -1473,7 +1473,7 @@
     "expected": "घोड़ा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_one",
@@ -1482,7 +1482,7 @@
     "expected": "एक",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_two",
@@ -1491,7 +1491,7 @@
     "expected": "दो",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_three",
@@ -1500,7 +1500,7 @@
     "expected": "तीन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_four",
@@ -1509,7 +1509,7 @@
     "expected": "चार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_five",
@@ -1527,7 +1527,7 @@
     "expected": "छह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_seven",
@@ -1536,7 +1536,7 @@
     "expected": "सात",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_eight",
@@ -1545,7 +1545,7 @@
     "expected": "आठ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_nine",
@@ -1554,7 +1554,7 @@
     "expected": "नौ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_ten",
@@ -1563,7 +1563,7 @@
     "expected": "दस",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_head",
@@ -1572,7 +1572,7 @@
     "expected": "सिर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_shop",
@@ -1581,7 +1581,7 @@
     "expected": "दुकान",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_strip",
@@ -1590,7 +1590,7 @@
     "expected": "पट्टी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_street",
@@ -1617,7 +1617,7 @@
     "expected": "आँख",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_field",
@@ -1653,7 +1653,7 @@
     "expected": "शब्द",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_pair",
@@ -1680,7 +1680,7 @@
     "expected": "प्रकाश",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_thousand",
@@ -1689,7 +1689,7 @@
     "expected": "हजार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_north",
@@ -1698,7 +1698,7 @@
     "expected": "उत्तर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_machine",
@@ -1716,7 +1716,7 @@
     "expected": "समय",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_benefit",
@@ -1725,7 +1725,7 @@
     "expected": "लाभ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_position",
@@ -1734,7 +1734,7 @@
     "expected": "स्थिति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_province",
@@ -1761,7 +1761,7 @@
     "expected": "मध्य",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_friend",
@@ -1779,7 +1779,7 @@
     "expected": "रंग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_kind",
@@ -1797,7 +1797,7 @@
     "expected": "न्यायाधीश",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_school",
@@ -1833,7 +1833,7 @@
     "expected": "उदाहरण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_face",
@@ -1851,7 +1851,7 @@
     "expected": "पुल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_item",
@@ -1860,7 +1860,7 @@
     "expected": "वस्तु",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_delete",
@@ -1869,7 +1869,7 @@
     "expected": "मिटाना",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_group",
@@ -1878,7 +1878,7 @@
     "expected": "समूह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_talent",
@@ -1887,7 +1887,7 @@
     "expected": "प्रतिभा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_beauty",
@@ -1914,7 +1914,7 @@
     "expected": "घर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_sun",
@@ -1932,7 +1932,7 @@
     "expected": "बैठक",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_history",
@@ -1941,7 +1941,7 @@
     "expected": "इतिहास",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_valley",
@@ -1959,7 +1959,7 @@
     "expected": "वर्ग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_generation",
@@ -1977,7 +1977,7 @@
     "expected": "दक्षिण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_virtue",
@@ -1986,7 +1986,7 @@
     "expected": "गुण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_tribe",
@@ -2004,7 +2004,7 @@
     "expected": "शहर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_language",
@@ -2013,7 +2013,7 @@
     "expected": "भाषा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_speed",
@@ -2022,7 +2022,7 @@
     "expected": "गति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_ground",
@@ -2040,7 +2040,7 @@
     "expected": "आगे",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_attempt",
@@ -2049,7 +2049,7 @@
     "expected": "प्रयास",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_defeat",
@@ -2058,7 +2058,7 @@
     "expected": "हार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_tail",
@@ -2067,7 +2067,7 @@
     "expected": "पूंछ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_mother",
@@ -2076,7 +2076,7 @@
     "expected": "माँ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_east",
@@ -2085,7 +2085,7 @@
     "expected": "पूर्व",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_return",
@@ -2094,7 +2094,7 @@
     "expected": "वापसी",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_speech",
@@ -2112,7 +2112,7 @@
     "expected": "बच्चा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_tower",
@@ -2130,7 +2130,7 @@
     "expected": "बाल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_household",
@@ -2148,7 +2148,7 @@
     "expected": "व्यक्ति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_section",
@@ -2175,7 +2175,7 @@
     "expected": "सौ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_office",
@@ -2184,7 +2184,7 @@
     "expected": "कार्यालय",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_rock",
@@ -2202,7 +2202,7 @@
     "expected": "उठान",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_left",
@@ -2220,7 +2220,7 @@
     "expected": "ध्वनि",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_power",
@@ -2229,7 +2229,7 @@
     "expected": "शक्ति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_summer",
@@ -2301,7 +2301,7 @@
     "expected": "haath",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_day",
@@ -2391,7 +2391,7 @@
     "expected": "gaanaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_pond",
@@ -2400,7 +2400,7 @@
     "expected": "talab",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_sand",
@@ -2418,7 +2418,7 @@
     "expected": "kaanoon",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_wave",
@@ -2445,7 +2445,7 @@
     "expected": "gufa",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_sea",
@@ -2454,7 +2454,7 @@
     "expected": "samudra",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_lake",
@@ -2463,7 +2463,7 @@
     "expected": "talab",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_source",
@@ -2517,7 +2517,7 @@
     "expected": "chawal",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_red",
@@ -2553,7 +2553,7 @@
     "expected": "phool",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_tea",
@@ -2589,7 +2589,7 @@
     "expected": "darwaja",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_snow",
@@ -2634,7 +2634,7 @@
     "expected": "teen",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_four",
@@ -2652,7 +2652,7 @@
     "expected": "paanch",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_six",
@@ -2661,7 +2661,7 @@
     "expected": "chhah",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_seven",
@@ -2679,7 +2679,7 @@
     "expected": "aathh",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_nine",
@@ -2778,7 +2778,7 @@
     "expected": "jodaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_seat",
@@ -2805,7 +2805,7 @@
     "expected": "hazaar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_north",
@@ -2868,7 +2868,7 @@
     "expected": "madhya",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_color",
@@ -2985,7 +2985,7 @@
     "expected": "sundarta",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_platform",
@@ -3003,7 +3003,7 @@
     "expected": "ghar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_sun",
@@ -3012,7 +3012,7 @@
     "expected": "suraj",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_meeting",
@@ -3093,7 +3093,7 @@
     "expected": "shahar",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_speed",
@@ -3120,7 +3120,7 @@
     "expected": "aage",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_attempt",
@@ -3282,7 +3282,7 @@
     "expected": "shakti",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_summer",
@@ -3318,7 +3318,7 @@
     "expected": "bagg",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_mouth",
@@ -3354,7 +3354,7 @@
     "expected": "kapada",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_heart",
@@ -3372,7 +3372,7 @@
     "expected": "haath",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_day",
@@ -3462,7 +3462,7 @@
     "expected": "gaanaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_water",
@@ -3480,7 +3480,7 @@
     "expected": "talab",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_sand",
@@ -3534,7 +3534,7 @@
     "expected": "gufa",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_sea",
@@ -3543,7 +3543,7 @@
     "expected": "samudra",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_lake",
@@ -3552,7 +3552,7 @@
     "expected": "talab",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_source",
@@ -3561,7 +3561,7 @@
     "expected": "srot",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_fire",
@@ -3570,7 +3570,7 @@
     "expected": "aag",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_point",
@@ -3624,7 +3624,7 @@
     "expected": "chawal",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_red",
@@ -3660,7 +3660,7 @@
     "expected": "phool",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_tea",
@@ -3696,7 +3696,7 @@
     "expected": "darwaja",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_snow",
@@ -3741,7 +3741,7 @@
     "expected": "teen",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_four",
@@ -3759,7 +3759,7 @@
     "expected": "paanch",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_six",
@@ -3768,7 +3768,7 @@
     "expected": "chhah",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_seven",
@@ -3786,7 +3786,7 @@
     "expected": "aathh",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_nine",
@@ -3795,7 +3795,7 @@
     "expected": "nau",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_ten",
@@ -3930,7 +3930,7 @@
     "expected": "hazaar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_north",
@@ -3939,7 +3939,7 @@
     "expected": "uttar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_machine",
@@ -4002,7 +4002,7 @@
     "expected": "madhya",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_friend",
@@ -4137,7 +4137,7 @@
     "expected": "sundarta",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_platform",
@@ -4155,7 +4155,7 @@
     "expected": "ghar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_sun",
@@ -4164,7 +4164,7 @@
     "expected": "suraj",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_meeting",
@@ -4218,7 +4218,7 @@
     "expected": "dakshin",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_virtue",
@@ -4245,7 +4245,7 @@
     "expected": "shahar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_language",
@@ -4254,7 +4254,7 @@
     "expected": "bhasha",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_speed",
@@ -4281,7 +4281,7 @@
     "expected": "aage",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_attempt",
@@ -4443,7 +4443,7 @@
     "expected": "uthaan",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_left",
@@ -4506,7 +4506,7 @@
     "expected": "வாய்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_soil",
@@ -4524,7 +4524,7 @@
     "expected": "மலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_heart",
@@ -4533,7 +4533,7 @@
     "expected": "இதயம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_hand",
@@ -4542,7 +4542,7 @@
     "expected": "கை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_day",
@@ -4551,7 +4551,7 @@
     "expected": "நாள்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_star",
@@ -4560,7 +4560,7 @@
     "expected": "நட்சத்திரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_spring",
@@ -4596,7 +4596,7 @@
     "expected": "கிராமம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_forest",
@@ -4614,7 +4614,7 @@
     "expected": "பழம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_grid",
@@ -4632,7 +4632,7 @@
     "expected": "பாடல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_pond",
@@ -4641,7 +4641,7 @@
     "expected": "குளம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_sand",
@@ -4650,7 +4650,7 @@
     "expected": "மணல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_law",
@@ -4659,7 +4659,7 @@
     "expected": "சட்டம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_wave",
@@ -4695,7 +4695,7 @@
     "expected": "கடல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_lake",
@@ -4722,7 +4722,7 @@
     "expected": "புள்ளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_version",
@@ -4767,7 +4767,7 @@
     "expected": "சிவப்பு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_line",
@@ -4785,7 +4785,7 @@
     "expected": "வலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_flower",
@@ -4794,7 +4794,7 @@
     "expected": "பூ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_tea",
@@ -4830,7 +4830,7 @@
     "expected": "கதவு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_snow",
@@ -4839,7 +4839,7 @@
     "expected": "பனி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_horse",
@@ -4848,7 +4848,7 @@
     "expected": "குதிரை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_one",
@@ -4866,7 +4866,7 @@
     "expected": "இரண்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_three",
@@ -4875,7 +4875,7 @@
     "expected": "மூன்று",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_four",
@@ -4884,7 +4884,7 @@
     "expected": "நான்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_five",
@@ -4893,7 +4893,7 @@
     "expected": "ஐந்து",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_six",
@@ -4902,7 +4902,7 @@
     "expected": "ஆறு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_seven",
@@ -4911,7 +4911,7 @@
     "expected": "ஏழு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_eight",
@@ -4920,7 +4920,7 @@
     "expected": "எட்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_nine",
@@ -4929,7 +4929,7 @@
     "expected": "ஒன்பது",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_ten",
@@ -4938,7 +4938,7 @@
     "expected": "பத்து",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_head",
@@ -4947,7 +4947,7 @@
     "expected": "தலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_street",
@@ -4956,7 +4956,7 @@
     "expected": "தெரு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_part",
@@ -4965,7 +4965,7 @@
     "expected": "பகுதி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_eye",
@@ -4974,7 +4974,7 @@
     "expected": "கண்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_field",
@@ -4992,7 +4992,7 @@
     "expected": "இடம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_dance",
@@ -5001,7 +5001,7 @@
     "expected": "நடனம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_word",
@@ -5010,7 +5010,7 @@
     "expected": "சொல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_pair",
@@ -5037,7 +5037,7 @@
     "expected": "ஒளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_thousand",
@@ -5046,7 +5046,7 @@
     "expected": "ஆயிரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_north",
@@ -5055,7 +5055,7 @@
     "expected": "வடக்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_machine",
@@ -5064,7 +5064,7 @@
     "expected": "இயந்திரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_time",
@@ -5082,7 +5082,7 @@
     "expected": "நிலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_province",
@@ -5100,7 +5100,7 @@
     "expected": "பரிமாற்றம்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_middle",
@@ -5118,7 +5118,7 @@
     "expected": "நிறம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_kind",
@@ -5136,7 +5136,7 @@
     "expected": "நீதிபதி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_school",
@@ -5145,7 +5145,7 @@
     "expected": "பள்ளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_structure",
@@ -5181,7 +5181,7 @@
     "expected": "முகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_bridge",
@@ -5190,7 +5190,7 @@
     "expected": "பாலம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_delete",
@@ -5208,7 +5208,7 @@
     "expected": "குழு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_talent",
@@ -5217,7 +5217,7 @@
     "expected": "திறமை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_beauty",
@@ -5244,7 +5244,7 @@
     "expected": "வீடு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_sun",
@@ -5253,7 +5253,7 @@
     "expected": "சூரியன்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_meeting",
@@ -5262,7 +5262,7 @@
     "expected": "கூட்டம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_history",
@@ -5271,7 +5271,7 @@
     "expected": "வரலாறு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_valley",
@@ -5298,7 +5298,7 @@
     "expected": "தலைமுறை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_south",
@@ -5307,7 +5307,7 @@
     "expected": "தெற்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_virtue",
@@ -5334,7 +5334,7 @@
     "expected": "நகரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_speed",
@@ -5343,7 +5343,7 @@
     "expected": "வேகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_ground",
@@ -5370,7 +5370,7 @@
     "expected": "முயற்சி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_defeat",
@@ -5379,7 +5379,7 @@
     "expected": "தோல்வி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_tail",
@@ -5388,7 +5388,7 @@
     "expected": "வால்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_mother",
@@ -5406,7 +5406,7 @@
     "expected": "கிழக்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_return",
@@ -5415,7 +5415,7 @@
     "expected": "திரும்பு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_speech",
@@ -5433,7 +5433,7 @@
     "expected": "குழந்தை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_tower",
@@ -5451,7 +5451,7 @@
     "expected": "வீடு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_person",
@@ -5469,7 +5469,7 @@
     "expected": "பிரிவு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_office",
@@ -5496,7 +5496,7 @@
     "expected": "உயர",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_left",
@@ -5505,7 +5505,7 @@
     "expected": "இடது",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_sound",
@@ -5532,7 +5532,7 @@
     "expected": "கோடை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_book",
@@ -5541,7 +5541,7 @@
     "expected": "புத்தகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_cloud",
@@ -5550,7 +5550,7 @@
     "expected": "மேகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_bag",
@@ -5568,7 +5568,7 @@
     "expected": "வாய்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_soil",
@@ -5577,7 +5577,7 @@
     "expected": "மண்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_mountain",
@@ -5586,7 +5586,7 @@
     "expected": "மலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_cloth",
@@ -5604,7 +5604,7 @@
     "expected": "இதயம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_hand",
@@ -5613,7 +5613,7 @@
     "expected": "கை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_day",
@@ -5622,7 +5622,7 @@
     "expected": "நாள்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_star",
@@ -5631,7 +5631,7 @@
     "expected": "நட்சத்திரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_spring",
@@ -5667,7 +5667,7 @@
     "expected": "கிராமம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_forest",
@@ -5685,7 +5685,7 @@
     "expected": "பழம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_grid",
@@ -5694,7 +5694,7 @@
     "expected": "சட்டகம்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_song",
@@ -5703,7 +5703,7 @@
     "expected": "பாடல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_water",
@@ -5712,7 +5712,7 @@
     "expected": "நீர்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_pond",
@@ -5721,7 +5721,7 @@
     "expected": "குளம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_sand",
@@ -5730,7 +5730,7 @@
     "expected": "மணல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_river",
@@ -5748,7 +5748,7 @@
     "expected": "சட்டம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_wave",
@@ -5784,7 +5784,7 @@
     "expected": "கடல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_lake",
@@ -5802,7 +5802,7 @@
     "expected": "மூலம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_fire",
@@ -5820,7 +5820,7 @@
     "expected": "புள்ளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_version",
@@ -5847,7 +5847,7 @@
     "expected": "ஓவியம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_station",
@@ -5856,7 +5856,7 @@
     "expected": "நிலையம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_rice",
@@ -5874,7 +5874,7 @@
     "expected": "சிவப்பு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_line",
@@ -5892,7 +5892,7 @@
     "expected": "வலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_flower",
@@ -5901,7 +5901,7 @@
     "expected": "பூ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_tea",
@@ -5937,7 +5937,7 @@
     "expected": "கதவு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_snow",
@@ -5955,7 +5955,7 @@
     "expected": "குதிரை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_one",
@@ -5964,7 +5964,7 @@
     "expected": "ஒன்று",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_two",
@@ -5973,7 +5973,7 @@
     "expected": "இரண்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_three",
@@ -5982,7 +5982,7 @@
     "expected": "மூன்று",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_four",
@@ -5991,7 +5991,7 @@
     "expected": "நான்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_five",
@@ -6000,7 +6000,7 @@
     "expected": "ஐந்து",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_six",
@@ -6009,7 +6009,7 @@
     "expected": "ஆறு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_seven",
@@ -6018,7 +6018,7 @@
     "expected": "ஏழு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_eight",
@@ -6027,7 +6027,7 @@
     "expected": "எட்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_nine",
@@ -6036,7 +6036,7 @@
     "expected": "ஒன்பது",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_ten",
@@ -6045,7 +6045,7 @@
     "expected": "பத்து",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_head",
@@ -6054,7 +6054,7 @@
     "expected": "தலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_shop",
@@ -6081,7 +6081,7 @@
     "expected": "தெரு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_part",
@@ -6090,7 +6090,7 @@
     "expected": "பகுதி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_eye",
@@ -6099,7 +6099,7 @@
     "expected": "கண்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_field",
@@ -6117,7 +6117,7 @@
     "expected": "இடம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_dance",
@@ -6126,7 +6126,7 @@
     "expected": "நடனம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_word",
@@ -6135,7 +6135,7 @@
     "expected": "சொல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_pair",
@@ -6162,7 +6162,7 @@
     "expected": "ஒளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_thousand",
@@ -6171,7 +6171,7 @@
     "expected": "ஆயிரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_north",
@@ -6180,7 +6180,7 @@
     "expected": "வடக்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_machine",
@@ -6189,7 +6189,7 @@
     "expected": "இயந்திரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_time",
@@ -6198,7 +6198,7 @@
     "expected": "நேரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_benefit",
@@ -6207,7 +6207,7 @@
     "expected": "நன்மை",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_position",
@@ -6216,7 +6216,7 @@
     "expected": "நிலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_province",
@@ -6243,7 +6243,7 @@
     "expected": "நடு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_friend",
@@ -6252,7 +6252,7 @@
     "expected": "நண்பன்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_color",
@@ -6261,7 +6261,7 @@
     "expected": "நிறம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_kind",
@@ -6279,7 +6279,7 @@
     "expected": "நீதிபதி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_school",
@@ -6288,7 +6288,7 @@
     "expected": "பள்ளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_structure",
@@ -6315,7 +6315,7 @@
     "expected": "எடுத்துக்காட்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_face",
@@ -6324,7 +6324,7 @@
     "expected": "முகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_bridge",
@@ -6333,7 +6333,7 @@
     "expected": "பாலம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_item",
@@ -6342,7 +6342,7 @@
     "expected": "பொருள்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_delete",
@@ -6351,7 +6351,7 @@
     "expected": "அழிக்க",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_group",
@@ -6360,7 +6360,7 @@
     "expected": "குழு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_talent",
@@ -6369,7 +6369,7 @@
     "expected": "திறமை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_beauty",
@@ -6396,7 +6396,7 @@
     "expected": "வீடு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_sun",
@@ -6405,7 +6405,7 @@
     "expected": "சூரியன்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_meeting",
@@ -6414,7 +6414,7 @@
     "expected": "கூட்டம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_history",
@@ -6423,7 +6423,7 @@
     "expected": "வரலாறு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_valley",
@@ -6441,7 +6441,7 @@
     "expected": "சதுரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_generation",
@@ -6450,7 +6450,7 @@
     "expected": "தலைமுறை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_south",
@@ -6459,7 +6459,7 @@
     "expected": "தெற்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_virtue",
@@ -6468,7 +6468,7 @@
     "expected": "நற்பண்பு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_tribe",
@@ -6486,7 +6486,7 @@
     "expected": "நகரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_language",
@@ -6495,7 +6495,7 @@
     "expected": "மொழி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_speed",
@@ -6504,7 +6504,7 @@
     "expected": "வேகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_ground",
@@ -6522,7 +6522,7 @@
     "expected": "முன்னேற்றம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_attempt",
@@ -6531,7 +6531,7 @@
     "expected": "முயற்சி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_defeat",
@@ -6540,7 +6540,7 @@
     "expected": "தோல்வி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_tail",
@@ -6549,7 +6549,7 @@
     "expected": "வால்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_mother",
@@ -6567,7 +6567,7 @@
     "expected": "கிழக்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_return",
@@ -6576,7 +6576,7 @@
     "expected": "திரும்பு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_speech",
@@ -6594,7 +6594,7 @@
     "expected": "குழந்தை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_tower",
@@ -6603,7 +6603,7 @@
     "expected": "கோபுரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_hair",
@@ -6612,7 +6612,7 @@
     "expected": "முடி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_household",
@@ -6639,7 +6639,7 @@
     "expected": "பிரிவு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_official",
@@ -6648,7 +6648,7 @@
     "expected": "அதிகாரப்பூர்வ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_hundred",
@@ -6657,7 +6657,7 @@
     "expected": "நூறு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_office",
@@ -6666,7 +6666,7 @@
     "expected": "அலுவலகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_rock",
@@ -6693,7 +6693,7 @@
     "expected": "இடது",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_sound",
@@ -6702,7 +6702,7 @@
     "expected": "ஒலி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_power",
@@ -6720,7 +6720,7 @@
     "expected": "கோடை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_cloud",
@@ -6783,7 +6783,7 @@
     "expected": "kaii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_day",
@@ -6792,7 +6792,7 @@
     "expected": "naall",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_star",
@@ -6855,7 +6855,7 @@
     "expected": "pazham",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_grid",
@@ -6882,7 +6882,7 @@
     "expected": "kulam",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_sand",
@@ -6927,7 +6927,7 @@
     "expected": "kugai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_sea",
@@ -7080,7 +7080,7 @@
     "expected": "panii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_horse",
@@ -7089,7 +7089,7 @@
     "expected": "kudhirai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_one",
@@ -7215,7 +7215,7 @@
     "expected": "kann",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_field",
@@ -7449,7 +7449,7 @@
     "expected": "kuzhu",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_talent",
@@ -7863,7 +7863,7 @@
     "expected": "naall",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_star",
@@ -7926,7 +7926,7 @@
     "expected": "pazham",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_grid",
@@ -7944,7 +7944,7 @@
     "expected": "paadal",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_water",
@@ -7953,7 +7953,7 @@
     "expected": "neer",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_pond",
@@ -8016,7 +8016,7 @@
     "expected": "kugai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_sea",
@@ -8187,7 +8187,7 @@
     "expected": "panii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_horse",
@@ -8250,7 +8250,7 @@
     "expected": "aaru",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_seven",
@@ -8340,7 +8340,7 @@
     "expected": "kann",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_field",
@@ -8529,7 +8529,7 @@
     "expected": "palli",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_structure",
@@ -8601,7 +8601,7 @@
     "expected": "kuzhu",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_talent",
@@ -8610,7 +8610,7 @@
     "expected": "thiramai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_beauty",
@@ -9015,7 +9015,7 @@
     "expected": "ഹൃദയം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_hand",
@@ -9024,7 +9024,7 @@
     "expected": "കൈ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_day",
@@ -9042,7 +9042,7 @@
     "expected": "നക്ഷത്രം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_spring",
@@ -9060,7 +9060,7 @@
     "expected": "ചന്ദ്രൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_wood",
@@ -9069,7 +9069,7 @@
     "expected": "മരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_village",
@@ -9096,7 +9096,7 @@
     "expected": "പഴം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_grid",
@@ -9114,7 +9114,7 @@
     "expected": "ഗാനം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_pond",
@@ -9123,7 +9123,7 @@
     "expected": "കുളം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_sand",
@@ -9141,7 +9141,7 @@
     "expected": "നിയമം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_wave",
@@ -9177,7 +9177,7 @@
     "expected": "കടൽ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_lake",
@@ -9195,7 +9195,7 @@
     "expected": "ഉറവിടം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_point",
@@ -9231,7 +9231,7 @@
     "expected": "സ്റ്റേഷൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_rice",
@@ -9249,7 +9249,7 @@
     "expected": "ചുവപ്പ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_line",
@@ -9285,7 +9285,7 @@
     "expected": "ചായ",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_foot",
@@ -9321,7 +9321,7 @@
     "expected": "മഞ്ഞ്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_horse",
@@ -9348,7 +9348,7 @@
     "expected": "രണ്ട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_three",
@@ -9357,7 +9357,7 @@
     "expected": "മൂന്ന്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_four",
@@ -9366,7 +9366,7 @@
     "expected": "നാല്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_five",
@@ -9375,7 +9375,7 @@
     "expected": "അഞ്ച്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_six",
@@ -9384,7 +9384,7 @@
     "expected": "ആറ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_seven",
@@ -9393,7 +9393,7 @@
     "expected": "ഏഴ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_eight",
@@ -9402,7 +9402,7 @@
     "expected": "എട്ട്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_nine",
@@ -9411,7 +9411,7 @@
     "expected": "ഒമ്പത്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_ten",
@@ -9420,7 +9420,7 @@
     "expected": "പത്ത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_head",
@@ -9429,7 +9429,7 @@
     "expected": "തല",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_street",
@@ -9447,7 +9447,7 @@
     "expected": "ഭാഗം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_eye",
@@ -9456,7 +9456,7 @@
     "expected": "കണ്ണ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_field",
@@ -9474,7 +9474,7 @@
     "expected": "സ്ഥലം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_dance",
@@ -9483,7 +9483,7 @@
     "expected": "നൃത്തം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_word",
@@ -9492,7 +9492,7 @@
     "expected": "വാക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_pair",
@@ -9519,7 +9519,7 @@
     "expected": "പ്രകാശം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_thousand",
@@ -9537,7 +9537,7 @@
     "expected": "വടക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_machine",
@@ -9564,7 +9564,7 @@
     "expected": "സ്ഥാനം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_province",
@@ -9573,7 +9573,7 @@
     "expected": "പ്രവിശ്യ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_exchange",
@@ -9591,7 +9591,7 @@
     "expected": "മദ്ധ്യ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_color",
@@ -9600,7 +9600,7 @@
     "expected": "നിറം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_kind",
@@ -9636,7 +9636,7 @@
     "expected": "ഘടന",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_tie",
@@ -9654,7 +9654,7 @@
     "expected": "ഉദാഹരണം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_face",
@@ -9663,7 +9663,7 @@
     "expected": "മുഖം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_bridge",
@@ -9672,7 +9672,7 @@
     "expected": "പാലം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_delete",
@@ -9726,7 +9726,7 @@
     "expected": "വീട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_sun",
@@ -9735,7 +9735,7 @@
     "expected": "സൂര്യൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_meeting",
@@ -9771,7 +9771,7 @@
     "expected": "ചതുരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_generation",
@@ -9780,7 +9780,7 @@
     "expected": "തലമുറ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_south",
@@ -9789,7 +9789,7 @@
     "expected": "തെക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_virtue",
@@ -9798,7 +9798,7 @@
     "expected": "ഗുണം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_tribe",
@@ -9807,7 +9807,7 @@
     "expected": "ഗോത്രം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_city",
@@ -9816,7 +9816,7 @@
     "expected": "നഗരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_speed",
@@ -9825,7 +9825,7 @@
     "expected": "വേഗത",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_ground",
@@ -9879,7 +9879,7 @@
     "expected": "അമ്മ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_east",
@@ -9888,7 +9888,7 @@
     "expected": "കിഴക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_return",
@@ -9897,7 +9897,7 @@
     "expected": "തിരിച്ചുവരവ്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_speech",
@@ -9915,7 +9915,7 @@
     "expected": "കുട്ടി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_tower",
@@ -9933,7 +9933,7 @@
     "expected": "കുടുംബം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_person",
@@ -9969,7 +9969,7 @@
     "expected": "കല്ല്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_rise",
@@ -9978,7 +9978,7 @@
     "expected": "ഉയർച്ച",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_left",
@@ -9987,7 +9987,7 @@
     "expected": "ഇടത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_sound",
@@ -9996,7 +9996,7 @@
     "expected": "ശബ്ദം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_power",
@@ -10005,7 +10005,7 @@
     "expected": "ശക്തി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_summer",
@@ -10023,7 +10023,7 @@
     "expected": "പുസ്തകം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_cloud",
@@ -10086,7 +10086,7 @@
     "expected": "ഹൃദയം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_hand",
@@ -10095,7 +10095,7 @@
     "expected": "കൈ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_day",
@@ -10131,7 +10131,7 @@
     "expected": "ചന്ദ്രൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_wood",
@@ -10149,7 +10149,7 @@
     "expected": "ഗ്രാമം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_forest",
@@ -10167,7 +10167,7 @@
     "expected": "പഴം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_grid",
@@ -10185,7 +10185,7 @@
     "expected": "ഗാനം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_water",
@@ -10203,7 +10203,7 @@
     "expected": "കുളം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_sand",
@@ -10221,7 +10221,7 @@
     "expected": "നദി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_law",
@@ -10230,7 +10230,7 @@
     "expected": "നിയമം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_wave",
@@ -10266,7 +10266,7 @@
     "expected": "കടൽ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_lake",
@@ -10284,7 +10284,7 @@
     "expected": "ഉറവിടം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_fire",
@@ -10293,7 +10293,7 @@
     "expected": "തീ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_point",
@@ -10329,7 +10329,7 @@
     "expected": "ചിത്രം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_station",
@@ -10338,7 +10338,7 @@
     "expected": "സ്റ്റേഷൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_rice",
@@ -10356,7 +10356,7 @@
     "expected": "ചുവപ്പ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_line",
@@ -10374,7 +10374,7 @@
     "expected": "വല",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_flower",
@@ -10392,7 +10392,7 @@
     "expected": "ചായ",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_foot",
@@ -10428,7 +10428,7 @@
     "expected": "മഞ്ഞ്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_horse",
@@ -10446,7 +10446,7 @@
     "expected": "ഒന്ന്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_two",
@@ -10455,7 +10455,7 @@
     "expected": "രണ്ട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_three",
@@ -10464,7 +10464,7 @@
     "expected": "മൂന്ന്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_four",
@@ -10473,7 +10473,7 @@
     "expected": "നാല്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_five",
@@ -10482,7 +10482,7 @@
     "expected": "അഞ്ച്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_six",
@@ -10491,7 +10491,7 @@
     "expected": "ആറ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_seven",
@@ -10500,7 +10500,7 @@
     "expected": "ഏഴ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_eight",
@@ -10509,7 +10509,7 @@
     "expected": "എട്ട്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_nine",
@@ -10518,7 +10518,7 @@
     "expected": "ഒമ്പത്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_ten",
@@ -10527,7 +10527,7 @@
     "expected": "പത്ത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_head",
@@ -10536,7 +10536,7 @@
     "expected": "തല",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_shop",
@@ -10545,7 +10545,7 @@
     "expected": "കട",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_strip",
@@ -10572,7 +10572,7 @@
     "expected": "ഭാഗം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_eye",
@@ -10581,7 +10581,7 @@
     "expected": "കണ്ണ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_field",
@@ -10599,7 +10599,7 @@
     "expected": "സ്ഥലം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_dance",
@@ -10608,7 +10608,7 @@
     "expected": "നൃത്തം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_word",
@@ -10653,7 +10653,7 @@
     "expected": "ആയിരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_north",
@@ -10662,7 +10662,7 @@
     "expected": "വടക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_machine",
@@ -10680,7 +10680,7 @@
     "expected": "സമയം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_benefit",
@@ -10698,7 +10698,7 @@
     "expected": "സ്ഥാനം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_province",
@@ -10707,7 +10707,7 @@
     "expected": "പ്രവിശ്യ",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_exchange",
@@ -10725,7 +10725,7 @@
     "expected": "മദ്ധ്യ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_friend",
@@ -10734,7 +10734,7 @@
     "expected": "സുഹൃത്ത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_color",
@@ -10743,7 +10743,7 @@
     "expected": "നിറം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_kind",
@@ -10779,7 +10779,7 @@
     "expected": "ഘടന",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_tie",
@@ -10797,7 +10797,7 @@
     "expected": "ഉദാഹരണം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_face",
@@ -10806,7 +10806,7 @@
     "expected": "മുഖം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_bridge",
@@ -10815,7 +10815,7 @@
     "expected": "പാലം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_item",
@@ -10878,7 +10878,7 @@
     "expected": "വീട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_sun",
@@ -10887,7 +10887,7 @@
     "expected": "സൂര്യൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_meeting",
@@ -10905,7 +10905,7 @@
     "expected": "ചരിത്രം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_valley",
@@ -10923,7 +10923,7 @@
     "expected": "ചതുരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_generation",
@@ -10932,7 +10932,7 @@
     "expected": "തലമുറ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_south",
@@ -10941,7 +10941,7 @@
     "expected": "തെക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_virtue",
@@ -10950,7 +10950,7 @@
     "expected": "ഗുണം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_tribe",
@@ -10959,7 +10959,7 @@
     "expected": "ഗോത്രം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_city",
@@ -10968,7 +10968,7 @@
     "expected": "നഗരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_language",
@@ -10977,7 +10977,7 @@
     "expected": "ഭാഷ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_speed",
@@ -10986,7 +10986,7 @@
     "expected": "വേഗത",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_ground",
@@ -11013,7 +11013,7 @@
     "expected": "ശ്രമം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_defeat",
@@ -11040,7 +11040,7 @@
     "expected": "അമ്മ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_east",
@@ -11049,7 +11049,7 @@
     "expected": "കിഴക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_return",
@@ -11058,7 +11058,7 @@
     "expected": "തിരിച്ചുവരവ്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_speech",
@@ -11076,7 +11076,7 @@
     "expected": "കുട്ടി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_tower",
@@ -11085,7 +11085,7 @@
     "expected": "ഗോപുരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_hair",
@@ -11112,7 +11112,7 @@
     "expected": "വ്യക്തി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_section",
@@ -11139,7 +11139,7 @@
     "expected": "നൂറ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_office",
@@ -11148,7 +11148,7 @@
     "expected": "ഓഫീസ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_rock",
@@ -11157,7 +11157,7 @@
     "expected": "കല്ല്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_rise",
@@ -11166,7 +11166,7 @@
     "expected": "ഉയർച്ച",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_left",
@@ -11175,7 +11175,7 @@
     "expected": "ഇടത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_sound",
@@ -11184,7 +11184,7 @@
     "expected": "ശബ്ദം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_power",
@@ -11193,7 +11193,7 @@
     "expected": "ശക്തി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_summer",
@@ -11265,7 +11265,7 @@
     "expected": "kaii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_day",
@@ -11364,7 +11364,7 @@
     "expected": "kulam",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_sand",
@@ -11400,7 +11400,7 @@
     "expected": "samudram",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_cave",
@@ -11526,7 +11526,7 @@
     "expected": "chaaya",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_foot",
@@ -11571,7 +11571,7 @@
     "expected": "kuthira",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_one",
@@ -11697,7 +11697,7 @@
     "expected": "kannu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_field",
@@ -11733,7 +11733,7 @@
     "expected": "vaakk",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_pair",
@@ -12012,7 +12012,7 @@
     "expected": "chathuram",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_generation",
@@ -12174,7 +12174,7 @@
     "expected": "kudumbam",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_person",
@@ -12210,7 +12210,7 @@
     "expected": "kallu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_rise",
@@ -12336,7 +12336,7 @@
     "expected": "kaii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_day",
@@ -12444,7 +12444,7 @@
     "expected": "kulam",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_sand",
@@ -12489,7 +12489,7 @@
     "expected": "samudram",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_cave",
@@ -12534,7 +12534,7 @@
     "expected": "thee",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_point",
@@ -12822,7 +12822,7 @@
     "expected": "kannu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_field",
@@ -12858,7 +12858,7 @@
     "expected": "vaakk",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_pair",
@@ -13164,7 +13164,7 @@
     "expected": "chathuram",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_generation",
@@ -13209,7 +13209,7 @@
     "expected": "nagaram",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_language",
@@ -13218,7 +13218,7 @@
     "expected": "bhasha",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_speed",
@@ -13344,7 +13344,7 @@
     "expected": "kudumbam",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_person",
@@ -13398,7 +13398,7 @@
     "expected": "kallu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_rise",

@@ -81,7 +81,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_cloud",
@@ -138,7 +138,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_cloud",
@@ -251,7 +251,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_bag",
@@ -421,7 +421,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_mouth",
@@ -478,7 +478,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_mouth",
@@ -591,7 +591,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_soil",
@@ -761,7 +761,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_mountain",
@@ -789,7 +789,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_mountain",
@@ -818,7 +818,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_mountain",
@@ -875,7 +875,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_heart",
@@ -988,7 +988,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_heart",
@@ -1045,7 +1045,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_hand",
@@ -1073,7 +1073,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_hand",
@@ -1101,7 +1101,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_hand",
@@ -1129,7 +1129,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_hand",
@@ -1158,7 +1158,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_hand",
@@ -1187,7 +1187,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_day",
@@ -1271,7 +1271,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_day",
@@ -1328,7 +1328,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_day",
@@ -1385,7 +1385,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_star",
@@ -1498,7 +1498,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_star",
@@ -1527,7 +1527,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_spring",
@@ -1725,7 +1725,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_moon",
@@ -1781,7 +1781,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_moon",
@@ -1838,7 +1838,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_moon",
@@ -1895,7 +1895,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_wood",
@@ -1951,7 +1951,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_wood",
@@ -2037,7 +2037,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_village",
@@ -2121,7 +2121,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_village",
@@ -2178,7 +2178,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_village",
@@ -2235,7 +2235,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_forest",
@@ -2405,7 +2405,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_fruit",
@@ -2461,7 +2461,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_fruit",
@@ -2518,7 +2518,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_fruit",
@@ -2547,7 +2547,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_grid",
@@ -2745,7 +2745,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_song",
@@ -2801,7 +2801,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_song",
@@ -2829,7 +2829,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_song",
@@ -2858,7 +2858,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_song",
@@ -2915,7 +2915,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_pond",
@@ -2943,7 +2943,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_pond",
@@ -2999,7 +2999,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_pond",
@@ -3028,7 +3028,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_pond",
@@ -3057,7 +3057,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_sand",
@@ -3198,7 +3198,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_sand",
@@ -3255,7 +3255,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_law",
@@ -3311,7 +3311,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_law",
@@ -3368,7 +3368,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_law",
@@ -3623,7 +3623,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_ocean",
@@ -3651,7 +3651,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_ocean",
@@ -3708,7 +3708,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_ocean",
@@ -3849,7 +3849,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_cave",
@@ -3907,7 +3907,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_sea",
@@ -3935,7 +3935,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_sea",
@@ -3991,7 +3991,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_sea",
@@ -4019,7 +4019,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_sea",
@@ -4048,7 +4048,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_sea",
@@ -4189,7 +4189,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_lake",
@@ -4275,7 +4275,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_source",
@@ -4331,7 +4331,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_source",
@@ -4501,7 +4501,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_point",
@@ -4558,7 +4558,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_point",
@@ -4671,7 +4671,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_version",
@@ -4955,7 +4955,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_station",
@@ -5068,7 +5068,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_station",
@@ -5181,7 +5181,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_rice",
@@ -5209,7 +5209,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_rice",
@@ -5238,7 +5238,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_rice",
@@ -5295,7 +5295,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_red",
@@ -5351,7 +5351,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_red",
@@ -5408,7 +5408,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_red",
@@ -5521,7 +5521,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_line",
@@ -5748,7 +5748,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_net",
@@ -5861,7 +5861,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_flower",
@@ -5889,7 +5889,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_flower",
@@ -5918,7 +5918,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_flower",
@@ -5975,7 +5975,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_tea",
@@ -6031,7 +6031,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_tea",
@@ -6201,7 +6201,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_foot",
@@ -6371,7 +6371,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_gold",
@@ -6541,7 +6541,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_door",
@@ -6569,7 +6569,7 @@
     "kept": false,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_door",
@@ -6598,7 +6598,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_door",
@@ -6655,7 +6655,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_snow",
@@ -6711,7 +6711,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_snow",
@@ -6797,7 +6797,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_horse",
@@ -6881,7 +6881,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_horse",
@@ -6909,7 +6909,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_horse",
@@ -6938,7 +6938,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_horse",
@@ -6967,7 +6967,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_one",
@@ -7051,7 +7051,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_one",
@@ -7165,7 +7165,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_two",
@@ -7221,7 +7221,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_two",
@@ -7278,7 +7278,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_two",
@@ -7335,7 +7335,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_three",
@@ -7391,7 +7391,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_three",
@@ -7448,7 +7448,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_three",
@@ -7505,7 +7505,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_four",
@@ -7561,7 +7561,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_four",
@@ -7618,7 +7618,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_four",
@@ -7675,7 +7675,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_five",
@@ -7759,7 +7759,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_five",
@@ -7788,7 +7788,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_five",
@@ -7845,7 +7845,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_six",
@@ -7901,7 +7901,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_six",
@@ -7929,7 +7929,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_six",
@@ -7958,7 +7958,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_six",
@@ -8015,7 +8015,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_seven",
@@ -8071,7 +8071,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_seven",
@@ -8128,7 +8128,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_seven",
@@ -8185,7 +8185,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_eight",
@@ -8241,7 +8241,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_eight",
@@ -8269,7 +8269,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_eight",
@@ -8298,7 +8298,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_eight",
@@ -8411,7 +8411,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_nine",
@@ -8439,7 +8439,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_nine",
@@ -8468,7 +8468,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_nine",
@@ -8525,7 +8525,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_ten",
@@ -8581,7 +8581,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_ten",
@@ -8638,7 +8638,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_ten",
@@ -8695,7 +8695,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_head",
@@ -8751,7 +8751,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_head",
@@ -8808,7 +8808,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_head",
@@ -8978,7 +8978,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_street",
@@ -9035,7 +9035,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_part",
@@ -9148,7 +9148,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_part",
@@ -9205,7 +9205,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_eye",
@@ -9233,7 +9233,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_eye",
@@ -9261,7 +9261,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_eye",
@@ -9318,7 +9318,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_eye",
@@ -9347,7 +9347,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_field",
@@ -9545,7 +9545,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_site",
@@ -9601,7 +9601,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_site",
@@ -9629,7 +9629,7 @@
     "kept": false,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_site",
@@ -9658,7 +9658,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_site",
@@ -9715,7 +9715,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_dance",
@@ -9771,7 +9771,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_dance",
@@ -9828,7 +9828,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_dance",
@@ -9885,7 +9885,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_word",
@@ -9941,7 +9941,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_word",
@@ -9998,7 +9998,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_word",
@@ -10139,7 +10139,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_pair",
@@ -10451,7 +10451,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_light",
@@ -10508,7 +10508,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_light",
@@ -10621,7 +10621,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_thousand",
@@ -10678,7 +10678,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_thousand",
@@ -10735,7 +10735,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_north",
@@ -10791,7 +10791,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_north",
@@ -10848,7 +10848,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_north",
@@ -11018,7 +11018,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_machine",
@@ -11131,7 +11131,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_time",
@@ -11188,7 +11188,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_time",
@@ -11245,7 +11245,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_position",
@@ -11301,7 +11301,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_position",
@@ -11415,7 +11415,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_province",
@@ -11698,7 +11698,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_exchange",
@@ -11755,7 +11755,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_middle",
@@ -11811,7 +11811,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_middle",
@@ -11839,7 +11839,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_middle",
@@ -11925,7 +11925,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_color",
@@ -11981,7 +11981,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_color",
@@ -12038,7 +12038,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_color",
@@ -12321,7 +12321,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_judge",
@@ -12378,7 +12378,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_judge",
@@ -12435,7 +12435,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_school",
@@ -12463,7 +12463,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_school",
@@ -12548,7 +12548,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_school",
@@ -12605,7 +12605,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_structure",
@@ -12718,7 +12718,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_structure",
@@ -12747,7 +12747,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_tie",
@@ -12945,7 +12945,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_example",
@@ -13001,7 +13001,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_example",
@@ -13058,7 +13058,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_example",
@@ -13115,7 +13115,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_face",
@@ -13285,7 +13285,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_bridge",
@@ -13341,7 +13341,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_bridge",
@@ -13398,7 +13398,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_bridge",
@@ -13511,7 +13511,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_delete",
@@ -13681,7 +13681,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_group",
@@ -13738,7 +13738,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_group",
@@ -13767,7 +13767,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_talent",
@@ -13908,7 +13908,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_talent",
@@ -14049,7 +14049,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_beauty",
@@ -14305,7 +14305,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_house",
@@ -14361,7 +14361,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_house",
@@ -14389,7 +14389,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_house",
@@ -14418,7 +14418,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_house",
@@ -14475,7 +14475,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_sun",
@@ -14559,7 +14559,7 @@
     "kept": false,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_sun",
@@ -14588,7 +14588,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_sun",
@@ -14758,7 +14758,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_meeting",
@@ -14815,7 +14815,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_history",
@@ -14871,7 +14871,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_history",
@@ -14899,7 +14899,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_history",
@@ -14928,7 +14928,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_history",
@@ -15155,7 +15155,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_square",
@@ -15183,7 +15183,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_square",
@@ -15211,7 +15211,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_square",
@@ -15325,7 +15325,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_generation",
@@ -15438,7 +15438,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_generation",
@@ -15495,7 +15495,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_south",
@@ -15551,7 +15551,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_south",
@@ -15608,7 +15608,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_south",
@@ -15665,7 +15665,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_virtue",
@@ -15721,7 +15721,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_virtue",
@@ -16005,7 +16005,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_city",
@@ -16061,7 +16061,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_city",
@@ -16118,7 +16118,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_city",
@@ -16175,7 +16175,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_speed",
@@ -16231,7 +16231,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_speed",
@@ -16288,7 +16288,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_speed",
@@ -16571,7 +16571,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_advance",
@@ -16599,7 +16599,7 @@
     "kept": false,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_advance",
@@ -16628,7 +16628,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_advance",
@@ -16741,7 +16741,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_attempt",
@@ -16798,7 +16798,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_attempt",
@@ -16855,7 +16855,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_defeat",
@@ -16911,7 +16911,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_defeat",
@@ -16968,7 +16968,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_defeat",
@@ -17138,7 +17138,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_tail",
@@ -17195,7 +17195,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_mother",
@@ -17223,7 +17223,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_mother",
@@ -17251,7 +17251,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_mother",
@@ -17365,7 +17365,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_east",
@@ -17393,7 +17393,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_east",
@@ -17421,7 +17421,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_east",
@@ -17478,7 +17478,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_east",
@@ -17591,7 +17591,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_return",
@@ -17648,7 +17648,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_return",
@@ -17875,7 +17875,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_child",
@@ -17931,7 +17931,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_child",
@@ -17988,7 +17988,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_child",
@@ -18215,7 +18215,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_household",
@@ -18243,7 +18243,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_household",
@@ -18328,7 +18328,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_household",
@@ -18441,7 +18441,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_person",
@@ -18668,7 +18668,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_section",
@@ -18895,7 +18895,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_rock",
@@ -18923,7 +18923,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_rock",
@@ -19008,7 +19008,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_rock",
@@ -19065,7 +19065,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_rise",
@@ -19121,7 +19121,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_rise",
@@ -19178,7 +19178,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_rise",
@@ -19235,7 +19235,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_left",
@@ -19319,7 +19319,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_left",
@@ -19348,7 +19348,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_left",
@@ -19405,7 +19405,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_sound",
@@ -19461,7 +19461,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_sound",
@@ -19575,7 +19575,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_power",
@@ -19631,7 +19631,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_power",
@@ -19659,7 +19659,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_power",
@@ -19887,7 +19887,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_book",
@@ -19914,7 +19914,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_book",
@@ -19968,7 +19968,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_book",
@@ -20023,7 +20023,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_book",
@@ -20132,7 +20132,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_cloud",
@@ -20187,7 +20187,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_cloud",
@@ -20296,7 +20296,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_bag",
@@ -20323,7 +20323,7 @@
     "kept": false,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_bag",
@@ -20379,7 +20379,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_mouth",
@@ -20460,7 +20460,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_mouth",
@@ -20515,7 +20515,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_mouth",
@@ -20570,7 +20570,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_soil",
@@ -20624,7 +20624,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_soil",
@@ -20679,7 +20679,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_soil",
@@ -20788,7 +20788,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_mountain",
@@ -20843,7 +20843,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_mountain",
@@ -20952,7 +20952,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_cloth",
@@ -20979,7 +20979,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_cloth",
@@ -21062,7 +21062,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_heart",
@@ -21171,7 +21171,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_heart",
@@ -21226,7 +21226,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_hand",
@@ -21253,7 +21253,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_hand",
@@ -21280,7 +21280,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_hand",
@@ -21307,7 +21307,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_hand",
@@ -21335,7 +21335,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_hand",
@@ -21363,7 +21363,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_day",
@@ -21444,7 +21444,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_day",
@@ -21499,7 +21499,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_day",
@@ -21527,7 +21527,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_star",
@@ -21663,7 +21663,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_star",
@@ -21882,7 +21882,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_moon",
@@ -21936,7 +21936,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_moon",
@@ -22100,7 +22100,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_wood",
@@ -22210,7 +22210,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_village",
@@ -22264,7 +22264,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_village",
@@ -22319,7 +22319,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_village",
@@ -22374,7 +22374,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_forest",
@@ -22538,7 +22538,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_fruit",
@@ -22592,7 +22592,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_fruit",
@@ -22647,7 +22647,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_fruit",
@@ -22675,7 +22675,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_grid",
@@ -22811,7 +22811,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_grid",
@@ -22866,7 +22866,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_song",
@@ -22920,7 +22920,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_song",
@@ -22947,7 +22947,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_song",
@@ -22975,7 +22975,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_song",
@@ -23084,7 +23084,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_water",
@@ -23139,7 +23139,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_water",
@@ -23167,7 +23167,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_pond",
@@ -23194,7 +23194,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_pond",
@@ -23275,7 +23275,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_pond",
@@ -23303,7 +23303,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_pond",
@@ -23467,7 +23467,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_sand",
@@ -23522,7 +23522,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_river",
@@ -23576,7 +23576,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_river",
@@ -23686,7 +23686,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_law",
@@ -23740,7 +23740,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_law",
@@ -23795,7 +23795,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_law",
@@ -24041,7 +24041,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_ocean",
@@ -24068,7 +24068,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_ocean",
@@ -24123,7 +24123,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_ocean",
@@ -24315,7 +24315,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_sea",
@@ -24342,7 +24342,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_sea",
@@ -24396,7 +24396,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_sea",
@@ -24423,7 +24423,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_sea",
@@ -24451,7 +24451,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_sea",
@@ -24587,7 +24587,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_lake",
@@ -24670,7 +24670,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_source",
@@ -24724,7 +24724,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_source",
@@ -24779,7 +24779,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_source",
@@ -24834,7 +24834,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_fire",
@@ -24888,7 +24888,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_fire",
@@ -24915,7 +24915,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_fire",
@@ -24943,7 +24943,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_fire",
@@ -25052,7 +25052,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_point",
@@ -25107,7 +25107,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_point",
@@ -25216,7 +25216,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_version",
@@ -25490,7 +25490,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_painting",
@@ -25544,7 +25544,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_painting",
@@ -25599,7 +25599,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_painting",
@@ -25654,7 +25654,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_station",
@@ -25708,7 +25708,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_station",
@@ -25763,7 +25763,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_station",
@@ -25872,7 +25872,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_rice",
@@ -25899,7 +25899,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_rice",
@@ -25982,7 +25982,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_red",
@@ -26036,7 +26036,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_red",
@@ -26091,7 +26091,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_red",
@@ -26200,7 +26200,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_line",
@@ -26419,7 +26419,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_net",
@@ -26528,7 +26528,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_flower",
@@ -26555,7 +26555,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_flower",
@@ -26583,7 +26583,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_flower",
@@ -26638,7 +26638,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_tea",
@@ -26692,7 +26692,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_tea",
@@ -27020,7 +27020,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_gold",
@@ -27184,7 +27184,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_door",
@@ -27239,7 +27239,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_door",
@@ -27294,7 +27294,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_snow",
@@ -27348,7 +27348,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_snow",
@@ -27431,7 +27431,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_horse",
@@ -27512,7 +27512,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_horse",
@@ -27539,7 +27539,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_horse",
@@ -27567,7 +27567,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_horse",
@@ -27622,7 +27622,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_one",
@@ -27676,7 +27676,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_one",
@@ -27731,7 +27731,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_one",
@@ -27786,7 +27786,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_two",
@@ -27840,7 +27840,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_two",
@@ -27895,7 +27895,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_two",
@@ -27950,7 +27950,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_three",
@@ -28004,7 +28004,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_three",
@@ -28031,7 +28031,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_three",
@@ -28059,7 +28059,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_three",
@@ -28114,7 +28114,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_four",
@@ -28168,7 +28168,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_four",
@@ -28223,7 +28223,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_four",
@@ -28278,7 +28278,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_five",
@@ -28359,7 +28359,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_five",
@@ -28387,7 +28387,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_five",
@@ -28442,7 +28442,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_six",
@@ -28496,7 +28496,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_six",
@@ -28523,7 +28523,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_six",
@@ -28551,7 +28551,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_six",
@@ -28606,7 +28606,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_seven",
@@ -28660,7 +28660,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_seven",
@@ -28715,7 +28715,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_seven",
@@ -28770,7 +28770,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_eight",
@@ -28824,7 +28824,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_eight",
@@ -28851,7 +28851,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_eight",
@@ -28879,7 +28879,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_eight",
@@ -28988,7 +28988,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_nine",
@@ -29015,7 +29015,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_nine",
@@ -29043,7 +29043,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_nine",
@@ -29098,7 +29098,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_ten",
@@ -29152,7 +29152,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_ten",
@@ -29207,7 +29207,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_ten",
@@ -29262,7 +29262,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_head",
@@ -29316,7 +29316,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_head",
@@ -29371,7 +29371,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_head",
@@ -29480,7 +29480,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_shop",
@@ -29644,7 +29644,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_strip",
@@ -29808,7 +29808,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_street",
@@ -29918,7 +29918,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_part",
@@ -30027,7 +30027,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_part",
@@ -30082,7 +30082,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_eye",
@@ -30109,7 +30109,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_eye",
@@ -30136,7 +30136,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_eye",
@@ -30191,7 +30191,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_eye",
@@ -30219,7 +30219,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_field",
@@ -30519,7 +30519,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_site",
@@ -30574,7 +30574,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_dance",
@@ -30683,7 +30683,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_dance",
@@ -30792,7 +30792,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_word",
@@ -30847,7 +30847,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_word",
@@ -30983,7 +30983,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_pair",
@@ -31284,7 +31284,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_light",
@@ -31339,7 +31339,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_light",
@@ -31394,7 +31394,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_thousand",
@@ -31448,7 +31448,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_thousand",
@@ -31503,7 +31503,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_thousand",
@@ -31558,7 +31558,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_north",
@@ -31612,7 +31612,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_north",
@@ -31639,7 +31639,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_north",
@@ -31667,7 +31667,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_north",
@@ -31831,7 +31831,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_machine",
@@ -31886,7 +31886,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_time",
@@ -31940,7 +31940,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_time",
@@ -31995,7 +31995,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_time",
@@ -32104,7 +32104,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_benefit",
@@ -32159,7 +32159,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_benefit",
@@ -32214,7 +32214,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_position",
@@ -32268,7 +32268,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_position",
@@ -32378,7 +32378,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_province",
@@ -32706,7 +32706,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_middle",
@@ -32760,7 +32760,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_middle",
@@ -32787,7 +32787,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_middle",
@@ -32815,7 +32815,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_middle",
@@ -32924,7 +32924,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_friend",
@@ -32979,7 +32979,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_friend",
@@ -33088,7 +33088,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_color",
@@ -33143,7 +33143,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_color",
@@ -33416,7 +33416,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_judge",
@@ -33471,7 +33471,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_judge",
@@ -33526,7 +33526,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_school",
@@ -33553,7 +33553,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_school",
@@ -33635,7 +33635,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_school",
@@ -33690,7 +33690,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_structure",
@@ -33991,7 +33991,7 @@
     "kept": false,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_example",
@@ -34018,7 +34018,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_example",
@@ -34072,7 +34072,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_example",
@@ -34127,7 +34127,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_example",
@@ -34182,7 +34182,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_face",
@@ -34346,7 +34346,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_bridge",
@@ -34400,7 +34400,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_bridge",
@@ -34455,7 +34455,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_bridge",
@@ -34564,7 +34564,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_item",
@@ -34619,7 +34619,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_item",
@@ -34728,7 +34728,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_delete",
@@ -34892,7 +34892,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_group",
@@ -34947,7 +34947,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_group",
@@ -34975,7 +34975,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_talent",
@@ -35056,7 +35056,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_talent",
@@ -35111,7 +35111,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_talent",
@@ -35247,7 +35247,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_beauty",
@@ -35494,7 +35494,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_house",
@@ -35548,7 +35548,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_house",
@@ -35575,7 +35575,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_house",
@@ -35603,7 +35603,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_house",
@@ -35658,7 +35658,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_sun",
@@ -35739,7 +35739,7 @@
     "kept": false,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_sun",
@@ -35767,7 +35767,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_sun",
@@ -35876,7 +35876,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_meeting",
@@ -35931,7 +35931,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_meeting",
@@ -35986,7 +35986,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_history",
@@ -36040,7 +36040,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_history",
@@ -36067,7 +36067,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_history",
@@ -36095,7 +36095,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_history",
@@ -36314,7 +36314,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_square",
@@ -36368,7 +36368,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_square",
@@ -36423,7 +36423,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_square",
@@ -36478,7 +36478,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_generation",
@@ -36587,7 +36587,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_generation",
@@ -36642,7 +36642,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_south",
@@ -36696,7 +36696,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_south",
@@ -36723,7 +36723,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_south",
@@ -36751,7 +36751,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_south",
@@ -36806,7 +36806,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_virtue",
@@ -36915,7 +36915,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_virtue",
@@ -37134,7 +37134,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_city",
@@ -37188,7 +37188,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_city",
@@ -37243,7 +37243,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_city",
@@ -37271,7 +37271,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_language",
@@ -37298,7 +37298,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_language",
@@ -37325,7 +37325,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_language",
@@ -37352,7 +37352,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_language",
@@ -37379,7 +37379,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_language",
@@ -37407,7 +37407,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_language",
@@ -37462,7 +37462,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_speed",
@@ -37516,7 +37516,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_speed",
@@ -37571,7 +37571,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_speed",
@@ -37680,7 +37680,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_ground",
@@ -37844,7 +37844,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_advance",
@@ -37871,7 +37871,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_advance",
@@ -37899,7 +37899,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_advance",
@@ -38008,7 +38008,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_attempt",
@@ -38063,7 +38063,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_attempt",
@@ -38172,7 +38172,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_defeat",
@@ -38227,7 +38227,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_defeat",
@@ -38336,7 +38336,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_tail",
@@ -38391,7 +38391,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_tail",
@@ -38446,7 +38446,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_mother",
@@ -38473,7 +38473,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_mother",
@@ -38500,7 +38500,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_mother",
@@ -38610,7 +38610,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_east",
@@ -38664,7 +38664,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_east",
@@ -38719,7 +38719,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_east",
@@ -38774,7 +38774,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_return",
@@ -38828,7 +38828,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_return",
@@ -38883,7 +38883,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_return",
@@ -39102,7 +39102,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_child",
@@ -39156,7 +39156,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_child",
@@ -39211,7 +39211,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_child",
@@ -39239,7 +39239,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_tower",
@@ -39484,7 +39484,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_hair",
@@ -39539,7 +39539,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_hair",
@@ -39621,7 +39621,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_household",
@@ -39703,7 +39703,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_household",
@@ -39812,7 +39812,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_person",
@@ -40031,7 +40031,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_section",
@@ -40195,7 +40195,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_official",
@@ -40250,7 +40250,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_hundred",
@@ -40304,7 +40304,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_hundred",
@@ -40359,7 +40359,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_hundred",
@@ -40414,7 +40414,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_office",
@@ -40468,7 +40468,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_office",
@@ -40523,7 +40523,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_office",
@@ -40578,7 +40578,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_rock",
@@ -40605,7 +40605,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_rock",
@@ -40742,7 +40742,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_rise",
@@ -40796,7 +40796,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_rise",
@@ -40823,7 +40823,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_rise",
@@ -40851,7 +40851,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_rise",
@@ -40906,7 +40906,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_left",
@@ -40987,7 +40987,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_left",
@@ -41015,7 +41015,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_left",
@@ -41070,7 +41070,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_sound",
@@ -41124,7 +41124,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_sound",
@@ -41179,7 +41179,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_sound",
@@ -41234,7 +41234,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_power",
@@ -41288,7 +41288,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_power",
@@ -41315,7 +41315,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_power",
@@ -41452,7 +41452,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_summer",

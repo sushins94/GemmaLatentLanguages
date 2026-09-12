@@ -81,7 +81,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_mouth",
@@ -249,7 +249,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_day",
@@ -473,7 +473,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_grid",
@@ -557,7 +557,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_pond",
@@ -585,7 +585,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_sand",
@@ -753,7 +753,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_sea",
@@ -1089,7 +1089,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_net",
@@ -1313,7 +1313,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_one",
@@ -1761,7 +1761,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_field",
@@ -3805,7 +3805,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_soil",
@@ -3833,7 +3833,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_mountain",
@@ -3889,7 +3889,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_heart",
@@ -4085,7 +4085,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_village",
@@ -4169,7 +4169,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_grid",
@@ -4281,7 +4281,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_sand",
@@ -4477,7 +4477,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_lake",
@@ -4617,7 +4617,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_ball",
@@ -4729,7 +4729,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_red",
@@ -5009,7 +5009,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_one",
@@ -5037,7 +5037,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_two",
@@ -5121,7 +5121,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_five",
@@ -5317,7 +5317,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_shop",
@@ -5373,7 +5373,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_street",
@@ -5457,7 +5457,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_field",
@@ -5597,7 +5597,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_seat",
@@ -5709,7 +5709,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_machine",
@@ -5961,7 +5961,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_kind",
@@ -6185,7 +6185,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_item",
@@ -6381,7 +6381,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_sun",
@@ -6549,7 +6549,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_south",
@@ -6661,7 +6661,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_language",
@@ -6745,7 +6745,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_advance",
@@ -6773,7 +6773,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_attempt",
@@ -6941,7 +6941,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_speech",
@@ -7053,7 +7053,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_household",
@@ -7193,7 +7193,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_office",
@@ -7277,7 +7277,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_left",
@@ -7305,7 +7305,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_sound",
@@ -7865,7 +7865,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_grid",
@@ -7921,7 +7921,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_water",
@@ -8145,7 +8145,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_sea",
@@ -8173,7 +8173,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_lake",
@@ -8285,7 +8285,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_version",
@@ -8369,7 +8369,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_station",
@@ -8481,7 +8481,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_net",
@@ -8537,7 +8537,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_tea",
@@ -8705,7 +8705,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_one",
@@ -9209,7 +9209,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_dance",
@@ -9293,7 +9293,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_seat",
@@ -9433,7 +9433,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_time",
@@ -9601,7 +9601,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_friend",
@@ -9685,7 +9685,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_judge",
@@ -9741,7 +9741,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_structure",
@@ -9909,7 +9909,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_delete",
@@ -9993,7 +9993,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_beauty",
@@ -10077,7 +10077,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_sun",
@@ -10385,7 +10385,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_speed",
@@ -10777,7 +10777,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_person",
@@ -10805,7 +10805,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_section",
@@ -11057,7 +11057,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_summer",

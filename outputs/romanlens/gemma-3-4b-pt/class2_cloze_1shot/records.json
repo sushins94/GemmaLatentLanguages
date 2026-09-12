@@ -53,7 +53,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_bag",
@@ -81,7 +81,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_mouth",
@@ -165,7 +165,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_cloth",
@@ -277,7 +277,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_star",
@@ -361,7 +361,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_wood",
@@ -389,7 +389,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_village",
@@ -417,7 +417,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_forest",
@@ -473,7 +473,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_grid",
@@ -557,7 +557,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_pond",
@@ -641,7 +641,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_law",
@@ -669,7 +669,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_wave",
@@ -725,7 +725,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_cave",
@@ -1005,7 +1005,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_rice",
@@ -1033,7 +1033,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_red",
@@ -1061,7 +1061,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_line",
@@ -1089,7 +1089,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_net",
@@ -1173,7 +1173,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_foot",
@@ -1229,7 +1229,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_door",
@@ -1257,7 +1257,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_snow",
@@ -1285,7 +1285,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_horse",
@@ -1313,7 +1313,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_one",
@@ -1425,7 +1425,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_five",
@@ -1481,7 +1481,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_seven",
@@ -1509,7 +1509,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_eight",
@@ -1537,7 +1537,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_nine",
@@ -1565,7 +1565,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_ten",
@@ -1593,7 +1593,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_head",
@@ -1621,7 +1621,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_shop",
@@ -1649,7 +1649,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_strip",
@@ -1705,7 +1705,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_part",
@@ -1761,7 +1761,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_field",
@@ -2013,7 +2013,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_machine",
@@ -2209,7 +2209,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_friend",
@@ -2237,7 +2237,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_color",
@@ -2321,7 +2321,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_school",
@@ -2489,7 +2489,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_item",
@@ -2573,7 +2573,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_talent",
@@ -2685,7 +2685,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_sun",
@@ -2713,7 +2713,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_meeting",
@@ -2769,7 +2769,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_valley",
@@ -2797,7 +2797,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_square",
@@ -2825,7 +2825,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_generation",
@@ -2881,7 +2881,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_virtue",
@@ -2965,7 +2965,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_language",
@@ -3133,7 +3133,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_tail",
@@ -3161,7 +3161,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_mother",
@@ -3189,7 +3189,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_east",
@@ -3413,7 +3413,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_section",
@@ -3525,7 +3525,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_rock",
@@ -3581,7 +3581,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_left",
@@ -3665,7 +3665,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_summer",
@@ -4281,7 +4281,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_sand",
@@ -4729,7 +4729,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_red",
@@ -4953,7 +4953,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_snow",
@@ -6381,7 +6381,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_sun",
@@ -7221,7 +7221,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_rock",
@@ -7557,7 +7557,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_cloth",
@@ -7613,7 +7613,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_hand",
@@ -7669,7 +7669,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_star",
@@ -7697,7 +7697,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_spring",
@@ -7753,7 +7753,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_wood",
@@ -7809,7 +7809,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_forest",
@@ -7837,7 +7837,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_fruit",
@@ -7977,7 +7977,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_sand",
@@ -8005,7 +8005,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_river",
@@ -8033,7 +8033,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_law",
@@ -8061,7 +8061,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_wave",
@@ -8453,7 +8453,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_line",
@@ -8593,7 +8593,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_gold",
@@ -8649,7 +8649,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_snow",
@@ -8705,7 +8705,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_one",
@@ -8901,7 +8901,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_eight",
@@ -8929,7 +8929,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_nine",
@@ -8957,7 +8957,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_ten",
@@ -9013,7 +9013,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_shop",
@@ -9041,7 +9041,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_strip",
@@ -9153,7 +9153,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_field",
@@ -9237,7 +9237,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_word",
@@ -9405,7 +9405,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_machine",
@@ -9461,7 +9461,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_benefit",
@@ -9573,7 +9573,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_middle",
@@ -9629,7 +9629,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_color",
@@ -9713,7 +9713,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_school",
@@ -9741,7 +9741,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_structure",
@@ -9769,7 +9769,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_tie",
@@ -9825,7 +9825,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_face",
@@ -9881,7 +9881,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_item",
@@ -9965,7 +9965,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_talent",
@@ -10105,7 +10105,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_meeting",
@@ -10133,7 +10133,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_history",
@@ -10273,7 +10273,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_virtue",
@@ -10357,7 +10357,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_language",
@@ -10413,7 +10413,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_ground",
@@ -10497,7 +10497,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_defeat",
@@ -10525,7 +10525,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_tail",
@@ -10833,7 +10833,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_official",
@@ -10861,7 +10861,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_hundred",
@@ -10889,7 +10889,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_office",
@@ -11001,7 +11001,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_sound",
@@ -11337,7 +11337,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_rom_ta_roman_day",
@@ -14809,7 +14809,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_cloud",
@@ -15005,7 +15005,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_hand",
@@ -15257,7 +15257,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_grid",
@@ -15313,7 +15313,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_water",
@@ -15425,7 +15425,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_law",
@@ -15453,7 +15453,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_wave",
@@ -15509,7 +15509,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_cave",
@@ -15789,7 +15789,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_rice",
@@ -15817,7 +15817,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_red",
@@ -15929,7 +15929,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_tea",
@@ -15957,7 +15957,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_foot",
@@ -16069,7 +16069,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_horse",
@@ -16181,7 +16181,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_four",
@@ -16237,7 +16237,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_six",
@@ -16321,7 +16321,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_nine",
@@ -16349,7 +16349,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_ten",
@@ -16405,7 +16405,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_shop",
@@ -16461,7 +16461,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_street",
@@ -16545,7 +16545,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_field",
@@ -16601,7 +16601,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_dance",
@@ -16797,7 +16797,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_machine",
@@ -16853,7 +16853,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_benefit",
@@ -17133,7 +17133,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_structure",
@@ -17217,7 +17217,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_face",
@@ -17245,7 +17245,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_bridge",
@@ -17273,7 +17273,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_item",
@@ -17469,7 +17469,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_sun",
@@ -17497,7 +17497,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_meeting",
@@ -17553,7 +17553,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_valley",
@@ -17665,7 +17665,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_virtue",
@@ -17693,7 +17693,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_tribe",
@@ -17749,7 +17749,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_language",
@@ -17777,7 +17777,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_speed",
@@ -17889,7 +17889,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_defeat",
@@ -17973,7 +17973,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_east",
@@ -18001,7 +18001,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_return",
@@ -18085,7 +18085,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_tower",
@@ -18197,7 +18197,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_section",
@@ -18225,7 +18225,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_official",
@@ -18309,7 +18309,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_rock",
@@ -18337,7 +18337,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_rise",
@@ -18365,7 +18365,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_left",
@@ -18393,7 +18393,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_sound",
@@ -18421,7 +18421,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_power",
@@ -19205,7 +19205,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_cave",
@@ -19457,7 +19457,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_station",
@@ -19765,7 +19765,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_horse",
@@ -20241,7 +20241,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_field",
@@ -20605,7 +20605,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_province",
@@ -21053,7 +21053,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_talent",
@@ -21445,7 +21445,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_language",
@@ -21473,7 +21473,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_speed",
@@ -21669,7 +21669,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_east",
@@ -22033,7 +22033,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_rise",

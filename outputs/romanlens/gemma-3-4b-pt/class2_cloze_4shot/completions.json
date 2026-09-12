@@ -6,7 +6,7 @@
     "expected": "पुस्तक",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_cloud",
@@ -15,7 +15,7 @@
     "expected": "बादल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_bag",
@@ -33,7 +33,7 @@
     "expected": "मुंह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_soil",
@@ -51,7 +51,7 @@
     "expected": "पर्वत",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_cloth",
@@ -78,7 +78,7 @@
     "expected": "हाथ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_day",
@@ -87,7 +87,7 @@
     "expected": "दिन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_star",
@@ -114,7 +114,7 @@
     "expected": "चंद्रमा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_wood",
@@ -123,7 +123,7 @@
     "expected": "लकड़ी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_village",
@@ -132,7 +132,7 @@
     "expected": "गांव",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_forest",
@@ -150,7 +150,7 @@
     "expected": "फल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_grid",
@@ -177,7 +177,7 @@
     "expected": "पानी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_pond",
@@ -204,7 +204,7 @@
     "expected": "नदी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_law",
@@ -213,7 +213,7 @@
     "expected": "कानून",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_wave",
@@ -231,7 +231,7 @@
     "expected": "महासागर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_cave",
@@ -249,7 +249,7 @@
     "expected": "समुद्र",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_lake",
@@ -312,7 +312,7 @@
     "expected": "चित्रकारी",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_station",
@@ -321,7 +321,7 @@
     "expected": "स्टेशन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_rice",
@@ -330,7 +330,7 @@
     "expected": "चावल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_red",
@@ -339,7 +339,7 @@
     "expected": "लाल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_line",
@@ -348,7 +348,7 @@
     "expected": "रेखा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_net",
@@ -366,7 +366,7 @@
     "expected": "फूल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_tea",
@@ -393,7 +393,7 @@
     "expected": "सोना",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_door",
@@ -402,7 +402,7 @@
     "expected": "दरवाजा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_snow",
@@ -411,7 +411,7 @@
     "expected": "हिम",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_horse",
@@ -420,7 +420,7 @@
     "expected": "घोड़ा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_one",
@@ -438,7 +438,7 @@
     "expected": "दो",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_three",
@@ -456,7 +456,7 @@
     "expected": "चार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_five",
@@ -474,7 +474,7 @@
     "expected": "छह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_seven",
@@ -483,7 +483,7 @@
     "expected": "सात",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_eight",
@@ -492,7 +492,7 @@
     "expected": "आठ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_nine",
@@ -501,7 +501,7 @@
     "expected": "नौ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_ten",
@@ -510,7 +510,7 @@
     "expected": "दस",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_head",
@@ -519,7 +519,7 @@
     "expected": "सिर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_shop",
@@ -528,7 +528,7 @@
     "expected": "दुकान",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_strip",
@@ -546,7 +546,7 @@
     "expected": "सड़क",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_part",
@@ -564,7 +564,7 @@
     "expected": "आँख",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_field",
@@ -600,7 +600,7 @@
     "expected": "शब्द",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_pair",
@@ -645,7 +645,7 @@
     "expected": "उत्तर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_machine",
@@ -708,7 +708,7 @@
     "expected": "मध्य",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_friend",
@@ -717,7 +717,7 @@
     "expected": "मित्र",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_color",
@@ -744,7 +744,7 @@
     "expected": "न्यायाधीश",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_school",
@@ -798,7 +798,7 @@
     "expected": "पुल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_item",
@@ -825,7 +825,7 @@
     "expected": "समूह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_talent",
@@ -861,7 +861,7 @@
     "expected": "घर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_sun",
@@ -870,7 +870,7 @@
     "expected": "सूरज",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_meeting",
@@ -879,7 +879,7 @@
     "expected": "बैठक",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_history",
@@ -888,7 +888,7 @@
     "expected": "इतिहास",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_valley",
@@ -897,7 +897,7 @@
     "expected": "घाटी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_square",
@@ -924,7 +924,7 @@
     "expected": "दक्षिण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_virtue",
@@ -951,7 +951,7 @@
     "expected": "शहर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_language",
@@ -960,7 +960,7 @@
     "expected": "भाषा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_speed",
@@ -987,7 +987,7 @@
     "expected": "आगे",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_attempt",
@@ -1005,7 +1005,7 @@
     "expected": "हार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_tail",
@@ -1014,7 +1014,7 @@
     "expected": "पूंछ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_mother",
@@ -1023,7 +1023,7 @@
     "expected": "माँ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_east",
@@ -1059,7 +1059,7 @@
     "expected": "बच्चा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_tower",
@@ -1095,7 +1095,7 @@
     "expected": "व्यक्ति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_section",
@@ -1131,7 +1131,7 @@
     "expected": "कार्यालय",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_rock",
@@ -1149,7 +1149,7 @@
     "expected": "उठान",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_left",
@@ -1167,7 +1167,7 @@
     "expected": "ध्वनि",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_power",
@@ -1176,7 +1176,7 @@
     "expected": "शक्ति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_hi_native_summer",
@@ -1356,7 +1356,7 @@
     "expected": "gaanaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_water",
@@ -1374,7 +1374,7 @@
     "expected": "talab",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_sand",
@@ -1518,7 +1518,7 @@
     "expected": "chawal",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_red",
@@ -1554,7 +1554,7 @@
     "expected": "phool",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_tea",
@@ -1644,7 +1644,7 @@
     "expected": "chaar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_five",
@@ -1662,7 +1662,7 @@
     "expected": "chhah",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_seven",
@@ -2049,7 +2049,7 @@
     "expected": "ghar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_sun",
@@ -2058,7 +2058,7 @@
     "expected": "suraj",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_meeting",
@@ -2076,7 +2076,7 @@
     "expected": "itihas",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_valley",
@@ -2175,7 +2175,7 @@
     "expected": "aage",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_attempt",
@@ -2319,7 +2319,7 @@
     "expected": "karyalaya",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_hi_rom_hi_roman_rock",
@@ -2382,7 +2382,7 @@
     "expected": "புத்தகம்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_cloud",
@@ -2427,7 +2427,7 @@
     "expected": "மலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_cloth",
@@ -2445,7 +2445,7 @@
     "expected": "இதயம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_hand",
@@ -2463,7 +2463,7 @@
     "expected": "நாள்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_star",
@@ -2472,7 +2472,7 @@
     "expected": "நட்சத்திரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_spring",
@@ -2490,7 +2490,7 @@
     "expected": "நிலா",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_wood",
@@ -2508,7 +2508,7 @@
     "expected": "கிராமம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_forest",
@@ -2526,7 +2526,7 @@
     "expected": "பழம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_grid",
@@ -2544,7 +2544,7 @@
     "expected": "பாடல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_water",
@@ -2553,7 +2553,7 @@
     "expected": "நீர்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_pond",
@@ -2562,7 +2562,7 @@
     "expected": "குளம்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_sand",
@@ -2571,7 +2571,7 @@
     "expected": "மணல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_river",
@@ -2589,7 +2589,7 @@
     "expected": "சட்டம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_wave",
@@ -2715,7 +2715,7 @@
     "expected": "சிவப்பு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_line",
@@ -2760,7 +2760,7 @@
     "expected": "கால்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_gold",
@@ -2778,7 +2778,7 @@
     "expected": "கதவு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_snow",
@@ -2796,7 +2796,7 @@
     "expected": "குதிரை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_one",
@@ -2805,7 +2805,7 @@
     "expected": "ஒன்று",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_two",
@@ -2859,7 +2859,7 @@
     "expected": "ஏழு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_eight",
@@ -2868,7 +2868,7 @@
     "expected": "எட்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_nine",
@@ -2877,7 +2877,7 @@
     "expected": "ஒன்பது",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_ten",
@@ -2895,7 +2895,7 @@
     "expected": "தலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_shop",
@@ -2940,7 +2940,7 @@
     "expected": "கண்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_field",
@@ -2967,7 +2967,7 @@
     "expected": "நடனம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_word",
@@ -3021,7 +3021,7 @@
     "expected": "வடக்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_machine",
@@ -3039,7 +3039,7 @@
     "expected": "நேரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_benefit",
@@ -3075,7 +3075,7 @@
     "expected": "பரிமாற்றம்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_middle",
@@ -3093,7 +3093,7 @@
     "expected": "நண்பன்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_color",
@@ -3120,7 +3120,7 @@
     "expected": "நீதிபதி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_school",
@@ -3129,7 +3129,7 @@
     "expected": "பள்ளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_structure",
@@ -3138,7 +3138,7 @@
     "expected": "கட்டமைப்பு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_tie",
@@ -3174,7 +3174,7 @@
     "expected": "பாலம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_item",
@@ -3201,7 +3201,7 @@
     "expected": "குழு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_talent",
@@ -3246,7 +3246,7 @@
     "expected": "சூரியன்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_meeting",
@@ -3255,7 +3255,7 @@
     "expected": "கூட்டம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_history",
@@ -3300,7 +3300,7 @@
     "expected": "தெற்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_virtue",
@@ -3327,7 +3327,7 @@
     "expected": "நகரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_language",
@@ -3372,7 +3372,7 @@
     "expected": "முயற்சி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_defeat",
@@ -3381,7 +3381,7 @@
     "expected": "தோல்வி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_tail",
@@ -3408,7 +3408,7 @@
     "expected": "கிழக்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_return",
@@ -3462,7 +3462,7 @@
     "expected": "வீடு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_person",
@@ -3480,7 +3480,7 @@
     "expected": "பிரிவு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_official",
@@ -3489,7 +3489,7 @@
     "expected": "அதிகாரப்பூர்வ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_hundred",
@@ -3525,7 +3525,7 @@
     "expected": "உயர",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_left",
@@ -3534,7 +3534,7 @@
     "expected": "இடது",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_sound",
@@ -3543,7 +3543,7 @@
     "expected": "ஒலி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_ta_native_power",
@@ -3561,7 +3561,7 @@
     "expected": "கோடை",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_rom_ta_roman_book",
@@ -3714,7 +3714,7 @@
     "expected": "pazham",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_rom_ta_roman_grid",
@@ -4398,7 +4398,7 @@
     "expected": "thiramai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ta_rom_ta_roman_beauty",
@@ -4749,7 +4749,7 @@
     "expected": "koadai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_book",
@@ -4758,7 +4758,7 @@
     "expected": "പുസ്തകം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_cloud",
@@ -4794,7 +4794,7 @@
     "expected": "മണ്ണ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_mountain",
@@ -4821,7 +4821,7 @@
     "expected": "ഹൃദയം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_hand",
@@ -4848,7 +4848,7 @@
     "expected": "നക്ഷത്രം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_spring",
@@ -4902,7 +4902,7 @@
     "expected": "പഴം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_grid",
@@ -4920,7 +4920,7 @@
     "expected": "ഗാനം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_water",
@@ -4938,7 +4938,7 @@
     "expected": "കുളം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_sand",
@@ -4965,7 +4965,7 @@
     "expected": "നിയമം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_wave",
@@ -4983,7 +4983,7 @@
     "expected": "സമുദ്രം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_cave",
@@ -5073,7 +5073,7 @@
     "expected": "സ്റ്റേഷൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_rice",
@@ -5100,7 +5100,7 @@
     "expected": "രേഖ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_net",
@@ -5118,7 +5118,7 @@
     "expected": "പൂവ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_tea",
@@ -5127,7 +5127,7 @@
     "expected": "ചായ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_foot",
@@ -5163,7 +5163,7 @@
     "expected": "മഞ്ഞ്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_horse",
@@ -5199,7 +5199,7 @@
     "expected": "മൂന്ന്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_four",
@@ -5217,7 +5217,7 @@
     "expected": "അഞ്ച്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_six",
@@ -5244,7 +5244,7 @@
     "expected": "എട്ട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_nine",
@@ -5253,7 +5253,7 @@
     "expected": "ഒമ്പത്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_ten",
@@ -5262,7 +5262,7 @@
     "expected": "പത്ത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_head",
@@ -5271,7 +5271,7 @@
     "expected": "തല",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_shop",
@@ -5289,7 +5289,7 @@
     "expected": "പട്ട",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_street",
@@ -5316,7 +5316,7 @@
     "expected": "കണ്ണ്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_field",
@@ -5334,7 +5334,7 @@
     "expected": "സ്ഥലം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_dance",
@@ -5397,7 +5397,7 @@
     "expected": "വടക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_machine",
@@ -5415,7 +5415,7 @@
     "expected": "സമയം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_benefit",
@@ -5469,7 +5469,7 @@
     "expected": "സുഹൃത്ത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_color",
@@ -5505,7 +5505,7 @@
     "expected": "സ്കൂൾ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_structure",
@@ -5532,7 +5532,7 @@
     "expected": "ഉദാഹരണം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_face",
@@ -5541,7 +5541,7 @@
     "expected": "മുഖം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_bridge",
@@ -5550,7 +5550,7 @@
     "expected": "പാലം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_item",
@@ -5613,7 +5613,7 @@
     "expected": "വീട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_sun",
@@ -5622,7 +5622,7 @@
     "expected": "സൂര്യൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_meeting",
@@ -5640,7 +5640,7 @@
     "expected": "ചരിത്രം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_valley",
@@ -5658,7 +5658,7 @@
     "expected": "ചതുരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_generation",
@@ -5676,7 +5676,7 @@
     "expected": "തെക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_virtue",
@@ -5685,7 +5685,7 @@
     "expected": "ഗുണം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_tribe",
@@ -5703,7 +5703,7 @@
     "expected": "നഗരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_language",
@@ -5712,7 +5712,7 @@
     "expected": "ഭാഷ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_speed",
@@ -5748,7 +5748,7 @@
     "expected": "ശ്രമം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_defeat",
@@ -5775,7 +5775,7 @@
     "expected": "അമ്മ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_east",
@@ -5784,7 +5784,7 @@
     "expected": "കിഴക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_return",
@@ -5793,7 +5793,7 @@
     "expected": "തിരിച്ചുവരവ്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_speech",
@@ -5811,7 +5811,7 @@
     "expected": "കുട്ടി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_tower",
@@ -5847,7 +5847,7 @@
     "expected": "വ്യക്തി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_section",
@@ -5883,7 +5883,7 @@
     "expected": "ഓഫീസ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_rock",
@@ -5892,7 +5892,7 @@
     "expected": "കല്ല്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_rise",
@@ -5901,7 +5901,7 @@
     "expected": "ഉയർച്ച",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_left",
@@ -5910,7 +5910,7 @@
     "expected": "ഇടത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_sound",
@@ -5919,7 +5919,7 @@
     "expected": "ശബ്ദം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_ml_native_power",
@@ -6018,7 +6018,7 @@
     "expected": "kaii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_day",
@@ -6108,7 +6108,7 @@
     "expected": "gaanam",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_water",
@@ -6126,7 +6126,7 @@
     "expected": "kulam",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_sand",
@@ -6171,7 +6171,7 @@
     "expected": "samudram",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_cave",
@@ -6540,7 +6540,7 @@
     "expected": "vaakk",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_pair",
@@ -6765,7 +6765,7 @@
     "expected": "samgham",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_talent",
@@ -6846,7 +6846,7 @@
     "expected": "chathuram",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_generation",
@@ -6891,7 +6891,7 @@
     "expected": "nagaram",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_language",
@@ -6900,7 +6900,7 @@
     "expected": "bhasha",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_speed",
@@ -6954,7 +6954,7 @@
     "expected": "vaalu",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_mother",
@@ -7026,7 +7026,7 @@
     "expected": "kudumbam",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_person",
@@ -7080,7 +7080,7 @@
     "expected": "kallu",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "cloze_ml_rom_ml_roman_rise",

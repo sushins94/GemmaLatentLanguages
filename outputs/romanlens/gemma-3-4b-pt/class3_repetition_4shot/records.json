@@ -25,7 +25,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_cloud",
@@ -53,7 +53,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_bag",
@@ -81,7 +81,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_mouth",
@@ -109,7 +109,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_soil",
@@ -137,7 +137,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_mountain",
@@ -165,7 +165,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_cloth",
@@ -193,7 +193,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_heart",
@@ -221,7 +221,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_hand",
@@ -249,7 +249,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_day",
@@ -277,7 +277,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_star",
@@ -305,7 +305,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_spring",
@@ -333,7 +333,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_moon",
@@ -361,7 +361,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_wood",
@@ -389,7 +389,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_village",
@@ -417,7 +417,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_forest",
@@ -445,7 +445,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_fruit",
@@ -473,7 +473,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_grid",
@@ -501,7 +501,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_song",
@@ -529,7 +529,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_water",
@@ -557,7 +557,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_pond",
@@ -585,7 +585,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_sand",
@@ -613,7 +613,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_river",
@@ -641,7 +641,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_law",
@@ -669,7 +669,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_wave",
@@ -697,7 +697,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_ocean",
@@ -725,7 +725,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_cave",
@@ -753,7 +753,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_sea",
@@ -781,7 +781,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_lake",
@@ -809,7 +809,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_source",
@@ -837,7 +837,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_fire",
@@ -865,7 +865,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_point",
@@ -893,7 +893,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_version",
@@ -921,7 +921,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_ball",
@@ -949,7 +949,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_painting",
@@ -977,7 +977,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_station",
@@ -1005,7 +1005,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_rice",
@@ -1033,7 +1033,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_red",
@@ -1061,7 +1061,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_line",
@@ -1089,7 +1089,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_net",
@@ -1117,7 +1117,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_flower",
@@ -1145,7 +1145,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_tea",
@@ -1173,7 +1173,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_foot",
@@ -1201,7 +1201,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_gold",
@@ -1229,7 +1229,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_door",
@@ -1257,7 +1257,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_snow",
@@ -1285,7 +1285,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_horse",
@@ -1313,7 +1313,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_one",
@@ -1341,7 +1341,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_two",
@@ -1369,7 +1369,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_three",
@@ -1397,7 +1397,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_four",
@@ -1425,7 +1425,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_five",
@@ -1453,7 +1453,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_six",
@@ -1481,7 +1481,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_seven",
@@ -1509,7 +1509,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_eight",
@@ -1537,7 +1537,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_nine",
@@ -1565,7 +1565,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_ten",
@@ -1593,7 +1593,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_head",
@@ -1621,7 +1621,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_shop",
@@ -1649,7 +1649,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_strip",
@@ -1677,7 +1677,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_street",
@@ -1705,7 +1705,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_part",
@@ -1733,7 +1733,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_eye",
@@ -1761,7 +1761,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_field",
@@ -1789,7 +1789,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_site",
@@ -1817,7 +1817,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_dance",
@@ -1845,7 +1845,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_word",
@@ -1873,7 +1873,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_pair",
@@ -1901,7 +1901,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_seat",
@@ -1929,7 +1929,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_light",
@@ -1957,7 +1957,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_thousand",
@@ -1985,7 +1985,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_north",
@@ -2013,7 +2013,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_machine",
@@ -2041,7 +2041,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_time",
@@ -2069,7 +2069,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_benefit",
@@ -2097,7 +2097,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_position",
@@ -2125,7 +2125,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_province",
@@ -2153,7 +2153,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_exchange",
@@ -2181,7 +2181,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_middle",
@@ -2209,7 +2209,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_friend",
@@ -2237,7 +2237,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_color",
@@ -2265,7 +2265,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_kind",
@@ -2293,7 +2293,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_judge",
@@ -2321,7 +2321,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_school",
@@ -2349,7 +2349,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_structure",
@@ -2377,7 +2377,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_tie",
@@ -2405,7 +2405,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_example",
@@ -2433,7 +2433,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_face",
@@ -2461,7 +2461,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_bridge",
@@ -2489,7 +2489,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_item",
@@ -2517,7 +2517,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_delete",
@@ -2545,7 +2545,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_group",
@@ -2573,7 +2573,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_talent",
@@ -2601,7 +2601,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_beauty",
@@ -2629,7 +2629,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_platform",
@@ -2657,7 +2657,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_house",
@@ -2685,7 +2685,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_sun",
@@ -2713,7 +2713,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_meeting",
@@ -2741,7 +2741,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_history",
@@ -2769,7 +2769,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_valley",
@@ -2797,7 +2797,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_square",
@@ -2825,7 +2825,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_generation",
@@ -2853,7 +2853,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_south",
@@ -2881,7 +2881,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_virtue",
@@ -2909,7 +2909,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_tribe",
@@ -2937,7 +2937,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_city",
@@ -2965,7 +2965,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_language",
@@ -2993,7 +2993,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_speed",
@@ -3021,7 +3021,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_ground",
@@ -3049,7 +3049,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_advance",
@@ -3077,7 +3077,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_attempt",
@@ -3105,7 +3105,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_defeat",
@@ -3133,7 +3133,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_tail",
@@ -3161,7 +3161,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_mother",
@@ -3189,7 +3189,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_east",
@@ -3217,7 +3217,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_return",
@@ -3245,7 +3245,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_speech",
@@ -3273,7 +3273,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_child",
@@ -3301,7 +3301,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_tower",
@@ -3329,7 +3329,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_hair",
@@ -3357,7 +3357,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_household",
@@ -3385,7 +3385,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_person",
@@ -3413,7 +3413,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_section",
@@ -3441,7 +3441,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_official",
@@ -3469,7 +3469,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_hundred",
@@ -3497,7 +3497,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_office",
@@ -3525,7 +3525,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_rock",
@@ -3553,7 +3553,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_rise",
@@ -3581,7 +3581,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_left",
@@ -3609,7 +3609,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_sound",
@@ -3637,7 +3637,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_power",
@@ -3665,7 +3665,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_hi_native_summer",
@@ -3693,7 +3693,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_book",
@@ -3721,7 +3721,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_cloud",
@@ -3749,7 +3749,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_bag",
@@ -3777,7 +3777,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_mouth",
@@ -3805,7 +3805,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_soil",
@@ -3833,7 +3833,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_mountain",
@@ -3861,7 +3861,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_cloth",
@@ -3889,7 +3889,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_heart",
@@ -3917,7 +3917,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_hand",
@@ -3945,7 +3945,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_day",
@@ -3973,7 +3973,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_star",
@@ -4001,7 +4001,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_spring",
@@ -4029,7 +4029,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_moon",
@@ -4057,7 +4057,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_wood",
@@ -4085,7 +4085,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_village",
@@ -4113,7 +4113,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_forest",
@@ -4141,7 +4141,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_fruit",
@@ -4169,7 +4169,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_grid",
@@ -4197,7 +4197,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_song",
@@ -4225,7 +4225,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_water",
@@ -4253,7 +4253,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_pond",
@@ -4281,7 +4281,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_sand",
@@ -4309,7 +4309,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_river",
@@ -4337,7 +4337,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_law",
@@ -4365,7 +4365,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_wave",
@@ -4393,7 +4393,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_ocean",
@@ -4421,7 +4421,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_cave",
@@ -4449,7 +4449,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_sea",
@@ -4477,7 +4477,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_lake",
@@ -4505,7 +4505,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_source",
@@ -4533,7 +4533,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_fire",
@@ -4561,7 +4561,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_point",
@@ -4589,7 +4589,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_version",
@@ -4617,7 +4617,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_ball",
@@ -4645,7 +4645,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_painting",
@@ -4673,7 +4673,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_station",
@@ -4701,7 +4701,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_rice",
@@ -4729,7 +4729,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_red",
@@ -4757,7 +4757,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_line",
@@ -4785,7 +4785,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_net",
@@ -4813,7 +4813,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_flower",
@@ -4841,7 +4841,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_tea",
@@ -4869,7 +4869,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_foot",
@@ -4897,7 +4897,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_gold",
@@ -4925,7 +4925,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_door",
@@ -4953,7 +4953,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_snow",
@@ -4981,7 +4981,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_horse",
@@ -5009,7 +5009,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_one",
@@ -5037,7 +5037,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_two",
@@ -5065,7 +5065,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_three",
@@ -5093,7 +5093,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_four",
@@ -5121,7 +5121,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_five",
@@ -5149,7 +5149,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_six",
@@ -5177,7 +5177,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_seven",
@@ -5205,7 +5205,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_eight",
@@ -5233,7 +5233,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_nine",
@@ -5261,7 +5261,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_ten",
@@ -5289,7 +5289,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_head",
@@ -5317,7 +5317,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_shop",
@@ -5345,7 +5345,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_strip",
@@ -5373,7 +5373,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_street",
@@ -5401,7 +5401,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_part",
@@ -5429,7 +5429,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_eye",
@@ -5457,7 +5457,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_field",
@@ -5485,7 +5485,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_site",
@@ -5513,7 +5513,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_dance",
@@ -5541,7 +5541,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_word",
@@ -5569,7 +5569,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_pair",
@@ -5597,7 +5597,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_seat",
@@ -5625,7 +5625,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_light",
@@ -5653,7 +5653,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_thousand",
@@ -5681,7 +5681,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_north",
@@ -5709,7 +5709,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_machine",
@@ -5737,7 +5737,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_time",
@@ -5765,7 +5765,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_benefit",
@@ -5793,7 +5793,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_position",
@@ -5821,7 +5821,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_province",
@@ -5849,7 +5849,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_exchange",
@@ -5877,7 +5877,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_middle",
@@ -5905,7 +5905,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_friend",
@@ -5933,7 +5933,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_color",
@@ -5961,7 +5961,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_kind",
@@ -5989,7 +5989,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_judge",
@@ -6017,7 +6017,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_school",
@@ -6045,7 +6045,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_structure",
@@ -6073,7 +6073,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_tie",
@@ -6101,7 +6101,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_example",
@@ -6129,7 +6129,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_face",
@@ -6157,7 +6157,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_bridge",
@@ -6185,7 +6185,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_item",
@@ -6213,7 +6213,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_delete",
@@ -6241,7 +6241,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_group",
@@ -6269,7 +6269,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_talent",
@@ -6297,7 +6297,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_beauty",
@@ -6325,7 +6325,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_platform",
@@ -6353,7 +6353,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_house",
@@ -6381,7 +6381,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_sun",
@@ -6409,7 +6409,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_meeting",
@@ -6437,7 +6437,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_history",
@@ -6465,7 +6465,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_valley",
@@ -6493,7 +6493,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_square",
@@ -6521,7 +6521,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_generation",
@@ -6549,7 +6549,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_south",
@@ -6577,7 +6577,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_virtue",
@@ -6605,7 +6605,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_tribe",
@@ -6633,7 +6633,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_city",
@@ -6661,7 +6661,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_language",
@@ -6689,7 +6689,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_speed",
@@ -6717,7 +6717,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_ground",
@@ -6745,7 +6745,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_advance",
@@ -6773,7 +6773,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_attempt",
@@ -6801,7 +6801,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_defeat",
@@ -6829,7 +6829,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_tail",
@@ -6857,7 +6857,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_mother",
@@ -6885,7 +6885,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_east",
@@ -6913,7 +6913,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_return",
@@ -6941,7 +6941,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_speech",
@@ -6969,7 +6969,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_child",
@@ -6997,7 +6997,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_tower",
@@ -7025,7 +7025,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_hair",
@@ -7053,7 +7053,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_household",
@@ -7081,7 +7081,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_person",
@@ -7109,7 +7109,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_section",
@@ -7137,7 +7137,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_official",
@@ -7165,7 +7165,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_hundred",
@@ -7193,7 +7193,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_office",
@@ -7221,7 +7221,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_rock",
@@ -7249,7 +7249,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_rise",
@@ -7277,7 +7277,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_left",
@@ -7305,7 +7305,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_sound",
@@ -7333,7 +7333,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_power",
@@ -7361,7 +7361,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_hi_rom_hi_roman_summer",
@@ -7389,7 +7389,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_book",
@@ -7417,7 +7417,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_cloud",
@@ -7445,7 +7445,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_bag",
@@ -7473,7 +7473,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_mouth",
@@ -7501,7 +7501,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_soil",
@@ -7529,7 +7529,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_mountain",
@@ -7557,7 +7557,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_cloth",
@@ -7585,7 +7585,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_heart",
@@ -7613,7 +7613,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_hand",
@@ -7641,7 +7641,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_day",
@@ -7669,7 +7669,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_star",
@@ -7697,7 +7697,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_spring",
@@ -7725,7 +7725,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_moon",
@@ -7753,7 +7753,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_wood",
@@ -7781,7 +7781,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_village",
@@ -7809,7 +7809,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_forest",
@@ -7837,7 +7837,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_fruit",
@@ -7865,7 +7865,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_grid",
@@ -7893,7 +7893,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_song",
@@ -7921,7 +7921,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_water",
@@ -7949,7 +7949,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_pond",
@@ -7977,7 +7977,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_sand",
@@ -8005,7 +8005,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_river",
@@ -8033,7 +8033,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_law",
@@ -8061,7 +8061,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_wave",
@@ -8089,7 +8089,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_ocean",
@@ -8117,7 +8117,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_cave",
@@ -8145,7 +8145,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_sea",
@@ -8173,7 +8173,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_lake",
@@ -8201,7 +8201,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_source",
@@ -8229,7 +8229,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_fire",
@@ -8257,7 +8257,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_point",
@@ -8285,7 +8285,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_version",
@@ -8313,7 +8313,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_ball",
@@ -8341,7 +8341,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_painting",
@@ -8369,7 +8369,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_station",
@@ -8397,7 +8397,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_rice",
@@ -8425,7 +8425,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_red",
@@ -8453,7 +8453,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_line",
@@ -8481,7 +8481,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_net",
@@ -8509,7 +8509,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_flower",
@@ -8537,7 +8537,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_tea",
@@ -8565,7 +8565,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_foot",
@@ -8593,7 +8593,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_gold",
@@ -8621,7 +8621,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_door",
@@ -8649,7 +8649,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_snow",
@@ -8677,7 +8677,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_horse",
@@ -8705,7 +8705,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_one",
@@ -8733,7 +8733,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_two",
@@ -8761,7 +8761,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_three",
@@ -8789,7 +8789,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_four",
@@ -8817,7 +8817,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_five",
@@ -8845,7 +8845,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_six",
@@ -8873,7 +8873,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_seven",
@@ -8901,7 +8901,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_eight",
@@ -8929,7 +8929,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_nine",
@@ -8957,7 +8957,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_ten",
@@ -8985,7 +8985,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_head",
@@ -9013,7 +9013,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_shop",
@@ -9041,7 +9041,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_strip",
@@ -9069,7 +9069,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_street",
@@ -9097,7 +9097,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_part",
@@ -9125,7 +9125,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_eye",
@@ -9153,7 +9153,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_field",
@@ -9181,7 +9181,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_site",
@@ -9209,7 +9209,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_dance",
@@ -9237,7 +9237,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_word",
@@ -9265,7 +9265,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_pair",
@@ -9293,7 +9293,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_seat",
@@ -9321,7 +9321,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_light",
@@ -9349,7 +9349,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_thousand",
@@ -9377,7 +9377,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_north",
@@ -9405,7 +9405,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_machine",
@@ -9433,7 +9433,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_time",
@@ -9461,7 +9461,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_benefit",
@@ -9489,7 +9489,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_position",
@@ -9517,7 +9517,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_province",
@@ -9545,7 +9545,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_exchange",
@@ -9573,7 +9573,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_middle",
@@ -9601,7 +9601,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_friend",
@@ -9629,7 +9629,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_color",
@@ -9657,7 +9657,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_kind",
@@ -9685,7 +9685,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_judge",
@@ -9713,7 +9713,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_school",
@@ -9741,7 +9741,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_structure",
@@ -9769,7 +9769,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_tie",
@@ -9797,7 +9797,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_example",
@@ -9825,7 +9825,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_face",
@@ -9853,7 +9853,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_bridge",
@@ -9881,7 +9881,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_item",
@@ -9909,7 +9909,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_delete",
@@ -9937,7 +9937,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_group",
@@ -9965,7 +9965,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_talent",
@@ -9993,7 +9993,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_beauty",
@@ -10021,7 +10021,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_platform",
@@ -10049,7 +10049,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_house",
@@ -10077,7 +10077,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_sun",
@@ -10105,7 +10105,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_meeting",
@@ -10133,7 +10133,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_history",
@@ -10161,7 +10161,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_valley",
@@ -10189,7 +10189,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_square",
@@ -10217,7 +10217,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_generation",
@@ -10245,7 +10245,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_south",
@@ -10273,7 +10273,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_virtue",
@@ -10301,7 +10301,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_tribe",
@@ -10329,7 +10329,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_city",
@@ -10357,7 +10357,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_language",
@@ -10385,7 +10385,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_speed",
@@ -10413,7 +10413,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_ground",
@@ -10441,7 +10441,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_advance",
@@ -10469,7 +10469,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_attempt",
@@ -10497,7 +10497,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_defeat",
@@ -10525,7 +10525,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_tail",
@@ -10553,7 +10553,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_mother",
@@ -10581,7 +10581,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_east",
@@ -10609,7 +10609,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_return",
@@ -10637,7 +10637,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_speech",
@@ -10665,7 +10665,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_child",
@@ -10693,7 +10693,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_tower",
@@ -10721,7 +10721,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_hair",
@@ -10749,7 +10749,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_household",
@@ -10777,7 +10777,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_person",
@@ -10805,7 +10805,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_section",
@@ -10833,7 +10833,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_official",
@@ -10861,7 +10861,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_hundred",
@@ -10889,7 +10889,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_office",
@@ -10917,7 +10917,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_rock",
@@ -10945,7 +10945,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_rise",
@@ -10973,7 +10973,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_left",
@@ -11001,7 +11001,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_sound",
@@ -11029,7 +11029,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_power",
@@ -11057,7 +11057,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_ta_native_summer",
@@ -11085,7 +11085,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_book",
@@ -11113,7 +11113,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_cloud",
@@ -11141,7 +11141,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_bag",
@@ -11169,7 +11169,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_mouth",
@@ -11197,7 +11197,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_soil",
@@ -11225,7 +11225,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_mountain",
@@ -11253,7 +11253,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_cloth",
@@ -11281,7 +11281,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_heart",
@@ -11309,7 +11309,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_hand",
@@ -11337,7 +11337,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_day",
@@ -11365,7 +11365,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_star",
@@ -11393,7 +11393,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_spring",
@@ -11421,7 +11421,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_moon",
@@ -11449,7 +11449,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_wood",
@@ -11477,7 +11477,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_village",
@@ -11505,7 +11505,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_forest",
@@ -11533,7 +11533,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_fruit",
@@ -11561,7 +11561,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_grid",
@@ -11589,7 +11589,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_song",
@@ -11617,7 +11617,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_water",
@@ -11645,7 +11645,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_pond",
@@ -11673,7 +11673,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_sand",
@@ -11701,7 +11701,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_river",
@@ -11729,7 +11729,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_law",
@@ -11757,7 +11757,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_wave",
@@ -11785,7 +11785,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_ocean",
@@ -11813,7 +11813,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_cave",
@@ -11841,7 +11841,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_sea",
@@ -11869,7 +11869,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_lake",
@@ -11897,7 +11897,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_source",
@@ -11925,7 +11925,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_fire",
@@ -11953,7 +11953,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_point",
@@ -11981,7 +11981,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_version",
@@ -12009,7 +12009,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_ball",
@@ -12037,7 +12037,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_painting",
@@ -12065,7 +12065,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_station",
@@ -12093,7 +12093,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_rice",
@@ -12121,7 +12121,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_red",
@@ -12149,7 +12149,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_line",
@@ -12177,7 +12177,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_net",
@@ -12205,7 +12205,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_flower",
@@ -12233,7 +12233,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_tea",
@@ -12261,7 +12261,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_foot",
@@ -12289,7 +12289,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_gold",
@@ -12317,7 +12317,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_door",
@@ -12345,7 +12345,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_snow",
@@ -12373,7 +12373,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_horse",
@@ -12401,7 +12401,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_one",
@@ -12429,7 +12429,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_two",
@@ -12457,7 +12457,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_three",
@@ -12485,7 +12485,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_four",
@@ -12513,7 +12513,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_five",
@@ -12541,7 +12541,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_six",
@@ -12569,7 +12569,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_seven",
@@ -12597,7 +12597,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_eight",
@@ -12625,7 +12625,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_nine",
@@ -12653,7 +12653,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_ten",
@@ -12681,7 +12681,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_head",
@@ -12709,7 +12709,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_shop",
@@ -12737,7 +12737,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_strip",
@@ -12765,7 +12765,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_street",
@@ -12793,7 +12793,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_part",
@@ -12821,7 +12821,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_eye",
@@ -12849,7 +12849,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_field",
@@ -12877,7 +12877,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_site",
@@ -12905,7 +12905,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_dance",
@@ -12933,7 +12933,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_word",
@@ -12961,7 +12961,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_pair",
@@ -12989,7 +12989,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_seat",
@@ -13017,7 +13017,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_light",
@@ -13045,7 +13045,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_thousand",
@@ -13073,7 +13073,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_north",
@@ -13101,7 +13101,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_machine",
@@ -13129,7 +13129,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_time",
@@ -13157,7 +13157,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_benefit",
@@ -13185,7 +13185,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_position",
@@ -13213,7 +13213,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_province",
@@ -13241,7 +13241,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_exchange",
@@ -13269,7 +13269,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_middle",
@@ -13297,7 +13297,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_friend",
@@ -13325,7 +13325,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_color",
@@ -13353,7 +13353,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_kind",
@@ -13381,7 +13381,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_judge",
@@ -13409,7 +13409,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_school",
@@ -13437,7 +13437,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_structure",
@@ -13465,7 +13465,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_tie",
@@ -13493,7 +13493,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_example",
@@ -13521,7 +13521,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_face",
@@ -13549,7 +13549,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_bridge",
@@ -13577,7 +13577,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_item",
@@ -13605,7 +13605,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_delete",
@@ -13633,7 +13633,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_group",
@@ -13661,7 +13661,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_talent",
@@ -13689,7 +13689,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_beauty",
@@ -13717,7 +13717,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_platform",
@@ -13745,7 +13745,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_house",
@@ -13773,7 +13773,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_sun",
@@ -13801,7 +13801,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_meeting",
@@ -13829,7 +13829,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_history",
@@ -13857,7 +13857,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_valley",
@@ -13885,7 +13885,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_square",
@@ -13913,7 +13913,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_generation",
@@ -13941,7 +13941,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_south",
@@ -13969,7 +13969,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_virtue",
@@ -13997,7 +13997,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_tribe",
@@ -14025,7 +14025,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_city",
@@ -14053,7 +14053,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_language",
@@ -14081,7 +14081,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_speed",
@@ -14109,7 +14109,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_ground",
@@ -14137,7 +14137,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_advance",
@@ -14165,7 +14165,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_attempt",
@@ -14193,7 +14193,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_defeat",
@@ -14221,7 +14221,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_tail",
@@ -14249,7 +14249,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_mother",
@@ -14277,7 +14277,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_east",
@@ -14305,7 +14305,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_return",
@@ -14333,7 +14333,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_speech",
@@ -14361,7 +14361,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_child",
@@ -14389,7 +14389,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_tower",
@@ -14417,7 +14417,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_hair",
@@ -14445,7 +14445,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_household",
@@ -14473,7 +14473,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_person",
@@ -14501,7 +14501,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_section",
@@ -14529,7 +14529,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_official",
@@ -14557,7 +14557,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_hundred",
@@ -14585,7 +14585,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_office",
@@ -14613,7 +14613,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_rock",
@@ -14641,7 +14641,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_rise",
@@ -14669,7 +14669,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_left",
@@ -14697,7 +14697,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_sound",
@@ -14725,7 +14725,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_power",
@@ -14753,7 +14753,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ta_rom_ta_roman_summer",
@@ -14781,7 +14781,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_book",
@@ -14809,7 +14809,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_cloud",
@@ -14837,7 +14837,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_bag",
@@ -14865,7 +14865,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_mouth",
@@ -14893,7 +14893,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_soil",
@@ -14921,7 +14921,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_mountain",
@@ -14949,7 +14949,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_cloth",
@@ -14977,7 +14977,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_heart",
@@ -15005,7 +15005,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_hand",
@@ -15033,7 +15033,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_day",
@@ -15061,7 +15061,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_star",
@@ -15089,7 +15089,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_spring",
@@ -15117,7 +15117,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_moon",
@@ -15145,7 +15145,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_wood",
@@ -15173,7 +15173,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_village",
@@ -15201,7 +15201,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_forest",
@@ -15229,7 +15229,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_fruit",
@@ -15257,7 +15257,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_grid",
@@ -15285,7 +15285,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_song",
@@ -15313,7 +15313,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_water",
@@ -15341,7 +15341,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_pond",
@@ -15369,7 +15369,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_sand",
@@ -15397,7 +15397,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_river",
@@ -15425,7 +15425,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_law",
@@ -15453,7 +15453,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_wave",
@@ -15481,7 +15481,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_ocean",
@@ -15509,7 +15509,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_cave",
@@ -15537,7 +15537,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_sea",
@@ -15565,7 +15565,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_lake",
@@ -15593,7 +15593,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_source",
@@ -15621,7 +15621,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_fire",
@@ -15649,7 +15649,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_point",
@@ -15677,7 +15677,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_version",
@@ -15705,7 +15705,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_ball",
@@ -15733,7 +15733,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_painting",
@@ -15761,7 +15761,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_station",
@@ -15789,7 +15789,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_rice",
@@ -15817,7 +15817,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_red",
@@ -15845,7 +15845,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_line",
@@ -15873,7 +15873,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_net",
@@ -15901,7 +15901,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_flower",
@@ -15929,7 +15929,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_tea",
@@ -15957,7 +15957,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_foot",
@@ -15985,7 +15985,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_gold",
@@ -16013,7 +16013,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_door",
@@ -16041,7 +16041,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_snow",
@@ -16069,7 +16069,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_horse",
@@ -16097,7 +16097,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_one",
@@ -16125,7 +16125,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_two",
@@ -16153,7 +16153,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_three",
@@ -16181,7 +16181,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_four",
@@ -16209,7 +16209,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_five",
@@ -16237,7 +16237,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_six",
@@ -16265,7 +16265,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_seven",
@@ -16293,7 +16293,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_eight",
@@ -16321,7 +16321,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_nine",
@@ -16349,7 +16349,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_ten",
@@ -16377,7 +16377,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_head",
@@ -16405,7 +16405,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_shop",
@@ -16433,7 +16433,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_strip",
@@ -16461,7 +16461,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_street",
@@ -16489,7 +16489,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_part",
@@ -16517,7 +16517,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_eye",
@@ -16545,7 +16545,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_field",
@@ -16573,7 +16573,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_site",
@@ -16601,7 +16601,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_dance",
@@ -16629,7 +16629,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_word",
@@ -16657,7 +16657,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_pair",
@@ -16685,7 +16685,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_seat",
@@ -16713,7 +16713,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_light",
@@ -16741,7 +16741,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_thousand",
@@ -16769,7 +16769,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_north",
@@ -16797,7 +16797,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_machine",
@@ -16825,7 +16825,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_time",
@@ -16853,7 +16853,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_benefit",
@@ -16881,7 +16881,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_position",
@@ -16909,7 +16909,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_province",
@@ -16937,7 +16937,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_exchange",
@@ -16965,7 +16965,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_middle",
@@ -16993,7 +16993,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_friend",
@@ -17021,7 +17021,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_color",
@@ -17049,7 +17049,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_kind",
@@ -17077,7 +17077,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_judge",
@@ -17105,7 +17105,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_school",
@@ -17133,7 +17133,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_structure",
@@ -17161,7 +17161,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_tie",
@@ -17189,7 +17189,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_example",
@@ -17217,7 +17217,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_face",
@@ -17245,7 +17245,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_bridge",
@@ -17273,7 +17273,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_item",
@@ -17301,7 +17301,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_delete",
@@ -17329,7 +17329,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_group",
@@ -17357,7 +17357,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_talent",
@@ -17385,7 +17385,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_beauty",
@@ -17413,7 +17413,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_platform",
@@ -17441,7 +17441,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_house",
@@ -17469,7 +17469,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_sun",
@@ -17497,7 +17497,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_meeting",
@@ -17525,7 +17525,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_history",
@@ -17553,7 +17553,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_valley",
@@ -17581,7 +17581,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_square",
@@ -17609,7 +17609,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_generation",
@@ -17637,7 +17637,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_south",
@@ -17665,7 +17665,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_virtue",
@@ -17693,7 +17693,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_tribe",
@@ -17721,7 +17721,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_city",
@@ -17749,7 +17749,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_language",
@@ -17777,7 +17777,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_speed",
@@ -17805,7 +17805,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_ground",
@@ -17833,7 +17833,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_advance",
@@ -17861,7 +17861,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_attempt",
@@ -17889,7 +17889,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_defeat",
@@ -17917,7 +17917,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_tail",
@@ -17945,7 +17945,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_mother",
@@ -17973,7 +17973,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_east",
@@ -18001,7 +18001,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_return",
@@ -18029,7 +18029,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_speech",
@@ -18057,7 +18057,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_child",
@@ -18085,7 +18085,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_tower",
@@ -18113,7 +18113,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_hair",
@@ -18141,7 +18141,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_household",
@@ -18169,7 +18169,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_person",
@@ -18197,7 +18197,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_section",
@@ -18225,7 +18225,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_official",
@@ -18253,7 +18253,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_hundred",
@@ -18281,7 +18281,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_office",
@@ -18309,7 +18309,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_rock",
@@ -18337,7 +18337,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_rise",
@@ -18365,7 +18365,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_left",
@@ -18393,7 +18393,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_sound",
@@ -18421,7 +18421,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_power",
@@ -18449,7 +18449,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_ml_native_summer",
@@ -18477,7 +18477,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_book",
@@ -18505,7 +18505,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_cloud",
@@ -18533,7 +18533,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_bag",
@@ -18561,7 +18561,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_mouth",
@@ -18589,7 +18589,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_soil",
@@ -18617,7 +18617,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_mountain",
@@ -18645,7 +18645,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_cloth",
@@ -18673,7 +18673,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_heart",
@@ -18701,7 +18701,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_hand",
@@ -18729,7 +18729,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_day",
@@ -18757,7 +18757,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_star",
@@ -18785,7 +18785,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_spring",
@@ -18813,7 +18813,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_moon",
@@ -18841,7 +18841,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_wood",
@@ -18869,7 +18869,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_village",
@@ -18897,7 +18897,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_forest",
@@ -18925,7 +18925,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_fruit",
@@ -18953,7 +18953,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_grid",
@@ -18981,7 +18981,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_song",
@@ -19009,7 +19009,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_water",
@@ -19037,7 +19037,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_pond",
@@ -19065,7 +19065,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_sand",
@@ -19093,7 +19093,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_river",
@@ -19121,7 +19121,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_law",
@@ -19149,7 +19149,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_wave",
@@ -19177,7 +19177,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_ocean",
@@ -19205,7 +19205,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_cave",
@@ -19233,7 +19233,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_sea",
@@ -19261,7 +19261,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_lake",
@@ -19289,7 +19289,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_source",
@@ -19317,7 +19317,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_fire",
@@ -19345,7 +19345,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_point",
@@ -19373,7 +19373,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_version",
@@ -19401,7 +19401,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_ball",
@@ -19429,7 +19429,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_painting",
@@ -19457,7 +19457,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_station",
@@ -19485,7 +19485,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_rice",
@@ -19513,7 +19513,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_red",
@@ -19541,7 +19541,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_line",
@@ -19569,7 +19569,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_net",
@@ -19597,7 +19597,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_flower",
@@ -19625,7 +19625,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_tea",
@@ -19653,7 +19653,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_foot",
@@ -19681,7 +19681,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_gold",
@@ -19709,7 +19709,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_door",
@@ -19737,7 +19737,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_snow",
@@ -19765,7 +19765,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_horse",
@@ -19793,7 +19793,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_one",
@@ -19821,7 +19821,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_two",
@@ -19849,7 +19849,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_three",
@@ -19877,7 +19877,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_four",
@@ -19905,7 +19905,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_five",
@@ -19933,7 +19933,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_six",
@@ -19961,7 +19961,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_seven",
@@ -19989,7 +19989,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_eight",
@@ -20017,7 +20017,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_nine",
@@ -20045,7 +20045,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_ten",
@@ -20073,7 +20073,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_head",
@@ -20101,7 +20101,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_shop",
@@ -20129,7 +20129,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_strip",
@@ -20157,7 +20157,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_street",
@@ -20185,7 +20185,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_part",
@@ -20213,7 +20213,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_eye",
@@ -20241,7 +20241,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_field",
@@ -20269,7 +20269,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_site",
@@ -20297,7 +20297,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_dance",
@@ -20325,7 +20325,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_word",
@@ -20353,7 +20353,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_pair",
@@ -20381,7 +20381,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_seat",
@@ -20409,7 +20409,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_light",
@@ -20437,7 +20437,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_thousand",
@@ -20465,7 +20465,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_north",
@@ -20493,7 +20493,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_machine",
@@ -20521,7 +20521,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_time",
@@ -20549,7 +20549,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_benefit",
@@ -20577,7 +20577,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_position",
@@ -20605,7 +20605,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_province",
@@ -20633,7 +20633,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_exchange",
@@ -20661,7 +20661,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_middle",
@@ -20689,7 +20689,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_friend",
@@ -20717,7 +20717,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_color",
@@ -20745,7 +20745,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_kind",
@@ -20773,7 +20773,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_judge",
@@ -20801,7 +20801,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_school",
@@ -20829,7 +20829,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_structure",
@@ -20857,7 +20857,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_tie",
@@ -20885,7 +20885,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_example",
@@ -20913,7 +20913,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_face",
@@ -20941,7 +20941,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_bridge",
@@ -20969,7 +20969,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_item",
@@ -20997,7 +20997,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_delete",
@@ -21025,7 +21025,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_group",
@@ -21053,7 +21053,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_talent",
@@ -21081,7 +21081,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_beauty",
@@ -21109,7 +21109,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_platform",
@@ -21137,7 +21137,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_house",
@@ -21165,7 +21165,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_sun",
@@ -21193,7 +21193,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_meeting",
@@ -21221,7 +21221,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_history",
@@ -21249,7 +21249,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_valley",
@@ -21277,7 +21277,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_square",
@@ -21305,7 +21305,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_generation",
@@ -21333,7 +21333,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_south",
@@ -21361,7 +21361,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_virtue",
@@ -21389,7 +21389,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_tribe",
@@ -21417,7 +21417,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_city",
@@ -21445,7 +21445,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_language",
@@ -21473,7 +21473,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_speed",
@@ -21501,7 +21501,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_ground",
@@ -21529,7 +21529,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_advance",
@@ -21557,7 +21557,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_attempt",
@@ -21585,7 +21585,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_defeat",
@@ -21613,7 +21613,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_tail",
@@ -21641,7 +21641,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_mother",
@@ -21669,7 +21669,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_east",
@@ -21697,7 +21697,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_return",
@@ -21725,7 +21725,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_speech",
@@ -21753,7 +21753,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_child",
@@ -21781,7 +21781,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_tower",
@@ -21809,7 +21809,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_hair",
@@ -21837,7 +21837,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_household",
@@ -21865,7 +21865,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_person",
@@ -21893,7 +21893,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_section",
@@ -21921,7 +21921,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_official",
@@ -21949,7 +21949,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_hundred",
@@ -21977,7 +21977,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_office",
@@ -22005,7 +22005,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_rock",
@@ -22033,7 +22033,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_rise",
@@ -22061,7 +22061,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_left",
@@ -22089,7 +22089,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_sound",
@@ -22117,7 +22117,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_power",
@@ -22145,7 +22145,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "repetition_ml_rom_ml_roman_summer",
@@ -22173,6 +22173,6 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   }
 ]

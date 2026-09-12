@@ -25,7 +25,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_bag",
@@ -53,7 +53,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_mouth",
@@ -81,7 +81,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_soil",
@@ -109,7 +109,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_mountain",
@@ -137,7 +137,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_heart",
@@ -193,7 +193,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_day",
@@ -221,7 +221,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_star",
@@ -305,7 +305,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_wood",
@@ -333,7 +333,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_village",
@@ -361,7 +361,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_forest",
@@ -417,7 +417,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_grid",
@@ -473,7 +473,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_pond",
@@ -557,7 +557,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_wave",
@@ -641,7 +641,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_sea",
@@ -669,7 +669,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_lake",
@@ -725,7 +725,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_point",
@@ -753,7 +753,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_version",
@@ -781,7 +781,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_ball",
@@ -865,7 +865,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_red",
@@ -893,7 +893,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_line",
@@ -921,7 +921,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_net",
@@ -977,7 +977,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_tea",
@@ -1005,7 +1005,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_foot",
@@ -1033,7 +1033,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_gold",
@@ -1061,7 +1061,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_door",
@@ -1089,7 +1089,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_snow",
@@ -1117,7 +1117,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_horse",
@@ -1145,7 +1145,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_one",
@@ -1173,7 +1173,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_two",
@@ -1201,7 +1201,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_three",
@@ -1229,7 +1229,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_four",
@@ -1257,7 +1257,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_five",
@@ -1285,7 +1285,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_six",
@@ -1313,7 +1313,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_seven",
@@ -1341,7 +1341,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_eight",
@@ -1369,7 +1369,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_nine",
@@ -1397,7 +1397,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_ten",
@@ -1425,7 +1425,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_head",
@@ -1453,7 +1453,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_street",
@@ -1537,7 +1537,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_field",
@@ -1649,7 +1649,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_pair",
@@ -1733,7 +1733,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_thousand",
@@ -1761,7 +1761,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_north",
@@ -1789,7 +1789,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_machine",
@@ -1873,7 +1873,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_province",
@@ -1957,7 +1957,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_color",
@@ -1985,7 +1985,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_kind",
@@ -2041,7 +2041,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_school",
@@ -2153,7 +2153,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_face",
@@ -2209,7 +2209,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_delete",
@@ -2237,7 +2237,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_group",
@@ -2265,7 +2265,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_talent",
@@ -2377,7 +2377,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_sun",
@@ -2461,7 +2461,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_valley",
@@ -2489,7 +2489,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_square",
@@ -2517,7 +2517,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_generation",
@@ -2573,7 +2573,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_virtue",
@@ -2601,7 +2601,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_tribe",
@@ -2657,7 +2657,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_speed",
@@ -2685,7 +2685,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_ground",
@@ -2741,7 +2741,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_attempt",
@@ -2769,7 +2769,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_defeat",
@@ -2797,7 +2797,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_tail",
@@ -2853,7 +2853,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_east",
@@ -2909,7 +2909,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_speech",
@@ -2965,7 +2965,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_tower",
@@ -3049,7 +3049,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_section",
@@ -3161,7 +3161,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_left",
@@ -3217,7 +3217,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_power",
@@ -3245,7 +3245,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_native_summer",
@@ -3300,7 +3300,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_cloud",
@@ -3327,7 +3327,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_bag",
@@ -3354,7 +3354,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_mouth",
@@ -3381,7 +3381,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_soil",
@@ -3408,7 +3408,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_mountain",
@@ -3435,7 +3435,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_cloth",
@@ -3462,7 +3462,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_heart",
@@ -3516,7 +3516,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_day",
@@ -3543,7 +3543,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_star",
@@ -3624,7 +3624,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_wood",
@@ -3651,7 +3651,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_village",
@@ -3678,7 +3678,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_forest",
@@ -3732,7 +3732,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_grid",
@@ -3813,7 +3813,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_pond",
@@ -3894,7 +3894,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_law",
@@ -3921,7 +3921,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_wave",
@@ -3975,7 +3975,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_cave",
@@ -4029,7 +4029,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_lake",
@@ -4083,7 +4083,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_fire",
@@ -4110,7 +4110,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_point",
@@ -4137,7 +4137,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_version",
@@ -4164,7 +4164,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_ball",
@@ -4218,7 +4218,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_station",
@@ -4245,7 +4245,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_rice",
@@ -4272,7 +4272,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_red",
@@ -4299,7 +4299,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_line",
@@ -4326,7 +4326,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_net",
@@ -4380,7 +4380,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_tea",
@@ -4407,7 +4407,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_foot",
@@ -4434,7 +4434,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_gold",
@@ -4461,7 +4461,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_door",
@@ -4488,7 +4488,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_snow",
@@ -4515,7 +4515,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_horse",
@@ -4542,7 +4542,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_one",
@@ -4569,7 +4569,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_two",
@@ -4596,7 +4596,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_three",
@@ -4623,7 +4623,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_four",
@@ -4650,7 +4650,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_five",
@@ -4704,7 +4704,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_seven",
@@ -4731,7 +4731,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_eight",
@@ -4758,7 +4758,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_nine",
@@ -4785,7 +4785,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_ten",
@@ -4812,7 +4812,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_head",
@@ -4839,7 +4839,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_shop",
@@ -4866,7 +4866,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_strip",
@@ -4893,7 +4893,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_street",
@@ -4974,7 +4974,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_field",
@@ -5082,7 +5082,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_pair",
@@ -5163,7 +5163,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_thousand",
@@ -5190,7 +5190,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_north",
@@ -5217,7 +5217,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_machine",
@@ -5271,7 +5271,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_benefit",
@@ -5298,7 +5298,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_position",
@@ -5325,7 +5325,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_province",
@@ -5406,7 +5406,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_friend",
@@ -5460,7 +5460,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_kind",
@@ -5514,7 +5514,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_school",
@@ -5622,7 +5622,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_face",
@@ -5676,7 +5676,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_item",
@@ -5703,7 +5703,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_delete",
@@ -5730,7 +5730,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_group",
@@ -5757,7 +5757,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_talent",
@@ -5784,7 +5784,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_beauty",
@@ -5865,7 +5865,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_sun",
@@ -5919,7 +5919,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_history",
@@ -5946,7 +5946,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_valley",
@@ -6000,7 +6000,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_generation",
@@ -6054,7 +6054,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_virtue",
@@ -6081,7 +6081,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_tribe",
@@ -6135,7 +6135,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_language",
@@ -6162,7 +6162,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_speed",
@@ -6189,7 +6189,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_ground",
@@ -6243,7 +6243,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_attempt",
@@ -6270,7 +6270,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_defeat",
@@ -6297,7 +6297,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_tail",
@@ -6324,7 +6324,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_mother",
@@ -6351,7 +6351,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_east",
@@ -6378,7 +6378,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_return",
@@ -6405,7 +6405,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_speech",
@@ -6459,7 +6459,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_tower",
@@ -6513,7 +6513,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_household",
@@ -6567,7 +6567,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_section",
@@ -6648,7 +6648,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_office",
@@ -6675,7 +6675,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_rock",
@@ -6729,7 +6729,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_left",
@@ -6783,7 +6783,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_power",
@@ -6810,7 +6810,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_native_summer",
@@ -7033,7 +7033,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_day",
@@ -7313,7 +7313,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_pond",
@@ -7341,7 +7341,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_sand",
@@ -7397,7 +7397,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_wave",
@@ -7481,7 +7481,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_sea",
@@ -7509,7 +7509,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_lake",
@@ -7537,7 +7537,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_source",
@@ -7705,7 +7705,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_red",
@@ -7817,7 +7817,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_tea",
@@ -7929,7 +7929,7 @@
     "kept": false,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_snow",
@@ -8069,7 +8069,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_four",
@@ -8125,7 +8125,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_six",
@@ -8153,7 +8153,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_seven",
@@ -8209,7 +8209,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_nine",
@@ -8517,7 +8517,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_seat",
@@ -8601,7 +8601,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_north",
@@ -8797,7 +8797,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_color",
@@ -9161,7 +9161,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_platform",
@@ -9217,7 +9217,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_sun",
@@ -9245,7 +9245,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_meeting",
@@ -9497,7 +9497,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_speed",
@@ -9581,7 +9581,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_attempt",
@@ -10085,7 +10085,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_hi_roman_summer",
@@ -10194,7 +10194,7 @@
     "kept": false,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_mouth",
@@ -10302,7 +10302,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_heart",
@@ -10356,7 +10356,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_day",
@@ -10626,7 +10626,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_water",
@@ -10680,7 +10680,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_sand",
@@ -10842,7 +10842,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_sea",
@@ -10869,7 +10869,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_lake",
@@ -10896,7 +10896,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_source",
@@ -10923,7 +10923,7 @@
     "kept": false,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_fire",
@@ -10950,7 +10950,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_point",
@@ -11112,7 +11112,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_red",
@@ -11220,7 +11220,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_tea",
@@ -11328,7 +11328,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_snow",
@@ -11463,7 +11463,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_four",
@@ -11517,7 +11517,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_six",
@@ -11544,7 +11544,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_seven",
@@ -11598,7 +11598,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_nine",
@@ -11625,7 +11625,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_ten",
@@ -12030,7 +12030,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_north",
@@ -12057,7 +12057,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_machine",
@@ -12246,7 +12246,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_friend",
@@ -12651,7 +12651,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_platform",
@@ -12705,7 +12705,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_sun",
@@ -12732,7 +12732,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_meeting",
@@ -12894,7 +12894,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_virtue",
@@ -12975,7 +12975,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_language",
@@ -13002,7 +13002,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_speed",
@@ -13083,7 +13083,7 @@
     "kept": false,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_attempt",
@@ -13569,7 +13569,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_hi_roman_left",
@@ -13761,7 +13761,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_soil",
@@ -13817,7 +13817,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_heart",
@@ -13845,7 +13845,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_hand",
@@ -13873,7 +13873,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_day",
@@ -13901,7 +13901,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_star",
@@ -13929,7 +13929,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_spring",
@@ -14041,7 +14041,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_forest",
@@ -14097,7 +14097,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_grid",
@@ -14153,7 +14153,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_pond",
@@ -14181,7 +14181,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_sand",
@@ -14209,7 +14209,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_law",
@@ -14237,7 +14237,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_wave",
@@ -14349,7 +14349,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_lake",
@@ -14433,7 +14433,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_version",
@@ -14573,7 +14573,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_line",
@@ -14629,7 +14629,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_flower",
@@ -14657,7 +14657,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_tea",
@@ -14769,7 +14769,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_snow",
@@ -14797,7 +14797,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_horse",
@@ -14825,7 +14825,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_one",
@@ -14881,7 +14881,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_three",
@@ -14909,7 +14909,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_four",
@@ -14937,7 +14937,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_five",
@@ -14965,7 +14965,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_six",
@@ -14993,7 +14993,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_seven",
@@ -15021,7 +15021,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_eight",
@@ -15049,7 +15049,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_nine",
@@ -15077,7 +15077,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_ten",
@@ -15105,7 +15105,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_head",
@@ -15133,7 +15133,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_street",
@@ -15161,7 +15161,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_part",
@@ -15189,7 +15189,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_eye",
@@ -15217,7 +15217,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_field",
@@ -15273,7 +15273,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_dance",
@@ -15301,7 +15301,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_word",
@@ -15329,7 +15329,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_pair",
@@ -15413,7 +15413,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_thousand",
@@ -15441,7 +15441,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_north",
@@ -15469,7 +15469,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_machine",
@@ -15497,7 +15497,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_time",
@@ -15553,7 +15553,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_province",
@@ -15609,7 +15609,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_middle",
@@ -15665,7 +15665,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_kind",
@@ -15721,7 +15721,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_school",
@@ -15749,7 +15749,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_structure",
@@ -15861,7 +15861,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_bridge",
@@ -15889,7 +15889,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_delete",
@@ -15945,7 +15945,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_talent",
@@ -15973,7 +15973,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_beauty",
@@ -16057,7 +16057,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_sun",
@@ -16085,7 +16085,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_meeting",
@@ -16113,7 +16113,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_history",
@@ -16141,7 +16141,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_valley",
@@ -16225,7 +16225,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_south",
@@ -16253,7 +16253,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_virtue",
@@ -16337,7 +16337,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_speed",
@@ -16365,7 +16365,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_ground",
@@ -16449,7 +16449,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_defeat",
@@ -16477,7 +16477,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_tail",
@@ -16505,7 +16505,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_mother",
@@ -16561,7 +16561,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_return",
@@ -16589,7 +16589,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_speech",
@@ -16645,7 +16645,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_tower",
@@ -16701,7 +16701,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_person",
@@ -16757,7 +16757,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_office",
@@ -16841,7 +16841,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_left",
@@ -16869,7 +16869,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_native_sound",
@@ -16953,7 +16953,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_book",
@@ -16980,7 +16980,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_cloud",
@@ -17007,7 +17007,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_bag",
@@ -17061,7 +17061,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_soil",
@@ -17088,7 +17088,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_mountain",
@@ -17115,7 +17115,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_cloth",
@@ -17169,7 +17169,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_hand",
@@ -17196,7 +17196,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_day",
@@ -17223,7 +17223,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_star",
@@ -17250,7 +17250,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_spring",
@@ -17358,7 +17358,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_forest",
@@ -17412,7 +17412,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_grid",
@@ -17439,7 +17439,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_song",
@@ -17466,7 +17466,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_water",
@@ -17493,7 +17493,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_pond",
@@ -17520,7 +17520,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_sand",
@@ -17547,7 +17547,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_river",
@@ -17601,7 +17601,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_wave",
@@ -17709,7 +17709,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_lake",
@@ -17763,7 +17763,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_fire",
@@ -17817,7 +17817,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_version",
@@ -17898,7 +17898,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_station",
@@ -17925,7 +17925,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_rice",
@@ -17979,7 +17979,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_line",
@@ -18033,7 +18033,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_flower",
@@ -18060,7 +18060,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_tea",
@@ -18168,7 +18168,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_snow",
@@ -18222,7 +18222,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_one",
@@ -18249,7 +18249,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_two",
@@ -18276,7 +18276,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_three",
@@ -18303,7 +18303,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_four",
@@ -18330,7 +18330,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_five",
@@ -18357,7 +18357,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_six",
@@ -18384,7 +18384,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_seven",
@@ -18411,7 +18411,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_eight",
@@ -18438,7 +18438,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_nine",
@@ -18465,7 +18465,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_ten",
@@ -18492,7 +18492,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_head",
@@ -18519,7 +18519,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_shop",
@@ -18600,7 +18600,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_part",
@@ -18627,7 +18627,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_eye",
@@ -18654,7 +18654,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_field",
@@ -18708,7 +18708,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_dance",
@@ -18735,7 +18735,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_word",
@@ -18762,7 +18762,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_pair",
@@ -18843,7 +18843,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_thousand",
@@ -18870,7 +18870,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_north",
@@ -18897,7 +18897,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_machine",
@@ -18924,7 +18924,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_time",
@@ -18951,7 +18951,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_benefit",
@@ -18978,7 +18978,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_position",
@@ -19005,7 +19005,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_province",
@@ -19086,7 +19086,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_friend",
@@ -19113,7 +19113,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_color",
@@ -19140,7 +19140,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_kind",
@@ -19194,7 +19194,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_school",
@@ -19221,7 +19221,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_structure",
@@ -19302,7 +19302,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_face",
@@ -19329,7 +19329,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_bridge",
@@ -19356,7 +19356,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_item",
@@ -19383,7 +19383,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_delete",
@@ -19410,7 +19410,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_group",
@@ -19437,7 +19437,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_talent",
@@ -19464,7 +19464,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_beauty",
@@ -19545,7 +19545,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_sun",
@@ -19572,7 +19572,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_meeting",
@@ -19599,7 +19599,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_history",
@@ -19626,7 +19626,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_valley",
@@ -19680,7 +19680,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_generation",
@@ -19707,7 +19707,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_south",
@@ -19734,7 +19734,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_virtue",
@@ -19761,7 +19761,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_tribe",
@@ -19815,7 +19815,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_language",
@@ -19842,7 +19842,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_speed",
@@ -19869,7 +19869,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_ground",
@@ -19923,7 +19923,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_attempt",
@@ -19950,7 +19950,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_defeat",
@@ -19977,7 +19977,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_tail",
@@ -20004,7 +20004,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_mother",
@@ -20058,7 +20058,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_return",
@@ -20085,7 +20085,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_speech",
@@ -20139,7 +20139,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_tower",
@@ -20166,7 +20166,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_hair",
@@ -20193,7 +20193,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_household",
@@ -20274,7 +20274,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_official",
@@ -20301,7 +20301,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_hundred",
@@ -20328,7 +20328,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_office",
@@ -20355,7 +20355,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_rock",
@@ -20436,7 +20436,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_sound",
@@ -20463,7 +20463,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_native_power",
@@ -20517,7 +20517,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_cloud",
@@ -20713,7 +20713,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_day",
@@ -20741,7 +20741,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_star",
@@ -20937,7 +20937,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_grid",
@@ -21021,7 +21021,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_sand",
@@ -21161,7 +21161,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_sea",
@@ -21637,7 +21637,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_horse",
@@ -21665,7 +21665,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_one",
@@ -22057,7 +22057,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_field",
@@ -22785,7 +22785,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ta_roman_talent",
@@ -24063,7 +24063,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_star",
@@ -24252,7 +24252,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_grid",
@@ -24306,7 +24306,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_water",
@@ -24333,7 +24333,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_pond",
@@ -24522,7 +24522,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_sea",
@@ -25035,7 +25035,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_horse",
@@ -25224,7 +25224,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_seven",
@@ -25494,7 +25494,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_field",
@@ -26061,7 +26061,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_structure",
@@ -26277,7 +26277,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_talent",
@@ -26304,7 +26304,7 @@
     "kept": false,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ta_roman_beauty",
@@ -27525,7 +27525,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_hand",
@@ -27553,7 +27553,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_day",
@@ -27609,7 +27609,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_spring",
@@ -27665,7 +27665,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_wood",
@@ -27693,7 +27693,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_village",
@@ -27777,7 +27777,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_grid",
@@ -27833,7 +27833,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_pond",
@@ -27861,7 +27861,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_sand",
@@ -27917,7 +27917,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_wave",
@@ -28029,7 +28029,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_lake",
@@ -28085,7 +28085,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_point",
@@ -28197,7 +28197,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_rice",
@@ -28253,7 +28253,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_line",
@@ -28365,7 +28365,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_foot",
@@ -28477,7 +28477,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_horse",
@@ -28561,7 +28561,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_three",
@@ -28589,7 +28589,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_four",
@@ -28617,7 +28617,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_five",
@@ -28645,7 +28645,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_six",
@@ -28673,7 +28673,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_seven",
@@ -28701,7 +28701,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_eight",
@@ -28729,7 +28729,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_nine",
@@ -28757,7 +28757,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_ten",
@@ -28785,7 +28785,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_head",
@@ -28813,7 +28813,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_street",
@@ -28869,7 +28869,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_eye",
@@ -28897,7 +28897,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_field",
@@ -28953,7 +28953,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_dance",
@@ -28981,7 +28981,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_word",
@@ -29009,7 +29009,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_pair",
@@ -29093,7 +29093,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_thousand",
@@ -29149,7 +29149,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_machine",
@@ -29233,7 +29233,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_province",
@@ -29261,7 +29261,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_exchange",
@@ -29317,7 +29317,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_color",
@@ -29345,7 +29345,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_kind",
@@ -29457,7 +29457,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_tie",
@@ -29513,7 +29513,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_face",
@@ -29541,7 +29541,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_bridge",
@@ -29569,7 +29569,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_delete",
@@ -29737,7 +29737,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_sun",
@@ -29765,7 +29765,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_meeting",
@@ -29877,7 +29877,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_generation",
@@ -29905,7 +29905,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_south",
@@ -29933,7 +29933,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_virtue",
@@ -29961,7 +29961,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_tribe",
@@ -29989,7 +29989,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_city",
@@ -30017,7 +30017,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_speed",
@@ -30045,7 +30045,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_ground",
@@ -30213,7 +30213,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_east",
@@ -30241,7 +30241,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_return",
@@ -30269,7 +30269,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_speech",
@@ -30325,7 +30325,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_tower",
@@ -30381,7 +30381,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_person",
@@ -30493,7 +30493,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_rise",
@@ -30521,7 +30521,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_left",
@@ -30549,7 +30549,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_sound",
@@ -30577,7 +30577,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_power",
@@ -30605,7 +30605,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_native_summer",
@@ -30660,7 +30660,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_cloud",
@@ -30849,7 +30849,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_hand",
@@ -30876,7 +30876,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_day",
@@ -30984,7 +30984,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_wood",
@@ -31038,7 +31038,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_forest",
@@ -31092,7 +31092,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_grid",
@@ -31146,7 +31146,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_water",
@@ -31200,7 +31200,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_sand",
@@ -31254,7 +31254,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_law",
@@ -31281,7 +31281,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_wave",
@@ -31389,7 +31389,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_lake",
@@ -31443,7 +31443,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_fire",
@@ -31470,7 +31470,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_point",
@@ -31578,7 +31578,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_station",
@@ -31605,7 +31605,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_rice",
@@ -31659,7 +31659,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_line",
@@ -31713,7 +31713,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_flower",
@@ -31767,7 +31767,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_foot",
@@ -31875,7 +31875,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_horse",
@@ -31929,7 +31929,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_two",
@@ -31956,7 +31956,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_three",
@@ -31983,7 +31983,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_four",
@@ -32010,7 +32010,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_five",
@@ -32037,7 +32037,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_six",
@@ -32064,7 +32064,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_seven",
@@ -32091,7 +32091,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_eight",
@@ -32118,7 +32118,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_nine",
@@ -32145,7 +32145,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_ten",
@@ -32172,7 +32172,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_head",
@@ -32199,7 +32199,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_shop",
@@ -32226,7 +32226,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_strip",
@@ -32307,7 +32307,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_eye",
@@ -32334,7 +32334,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_field",
@@ -32388,7 +32388,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_dance",
@@ -32415,7 +32415,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_word",
@@ -32550,7 +32550,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_north",
@@ -32577,7 +32577,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_machine",
@@ -32631,7 +32631,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_benefit",
@@ -32685,7 +32685,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_province",
@@ -32712,7 +32712,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_exchange",
@@ -32766,7 +32766,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_friend",
@@ -32793,7 +32793,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_color",
@@ -32820,7 +32820,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_kind",
@@ -32928,7 +32928,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_tie",
@@ -32982,7 +32982,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_face",
@@ -33009,7 +33009,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_bridge",
@@ -33036,7 +33036,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_item",
@@ -33225,7 +33225,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_sun",
@@ -33252,7 +33252,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_meeting",
@@ -33306,7 +33306,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_valley",
@@ -33360,7 +33360,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_generation",
@@ -33387,7 +33387,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_south",
@@ -33414,7 +33414,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_virtue",
@@ -33441,7 +33441,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_tribe",
@@ -33468,7 +33468,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_city",
@@ -33495,7 +33495,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_language",
@@ -33522,7 +33522,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_speed",
@@ -33549,7 +33549,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_ground",
@@ -33630,7 +33630,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_defeat",
@@ -33711,7 +33711,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_east",
@@ -33738,7 +33738,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_return",
@@ -33765,7 +33765,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_speech",
@@ -33819,7 +33819,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_tower",
@@ -33846,7 +33846,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_hair",
@@ -33927,7 +33927,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_section",
@@ -34008,7 +34008,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_office",
@@ -34035,7 +34035,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_rock",
@@ -34062,7 +34062,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_rise",
@@ -34089,7 +34089,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_left",
@@ -34116,7 +34116,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_sound",
@@ -34143,7 +34143,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_power",
@@ -34170,7 +34170,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_native_summer",
@@ -34393,7 +34393,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_day",
@@ -34701,7 +34701,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_sand",
@@ -34813,7 +34813,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_cave",
@@ -35205,7 +35205,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_foot",
@@ -35345,7 +35345,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_one",
@@ -35737,7 +35737,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_field",
@@ -35849,7 +35849,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_pair",
@@ -36717,7 +36717,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_generation",
@@ -37221,7 +37221,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_person",
@@ -37333,7 +37333,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_fr_ml_roman_rise",
@@ -37716,7 +37716,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_day",
@@ -38040,7 +38040,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_sand",
@@ -38175,7 +38175,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_cave",
@@ -38310,7 +38310,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_point",
@@ -39174,7 +39174,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_field",
@@ -39282,7 +39282,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_pair",
@@ -40200,7 +40200,7 @@
     "kept": true,
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_generation",
@@ -40335,7 +40335,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_language",
@@ -40362,7 +40362,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_speed",
@@ -40740,7 +40740,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_person",
@@ -40902,7 +40902,7 @@
     "kept": true,
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "translation_en_ml_roman_rise",

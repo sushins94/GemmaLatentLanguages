@@ -24,7 +24,7 @@
     "expected": "बादल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_cloud",
@@ -42,7 +42,7 @@
     "expected": "மேகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_cloud",
@@ -78,7 +78,7 @@
     "expected": "बैग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_bag",
@@ -132,7 +132,7 @@
     "expected": "मुंह",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_mouth",
@@ -150,7 +150,7 @@
     "expected": "வாய்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_mouth",
@@ -186,7 +186,7 @@
     "expected": "मिट्टी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_soil",
@@ -240,7 +240,7 @@
     "expected": "पर्वत",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_mountain",
@@ -249,7 +249,7 @@
     "expected": "parvat",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_mountain",
@@ -258,7 +258,7 @@
     "expected": "மலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_mountain",
@@ -276,7 +276,7 @@
     "expected": "ഹൃദയം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_heart",
@@ -312,7 +312,7 @@
     "expected": "இதயம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_heart",
@@ -330,7 +330,7 @@
     "expected": "കൈ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_hand",
@@ -339,7 +339,7 @@
     "expected": "kaii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_hand",
@@ -348,7 +348,7 @@
     "expected": "हाथ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_hand",
@@ -357,7 +357,7 @@
     "expected": "haath",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_hand",
@@ -366,7 +366,7 @@
     "expected": "கை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_hand",
@@ -375,7 +375,7 @@
     "expected": "kaii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_day",
@@ -402,7 +402,7 @@
     "expected": "दिन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_day",
@@ -420,7 +420,7 @@
     "expected": "நாள்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_day",
@@ -438,7 +438,7 @@
     "expected": "നക്ഷത്രം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_star",
@@ -474,7 +474,7 @@
     "expected": "நட்சத்திரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_star",
@@ -483,7 +483,7 @@
     "expected": "natchatthiram",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_spring",
@@ -546,7 +546,7 @@
     "expected": "ചന്ദ്രൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_moon",
@@ -564,7 +564,7 @@
     "expected": "चंद्रमा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_moon",
@@ -582,7 +582,7 @@
     "expected": "நிலா",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_moon",
@@ -600,7 +600,7 @@
     "expected": "മരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_wood",
@@ -618,7 +618,7 @@
     "expected": "लकड़ी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_wood",
@@ -645,7 +645,7 @@
     "expected": "maram",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_village",
@@ -672,7 +672,7 @@
     "expected": "गांव",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_village",
@@ -690,7 +690,7 @@
     "expected": "கிராமம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_village",
@@ -708,7 +708,7 @@
     "expected": "കാട്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_forest",
@@ -762,7 +762,7 @@
     "expected": "പഴം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_fruit",
@@ -780,7 +780,7 @@
     "expected": "फल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_fruit",
@@ -798,7 +798,7 @@
     "expected": "பழம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_fruit",
@@ -807,7 +807,7 @@
     "expected": "pazham",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_grid",
@@ -870,7 +870,7 @@
     "expected": "ഗാനം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_song",
@@ -888,7 +888,7 @@
     "expected": "गाना",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_song",
@@ -897,7 +897,7 @@
     "expected": "gaanaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_song",
@@ -906,7 +906,7 @@
     "expected": "பாடல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_song",
@@ -924,7 +924,7 @@
     "expected": "കുളം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_pond",
@@ -933,7 +933,7 @@
     "expected": "kulam",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_pond",
@@ -951,7 +951,7 @@
     "expected": "talab",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_pond",
@@ -960,7 +960,7 @@
     "expected": "குளம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_pond",
@@ -969,7 +969,7 @@
     "expected": "kulam",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_sand",
@@ -1014,7 +1014,7 @@
     "expected": "மணல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_sand",
@@ -1032,7 +1032,7 @@
     "expected": "നിയമം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_law",
@@ -1050,7 +1050,7 @@
     "expected": "कानून",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_law",
@@ -1068,7 +1068,7 @@
     "expected": "சட்டம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_law",
@@ -1149,7 +1149,7 @@
     "expected": "samudram",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_ocean",
@@ -1158,7 +1158,7 @@
     "expected": "महासागर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_ocean",
@@ -1176,7 +1176,7 @@
     "expected": "கடல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_ocean",
@@ -1221,7 +1221,7 @@
     "expected": "gufa",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_cave",
@@ -1239,7 +1239,7 @@
     "expected": "kugai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_sea",
@@ -1248,7 +1248,7 @@
     "expected": "കടൽ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_sea",
@@ -1266,7 +1266,7 @@
     "expected": "समुद्र",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_sea",
@@ -1275,7 +1275,7 @@
     "expected": "samudra",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_sea",
@@ -1284,7 +1284,7 @@
     "expected": "கடல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_sea",
@@ -1329,7 +1329,7 @@
     "expected": "talab",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_lake",
@@ -1356,7 +1356,7 @@
     "expected": "ഉറവിടം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_source",
@@ -1374,7 +1374,7 @@
     "expected": "स्रोत",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_source",
@@ -1428,7 +1428,7 @@
     "expected": "बिंदु",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_point",
@@ -1446,7 +1446,7 @@
     "expected": "புள்ளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_point",
@@ -1482,7 +1482,7 @@
     "expected": "संस्करण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_version",
@@ -1572,7 +1572,7 @@
     "expected": "സ്റ്റേഷൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_station",
@@ -1608,7 +1608,7 @@
     "expected": "நிலையம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_station",
@@ -1644,7 +1644,7 @@
     "expected": "चावल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_rice",
@@ -1653,7 +1653,7 @@
     "expected": "chawal",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_rice",
@@ -1662,7 +1662,7 @@
     "expected": "அரிசி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_rice",
@@ -1680,7 +1680,7 @@
     "expected": "ചുവപ്പ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_red",
@@ -1698,7 +1698,7 @@
     "expected": "लाल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_red",
@@ -1716,7 +1716,7 @@
     "expected": "சிவப்பு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_red",
@@ -1752,7 +1752,7 @@
     "expected": "रेखा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_line",
@@ -1824,7 +1824,7 @@
     "expected": "வலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_net",
@@ -1860,7 +1860,7 @@
     "expected": "फूल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_flower",
@@ -1869,7 +1869,7 @@
     "expected": "phool",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_flower",
@@ -1878,7 +1878,7 @@
     "expected": "பூ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_flower",
@@ -1896,7 +1896,7 @@
     "expected": "ചായ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_tea",
@@ -1914,7 +1914,7 @@
     "expected": "चाय",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_tea",
@@ -1968,7 +1968,7 @@
     "expected": "पैर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_foot",
@@ -2022,7 +2022,7 @@
     "expected": "सोना",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_gold",
@@ -2076,7 +2076,7 @@
     "expected": "दरवाजा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_door",
@@ -2085,7 +2085,7 @@
     "expected": "darwaja",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_door",
@@ -2094,7 +2094,7 @@
     "expected": "கதவு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_door",
@@ -2112,7 +2112,7 @@
     "expected": "മഞ്ഞ്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_snow",
@@ -2130,7 +2130,7 @@
     "expected": "हिम",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_snow",
@@ -2157,7 +2157,7 @@
     "expected": "panii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_horse",
@@ -2184,7 +2184,7 @@
     "expected": "घोड़ा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_horse",
@@ -2193,7 +2193,7 @@
     "expected": "ghodaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_horse",
@@ -2202,7 +2202,7 @@
     "expected": "குதிரை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_horse",
@@ -2211,7 +2211,7 @@
     "expected": "kudhirai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_one",
@@ -2238,7 +2238,7 @@
     "expected": "एक",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_one",
@@ -2274,7 +2274,7 @@
     "expected": "രണ്ട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_two",
@@ -2292,7 +2292,7 @@
     "expected": "दो",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_two",
@@ -2310,7 +2310,7 @@
     "expected": "இரண்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_two",
@@ -2328,7 +2328,7 @@
     "expected": "മൂന്ന്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_three",
@@ -2346,7 +2346,7 @@
     "expected": "तीन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_three",
@@ -2364,7 +2364,7 @@
     "expected": "மூன்று",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_three",
@@ -2382,7 +2382,7 @@
     "expected": "നാല്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_four",
@@ -2400,7 +2400,7 @@
     "expected": "चार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_four",
@@ -2418,7 +2418,7 @@
     "expected": "நான்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_four",
@@ -2436,7 +2436,7 @@
     "expected": "അഞ്ച്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_five",
@@ -2463,7 +2463,7 @@
     "expected": "paanch",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_five",
@@ -2472,7 +2472,7 @@
     "expected": "ஐந்து",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_five",
@@ -2490,7 +2490,7 @@
     "expected": "ആറ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_six",
@@ -2508,7 +2508,7 @@
     "expected": "छह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_six",
@@ -2517,7 +2517,7 @@
     "expected": "chhah",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_six",
@@ -2526,7 +2526,7 @@
     "expected": "ஆறு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_six",
@@ -2544,7 +2544,7 @@
     "expected": "ഏഴ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_seven",
@@ -2562,7 +2562,7 @@
     "expected": "सात",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_seven",
@@ -2580,7 +2580,7 @@
     "expected": "ஏழு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_seven",
@@ -2598,7 +2598,7 @@
     "expected": "എട്ട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_eight",
@@ -2616,7 +2616,7 @@
     "expected": "आठ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_eight",
@@ -2625,7 +2625,7 @@
     "expected": "aathh",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_eight",
@@ -2634,7 +2634,7 @@
     "expected": "எட்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_eight",
@@ -2670,7 +2670,7 @@
     "expected": "नौ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_nine",
@@ -2679,7 +2679,7 @@
     "expected": "nau",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_nine",
@@ -2688,7 +2688,7 @@
     "expected": "ஒன்பது",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_nine",
@@ -2706,7 +2706,7 @@
     "expected": "പത്ത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_ten",
@@ -2724,7 +2724,7 @@
     "expected": "दस",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_ten",
@@ -2742,7 +2742,7 @@
     "expected": "பத்து",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_ten",
@@ -2760,7 +2760,7 @@
     "expected": "തല",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_head",
@@ -2778,7 +2778,7 @@
     "expected": "सिर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_head",
@@ -2796,7 +2796,7 @@
     "expected": "தலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_head",
@@ -2850,7 +2850,7 @@
     "expected": "தெரு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_street",
@@ -2868,7 +2868,7 @@
     "expected": "ഭാഗം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_part",
@@ -2904,7 +2904,7 @@
     "expected": "பகுதி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_part",
@@ -2922,7 +2922,7 @@
     "expected": "കണ്ണ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_eye",
@@ -2931,7 +2931,7 @@
     "expected": "kannu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_eye",
@@ -2940,7 +2940,7 @@
     "expected": "आँख",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_eye",
@@ -2958,7 +2958,7 @@
     "expected": "கண்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_eye",
@@ -2967,7 +2967,7 @@
     "expected": "kann",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_field",
@@ -3030,7 +3030,7 @@
     "expected": "സ്ഥലം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_site",
@@ -3048,7 +3048,7 @@
     "expected": "स्थल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_site",
@@ -3057,7 +3057,7 @@
     "expected": "sthal",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_site",
@@ -3066,7 +3066,7 @@
     "expected": "இடம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_site",
@@ -3084,7 +3084,7 @@
     "expected": "നൃത്തം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_dance",
@@ -3102,7 +3102,7 @@
     "expected": "नृत्य",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_dance",
@@ -3120,7 +3120,7 @@
     "expected": "நடனம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_dance",
@@ -3138,7 +3138,7 @@
     "expected": "വാക്ക്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_word",
@@ -3156,7 +3156,7 @@
     "expected": "शब्द",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_word",
@@ -3174,7 +3174,7 @@
     "expected": "சொல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_word",
@@ -3219,7 +3219,7 @@
     "expected": "jodaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_pair",
@@ -3318,7 +3318,7 @@
     "expected": "प्रकाश",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_light",
@@ -3336,7 +3336,7 @@
     "expected": "ஒளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_light",
@@ -3372,7 +3372,7 @@
     "expected": "हजार",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_thousand",
@@ -3390,7 +3390,7 @@
     "expected": "ஆயிரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_thousand",
@@ -3408,7 +3408,7 @@
     "expected": "വടക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_north",
@@ -3426,7 +3426,7 @@
     "expected": "उत्तर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_north",
@@ -3444,7 +3444,7 @@
     "expected": "வடக்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_north",
@@ -3498,7 +3498,7 @@
     "expected": "இயந்திரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_machine",
@@ -3534,7 +3534,7 @@
     "expected": "समय",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_time",
@@ -3552,7 +3552,7 @@
     "expected": "நேரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_time",
@@ -3570,7 +3570,7 @@
     "expected": "സ്ഥാനം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_position",
@@ -3588,7 +3588,7 @@
     "expected": "स्थिति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_position",
@@ -3624,7 +3624,7 @@
     "expected": "പ്രവിശ്യ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_province",
@@ -3714,7 +3714,7 @@
     "expected": "பரிமாற்றம்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_exchange",
@@ -3732,7 +3732,7 @@
     "expected": "മദ്ധ്യ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_middle",
@@ -3750,7 +3750,7 @@
     "expected": "मध्य",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_middle",
@@ -3759,7 +3759,7 @@
     "expected": "madhya",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_middle",
@@ -3786,7 +3786,7 @@
     "expected": "നിറം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_color",
@@ -3804,7 +3804,7 @@
     "expected": "रंग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_color",
@@ -3822,7 +3822,7 @@
     "expected": "நிறம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_color",
@@ -3912,7 +3912,7 @@
     "expected": "न्यायाधीश",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_judge",
@@ -3930,7 +3930,7 @@
     "expected": "நீதிபதி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_judge",
@@ -3948,7 +3948,7 @@
     "expected": "സ്കൂൾ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_school",
@@ -3957,7 +3957,7 @@
     "expected": "school",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_school",
@@ -3984,7 +3984,7 @@
     "expected": "பள்ளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_school",
@@ -4002,7 +4002,7 @@
     "expected": "ഘടന",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_structure",
@@ -4038,7 +4038,7 @@
     "expected": "கட்டமைப்பு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_structure",
@@ -4047,7 +4047,7 @@
     "expected": "kattamaippu",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_tie",
@@ -4110,7 +4110,7 @@
     "expected": "ഉദാഹരണം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_example",
@@ -4128,7 +4128,7 @@
     "expected": "उदाहरण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_example",
@@ -4146,7 +4146,7 @@
     "expected": "எடுத்துக்காட்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_example",
@@ -4164,7 +4164,7 @@
     "expected": "മുഖം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_face",
@@ -4218,7 +4218,7 @@
     "expected": "പാലം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_bridge",
@@ -4236,7 +4236,7 @@
     "expected": "पुल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_bridge",
@@ -4254,7 +4254,7 @@
     "expected": "பாலம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_bridge",
@@ -4290,7 +4290,7 @@
     "expected": "मिटाना",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_delete",
@@ -4344,7 +4344,7 @@
     "expected": "समूह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_group",
@@ -4362,7 +4362,7 @@
     "expected": "குழு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_group",
@@ -4371,7 +4371,7 @@
     "expected": "kuzhu",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_native_talent",
@@ -4416,7 +4416,7 @@
     "expected": "திறமை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_talent",
@@ -4461,7 +4461,7 @@
     "expected": "sundarta",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_beauty",
@@ -4542,7 +4542,7 @@
     "expected": "വീട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_house",
@@ -4560,7 +4560,7 @@
     "expected": "घर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_house",
@@ -4569,7 +4569,7 @@
     "expected": "ghar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_house",
@@ -4578,7 +4578,7 @@
     "expected": "வீடு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_house",
@@ -4596,7 +4596,7 @@
     "expected": "സൂര്യൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_sun",
@@ -4623,7 +4623,7 @@
     "expected": "suraj",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_sun",
@@ -4632,7 +4632,7 @@
     "expected": "சூரியன்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_sun",
@@ -4686,7 +4686,7 @@
     "expected": "கூட்டம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_meeting",
@@ -4704,7 +4704,7 @@
     "expected": "ചരിത്രം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_history",
@@ -4722,7 +4722,7 @@
     "expected": "इतिहास",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_history",
@@ -4731,7 +4731,7 @@
     "expected": "itihas",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_history",
@@ -4740,7 +4740,7 @@
     "expected": "வரலாறு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_history",
@@ -4812,7 +4812,7 @@
     "expected": "ചതുരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_square",
@@ -4821,7 +4821,7 @@
     "expected": "chathuram",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_square",
@@ -4830,7 +4830,7 @@
     "expected": "वर्ग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_square",
@@ -4866,7 +4866,7 @@
     "expected": "തലമുറ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_generation",
@@ -4902,7 +4902,7 @@
     "expected": "தலைமுறை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_generation",
@@ -4920,7 +4920,7 @@
     "expected": "തെക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_south",
@@ -4938,7 +4938,7 @@
     "expected": "दक्षिण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_south",
@@ -4956,7 +4956,7 @@
     "expected": "தெற்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_south",
@@ -4974,7 +4974,7 @@
     "expected": "ഗുണം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_virtue",
@@ -4992,7 +4992,7 @@
     "expected": "गुण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_virtue",
@@ -5082,7 +5082,7 @@
     "expected": "നഗരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_city",
@@ -5100,7 +5100,7 @@
     "expected": "शहर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_city",
@@ -5118,7 +5118,7 @@
     "expected": "நகரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_city",
@@ -5136,7 +5136,7 @@
     "expected": "വേഗത",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_speed",
@@ -5154,7 +5154,7 @@
     "expected": "गति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_speed",
@@ -5172,7 +5172,7 @@
     "expected": "வேகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_speed",
@@ -5262,7 +5262,7 @@
     "expected": "आगे",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_advance",
@@ -5271,7 +5271,7 @@
     "expected": "aage",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_advance",
@@ -5280,7 +5280,7 @@
     "expected": "முன்னேற்றம்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_advance",
@@ -5316,7 +5316,7 @@
     "expected": "प्रयास",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_attempt",
@@ -5334,7 +5334,7 @@
     "expected": "முயற்சி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_attempt",
@@ -5352,7 +5352,7 @@
     "expected": "പരാജയം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_defeat",
@@ -5370,7 +5370,7 @@
     "expected": "हार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_defeat",
@@ -5388,7 +5388,7 @@
     "expected": "தோல்வி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_defeat",
@@ -5442,7 +5442,7 @@
     "expected": "வால்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_tail",
@@ -5460,7 +5460,7 @@
     "expected": "അമ്മ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_mother",
@@ -5469,7 +5469,7 @@
     "expected": "amma",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_mother",
@@ -5478,7 +5478,7 @@
     "expected": "माँ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_mother",
@@ -5514,7 +5514,7 @@
     "expected": "കിഴക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_east",
@@ -5523,7 +5523,7 @@
     "expected": "kizhakk",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_east",
@@ -5532,7 +5532,7 @@
     "expected": "पूर्व",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_east",
@@ -5550,7 +5550,7 @@
     "expected": "கிழக்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_east",
@@ -5586,7 +5586,7 @@
     "expected": "वापसी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_return",
@@ -5604,7 +5604,7 @@
     "expected": "திரும்பு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_return",
@@ -5676,7 +5676,7 @@
     "expected": "കുട്ടി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_child",
@@ -5694,7 +5694,7 @@
     "expected": "बच्चा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_child",
@@ -5712,7 +5712,7 @@
     "expected": "குழந்தை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_child",
@@ -5784,7 +5784,7 @@
     "expected": "കുടുംബം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_household",
@@ -5793,7 +5793,7 @@
     "expected": "kudumbam",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_household",
@@ -5820,7 +5820,7 @@
     "expected": "வீடு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_household",
@@ -5856,7 +5856,7 @@
     "expected": "व्यक्ति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_person",
@@ -5928,7 +5928,7 @@
     "expected": "பிரிவு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_section",
@@ -6000,7 +6000,7 @@
     "expected": "കല്ല്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_rock",
@@ -6009,7 +6009,7 @@
     "expected": "kallu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_native_rock",
@@ -6036,7 +6036,7 @@
     "expected": "பாறை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_rock",
@@ -6054,7 +6054,7 @@
     "expected": "ഉയർച്ച",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_rise",
@@ -6072,7 +6072,7 @@
     "expected": "उठान",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_rise",
@@ -6090,7 +6090,7 @@
     "expected": "உயர",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_rise",
@@ -6108,7 +6108,7 @@
     "expected": "ഇടത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_left",
@@ -6135,7 +6135,7 @@
     "expected": "baayen",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_left",
@@ -6144,7 +6144,7 @@
     "expected": "இடது",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_roman_left",
@@ -6162,7 +6162,7 @@
     "expected": "ശബ്ദം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_sound",
@@ -6180,7 +6180,7 @@
     "expected": "ध्वनि",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_sound",
@@ -6216,7 +6216,7 @@
     "expected": "ശക്തി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_hitoml_roman_power",
@@ -6234,7 +6234,7 @@
     "expected": "शक्ति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_tatohi_roman_power",
@@ -6243,7 +6243,7 @@
     "expected": "shakti",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_fr_mltota_native_power",
@@ -6315,7 +6315,7 @@
     "expected": "koadai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_book",
@@ -6324,7 +6324,7 @@
     "expected": "പുസ്തകം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_book",
@@ -6342,7 +6342,7 @@
     "expected": "पुस्तक",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_book",
@@ -6360,7 +6360,7 @@
     "expected": "புத்தகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_book",
@@ -6396,7 +6396,7 @@
     "expected": "बादल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_cloud",
@@ -6414,7 +6414,7 @@
     "expected": "மேகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_cloud",
@@ -6450,7 +6450,7 @@
     "expected": "बैग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_bag",
@@ -6459,7 +6459,7 @@
     "expected": "bagg",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_bag",
@@ -6477,7 +6477,7 @@
     "expected": "paii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_mouth",
@@ -6504,7 +6504,7 @@
     "expected": "मुंह",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_mouth",
@@ -6522,7 +6522,7 @@
     "expected": "வாய்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_mouth",
@@ -6540,7 +6540,7 @@
     "expected": "മണ്ണ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_soil",
@@ -6558,7 +6558,7 @@
     "expected": "मिट्टी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_soil",
@@ -6576,7 +6576,7 @@
     "expected": "மண்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_soil",
@@ -6612,7 +6612,7 @@
     "expected": "पर्वत",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_mountain",
@@ -6630,7 +6630,7 @@
     "expected": "மலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_mountain",
@@ -6666,7 +6666,7 @@
     "expected": "कपड़ा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_cloth",
@@ -6675,7 +6675,7 @@
     "expected": "kapada",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_cloth",
@@ -6702,7 +6702,7 @@
     "expected": "ഹൃദയം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_heart",
@@ -6738,7 +6738,7 @@
     "expected": "இதயம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_heart",
@@ -6756,7 +6756,7 @@
     "expected": "കൈ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_hand",
@@ -6765,7 +6765,7 @@
     "expected": "kaii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_hand",
@@ -6774,7 +6774,7 @@
     "expected": "हाथ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_hand",
@@ -6783,7 +6783,7 @@
     "expected": "haath",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_hand",
@@ -6792,7 +6792,7 @@
     "expected": "கை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_hand",
@@ -6801,7 +6801,7 @@
     "expected": "kaii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_day",
@@ -6828,7 +6828,7 @@
     "expected": "दिन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_day",
@@ -6846,7 +6846,7 @@
     "expected": "நாள்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_day",
@@ -6855,7 +6855,7 @@
     "expected": "naall",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_star",
@@ -6900,7 +6900,7 @@
     "expected": "நட்சத்திரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_star",
@@ -6972,7 +6972,7 @@
     "expected": "ചന്ദ്രൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_moon",
@@ -6990,7 +6990,7 @@
     "expected": "चंद्रमा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_moon",
@@ -7044,7 +7044,7 @@
     "expected": "लकड़ी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_wood",
@@ -7080,7 +7080,7 @@
     "expected": "ഗ്രാമം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_village",
@@ -7098,7 +7098,7 @@
     "expected": "गांव",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_village",
@@ -7116,7 +7116,7 @@
     "expected": "கிராமம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_village",
@@ -7134,7 +7134,7 @@
     "expected": "കാട്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_forest",
@@ -7188,7 +7188,7 @@
     "expected": "പഴം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_fruit",
@@ -7206,7 +7206,7 @@
     "expected": "फल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_fruit",
@@ -7224,7 +7224,7 @@
     "expected": "பழம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_fruit",
@@ -7233,7 +7233,7 @@
     "expected": "pazham",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_grid",
@@ -7278,7 +7278,7 @@
     "expected": "சட்டகம்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_grid",
@@ -7296,7 +7296,7 @@
     "expected": "ഗാനം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_song",
@@ -7314,7 +7314,7 @@
     "expected": "गाना",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_song",
@@ -7323,7 +7323,7 @@
     "expected": "gaanaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_song",
@@ -7332,7 +7332,7 @@
     "expected": "பாடல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_song",
@@ -7368,7 +7368,7 @@
     "expected": "पानी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_water",
@@ -7386,7 +7386,7 @@
     "expected": "நீர்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_water",
@@ -7395,7 +7395,7 @@
     "expected": "neer",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_pond",
@@ -7404,7 +7404,7 @@
     "expected": "കുളം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_pond",
@@ -7431,7 +7431,7 @@
     "expected": "talab",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_pond",
@@ -7440,7 +7440,7 @@
     "expected": "குளம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_pond",
@@ -7494,7 +7494,7 @@
     "expected": "மணல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_sand",
@@ -7512,7 +7512,7 @@
     "expected": "നദി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_river",
@@ -7530,7 +7530,7 @@
     "expected": "नदी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_river",
@@ -7566,7 +7566,7 @@
     "expected": "നിയമം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_law",
@@ -7584,7 +7584,7 @@
     "expected": "कानून",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_law",
@@ -7602,7 +7602,7 @@
     "expected": "சட்டம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_law",
@@ -7683,7 +7683,7 @@
     "expected": "samudram",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_ocean",
@@ -7692,7 +7692,7 @@
     "expected": "महासागर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_ocean",
@@ -7710,7 +7710,7 @@
     "expected": "கடல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_ocean",
@@ -7773,7 +7773,7 @@
     "expected": "kugai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_sea",
@@ -7782,7 +7782,7 @@
     "expected": "കടൽ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_sea",
@@ -7800,7 +7800,7 @@
     "expected": "समुद्र",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_sea",
@@ -7809,7 +7809,7 @@
     "expected": "samudra",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_sea",
@@ -7818,7 +7818,7 @@
     "expected": "கடல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_sea",
@@ -7863,7 +7863,7 @@
     "expected": "talab",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_lake",
@@ -7890,7 +7890,7 @@
     "expected": "ഉറവിടം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_source",
@@ -7908,7 +7908,7 @@
     "expected": "स्रोत",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_source",
@@ -7926,7 +7926,7 @@
     "expected": "மூலம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_source",
@@ -7944,7 +7944,7 @@
     "expected": "തീ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_fire",
@@ -7962,7 +7962,7 @@
     "expected": "आग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_fire",
@@ -7971,7 +7971,7 @@
     "expected": "aag",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_fire",
@@ -7980,7 +7980,7 @@
     "expected": "நெருப்பு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_fire",
@@ -8016,7 +8016,7 @@
     "expected": "बिंदु",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_point",
@@ -8034,7 +8034,7 @@
     "expected": "புள்ளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_point",
@@ -8070,7 +8070,7 @@
     "expected": "संस्करण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_version",
@@ -8160,7 +8160,7 @@
     "expected": "ചിത്രം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_painting",
@@ -8178,7 +8178,7 @@
     "expected": "चित्रकारी",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_painting",
@@ -8196,7 +8196,7 @@
     "expected": "ஓவியம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_painting",
@@ -8214,7 +8214,7 @@
     "expected": "സ്റ്റേഷൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_station",
@@ -8232,7 +8232,7 @@
     "expected": "स्टेशन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_station",
@@ -8250,7 +8250,7 @@
     "expected": "நிலையம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_station",
@@ -8286,7 +8286,7 @@
     "expected": "चावल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_rice",
@@ -8295,7 +8295,7 @@
     "expected": "chawal",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_rice",
@@ -8322,7 +8322,7 @@
     "expected": "ചുവപ്പ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_red",
@@ -8340,7 +8340,7 @@
     "expected": "लाल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_red",
@@ -8358,7 +8358,7 @@
     "expected": "சிவப்பு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_red",
@@ -8394,7 +8394,7 @@
     "expected": "रेखा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_line",
@@ -8466,7 +8466,7 @@
     "expected": "வலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_net",
@@ -8502,7 +8502,7 @@
     "expected": "फूल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_flower",
@@ -8511,7 +8511,7 @@
     "expected": "phool",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_flower",
@@ -8520,7 +8520,7 @@
     "expected": "பூ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_flower",
@@ -8538,7 +8538,7 @@
     "expected": "ചായ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_tea",
@@ -8556,7 +8556,7 @@
     "expected": "चाय",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_tea",
@@ -8664,7 +8664,7 @@
     "expected": "सोना",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_gold",
@@ -8718,7 +8718,7 @@
     "expected": "दरवाजा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_door",
@@ -8736,7 +8736,7 @@
     "expected": "கதவு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_door",
@@ -8754,7 +8754,7 @@
     "expected": "മഞ്ഞ്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_snow",
@@ -8772,7 +8772,7 @@
     "expected": "हिम",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_snow",
@@ -8799,7 +8799,7 @@
     "expected": "panii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_horse",
@@ -8826,7 +8826,7 @@
     "expected": "घोड़ा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_horse",
@@ -8835,7 +8835,7 @@
     "expected": "ghodaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_horse",
@@ -8844,7 +8844,7 @@
     "expected": "குதிரை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_horse",
@@ -8862,7 +8862,7 @@
     "expected": "ഒന്ന്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_one",
@@ -8880,7 +8880,7 @@
     "expected": "एक",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_one",
@@ -8898,7 +8898,7 @@
     "expected": "ஒன்று",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_one",
@@ -8916,7 +8916,7 @@
     "expected": "രണ്ട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_two",
@@ -8934,7 +8934,7 @@
     "expected": "दो",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_two",
@@ -8952,7 +8952,7 @@
     "expected": "இரண்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_two",
@@ -8970,7 +8970,7 @@
     "expected": "മൂന്ന്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_three",
@@ -8988,7 +8988,7 @@
     "expected": "तीन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_three",
@@ -8997,7 +8997,7 @@
     "expected": "teen",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_three",
@@ -9006,7 +9006,7 @@
     "expected": "மூன்று",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_three",
@@ -9024,7 +9024,7 @@
     "expected": "നാല്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_four",
@@ -9042,7 +9042,7 @@
     "expected": "चार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_four",
@@ -9060,7 +9060,7 @@
     "expected": "நான்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_four",
@@ -9078,7 +9078,7 @@
     "expected": "അഞ്ച്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_five",
@@ -9105,7 +9105,7 @@
     "expected": "paanch",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_five",
@@ -9114,7 +9114,7 @@
     "expected": "ஐந்து",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_five",
@@ -9132,7 +9132,7 @@
     "expected": "ആറ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_six",
@@ -9150,7 +9150,7 @@
     "expected": "छह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_six",
@@ -9159,7 +9159,7 @@
     "expected": "chhah",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_six",
@@ -9168,7 +9168,7 @@
     "expected": "ஆறு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_six",
@@ -9186,7 +9186,7 @@
     "expected": "ഏഴ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_seven",
@@ -9204,7 +9204,7 @@
     "expected": "सात",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_seven",
@@ -9222,7 +9222,7 @@
     "expected": "ஏழு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_seven",
@@ -9240,7 +9240,7 @@
     "expected": "എട്ട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_eight",
@@ -9258,7 +9258,7 @@
     "expected": "आठ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_eight",
@@ -9267,7 +9267,7 @@
     "expected": "aathh",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_eight",
@@ -9276,7 +9276,7 @@
     "expected": "எட்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_eight",
@@ -9312,7 +9312,7 @@
     "expected": "नौ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_nine",
@@ -9321,7 +9321,7 @@
     "expected": "nau",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_nine",
@@ -9330,7 +9330,7 @@
     "expected": "ஒன்பது",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_nine",
@@ -9348,7 +9348,7 @@
     "expected": "പത്ത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_ten",
@@ -9366,7 +9366,7 @@
     "expected": "दस",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_ten",
@@ -9384,7 +9384,7 @@
     "expected": "பத்து",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_ten",
@@ -9402,7 +9402,7 @@
     "expected": "തല",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_head",
@@ -9420,7 +9420,7 @@
     "expected": "सिर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_head",
@@ -9438,7 +9438,7 @@
     "expected": "தலை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_head",
@@ -9474,7 +9474,7 @@
     "expected": "दुकान",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_shop",
@@ -9528,7 +9528,7 @@
     "expected": "पट्टी",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_strip",
@@ -9582,7 +9582,7 @@
     "expected": "सड़क",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_street",
@@ -9618,7 +9618,7 @@
     "expected": "ഭാഗം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_part",
@@ -9654,7 +9654,7 @@
     "expected": "பகுதி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_part",
@@ -9672,7 +9672,7 @@
     "expected": "കണ്ണ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_eye",
@@ -9681,7 +9681,7 @@
     "expected": "kannu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_eye",
@@ -9690,7 +9690,7 @@
     "expected": "आँख",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_eye",
@@ -9708,7 +9708,7 @@
     "expected": "கண்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_eye",
@@ -9717,7 +9717,7 @@
     "expected": "kann",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_field",
@@ -9816,7 +9816,7 @@
     "expected": "இடம்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_site",
@@ -9834,7 +9834,7 @@
     "expected": "നൃത്തം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_dance",
@@ -9870,7 +9870,7 @@
     "expected": "நடனம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_dance",
@@ -9906,7 +9906,7 @@
     "expected": "शब्द",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_word",
@@ -9924,7 +9924,7 @@
     "expected": "சொல்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_word",
@@ -9969,7 +9969,7 @@
     "expected": "jodaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_pair",
@@ -10068,7 +10068,7 @@
     "expected": "प्रकाश",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_light",
@@ -10086,7 +10086,7 @@
     "expected": "ஒளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_light",
@@ -10104,7 +10104,7 @@
     "expected": "ആയിരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_thousand",
@@ -10122,7 +10122,7 @@
     "expected": "हजार",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_thousand",
@@ -10140,7 +10140,7 @@
     "expected": "ஆயிரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_thousand",
@@ -10158,7 +10158,7 @@
     "expected": "വടക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_north",
@@ -10176,7 +10176,7 @@
     "expected": "उत्तर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_north",
@@ -10185,7 +10185,7 @@
     "expected": "uttar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_north",
@@ -10194,7 +10194,7 @@
     "expected": "வடக்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_north",
@@ -10248,7 +10248,7 @@
     "expected": "இயந்திரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_machine",
@@ -10266,7 +10266,7 @@
     "expected": "സമയം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_time",
@@ -10284,7 +10284,7 @@
     "expected": "समय",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_time",
@@ -10302,7 +10302,7 @@
     "expected": "நேரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_time",
@@ -10338,7 +10338,7 @@
     "expected": "लाभ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_benefit",
@@ -10356,7 +10356,7 @@
     "expected": "நன்மை",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_benefit",
@@ -10374,7 +10374,7 @@
     "expected": "സ്ഥാനം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_position",
@@ -10392,7 +10392,7 @@
     "expected": "स्थिति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_position",
@@ -10428,7 +10428,7 @@
     "expected": "പ്രവിശ്യ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_province",
@@ -10536,7 +10536,7 @@
     "expected": "മദ്ധ്യ",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_middle",
@@ -10554,7 +10554,7 @@
     "expected": "मध्य",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_middle",
@@ -10563,7 +10563,7 @@
     "expected": "madhya",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_middle",
@@ -10572,7 +10572,7 @@
     "expected": "நடு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_middle",
@@ -10608,7 +10608,7 @@
     "expected": "मित्र",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_friend",
@@ -10626,7 +10626,7 @@
     "expected": "நண்பன்",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_friend",
@@ -10662,7 +10662,7 @@
     "expected": "रंग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_color",
@@ -10680,7 +10680,7 @@
     "expected": "நிறம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_color",
@@ -10770,7 +10770,7 @@
     "expected": "न्यायाधीश",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_judge",
@@ -10788,7 +10788,7 @@
     "expected": "நீதிபதி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_judge",
@@ -10806,7 +10806,7 @@
     "expected": "സ്കൂൾ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_school",
@@ -10815,7 +10815,7 @@
     "expected": "school",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_school",
@@ -10842,7 +10842,7 @@
     "expected": "பள்ளி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_school",
@@ -10860,7 +10860,7 @@
     "expected": "ഘടന",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_structure",
@@ -10959,7 +10959,7 @@
     "expected": "thodai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_example",
@@ -10968,7 +10968,7 @@
     "expected": "ഉദാഹരണം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_example",
@@ -10986,7 +10986,7 @@
     "expected": "उदाहरण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_example",
@@ -11004,7 +11004,7 @@
     "expected": "எடுத்துக்காட்டு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_example",
@@ -11022,7 +11022,7 @@
     "expected": "മുഖം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_face",
@@ -11076,7 +11076,7 @@
     "expected": "പാലം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_bridge",
@@ -11094,7 +11094,7 @@
     "expected": "पुल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_bridge",
@@ -11112,7 +11112,7 @@
     "expected": "பாலம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_bridge",
@@ -11148,7 +11148,7 @@
     "expected": "वस्तु",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_item",
@@ -11166,7 +11166,7 @@
     "expected": "பொருள்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_item",
@@ -11202,7 +11202,7 @@
     "expected": "मिटाना",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_delete",
@@ -11256,7 +11256,7 @@
     "expected": "समूह",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_group",
@@ -11274,7 +11274,7 @@
     "expected": "குழு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_group",
@@ -11283,7 +11283,7 @@
     "expected": "kuzhu",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_talent",
@@ -11310,7 +11310,7 @@
     "expected": "प्रतिभा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_talent",
@@ -11328,7 +11328,7 @@
     "expected": "திறமை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_talent",
@@ -11373,7 +11373,7 @@
     "expected": "sundarta",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_beauty",
@@ -11454,7 +11454,7 @@
     "expected": "വീട്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_house",
@@ -11472,7 +11472,7 @@
     "expected": "घर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_house",
@@ -11481,7 +11481,7 @@
     "expected": "ghar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_house",
@@ -11490,7 +11490,7 @@
     "expected": "வீடு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_house",
@@ -11508,7 +11508,7 @@
     "expected": "സൂര്യൻ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_sun",
@@ -11535,7 +11535,7 @@
     "expected": "suraj",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_sun",
@@ -11544,7 +11544,7 @@
     "expected": "சூரியன்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_sun",
@@ -11580,7 +11580,7 @@
     "expected": "बैठक",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_meeting",
@@ -11598,7 +11598,7 @@
     "expected": "கூட்டம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_meeting",
@@ -11616,7 +11616,7 @@
     "expected": "ചരിത്രം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_history",
@@ -11634,7 +11634,7 @@
     "expected": "इतिहास",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_history",
@@ -11643,7 +11643,7 @@
     "expected": "itihas",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_history",
@@ -11652,7 +11652,7 @@
     "expected": "வரலாறு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_history",
@@ -11724,7 +11724,7 @@
     "expected": "ചതുരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_square",
@@ -11742,7 +11742,7 @@
     "expected": "वर्ग",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_square",
@@ -11760,7 +11760,7 @@
     "expected": "சதுரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_square",
@@ -11778,7 +11778,7 @@
     "expected": "തലമുറ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_generation",
@@ -11814,7 +11814,7 @@
     "expected": "தலைமுறை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_generation",
@@ -11832,7 +11832,7 @@
     "expected": "തെക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_south",
@@ -11850,7 +11850,7 @@
     "expected": "दक्षिण",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_south",
@@ -11859,7 +11859,7 @@
     "expected": "dakshin",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_south",
@@ -11868,7 +11868,7 @@
     "expected": "தெற்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_south",
@@ -11886,7 +11886,7 @@
     "expected": "ഗുണം",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_virtue",
@@ -11922,7 +11922,7 @@
     "expected": "நற்பண்பு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_virtue",
@@ -11994,7 +11994,7 @@
     "expected": "നഗരം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_city",
@@ -12012,7 +12012,7 @@
     "expected": "शहर",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_city",
@@ -12030,7 +12030,7 @@
     "expected": "நகரம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_city",
@@ -12039,7 +12039,7 @@
     "expected": "nagaram",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_language",
@@ -12048,7 +12048,7 @@
     "expected": "ഭാഷ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_language",
@@ -12057,7 +12057,7 @@
     "expected": "bhasha",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_language",
@@ -12066,7 +12066,7 @@
     "expected": "भाषा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_language",
@@ -12075,7 +12075,7 @@
     "expected": "bhasha",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_language",
@@ -12084,7 +12084,7 @@
     "expected": "மொழி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_language",
@@ -12102,7 +12102,7 @@
     "expected": "വേഗത",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_speed",
@@ -12120,7 +12120,7 @@
     "expected": "गति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_speed",
@@ -12138,7 +12138,7 @@
     "expected": "வேகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_speed",
@@ -12174,7 +12174,7 @@
     "expected": "जमीन",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_ground",
@@ -12228,7 +12228,7 @@
     "expected": "आगे",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_advance",
@@ -12237,7 +12237,7 @@
     "expected": "aage",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_advance",
@@ -12246,7 +12246,7 @@
     "expected": "முன்னேற்றம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_advance",
@@ -12282,7 +12282,7 @@
     "expected": "प्रयास",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_attempt",
@@ -12300,7 +12300,7 @@
     "expected": "முயற்சி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_attempt",
@@ -12336,7 +12336,7 @@
     "expected": "हार",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_defeat",
@@ -12354,7 +12354,7 @@
     "expected": "தோல்வி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_defeat",
@@ -12390,7 +12390,7 @@
     "expected": "पूंछ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_tail",
@@ -12408,7 +12408,7 @@
     "expected": "வால்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_tail",
@@ -12426,7 +12426,7 @@
     "expected": "അമ്മ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_mother",
@@ -12435,7 +12435,7 @@
     "expected": "amma",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_mother",
@@ -12444,7 +12444,7 @@
     "expected": "माँ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_mother",
@@ -12480,7 +12480,7 @@
     "expected": "കിഴക്ക്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_east",
@@ -12498,7 +12498,7 @@
     "expected": "पूर्व",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_east",
@@ -12516,7 +12516,7 @@
     "expected": "கிழக்கு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_east",
@@ -12534,7 +12534,7 @@
     "expected": "തിരിച്ചുവരവ്",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_return",
@@ -12552,7 +12552,7 @@
     "expected": "वापसी",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_return",
@@ -12570,7 +12570,7 @@
     "expected": "திரும்பு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_return",
@@ -12642,7 +12642,7 @@
     "expected": "കുട്ടി",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_child",
@@ -12660,7 +12660,7 @@
     "expected": "बच्चा",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_child",
@@ -12678,7 +12678,7 @@
     "expected": "குழந்தை",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_child",
@@ -12687,7 +12687,7 @@
     "expected": "kuzhandhai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_native_tower",
@@ -12768,7 +12768,7 @@
     "expected": "बाल",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_hair",
@@ -12786,7 +12786,7 @@
     "expected": "முடி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_hair",
@@ -12813,7 +12813,7 @@
     "expected": "kudumbam",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_household",
@@ -12840,7 +12840,7 @@
     "expected": "வீடு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_household",
@@ -12876,7 +12876,7 @@
     "expected": "व्यक्ति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_person",
@@ -12948,7 +12948,7 @@
     "expected": "பிரிவு",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_section",
@@ -13002,7 +13002,7 @@
     "expected": "அதிகாரப்பூர்வ",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_official",
@@ -13020,7 +13020,7 @@
     "expected": "നൂറ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_hundred",
@@ -13038,7 +13038,7 @@
     "expected": "सौ",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_hundred",
@@ -13056,7 +13056,7 @@
     "expected": "நூறு",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_hundred",
@@ -13074,7 +13074,7 @@
     "expected": "ഓഫീസ്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_office",
@@ -13092,7 +13092,7 @@
     "expected": "कार्यालय",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_office",
@@ -13110,7 +13110,7 @@
     "expected": "அலுவலகம்",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_office",
@@ -13128,7 +13128,7 @@
     "expected": "കല്ല്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_rock",
@@ -13137,7 +13137,7 @@
     "expected": "kallu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_native_rock",
@@ -13182,7 +13182,7 @@
     "expected": "ഉയർച്ച",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_rise",
@@ -13200,7 +13200,7 @@
     "expected": "उठान",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_rise",
@@ -13209,7 +13209,7 @@
     "expected": "uthaan",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_rise",
@@ -13218,7 +13218,7 @@
     "expected": "உயர",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_rise",
@@ -13236,7 +13236,7 @@
     "expected": "ഇടത്",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_left",
@@ -13263,7 +13263,7 @@
     "expected": "baayen",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_left",
@@ -13272,7 +13272,7 @@
     "expected": "இடது",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_left",
@@ -13290,7 +13290,7 @@
     "expected": "ശബ്ദം",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_sound",
@@ -13308,7 +13308,7 @@
     "expected": "ध्वनि",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_sound",
@@ -13326,7 +13326,7 @@
     "expected": "ஒலி",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_roman_sound",
@@ -13344,7 +13344,7 @@
     "expected": "ശക്തി",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_hitoml_roman_power",
@@ -13362,7 +13362,7 @@
     "expected": "शक्ति",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_power",
@@ -13371,7 +13371,7 @@
     "expected": "shakti",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_mltota_native_power",
@@ -13416,7 +13416,7 @@
     "expected": "ग्रीष्म",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "swap_en_tatohi_roman_summer",

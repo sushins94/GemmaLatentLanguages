@@ -53,3 +53,1321 @@ prompt sets per list: 18
 [run] 1300/1494  translation_fr_ml_roman_field
 [run] 1350/1494  translation_fr_ml_roman_child
 [run] 1400/1494  translation_en_ml_roman_line
+[run] 1450/1494  translation_en_ml_roman_bridge
+
+[gate] kept 1410/1494
+   lang script    n    sub exact  tok1
+     hi native  249  0.643 0.622 0.659
+     hi  roman  211  0.137 0.133 0.209
+     ml native  249  0.450 0.430 0.526
+     ml  roman  225  0.044 0.044 0.080
+     ta native  249  0.594 0.574 0.631
+     ta  roman  227  0.031 0.022 0.084
+[report] class1_translation_1shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/curves__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/ranks__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/switch__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/curves__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/ranks__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/switch__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/curves__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/ranks__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/switch__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/curves__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/ranks__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/switch__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/lenscmp__translation__en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/lenscmp__translation__native.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures/lenscmp__translation__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class1_translation_1shot | jlens_en | translation | hi | native | 1 | 249 | 0.6426 | 0.6225 | 0.6586 | 29 | 0.8317 | 0.0009 | 918.5687 | 32 | 0.1615 | 11 | en | 11 | 6.3834 | 62 | 0.31 | 0.0612 |
+| class1_translation_1shot | jlens_en | translation | hi | roman | 1 | 422 | 0.1374 | 0.1327 | 0.2085 | 28 | 0.7989 | 0.008 | 99.6811 | 32 | 0.193 | 32 | en | 11 | 11.3322 | 32 | 0.2756 | 0.0574 |
+| class1_translation_1shot | jlens_en | translation | ml | native | 1 | 249 | 0.4498 | 0.4297 | 0.5261 | 29 | 0.7643 | 0.0015 | 505.6334 | 32 | 0.0156 | 11 | en | 11 | 4.1837 | 72 | 0.3 | 0.0354 |
+| class1_translation_1shot | jlens_en | translation | ml | roman | 1 | 450 | 0.0444 | 0.0444 | 0.08 | 28 | 0.7144 | 0.0084 | 85.2973 | 32 | 0.0821 | -1 | en | 11 | 10.2771 | 36 | 0.2542 | 0.047 |
+| class1_translation_1shot | jlens_en | translation | ta | native | 1 | 249 | 0.5944 | 0.5743 | 0.6305 | 29 | 0.7999 | 0.0008 | 1060.6294 | 32 | 0.1289 | 11 | en | 11 | 5.2301 | 57 | 0.3043 | 0.0481 |
+| class1_translation_1shot | jlens_en | translation | ta | roman | 1 | 454 | 0.0308 | 0.022 | 0.0837 | 27 | 0.631 | 0.0084 | 75.558 | 32 | 0.0545 | 32 | en | 11 | 11.2628 | 26 | 0.2331 | 0.0483 |
+| class1_translation_1shot | jlens_indic | translation | hi | native | 1 | 249 | 0.6426 | 0.6225 | 0.6586 | 27 | 0.8176 | 0.0009 | 902.9642 | 32 | 0.1615 | 0 | en | 0 | 4.4384 | 5 | 0.2958 | 0.0642 |
+| class1_translation_1shot | jlens_indic | translation | hi | roman | 1 | 422 | 0.1374 | 0.1327 | 0.2085 | 27 | 0.7411 | 0.008 | 92.4666 | 32 | 0.193 | 0 | en | 0 | 9.1566 | 10 | 0.2548 | 0.0585 |
+| class1_translation_1shot | jlens_indic | translation | ml | native | 1 | 249 | 0.4498 | 0.4297 | 0.5261 | 27 | 0.6237 | 0.0015 | 412.63 | 32 | 0.0156 | 8 | en | 4 | 5.8299 | 35 | 0.264 | 0.0357 |
+| class1_translation_1shot | jlens_indic | translation | ml | roman | 1 | 450 | 0.0444 | 0.0444 | 0.08 | 26 | 0.6384 | 0.0084 | 76.2217 | 32 | 0.0821 | 0 | en | 0 | 7.3135 | 14 | 0.2326 | 0.0508 |
+| class1_translation_1shot | jlens_indic | translation | ta | native | 1 | 249 | 0.5944 | 0.5743 | 0.6305 | 26 | 0.8162 | 0.0008 | 1082.1581 | 32 | 0.1289 | 0 | en | 0 | 2.5891 | 8 | 0.2858 | 0.055 |
+| class1_translation_1shot | jlens_indic | translation | ta | roman | 1 | 454 | 0.0308 | 0.022 | 0.0837 | 26 | 0.6638 | 0.0084 | 79.4868 | 32 | 0.0545 | 0 | en | 0 | 8.1269 | 5 | 0.2167 | 0.0543 |
+| class1_translation_1shot | jlens_mixed | translation | hi | native | 1 | 249 | 0.6426 | 0.6225 | 0.6586 | 27 | 0.8048 | 0.0009 | 888.8552 | 32 | 0.1615 | 1 | en | 0 | 5.8561 | 8 | 0.2954 | 0.0638 |
+| class1_translation_1shot | jlens_mixed | translation | hi | roman | 1 | 422 | 0.1374 | 0.1327 | 0.2085 | 27 | 0.7397 | 0.008 | 92.3031 | 32 | 0.193 | 0 | en | 0 | 9.4968 | 10 | 0.2585 | 0.0586 |
+| class1_translation_1shot | jlens_mixed | translation | ml | native | 1 | 249 | 0.4498 | 0.4297 | 0.5261 | 27 | 0.65 | 0.0015 | 430.0238 | 32 | 0.0156 | 8 | en | 4 | 6.0551 | 30 | 0.2813 | 0.0359 |
+| class1_translation_1shot | jlens_mixed | translation | ml | roman | 1 | 450 | 0.0444 | 0.0444 | 0.08 | 26 | 0.652 | 0.0084 | 77.8443 | 32 | 0.0821 | 0 | en | 0 | 6.652 | 13 | 0.2456 | 0.0509 |
+| class1_translation_1shot | jlens_mixed | translation | ta | native | 1 | 249 | 0.5944 | 0.5743 | 0.6305 | 26 | 0.8253 | 0.0008 | 1094.3352 | 32 | 0.1289 | 0 | en | 0 | 3.6222 | 12 | 0.2988 | 0.0538 |
+| class1_translation_1shot | jlens_mixed | translation | ta | roman | 1 | 454 | 0.0308 | 0.022 | 0.0837 | 26 | 0.6805 | 0.0084 | 81.4906 | 32 | 0.0545 | 0 | en | 0 | 8.2854 | 4 | 0.2297 | 0.0534 |
+| class1_translation_1shot | logit | translation | hi | native | 1 | 249 | 0.6426 | 0.6225 | 0.6586 | 29 | 0.8491 | 0.0119 | 71.6416 | 33 | 0.4935 | 33 | en | 3 | 13.7485 | 0 | 0.3098 | 0.0508 |
+| class1_translation_1shot | logit | translation | hi | roman | 1 | 422 | 0.1374 | 0.1327 | 0.2085 | 29 | 0.8089 | 0.0135 | 60.1122 | 32 | 0.193 | 14 | en | 0 | 9.533 | 4 | 0.299 | 0.0676 |
+| class1_translation_1shot | logit | translation | ml | native | 1 | 249 | 0.4498 | 0.4297 | 0.5261 | 26 | 0.8053 | 0.0145 | 55.468 | 33 | 0.3254 | 33 | en | 33 | 14.7893 | 0 | 0.2959 | 0.0245 |
+| class1_translation_1shot | logit | translation | ml | roman | 1 | 450 | 0.0444 | 0.0444 | 0.08 | 26 | 0.7287 | 0.0154 | 47.3108 | 32 | 0.0821 | 33 | en | 2 | 9.7153 | 20 | 0.2799 | 0.0602 |
+| class1_translation_1shot | logit | translation | ta | native | 1 | 249 | 0.5944 | 0.5743 | 0.6305 | 26 | 0.8466 | 0.0115 | 73.8097 | 33 | 0.4475 | 33 | en | 11 | 12.5971 | 0 | 0.2998 | 0.0403 |
+| class1_translation_1shot | logit | translation | ta | roman | 1 | 454 | 0.0308 | 0.022 | 0.0837 | 27 | 0.6597 | 0.0144 | 45.9143 | 32 | 0.0545 | 32 | en | 4 | 10.2025 | 12 | 0.2529 | 0.0772 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class1_translation_1shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot
+[vocab] 84/1494 items collide (excluded)
+[run] 0/1494  translation_fr_hi_native_cloud
+[run] 50/1494  translation_fr_hi_native_ten
+[run] 100/1494  translation_fr_hi_native_tail
+[run] 150/1494  translation_en_hi_native_ball
+[run] 200/1494  translation_en_hi_native_school
+[run] 250/1494  translation_fr_hi_roman_bag
+[run] 300/1494  translation_fr_hi_roman_head
+[run] 350/1494  translation_fr_hi_roman_mother
+[run] 400/1494  translation_en_hi_roman_painting
+[run] 450/1494  translation_en_hi_roman_structure
+[run] 500/1494  translation_fr_ta_native_mouth
+[run] 550/1494  translation_fr_ta_native_street
+[run] 600/1494  translation_fr_ta_native_east
+[run] 650/1494  translation_en_ta_native_station
+[run] 700/1494  translation_en_ta_native_tie
+[run] 750/1494  translation_fr_ta_roman_soil
+[run] 800/1494  translation_fr_ta_roman_part
+[run] 850/1494  translation_fr_ta_roman_return
+[run] 900/1494  translation_en_ta_roman_rice
+[run] 950/1494  translation_en_ta_roman_example
+[run] 1000/1494  translation_fr_ml_native_mountain
+[run] 1050/1494  translation_fr_ml_native_eye
+[run] 1100/1494  translation_fr_ml_native_speech
+[run] 1150/1494  translation_en_ml_native_red
+[run] 1200/1494  translation_en_ml_native_face
+[run] 1250/1494  translation_fr_ml_roman_heart
+[run] 1300/1494  translation_fr_ml_roman_field
+[run] 1350/1494  translation_fr_ml_roman_child
+[run] 1400/1494  translation_en_ml_roman_line
+[run] 1450/1494  translation_en_ml_roman_bridge
+
+[gate] kept 1410/1494
+   lang script    n    sub exact  tok1
+     hi native  249  0.635 0.606 0.643
+     hi  roman  211  0.109 0.109 0.190
+     ml native  249  0.454 0.434 0.526
+     ml  roman  225  0.053 0.049 0.084
+     ta native  249  0.586 0.570 0.622
+     ta  roman  227  0.026 0.018 0.093
+[report] class1_translation_2shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/curves__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/ranks__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/switch__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/curves__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/ranks__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/switch__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/curves__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/ranks__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/switch__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/curves__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/ranks__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/switch__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/lenscmp__translation__en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/lenscmp__translation__native.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures/lenscmp__translation__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class1_translation_2shot | jlens_en | translation | hi | native | 2 | 249 | 0.6345 | 0.6064 | 0.6426 | 29 | 0.8341 | 0.0007 | 1234.1647 | 32 | 0.1608 | 12 | en | 11 | 6.8578 | 72 | 0.3122 | 0.0602 |
+| class1_translation_2shot | jlens_en | translation | hi | roman | 2 | 422 | 0.109 | 0.109 | 0.1896 | 28 | 0.8054 | 0.0076 | 105.8477 | 32 | 0.1863 | 32 | en | 11 | 11.2457 | 37 | 0.2779 | 0.056 |
+| class1_translation_2shot | jlens_en | translation | ml | native | 2 | 249 | 0.4538 | 0.4337 | 0.5261 | 29 | 0.7612 | 0.0014 | 534.329 | 32 | 0.0166 | 11 | en | 11 | 3.7318 | 72 | 0.3025 | 0.0352 |
+| class1_translation_2shot | jlens_en | translation | ml | roman | 2 | 450 | 0.0533 | 0.0489 | 0.0844 | 28 | 0.7147 | 0.0085 | 83.6301 | 32 | 0.0822 | 8 | en | 11 | 10.203 | 30 | 0.2557 | 0.0477 |
+| class1_translation_2shot | jlens_en | translation | ta | native | 2 | 249 | 0.5863 | 0.5703 | 0.6225 | 29 | 0.7972 | 0.0007 | 1087.9628 | 32 | 0.1389 | 12 | en | 11 | 6.4949 | 70 | 0.3064 | 0.0489 |
+| class1_translation_2shot | jlens_en | translation | ta | roman | 2 | 454 | 0.0264 | 0.0176 | 0.0925 | 27 | 0.6156 | 0.0101 | 61.1343 | 32 | 0.0594 | 32 | en | 11 | 11.3315 | 25 | 0.2263 | 0.0526 |
+| class1_translation_2shot | jlens_indic | translation | hi | native | 2 | 249 | 0.6345 | 0.6064 | 0.6426 | 27 | 0.8064 | 0.0007 | 1193.1919 | 32 | 0.1608 | 0 | en | 0 | 5.2099 | 5 | 0.293 | 0.0637 |
+| class1_translation_2shot | jlens_indic | translation | hi | roman | 2 | 422 | 0.109 | 0.109 | 0.1896 | 29 | 0.7301 | 0.0076 | 95.9555 | 32 | 0.1863 | 0 | en | 0 | 8.8305 | 11 | 0.2564 | 0.0569 |
+| class1_translation_2shot | jlens_indic | translation | ml | native | 2 | 249 | 0.4538 | 0.4337 | 0.5261 | 27 | 0.6068 | 0.0014 | 425.9335 | 32 | 0.0166 | 8 | en | 4 | 5.3911 | 43 | 0.2627 | 0.0357 |
+| class1_translation_2shot | jlens_indic | translation | ml | roman | 2 | 450 | 0.0533 | 0.0489 | 0.0844 | 26 | 0.6414 | 0.0085 | 75.0544 | 32 | 0.0822 | 0 | en | 0 | 6.5633 | 14 | 0.2327 | 0.0514 |
+| class1_translation_2shot | jlens_indic | translation | ta | native | 2 | 249 | 0.5863 | 0.5703 | 0.6225 | 26 | 0.8132 | 0.0007 | 1109.7769 | 32 | 0.1389 | 0 | en | 0 | 1.7427 | 6 | 0.2841 | 0.0563 |
+| class1_translation_2shot | jlens_indic | translation | ta | roman | 2 | 454 | 0.0264 | 0.0176 | 0.0925 | 26 | 0.633 | 0.0101 | 62.8638 | 32 | 0.0594 | 0 | en | 0 | 7.2332 | 6 | 0.2114 | 0.0595 |
+| class1_translation_2shot | jlens_mixed | translation | hi | native | 2 | 249 | 0.6345 | 0.6064 | 0.6426 | 27 | 0.7957 | 0.0007 | 1177.4077 | 32 | 0.1608 | 2 | en | 0 | 6.2348 | 8 | 0.2934 | 0.0631 |
+| class1_translation_2shot | jlens_mixed | translation | hi | roman | 2 | 422 | 0.109 | 0.109 | 0.1896 | 29 | 0.7368 | 0.0076 | 96.8346 | 32 | 0.1863 | 0 | en | 0 | 9.6293 | 10 | 0.262 | 0.0567 |
+| class1_translation_2shot | jlens_mixed | translation | ml | native | 2 | 249 | 0.4538 | 0.4337 | 0.5261 | 27 | 0.6357 | 0.0014 | 446.2335 | 32 | 0.0166 | 8 | en | 4 | 5.5777 | 32 | 0.2806 | 0.0358 |
+| class1_translation_2shot | jlens_mixed | translation | ml | roman | 2 | 450 | 0.0533 | 0.0489 | 0.0844 | 26 | 0.6549 | 0.0085 | 76.6411 | 32 | 0.0822 | 0 | en | 0 | 6.715 | 13 | 0.2463 | 0.0513 |
+| class1_translation_2shot | jlens_mixed | translation | ta | native | 2 | 249 | 0.5863 | 0.5703 | 0.6225 | 26 | 0.8235 | 0.0007 | 1123.8448 | 32 | 0.1389 | 0 | en | 0 | 3.9864 | 13 | 0.2982 | 0.0549 |
+| class1_translation_2shot | jlens_mixed | translation | ta | roman | 2 | 454 | 0.0264 | 0.0176 | 0.0925 | 26 | 0.6473 | 0.0101 | 64.275 | 32 | 0.0594 | 0 | en | 0 | 7.7335 | 5 | 0.2262 | 0.0588 |
+| class1_translation_2shot | logit | translation | hi | native | 2 | 249 | 0.6345 | 0.6064 | 0.6426 | 29 | 0.846 | 0.0104 | 80.9701 | 33 | 0.5078 | 33 | en | 3 | 13.5082 | 0 | 0.3079 | 0.0499 |
+| class1_translation_2shot | logit | translation | hi | roman | 2 | 422 | 0.109 | 0.109 | 0.1896 | 29 | 0.8218 | 0.0142 | 58.0144 | 32 | 0.1863 | 3 | en | 0 | 8.1416 | 5 | 0.3056 | 0.0657 |
+| class1_translation_2shot | logit | translation | ml | native | 2 | 249 | 0.4538 | 0.4337 | 0.5261 | 26 | 0.807 | 0.0153 | 52.751 | 33 | 0.3473 | 33 | en | 33 | 14.8456 | 0 | 0.2964 | 0.0244 |
+| class1_translation_2shot | logit | translation | ml | roman | 2 | 450 | 0.0533 | 0.0489 | 0.0844 | 26 | 0.7257 | 0.0166 | 43.7467 | 32 | 0.0822 | 33 | en | 2 | 8.86 | 18 | 0.2806 | 0.0647 |
+| class1_translation_2shot | logit | translation | ta | native | 2 | 249 | 0.5863 | 0.5703 | 0.6225 | 26 | 0.8406 | 0.0124 | 68.0106 | 33 | 0.4643 | 33 | en | 12 | 13.2481 | 0 | 0.3006 | 0.0411 |
+| class1_translation_2shot | logit | translation | ta | roman | 2 | 454 | 0.0264 | 0.0176 | 0.0925 | 27 | 0.6202 | 0.0168 | 37.0002 | 32 | 0.0594 | 14 | en | 4 | 8.6227 | 11 | 0.2396 | 0.0912 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class1_translation_2shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot
+[vocab] 84/1494 items collide (excluded)
+[run] 0/1494  translation_fr_hi_native_cloud
+[run] 50/1494  translation_fr_hi_native_ten
+[run] 100/1494  translation_fr_hi_native_tail
+[run] 150/1494  translation_en_hi_native_ball
+[run] 200/1494  translation_en_hi_native_school
+[run] 250/1494  translation_fr_hi_roman_bag
+[run] 300/1494  translation_fr_hi_roman_head
+[run] 350/1494  translation_fr_hi_roman_mother
+[run] 400/1494  translation_en_hi_roman_painting
+[run] 450/1494  translation_en_hi_roman_structure
+[run] 500/1494  translation_fr_ta_native_mouth
+[run] 550/1494  translation_fr_ta_native_street
+[run] 600/1494  translation_fr_ta_native_east
+[run] 650/1494  translation_en_ta_native_station
+[run] 700/1494  translation_en_ta_native_tie
+[run] 750/1494  translation_fr_ta_roman_soil
+[run] 800/1494  translation_fr_ta_roman_part
+[run] 850/1494  translation_fr_ta_roman_return
+[run] 900/1494  translation_en_ta_roman_rice
+[run] 950/1494  translation_en_ta_roman_example
+[run] 1000/1494  translation_fr_ml_native_mountain
+[run] 1050/1494  translation_fr_ml_native_eye
+[run] 1100/1494  translation_fr_ml_native_speech
+[run] 1150/1494  translation_en_ml_native_red
+[run] 1200/1494  translation_en_ml_native_face
+[run] 1250/1494  translation_fr_ml_roman_heart
+[run] 1300/1494  translation_fr_ml_roman_field
+[run] 1350/1494  translation_fr_ml_roman_child
+[run] 1400/1494  translation_en_ml_roman_line
+[run] 1450/1494  translation_en_ml_roman_bridge
+
+[gate] kept 1410/1494
+   lang script    n    sub exact  tok1
+     hi native  249  0.614 0.590 0.631
+     hi  roman  211  0.114 0.114 0.175
+     ml native  249  0.446 0.426 0.522
+     ml  roman  225  0.053 0.049 0.098
+     ta native  249  0.598 0.578 0.635
+     ta  roman  227  0.031 0.022 0.084
+[report] class1_translation_3shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/curves__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/ranks__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/switch__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/curves__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/ranks__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/switch__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/curves__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/ranks__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/switch__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/curves__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/ranks__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/switch__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/lenscmp__translation__en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/lenscmp__translation__native.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures/lenscmp__translation__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class1_translation_3shot | jlens_en | translation | hi | native | 3 | 249 | 0.6145 | 0.5904 | 0.6305 | 29 | 0.8405 | 0.0006 | 1338.6399 | 32 | 0.1554 | 12 | en | 11 | 6.3134 | 75 | 0.314 | 0.0593 |
+| class1_translation_3shot | jlens_en | translation | hi | roman | 3 | 422 | 0.1137 | 0.1137 | 0.1754 | 29 | 0.8155 | 0.0075 | 109.4197 | 32 | 0.1805 | 32 | en | 11 | 11.3609 | 36 | 0.2816 | 0.0557 |
+| class1_translation_3shot | jlens_en | translation | ml | native | 3 | 249 | 0.4458 | 0.4257 | 0.5221 | 29 | 0.7655 | 0.0015 | 498.8714 | 32 | 0.0165 | 11 | en | 11 | 3.8665 | 77 | 0.3056 | 0.0351 |
+| class1_translation_3shot | jlens_en | translation | ml | roman | 3 | 450 | 0.0533 | 0.0489 | 0.0978 | 28 | 0.7067 | 0.0096 | 73.4264 | 32 | 0.0835 | 9 | en | 11 | 10.2456 | 25 | 0.2507 | 0.0496 |
+| class1_translation_3shot | jlens_en | translation | ta | native | 3 | 249 | 0.5984 | 0.5783 | 0.6345 | 29 | 0.8078 | 0.0007 | 1077.9368 | 32 | 0.1295 | -1 | en | 11 | 6.157 | 80 | 0.3113 | 0.0476 |
+| class1_translation_3shot | jlens_en | translation | ta | roman | 3 | 454 | 0.0308 | 0.022 | 0.0837 | 27 | 0.6145 | 0.0117 | 52.4539 | 32 | 0.0625 | 32 | en | 11 | 11.2628 | 24 | 0.2248 | 0.0532 |
+| class1_translation_3shot | jlens_indic | translation | hi | native | 3 | 249 | 0.6145 | 0.5904 | 0.6305 | 29 | 0.8142 | 0.0006 | 1296.8011 | 32 | 0.1554 | 0 | en | 0 | 4.8853 | 5 | 0.2943 | 0.0625 |
+| class1_translation_3shot | jlens_indic | translation | hi | roman | 3 | 422 | 0.1137 | 0.1137 | 0.1754 | 29 | 0.7349 | 0.0075 | 98.6141 | 32 | 0.1805 | 0 | en | 0 | 8.4131 | 12 | 0.26 | 0.0567 |
+| class1_translation_3shot | jlens_indic | translation | ml | native | 3 | 249 | 0.4458 | 0.4257 | 0.5221 | 27 | 0.6057 | 0.0015 | 394.7019 | 32 | 0.0165 | 8 | en | 4 | 5.3764 | 44 | 0.2646 | 0.0357 |
+| class1_translation_3shot | jlens_indic | translation | ml | roman | 3 | 450 | 0.0533 | 0.0489 | 0.0978 | 26 | 0.6537 | 0.0096 | 67.9213 | 32 | 0.0835 | 0 | en | 0 | 7.1864 | 12 | 0.2312 | 0.0528 |
+| class1_translation_3shot | jlens_indic | translation | ta | native | 3 | 249 | 0.5984 | 0.5783 | 0.6345 | 26 | 0.8189 | 0.0007 | 1092.7466 | 32 | 0.1295 | 0 | en | 0 | 1.6273 | 6 | 0.287 | 0.054 |
+| class1_translation_3shot | jlens_indic | translation | ta | roman | 3 | 454 | 0.0308 | 0.022 | 0.0837 | 26 | 0.6431 | 0.0117 | 54.8983 | 32 | 0.0625 | 0 | en | 0 | 7.5393 | 6 | 0.2109 | 0.0602 |
+| class1_translation_3shot | jlens_mixed | translation | hi | native | 3 | 249 | 0.6145 | 0.5904 | 0.6305 | 29 | 0.8036 | 0.0006 | 1280.001 | 32 | 0.1554 | 2 | en | 0 | 5.7065 | 10 | 0.2949 | 0.0618 |
+| class1_translation_3shot | jlens_mixed | translation | hi | roman | 3 | 422 | 0.1137 | 0.1137 | 0.1754 | 29 | 0.7429 | 0.0075 | 99.6873 | 32 | 0.1805 | 0 | en | 0 | 9.6811 | 10 | 0.2669 | 0.0563 |
+| class1_translation_3shot | jlens_mixed | translation | ml | native | 3 | 249 | 0.4458 | 0.4257 | 0.5221 | 27 | 0.6349 | 0.0015 | 413.7358 | 32 | 0.0165 | 8 | en | 4 | 5.4633 | 30 | 0.2837 | 0.0359 |
+| class1_translation_3shot | jlens_mixed | translation | ml | roman | 3 | 450 | 0.0533 | 0.0489 | 0.0978 | 26 | 0.6648 | 0.0096 | 69.0808 | 32 | 0.0835 | 0 | en | 0 | 6.6644 | 13 | 0.2434 | 0.0532 |
+| class1_translation_3shot | jlens_mixed | translation | ta | native | 3 | 249 | 0.5984 | 0.5783 | 0.6345 | 26 | 0.8296 | 0.0007 | 1107.0057 | 32 | 0.1295 | 0 | en | 0 | 3.2447 | 15 | 0.3016 | 0.0528 |
+| class1_translation_3shot | jlens_mixed | translation | ta | roman | 3 | 454 | 0.0308 | 0.022 | 0.0837 | 26 | 0.6562 | 0.0117 | 56.0121 | 32 | 0.0625 | 0 | en | 0 | 7.5132 | 5 | 0.2245 | 0.0594 |
+| class1_translation_3shot | logit | translation | hi | native | 3 | 249 | 0.6145 | 0.5904 | 0.6305 | 29 | 0.8528 | 0.0106 | 80.8057 | 33 | 0.523 | 7 | en | 4 | 13.516 | 0 | 0.3061 | 0.0491 |
+| class1_translation_3shot | logit | translation | hi | roman | 3 | 422 | 0.1137 | 0.1137 | 0.1754 | 29 | 0.8297 | 0.0142 | 58.608 | 32 | 0.1805 | 3 | en | 0 | 7.9809 | 6 | 0.3058 | 0.0661 |
+| class1_translation_3shot | logit | translation | ml | native | 3 | 249 | 0.4458 | 0.4257 | 0.5221 | 27 | 0.8044 | 0.0155 | 51.8259 | 33 | 0.3409 | 33 | en | 33 | 14.9725 | 0 | 0.2996 | 0.0243 |
+| class1_translation_3shot | logit | translation | ml | roman | 3 | 450 | 0.0533 | 0.0489 | 0.0978 | 26 | 0.7137 | 0.0166 | 42.9653 | 32 | 0.0835 | 33 | en | 2 | 9.2306 | 15 | 0.273 | 0.0671 |
+| class1_translation_3shot | logit | translation | ta | native | 3 | 249 | 0.5984 | 0.5783 | 0.6345 | 26 | 0.8488 | 0.0131 | 64.8277 | 33 | 0.4755 | 33 | en | 11 | 13.2877 | 0 | 0.3032 | 0.0403 |
+| class1_translation_3shot | logit | translation | ta | roman | 3 | 454 | 0.0308 | 0.022 | 0.0837 | 27 | 0.6174 | 0.0167 | 36.8755 | 32 | 0.0625 | 14 | en | 4 | 8.2174 | 10 | 0.2348 | 0.0921 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class1_translation_3shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot
+[vocab] 84/1494 items collide (excluded)
+[run] 0/1494  translation_fr_hi_native_cloud
+[run] 50/1494  translation_fr_hi_native_ten
+[run] 100/1494  translation_fr_hi_native_tail
+[run] 150/1494  translation_en_hi_native_ball
+[run] 200/1494  translation_en_hi_native_school
+[run] 250/1494  translation_fr_hi_roman_bag
+[run] 300/1494  translation_fr_hi_roman_head
+[run] 350/1494  translation_fr_hi_roman_mother
+[run] 400/1494  translation_en_hi_roman_painting
+[run] 450/1494  translation_en_hi_roman_structure
+[run] 500/1494  translation_fr_ta_native_mouth
+[run] 550/1494  translation_fr_ta_native_street
+[run] 600/1494  translation_fr_ta_native_east
+[run] 650/1494  translation_en_ta_native_station
+[run] 700/1494  translation_en_ta_native_tie
+[run] 750/1494  translation_fr_ta_roman_soil
+[run] 800/1494  translation_fr_ta_roman_part
+[run] 850/1494  translation_fr_ta_roman_return
+[run] 900/1494  translation_en_ta_roman_rice
+[run] 950/1494  translation_en_ta_roman_example
+[run] 1000/1494  translation_fr_ml_native_mountain
+[run] 1050/1494  translation_fr_ml_native_eye
+[run] 1100/1494  translation_fr_ml_native_speech
+[run] 1150/1494  translation_en_ml_native_red
+[run] 1200/1494  translation_en_ml_native_face
+[run] 1250/1494  translation_fr_ml_roman_heart
+[run] 1300/1494  translation_fr_ml_roman_field
+[run] 1350/1494  translation_fr_ml_roman_child
+[run] 1400/1494  translation_en_ml_roman_line
+[run] 1450/1494  translation_en_ml_roman_bridge
+
+[gate] kept 1410/1494
+   lang script    n    sub exact  tok1
+     hi native  249  0.614 0.594 0.631
+     hi  roman  211  0.100 0.100 0.166
+     ml native  249  0.438 0.414 0.526
+     ml  roman  225  0.044 0.040 0.093
+     ta native  249  0.614 0.586 0.635
+     ta  roman  227  0.031 0.022 0.084
+[report] class1_translation_4shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/curves__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/ranks__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/switch__translation__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/curves__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/ranks__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/switch__translation__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/curves__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/ranks__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/switch__translation__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/curves__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/ranks__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/scripts__translation.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/switch__translation__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/lenscmp__translation__en.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/lenscmp__translation__native.png
+  outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures/lenscmp__translation__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class1_translation_4shot | jlens_en | translation | hi | native | 4 | 249 | 0.6145 | 0.5944 | 0.6305 | 29 | 0.8424 | 0.0006 | 1452.2845 | 32 | 0.1609 | 12 | en | 11 | 6.6683 | 73 | 0.3149 | 0.0593 |
+| class1_translation_4shot | jlens_en | translation | hi | roman | 4 | 422 | 0.0995 | 0.0995 | 0.1659 | 28 | 0.8134 | 0.0076 | 106.7849 | 32 | 0.1714 | 32 | en | 11 | 11.4497 | 34 | 0.2833 | 0.055 |
+| class1_translation_4shot | jlens_en | translation | ml | native | 4 | 249 | 0.4378 | 0.4137 | 0.5261 | 29 | 0.7667 | 0.0015 | 505.9955 | 32 | 0.0169 | 11 | en | 11 | 3.8823 | 78 | 0.3078 | 0.0352 |
+| class1_translation_4shot | jlens_en | translation | ml | roman | 4 | 450 | 0.0444 | 0.04 | 0.0933 | 28 | 0.6929 | 0.0106 | 65.47 | 32 | 0.0814 | 32 | en | 11 | 10.4466 | 26 | 0.2464 | 0.0497 |
+| class1_translation_4shot | jlens_en | translation | ta | native | 4 | 249 | 0.6145 | 0.5863 | 0.6345 | 29 | 0.8081 | 0.0007 | 1135.3082 | 32 | 0.1329 | -1 | en | 11 | 6.9296 | 76 | 0.313 | 0.0479 |
+| class1_translation_4shot | jlens_en | translation | ta | roman | 4 | 454 | 0.0308 | 0.022 | 0.0837 | 27 | 0.6116 | 0.0121 | 50.3627 | 32 | 0.0605 | 32 | en | 11 | 11.393 | 22 | 0.2209 | 0.0539 |
+| class1_translation_4shot | jlens_indic | translation | hi | native | 4 | 249 | 0.6145 | 0.5944 | 0.6305 | 29 | 0.8152 | 0.0006 | 1405.3693 | 32 | 0.1609 | 0 | en | 0 | 5.2256 | 5 | 0.2941 | 0.0625 |
+| class1_translation_4shot | jlens_indic | translation | hi | roman | 4 | 422 | 0.0995 | 0.0995 | 0.1659 | 27 | 0.7267 | 0.0076 | 95.4078 | 32 | 0.1714 | 0 | en | 0 | 8.9861 | 11 | 0.2621 | 0.0561 |
+| class1_translation_4shot | jlens_indic | translation | ml | native | 4 | 249 | 0.4378 | 0.4137 | 0.5261 | 27 | 0.6034 | 0.0015 | 398.2396 | 32 | 0.0169 | 8 | en | 4 | 5.3519 | 41 | 0.2631 | 0.0358 |
+| class1_translation_4shot | jlens_indic | translation | ml | roman | 4 | 450 | 0.0444 | 0.04 | 0.0933 | 26 | 0.6511 | 0.0106 | 61.5133 | 32 | 0.0814 | 0 | en | 0 | 7.1027 | 12 | 0.2287 | 0.0532 |
+| class1_translation_4shot | jlens_indic | translation | ta | native | 4 | 249 | 0.6145 | 0.5863 | 0.6345 | 26 | 0.8101 | 0.0007 | 1137.9828 | 32 | 0.1329 | 0 | en | 0 | 1.5127 | 6 | 0.2863 | 0.0544 |
+| class1_translation_4shot | jlens_indic | translation | ta | roman | 4 | 454 | 0.0308 | 0.022 | 0.0837 | 26 | 0.635 | 0.0121 | 52.2832 | 32 | 0.0605 | 0 | en | 0 | 7.6245 | 5 | 0.2085 | 0.0599 |
+| class1_translation_4shot | jlens_mixed | translation | hi | native | 4 | 249 | 0.6145 | 0.5944 | 0.6305 | 29 | 0.8041 | 0.0006 | 1386.2981 | 32 | 0.1609 | 2 | en | 0 | 5.3159 | 12 | 0.2949 | 0.0617 |
+| class1_translation_4shot | jlens_mixed | translation | hi | roman | 4 | 422 | 0.0995 | 0.0995 | 0.1659 | 29 | 0.7364 | 0.0076 | 96.6768 | 32 | 0.1714 | 0 | en | 0 | 9.9951 | 10 | 0.2687 | 0.0561 |
+| class1_translation_4shot | jlens_mixed | translation | ml | native | 4 | 249 | 0.4378 | 0.4137 | 0.5261 | 27 | 0.6332 | 0.0015 | 417.8517 | 32 | 0.0169 | 7 | en | 4 | 5.3982 | 32 | 0.2822 | 0.036 |
+| class1_translation_4shot | jlens_mixed | translation | ml | roman | 4 | 450 | 0.0444 | 0.04 | 0.0933 | 26 | 0.6608 | 0.0106 | 62.4336 | 32 | 0.0814 | 0 | en | 0 | 6.9255 | 12 | 0.2412 | 0.0534 |
+| class1_translation_4shot | jlens_mixed | translation | ta | native | 4 | 249 | 0.6145 | 0.5863 | 0.6345 | 26 | 0.8211 | 0.0007 | 1153.5056 | 32 | 0.1329 | 0 | en | 0 | 3.3773 | 15 | 0.3005 | 0.0532 |
+| class1_translation_4shot | jlens_mixed | translation | ta | roman | 4 | 454 | 0.0308 | 0.022 | 0.0837 | 26 | 0.6481 | 0.0121 | 53.3626 | 32 | 0.0605 | 0 | en | 0 | 7.7993 | 4 | 0.2217 | 0.0591 |
+| class1_translation_4shot | logit | translation | hi | native | 4 | 249 | 0.6145 | 0.5944 | 0.6305 | 29 | 0.851 | 0.0104 | 82.1062 | 33 | 0.5293 | 7 | en | 4 | 13.4311 | 0 | 0.3049 | 0.0492 |
+| class1_translation_4shot | logit | translation | hi | roman | 4 | 422 | 0.0995 | 0.0995 | 0.1659 | 29 | 0.8261 | 0.0145 | 56.9899 | 32 | 0.1714 | 2 | en | 0 | 7.6296 | 7 | 0.3054 | 0.0663 |
+| class1_translation_4shot | logit | translation | ml | native | 4 | 249 | 0.4378 | 0.4137 | 0.5261 | 27 | 0.8045 | 0.0153 | 52.6371 | 33 | 0.3459 | 33 | en | 33 | 14.9642 | 0 | 0.2988 | 0.0246 |
+| class1_translation_4shot | logit | translation | ml | roman | 4 | 450 | 0.0444 | 0.04 | 0.0933 | 27 | 0.6993 | 0.0165 | 42.3105 | 32 | 0.0814 | 32 | en | 2 | 9.0405 | 13 | 0.2689 | 0.0671 |
+| class1_translation_4shot | logit | translation | ta | native | 4 | 249 | 0.6145 | 0.5863 | 0.6345 | 26 | 0.8403 | 0.0125 | 67.0999 | 33 | 0.4895 | 33 | en | 11 | 13.5692 | 0 | 0.3028 | 0.0404 |
+| class1_translation_4shot | logit | translation | ta | roman | 4 | 454 | 0.0308 | 0.022 | 0.0837 | 27 | 0.6078 | 0.0163 | 37.3028 | 32 | 0.0605 | 31 | en | 4 | 8.1226 | 8 | 0.2336 | 0.0935 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class1_translation_4shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot
+[vocab] 42/792 items collide (excluded)
+[run] 0/792  cloze_hi_hi_native_book
+[run] 50/792  cloze_hi_hi_native_four
+[run] 100/792  cloze_hi_hi_native_square
+[run] 150/792  cloze_hi_rom_hi_roman_song
+[run] 200/792  cloze_hi_rom_hi_roman_seat
+[run] 250/792  cloze_hi_rom_hi_roman_tower
+[run] 300/792  cloze_ta_ta_native_rice
+[run] 350/792  cloze_ta_ta_native_example
+[run] 400/792  cloze_ta_rom_ta_roman_soil
+[run] 450/792  cloze_ta_rom_ta_roman_eight
+[run] 500/792  cloze_ta_rom_ta_roman_tribe
+[run] 550/792  cloze_ml_ml_native_river
+[run] 600/792  cloze_ml_ml_native_machine
+[run] 650/792  cloze_ml_ml_native_section
+[run] 700/792  cloze_ml_rom_ml_roman_flower
+[run] 750/792  cloze_ml_rom_ml_roman_delete
+
+[gate] kept 750/792
+   lang script    n    sub exact  tok1
+     hi native  132  0.379 0.348 0.386
+     hi  roman  113  0.044 0.035 0.035
+     ml native  132  0.273 0.265 0.333
+     ml  roman  120  0.042 0.042 0.083
+     ta native  132  0.280 0.258 0.326
+     ta  roman  121  0.000 0.000 0.008
+[report] class2_cloze_1shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/curves__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/ranks__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/switch__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/curves__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/ranks__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/switch__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/curves__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/ranks__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/switch__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/curves__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/ranks__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/switch__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/lenscmp__cloze__en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/lenscmp__cloze__native.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures/lenscmp__cloze__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class2_cloze_1shot | jlens_en | cloze | hi | native | 1 | 132 | 0.3788 | 0.3485 | 0.3864 | 29 | 0.4915 | 0.0013 | 377.9843 | 32 | 0.0746 | 12 | en | 11 | 7.9183 | 30 | 0.2024 | 0.0465 |
+| class2_cloze_1shot | jlens_en | cloze | hi | roman | 1 | 226 | 0.0442 | 0.0354 | 0.0354 | 29 | 0.4538 | 0.0068 | 66.6769 | 32 | 0.0981 | -1 | en | 12 | 9.959 | 33 | 0.1809 | 0.046 |
+| class2_cloze_1shot | jlens_en | cloze | ml | native | 1 | 132 | 0.2727 | 0.2652 | 0.3333 | 29 | 0.4624 | 0.0019 | 244.8282 | 32 | 0.0031 | 12 | en | 11 | 3.6713 | 47 | 0.1973 | 0.032 |
+| class2_cloze_1shot | jlens_en | cloze | ml | roman | 1 | 240 | 0.0417 | 0.0417 | 0.0833 | 28 | 0.4684 | 0.0077 | 60.506 | 32 | 0.0668 | -1 | en | 13 | 9.6736 | 25 | 0.189 | 0.0455 |
+| class2_cloze_1shot | jlens_en | cloze | ta | native | 1 | 132 | 0.2803 | 0.2576 | 0.3258 | 29 | 0.4141 | 0.0016 | 262.1339 | 32 | 0.0535 | 32 | en | 12 | 7.7725 | 35 | 0.184 | 0.0415 |
+| class2_cloze_1shot | jlens_en | cloze | ta | roman | 1 | 242 | 0 | 0 | 0.0083 | 29 | 0.3971 | 0.0058 | 69.0429 | 32 | 0.0343 | -1 | en | 11 | 9.1437 | 54 | 0.1792 | 0.0401 |
+| class2_cloze_1shot | jlens_indic | cloze | hi | native | 1 | 132 | 0.3788 | 0.3485 | 0.3864 | 27 | 0.4614 | 0.0013 | 354.8393 | 32 | 0.0746 | 0 | en | 0 | 5.5092 | 2 | 0.191 | 0.0509 |
+| class2_cloze_1shot | jlens_indic | cloze | hi | roman | 1 | 226 | 0.0442 | 0.0354 | 0.0354 | 29 | 0.3908 | 0.0068 | 57.4187 | 32 | 0.0981 | 0 | en | 0 | 8.2356 | 10 | 0.1685 | 0.0476 |
+| class2_cloze_1shot | jlens_indic | cloze | ml | native | 1 | 132 | 0.2727 | 0.2652 | 0.3333 | 27 | 0.3714 | 0.0019 | 196.6536 | 32 | 0.0031 | 13 | en | 3 | 5.702 | 28 | 0.1762 | 0.0323 |
+| class2_cloze_1shot | jlens_indic | cloze | ml | roman | 1 | 240 | 0.0417 | 0.0417 | 0.0833 | 27 | 0.4247 | 0.0077 | 54.8518 | 32 | 0.0668 | 1 | en | 0 | 9.0926 | 9 | 0.1789 | 0.0501 |
+| class2_cloze_1shot | jlens_indic | cloze | ta | native | 1 | 132 | 0.2803 | 0.2576 | 0.3258 | 27 | 0.4218 | 0.0016 | 266.9943 | 32 | 0.0535 | 0 | en | 0 | 2.7092 | 3 | 0.1749 | 0.0487 |
+| class2_cloze_1shot | jlens_indic | cloze | ta | roman | 1 | 242 | 0 | 0 | 0.0083 | 26 | 0.3798 | 0.0058 | 66.0316 | 32 | 0.0343 | 0 | en | 0 | 7.3003 | 11 | 0.1731 | 0.0428 |
+| class2_cloze_1shot | jlens_mixed | cloze | hi | native | 1 | 132 | 0.3788 | 0.3485 | 0.3864 | 27 | 0.4573 | 0.0013 | 351.6353 | 32 | 0.0746 | 1 | en | 0 | 7.4521 | 7 | 0.1933 | 0.0499 |
+| class2_cloze_1shot | jlens_mixed | cloze | hi | roman | 1 | 226 | 0.0442 | 0.0354 | 0.0354 | 29 | 0.3952 | 0.0068 | 58.0649 | 32 | 0.0981 | 0 | en | 0 | 8.9333 | 11 | 0.171 | 0.047 |
+| class2_cloze_1shot | jlens_mixed | cloze | ml | native | 1 | 132 | 0.2727 | 0.2652 | 0.3333 | 28 | 0.3797 | 0.0019 | 201.0357 | 32 | 0.0031 | 5 | en | 3 | 5.5759 | 21 | 0.1843 | 0.0323 |
+| class2_cloze_1shot | jlens_mixed | cloze | ml | roman | 1 | 240 | 0.0417 | 0.0417 | 0.0833 | 27 | 0.4356 | 0.0077 | 56.2659 | 32 | 0.0668 | 0 | en | 0 | 8.6598 | 6 | 0.1856 | 0.0491 |
+| class2_cloze_1shot | jlens_mixed | cloze | ta | native | 1 | 132 | 0.2803 | 0.2576 | 0.3258 | 27 | 0.4209 | 0.0016 | 266.4214 | 32 | 0.0535 | 0 | en | 0 | 3.7748 | 7 | 0.1799 | 0.047 |
+| class2_cloze_1shot | jlens_mixed | cloze | ta | roman | 1 | 242 | 0 | 0 | 0.0083 | 26 | 0.3837 | 0.0058 | 66.7166 | 32 | 0.0343 | 0 | en | 0 | 7.0591 | 9 | 0.1794 | 0.0424 |
+| class2_cloze_1shot | logit | cloze | hi | native | 1 | 132 | 0.3788 | 0.3485 | 0.3864 | 27 | 0.5132 | 0.0093 | 54.931 | 33 | 0.2651 | 32 | en | 4 | 15.3513 | 0 | 0.2216 | 0.0314 |
+| class2_cloze_1shot | logit | cloze | hi | roman | 1 | 226 | 0.0442 | 0.0354 | 0.0354 | 29 | 0.4738 | 0.0096 | 49.4957 | 32 | 0.0981 | 33 | en | 0.5 | 8.915 | 7 | 0.2136 | 0.0665 |
+| class2_cloze_1shot | logit | cloze | ml | native | 1 | 132 | 0.2727 | 0.2652 | 0.3333 | 27 | 0.5012 | 0.0102 | 49.0476 | 33 | 0.1651 | 33 | en | 33 | 13.6222 | 0 | 0.2139 | 0.0165 |
+| class2_cloze_1shot | logit | cloze | ml | roman | 1 | 240 | 0.0417 | 0.0417 | 0.0833 | 27 | 0.4918 | 0.01 | 48.9946 | 32 | 0.0668 | -1 | en | 3 | 8.7821 | 14 | 0.2169 | 0.0608 |
+| class2_cloze_1shot | logit | cloze | ta | native | 1 | 132 | 0.2803 | 0.2576 | 0.3258 | 27 | 0.4594 | 0.0105 | 43.7647 | 33 | 0.1906 | 32 | en | 32 | 15.0889 | 0 | 0.1965 | 0.0264 |
+| class2_cloze_1shot | logit | cloze | ta | roman | 1 | 242 | 0 | 0 | 0.0083 | 28 | 0.4189 | 0.007 | 59.5861 | 32 | 0.0343 | -1 | en | 4 | 7.2465 | 11 | 0.2191 | 0.0581 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class2_cloze_1shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot
+[vocab] 42/792 items collide (excluded)
+[run] 0/792  cloze_hi_hi_native_book
+[run] 50/792  cloze_hi_hi_native_four
+[run] 100/792  cloze_hi_hi_native_square
+[run] 150/792  cloze_hi_rom_hi_roman_song
+[run] 200/792  cloze_hi_rom_hi_roman_seat
+[run] 250/792  cloze_hi_rom_hi_roman_tower
+[run] 300/792  cloze_ta_ta_native_rice
+[run] 350/792  cloze_ta_ta_native_example
+[run] 400/792  cloze_ta_rom_ta_roman_soil
+[run] 450/792  cloze_ta_rom_ta_roman_eight
+[run] 500/792  cloze_ta_rom_ta_roman_tribe
+[run] 550/792  cloze_ml_ml_native_river
+[run] 600/792  cloze_ml_ml_native_machine
+[run] 650/792  cloze_ml_ml_native_section
+[run] 700/792  cloze_ml_rom_ml_roman_flower
+[run] 750/792  cloze_ml_rom_ml_roman_delete
+
+[gate] kept 750/792
+   lang script    n    sub exact  tok1
+     hi native  132  0.417 0.386 0.417
+     hi  roman  113  0.053 0.044 0.062
+     ml native  132  0.348 0.333 0.386
+     ml  roman  120  0.033 0.025 0.092
+     ta native  132  0.333 0.295 0.371
+     ta  roman  121  0.008 0.008 0.066
+[report] class2_cloze_2shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/curves__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/ranks__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/switch__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/curves__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/ranks__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/switch__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/curves__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/ranks__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/switch__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/curves__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/ranks__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/switch__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/lenscmp__cloze__en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/lenscmp__cloze__native.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures/lenscmp__cloze__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class2_cloze_2shot | jlens_en | cloze | hi | native | 2 | 132 | 0.4167 | 0.3864 | 0.4167 | 29 | 0.5016 | 0.0013 | 376.2713 | 32 | 0.079 | 13 | en | 11 | 8.2106 | 34 | 0.2087 | 0.0468 |
+| class2_cloze_2shot | jlens_en | cloze | hi | roman | 2 | 226 | 0.0531 | 0.0442 | 0.0619 | 28 | 0.4465 | 0.0091 | 48.9239 | 32 | 0.107 | 32 | en | 28 | 9.9884 | 22 | 0.1807 | 0.0504 |
+| class2_cloze_2shot | jlens_en | cloze | ml | native | 2 | 132 | 0.3485 | 0.3333 | 0.3864 | 29 | 0.4706 | 0.0019 | 254.0448 | 32 | 0.0037 | 13 | en | 11 | 3.3444 | 48 | 0.2011 | 0.0323 |
+| class2_cloze_2shot | jlens_en | cloze | ml | roman | 2 | 240 | 0.0333 | 0.025 | 0.0917 | 28 | 0.4883 | 0.0091 | 53.6457 | 32 | 0.0606 | -1 | en | 13 | 9.5987 | 28 | 0.1913 | 0.0458 |
+| class2_cloze_2shot | jlens_en | cloze | ta | native | 2 | 132 | 0.3333 | 0.2955 | 0.3712 | 29 | 0.4192 | 0.0014 | 301.8738 | 32 | 0.0661 | 32 | en | 12 | 9.0222 | 33 | 0.187 | 0.0429 |
+| class2_cloze_2shot | jlens_en | cloze | ta | roman | 2 | 242 | 0.0083 | 0.0083 | 0.0661 | 28 | 0.4156 | 0.0083 | 50.1862 | 32 | 0.0517 | 32 | en | 13.5 | 9.758 | 33 | 0.1805 | 0.0473 |
+| class2_cloze_2shot | jlens_indic | cloze | hi | native | 2 | 132 | 0.4167 | 0.3864 | 0.4167 | 27 | 0.4566 | 0.0013 | 342.5208 | 32 | 0.079 | 0 | en | 0 | 6.3591 | 4 | 0.1939 | 0.0512 |
+| class2_cloze_2shot | jlens_indic | cloze | hi | roman | 2 | 226 | 0.0531 | 0.0442 | 0.0619 | 27 | 0.3774 | 0.0091 | 41.3542 | 32 | 0.107 | 0 | en | 0 | 10.5083 | 7 | 0.1675 | 0.0509 |
+| class2_cloze_2shot | jlens_indic | cloze | ml | native | 2 | 132 | 0.3485 | 0.3333 | 0.3864 | 27 | 0.3711 | 0.0019 | 200.302 | 32 | 0.0037 | 13 | en | 3 | 5.3871 | 28 | 0.177 | 0.0326 |
+| class2_cloze_2shot | jlens_indic | cloze | ml | roman | 2 | 240 | 0.0333 | 0.025 | 0.0917 | 28 | 0.4327 | 0.0091 | 47.5407 | 32 | 0.0606 | 1 | en | 0 | 8.7378 | 8 | 0.1804 | 0.0501 |
+| class2_cloze_2shot | jlens_indic | cloze | ta | native | 2 | 132 | 0.3333 | 0.2955 | 0.3712 | 27 | 0.4395 | 0.0014 | 316.4806 | 32 | 0.0661 | 0 | en | 0 | 4.7254 | 2 | 0.1772 | 0.0505 |
+| class2_cloze_2shot | jlens_indic | cloze | ta | roman | 2 | 242 | 0.0083 | 0.0083 | 0.0661 | 26 | 0.3936 | 0.0083 | 47.5279 | 32 | 0.0517 | 1 | en | 0 | 8.9077 | 7 | 0.1754 | 0.0526 |
+| class2_cloze_2shot | jlens_mixed | cloze | hi | native | 2 | 132 | 0.4167 | 0.3864 | 0.4167 | 27 | 0.4502 | 0.0013 | 337.7807 | 32 | 0.079 | 1 | en | 0 | 7.1155 | 9 | 0.1959 | 0.0505 |
+| class2_cloze_2shot | jlens_mixed | cloze | hi | roman | 2 | 226 | 0.0531 | 0.0442 | 0.0619 | 29 | 0.3832 | 0.0091 | 41.9937 | 32 | 0.107 | 0 | en | 0 | 10.2333 | 8 | 0.1727 | 0.0506 |
+| class2_cloze_2shot | jlens_mixed | cloze | ml | native | 2 | 132 | 0.3485 | 0.3333 | 0.3864 | 28 | 0.3814 | 0.0019 | 205.8756 | 32 | 0.0037 | 5 | en | 3 | 5.2968 | 18 | 0.1845 | 0.0326 |
+| class2_cloze_2shot | jlens_mixed | cloze | ml | roman | 2 | 240 | 0.0333 | 0.025 | 0.0917 | 28 | 0.4471 | 0.0091 | 49.1194 | 32 | 0.0606 | 0 | en | 0 | 8.3447 | 6 | 0.1901 | 0.0496 |
+| class2_cloze_2shot | jlens_mixed | cloze | ta | native | 2 | 132 | 0.3333 | 0.2955 | 0.3712 | 27 | 0.4382 | 0.0014 | 315.5708 | 32 | 0.0661 | 0 | en | 0 | 5.5485 | 5 | 0.1845 | 0.0486 |
+| class2_cloze_2shot | jlens_mixed | cloze | ta | roman | 2 | 242 | 0.0083 | 0.0083 | 0.0661 | 27 | 0.4071 | 0.0083 | 49.1521 | 32 | 0.0517 | 0 | en | 0 | 7.8092 | 6 | 0.1845 | 0.0521 |
+| class2_cloze_2shot | logit | cloze | hi | native | 2 | 132 | 0.4167 | 0.3864 | 0.4167 | 29 | 0.5354 | 0.0104 | 51.5581 | 33 | 0.2668 | 32 | en | 4 | 15.0982 | 0 | 0.2254 | 0.0326 |
+| class2_cloze_2shot | logit | cloze | hi | roman | 2 | 226 | 0.0531 | 0.0442 | 0.0619 | 29 | 0.4712 | 0.0105 | 44.749 | 32 | 0.107 | 13 | en | 1 | 9.4258 | 4 | 0.2117 | 0.0716 |
+| class2_cloze_2shot | logit | cloze | ml | native | 2 | 132 | 0.3485 | 0.3333 | 0.3864 | 27 | 0.5127 | 0.0101 | 50.5742 | 33 | 0.1783 | 33 | en | 33 | 13.5463 | 0 | 0.2108 | 0.0177 |
+| class2_cloze_2shot | logit | cloze | ml | roman | 2 | 240 | 0.0333 | 0.025 | 0.0917 | 28 | 0.5051 | 0.0097 | 51.9297 | 32 | 0.0606 | -1 | en | 3 | 8.744 | 13 | 0.2285 | 0.0665 |
+| class2_cloze_2shot | logit | cloze | ta | native | 2 | 132 | 0.3333 | 0.2955 | 0.3712 | 27 | 0.4762 | 0.0115 | 41.346 | 33 | 0.2224 | 32 | en | 32 | 15.1501 | 0 | 0.1947 | 0.029 |
+| class2_cloze_2shot | logit | cloze | ta | roman | 2 | 242 | 0.0083 | 0.0083 | 0.0661 | 27 | 0.4304 | 0.0107 | 40.0475 | 32 | 0.0517 | 13 | en | 4 | 6.6209 | 8 | 0.2094 | 0.0905 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class2_cloze_2shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot
+[vocab] 42/792 items collide (excluded)
+[run] 0/792  cloze_hi_hi_native_book
+[run] 50/792  cloze_hi_hi_native_four
+[run] 100/792  cloze_hi_hi_native_square
+[run] 150/792  cloze_hi_rom_hi_roman_song
+[run] 200/792  cloze_hi_rom_hi_roman_seat
+[run] 250/792  cloze_hi_rom_hi_roman_tower
+[run] 300/792  cloze_ta_ta_native_rice
+[run] 350/792  cloze_ta_ta_native_example
+[run] 400/792  cloze_ta_rom_ta_roman_soil
+[run] 450/792  cloze_ta_rom_ta_roman_eight
+[run] 500/792  cloze_ta_rom_ta_roman_tribe
+[run] 550/792  cloze_ml_ml_native_river
+[run] 600/792  cloze_ml_ml_native_machine
+[run] 650/792  cloze_ml_ml_native_section
+[run] 700/792  cloze_ml_rom_ml_roman_flower
+[run] 750/792  cloze_ml_rom_ml_roman_delete
+
+[gate] kept 750/792
+   lang script    n    sub exact  tok1
+     hi native  132  0.432 0.417 0.447
+     hi  roman  113  0.044 0.044 0.053
+     ml native  132  0.303 0.288 0.348
+     ml  roman  120  0.033 0.025 0.083
+     ta native  132  0.341 0.311 0.394
+     ta  roman  121  0.008 0.008 0.017
+[report] class2_cloze_3shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/curves__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/ranks__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/switch__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/curves__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/ranks__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/switch__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/curves__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/ranks__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/switch__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/curves__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/ranks__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/switch__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/lenscmp__cloze__en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/lenscmp__cloze__native.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures/lenscmp__cloze__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class2_cloze_3shot | jlens_en | cloze | hi | native | 3 | 132 | 0.4318 | 0.4167 | 0.447 | 29 | 0.5132 | 0.0012 | 437.6787 | 32 | 0.0819 | 5 | en | 11 | 8.3176 | 32 | 0.208 | 0.0475 |
+| class2_cloze_3shot | jlens_en | cloze | hi | roman | 3 | 226 | 0.0442 | 0.0442 | 0.0531 | 29 | 0.4983 | 0.0085 | 58.7181 | 32 | 0.0943 | -1 | en | 13 | 9.8474 | 42 | 0.1965 | 0.0464 |
+| class2_cloze_3shot | jlens_en | cloze | ml | native | 3 | 132 | 0.303 | 0.2879 | 0.3485 | 29 | 0.478 | 0.0018 | 265.5887 | 32 | 0.0038 | 12 | en | 11 | 4.0252 | 48 | 0.2034 | 0.0323 |
+| class2_cloze_3shot | jlens_en | cloze | ml | roman | 3 | 240 | 0.0333 | 0.025 | 0.0833 | 28 | 0.4909 | 0.0097 | 50.856 | 32 | 0.0694 | -1 | en | 13 | 9.4917 | 28 | 0.192 | 0.048 |
+| class2_cloze_3shot | jlens_en | cloze | ta | native | 3 | 132 | 0.3409 | 0.3106 | 0.3939 | 29 | 0.423 | 0.0014 | 305.2892 | 32 | 0.0685 | 32 | en | 12 | 8.8011 | 37 | 0.1837 | 0.0431 |
+| class2_cloze_3shot | jlens_en | cloze | ta | roman | 3 | 242 | 0.0083 | 0.0083 | 0.0165 | 28 | 0.4351 | 0.01 | 43.5268 | 32 | 0.0609 | 32 | en | 14 | 9.8351 | 30 | 0.182 | 0.0485 |
+| class2_cloze_3shot | jlens_indic | cloze | hi | native | 3 | 132 | 0.4318 | 0.4167 | 0.447 | 27 | 0.461 | 0.0012 | 393.176 | 32 | 0.0819 | 0 | en | 0 | 6.8876 | 2 | 0.1933 | 0.052 |
+| class2_cloze_3shot | jlens_indic | cloze | hi | roman | 3 | 226 | 0.0442 | 0.0442 | 0.0531 | 29 | 0.4328 | 0.0085 | 50.9989 | 32 | 0.0943 | 0 | en | 0 | 8.3382 | 16 | 0.1824 | 0.0473 |
+| class2_cloze_3shot | jlens_indic | cloze | ml | native | 3 | 132 | 0.303 | 0.2879 | 0.3485 | 27 | 0.382 | 0.0018 | 212.2475 | 32 | 0.0038 | 13 | en | 3 | 4.955 | 29 | 0.1758 | 0.0326 |
+| class2_cloze_3shot | jlens_indic | cloze | ml | roman | 3 | 240 | 0.0333 | 0.025 | 0.0833 | 27 | 0.4511 | 0.0097 | 46.7324 | 32 | 0.0694 | 1 | en | 0 | 8.9868 | 6 | 0.1845 | 0.053 |
+| class2_cloze_3shot | jlens_indic | cloze | ta | native | 3 | 132 | 0.3409 | 0.3106 | 0.3939 | 27 | 0.4339 | 0.0014 | 313.1334 | 32 | 0.0685 | 0 | en | 0 | 3.9103 | 2 | 0.1746 | 0.0504 |
+| class2_cloze_3shot | jlens_indic | cloze | ta | roman | 3 | 242 | 0.0083 | 0.0083 | 0.0165 | 27 | 0.4114 | 0.01 | 41.1603 | 32 | 0.0609 | 1 | en | 0 | 8.193 | 5 | 0.1746 | 0.0531 |
+| class2_cloze_3shot | jlens_mixed | cloze | hi | native | 3 | 132 | 0.4318 | 0.4167 | 0.447 | 29 | 0.4583 | 0.0012 | 390.8521 | 32 | 0.0819 | 1 | en | 0 | 7.5917 | 8 | 0.1956 | 0.051 |
+| class2_cloze_3shot | jlens_mixed | cloze | hi | roman | 3 | 226 | 0.0442 | 0.0442 | 0.0531 | 29 | 0.4409 | 0.0085 | 51.951 | 32 | 0.0943 | 0 | en | 0 | 7.3901 | 16 | 0.1861 | 0.0471 |
+| class2_cloze_3shot | jlens_mixed | cloze | ml | native | 3 | 132 | 0.303 | 0.2879 | 0.3485 | 27 | 0.3937 | 0.0018 | 218.7757 | 32 | 0.0038 | 5 | en | 3 | 4.7654 | 16 | 0.1848 | 0.0326 |
+| class2_cloze_3shot | jlens_mixed | cloze | ml | roman | 3 | 240 | 0.0333 | 0.025 | 0.0833 | 27 | 0.463 | 0.0097 | 47.9663 | 32 | 0.0694 | 0 | en | 0 | 8.9734 | 5 | 0.1916 | 0.052 |
+| class2_cloze_3shot | jlens_mixed | cloze | ta | native | 3 | 132 | 0.3409 | 0.3106 | 0.3939 | 27 | 0.4343 | 0.0014 | 313.4534 | 32 | 0.0685 | 0 | en | 0 | 4.8472 | 6 | 0.1808 | 0.0487 |
+| class2_cloze_3shot | jlens_mixed | cloze | ta | roman | 3 | 242 | 0.0083 | 0.0083 | 0.0165 | 27 | 0.4275 | 0.01 | 42.7761 | 32 | 0.0609 | 0 | en | 0 | 7.8822 | 5 | 0.1856 | 0.0524 |
+| class2_cloze_3shot | logit | cloze | hi | native | 3 | 132 | 0.4318 | 0.4167 | 0.447 | 29 | 0.5452 | 0.0102 | 53.4289 | 33 | 0.293 | 32 | en | 4.5 | 15.0869 | 0 | 0.2224 | 0.0331 |
+| class2_cloze_3shot | logit | cloze | hi | roman | 3 | 226 | 0.0442 | 0.0442 | 0.0531 | 29 | 0.5206 | 0.0092 | 56.4364 | 32 | 0.0943 | 13 | en | 1 | 8.018 | 8 | 0.2335 | 0.0678 |
+| class2_cloze_3shot | logit | cloze | ml | native | 3 | 132 | 0.303 | 0.2879 | 0.3485 | 27 | 0.5259 | 0.0112 | 46.9892 | 33 | 0.1972 | 33 | en | 33 | 13.7278 | 0 | 0.2125 | 0.0174 |
+| class2_cloze_3shot | logit | cloze | ml | roman | 3 | 240 | 0.0333 | 0.025 | 0.0833 | 27 | 0.5216 | 0.0106 | 49.1336 | 32 | 0.0694 | 33 | en | 3 | 8.7732 | 12 | 0.2306 | 0.0738 |
+| class2_cloze_3shot | logit | cloze | ta | native | 3 | 132 | 0.3409 | 0.3106 | 0.3939 | 27 | 0.476 | 0.0125 | 37.9796 | 33 | 0.2315 | 32 | en | 32 | 15.0417 | 0 | 0.1921 | 0.0296 |
+| class2_cloze_3shot | logit | cloze | ta | roman | 3 | 242 | 0.0083 | 0.0083 | 0.0165 | 27 | 0.4435 | 0.0112 | 39.6826 | 32 | 0.0609 | 13 | en | 4 | 7.0804 | 7 | 0.2072 | 0.0936 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class2_cloze_3shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot
+[vocab] 42/792 items collide (excluded)
+[run] 0/792  cloze_hi_hi_native_book
+[run] 50/792  cloze_hi_hi_native_four
+[run] 100/792  cloze_hi_hi_native_square
+[run] 150/792  cloze_hi_rom_hi_roman_song
+[run] 200/792  cloze_hi_rom_hi_roman_seat
+[run] 250/792  cloze_hi_rom_hi_roman_tower
+[run] 300/792  cloze_ta_ta_native_rice
+[run] 350/792  cloze_ta_ta_native_example
+[run] 400/792  cloze_ta_rom_ta_roman_soil
+[run] 450/792  cloze_ta_rom_ta_roman_eight
+[run] 500/792  cloze_ta_rom_ta_roman_tribe
+[run] 550/792  cloze_ml_ml_native_river
+[run] 600/792  cloze_ml_ml_native_machine
+[run] 650/792  cloze_ml_ml_native_section
+[run] 700/792  cloze_ml_rom_ml_roman_flower
+[run] 750/792  cloze_ml_rom_ml_roman_delete
+
+[gate] kept 750/792
+   lang script    n    sub exact  tok1
+     hi native  132  0.439 0.432 0.462
+     hi  roman  113  0.053 0.053 0.080
+     ml native  132  0.333 0.318 0.371
+     ml  roman  120  0.017 0.017 0.100
+     ta native  132  0.326 0.288 0.356
+     ta  roman  121  0.017 0.017 0.017
+[report] class2_cloze_4shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/curves__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/ranks__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/switch__cloze__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/curves__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/ranks__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/switch__cloze__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/curves__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/ranks__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/switch__cloze__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/curves__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/ranks__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/scripts__cloze.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/switch__cloze__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/lenscmp__cloze__en.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/lenscmp__cloze__native.png
+  outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures/lenscmp__cloze__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class2_cloze_4shot | jlens_en | cloze | hi | native | 4 | 132 | 0.4394 | 0.4318 | 0.4621 | 29 | 0.5144 | 0.0011 | 452.5106 | 32 | 0.0853 | 4 | en | 11 | 8.4839 | 32 | 0.208 | 0.0481 |
+| class2_cloze_4shot | jlens_en | cloze | hi | roman | 4 | 226 | 0.0531 | 0.0531 | 0.0796 | 29 | 0.4666 | 0.0087 | 53.5022 | 32 | 0.1109 | 32 | en | 21 | 10.063 | 29 | 0.1859 | 0.0489 |
+| class2_cloze_4shot | jlens_en | cloze | ml | native | 4 | 132 | 0.3333 | 0.3182 | 0.3712 | 29 | 0.483 | 0.0018 | 266.4604 | 32 | 0.0038 | 13 | en | 11 | 4.601 | 48 | 0.2044 | 0.0323 |
+| class2_cloze_4shot | jlens_en | cloze | ml | roman | 4 | 240 | 0.0167 | 0.0167 | 0.1 | 28 | 0.5029 | 0.0115 | 43.8438 | 32 | 0.0698 | -1 | en | 13 | 9.5178 | 24 | 0.1916 | 0.0491 |
+| class2_cloze_4shot | jlens_en | cloze | ta | native | 4 | 132 | 0.3258 | 0.2879 | 0.3561 | 29 | 0.4467 | 0.0012 | 388.3243 | 32 | 0.069 | 32 | en | 12 | 8.9261 | 35 | 0.1894 | 0.0429 |
+| class2_cloze_4shot | jlens_en | cloze | ta | roman | 4 | 242 | 0.0165 | 0.0165 | 0.0165 | 27 | 0.4178 | 0.0111 | 37.7892 | 32 | 0.0621 | 31 | en | 21 | 9.71 | 23 | 0.1695 | 0.0504 |
+| class2_cloze_4shot | jlens_indic | cloze | hi | native | 4 | 132 | 0.4394 | 0.4318 | 0.4621 | 27 | 0.4683 | 0.0011 | 412.0041 | 32 | 0.0853 | 0 | en | 0 | 6.7703 | 2 | 0.1936 | 0.0524 |
+| class2_cloze_4shot | jlens_indic | cloze | hi | roman | 4 | 226 | 0.0531 | 0.0531 | 0.0796 | 29 | 0.3832 | 0.0087 | 43.9422 | 32 | 0.1109 | 0 | en | 0 | 10.187 | 7 | 0.1675 | 0.05 |
+| class2_cloze_4shot | jlens_indic | cloze | ml | native | 4 | 132 | 0.3333 | 0.3182 | 0.3712 | 27 | 0.3841 | 0.0018 | 211.9276 | 32 | 0.0038 | 13 | en | 3 | 4.9123 | 30 | 0.1787 | 0.0326 |
+| class2_cloze_4shot | jlens_indic | cloze | ml | roman | 4 | 240 | 0.0167 | 0.0167 | 0.1 | 27 | 0.4633 | 0.0115 | 40.3972 | 32 | 0.0698 | 1 | en | 0 | 8.5505 | 6 | 0.1829 | 0.0547 |
+| class2_cloze_4shot | jlens_indic | cloze | ta | native | 4 | 132 | 0.3258 | 0.2879 | 0.3561 | 27 | 0.4571 | 0.0012 | 397.3388 | 32 | 0.069 | 0 | en | 0 | 3.8895 | 2 | 0.1772 | 0.0495 |
+| class2_cloze_4shot | jlens_indic | cloze | ta | roman | 4 | 242 | 0.0165 | 0.0165 | 0.0165 | 27 | 0.4008 | 0.0111 | 36.2495 | 32 | 0.0621 | 1 | en | 0 | 8.6566 | 3 | 0.1656 | 0.0557 |
+| class2_cloze_4shot | jlens_mixed | cloze | hi | native | 4 | 132 | 0.4394 | 0.4318 | 0.4621 | 27 | 0.4628 | 0.0011 | 407.1234 | 32 | 0.0853 | 1 | en | 0 | 8.4099 | 7 | 0.195 | 0.0518 |
+| class2_cloze_4shot | jlens_mixed | cloze | hi | roman | 4 | 226 | 0.0531 | 0.0531 | 0.0796 | 29 | 0.3935 | 0.0087 | 45.1243 | 32 | 0.1109 | 0 | en | 0 | 9.7741 | 10 | 0.1732 | 0.0495 |
+| class2_cloze_4shot | jlens_mixed | cloze | ml | native | 4 | 132 | 0.3333 | 0.3182 | 0.3712 | 27 | 0.3938 | 0.0018 | 217.2772 | 32 | 0.0038 | 5 | en | 3 | 4.7745 | 16 | 0.1873 | 0.0326 |
+| class2_cloze_4shot | jlens_mixed | cloze | ml | roman | 4 | 240 | 0.0167 | 0.0167 | 0.1 | 27 | 0.4741 | 0.0115 | 41.3401 | 32 | 0.0698 | 0 | en | 0 | 8.5712 | 4 | 0.1904 | 0.0539 |
+| class2_cloze_4shot | jlens_mixed | cloze | ta | native | 4 | 132 | 0.3258 | 0.2879 | 0.3561 | 27 | 0.4601 | 0.0012 | 399.9992 | 32 | 0.069 | 0 | en | 0 | 4.8472 | 6 | 0.1845 | 0.0483 |
+| class2_cloze_4shot | jlens_mixed | cloze | ta | roman | 4 | 242 | 0.0165 | 0.0165 | 0.0165 | 27 | 0.4195 | 0.0111 | 37.9466 | 32 | 0.0621 | 0 | en | 0 | 8.2382 | 2 | 0.1739 | 0.0552 |
+| class2_cloze_4shot | logit | cloze | hi | native | 4 | 132 | 0.4394 | 0.4318 | 0.4621 | 29 | 0.55 | 0.0103 | 53.6544 | 33 | 0.3154 | 32 | en | 4.5 | 15.0739 | 0 | 0.2198 | 0.034 |
+| class2_cloze_4shot | logit | cloze | hi | roman | 4 | 226 | 0.0531 | 0.0531 | 0.0796 | 29 | 0.492 | 0.0094 | 52.3845 | 32 | 0.1109 | 11 | en | 1 | 8.5159 | 5 | 0.2166 | 0.0725 |
+| class2_cloze_4shot | logit | cloze | ml | native | 4 | 132 | 0.3333 | 0.3182 | 0.3712 | 27 | 0.5265 | 0.0125 | 42.103 | 33 | 0.2041 | 33 | en | 33 | 13.7263 | 0 | 0.2106 | 0.0178 |
+| class2_cloze_4shot | logit | cloze | ml | roman | 4 | 240 | 0.0167 | 0.0167 | 0.1 | 27 | 0.5243 | 0.0115 | 45.7164 | 32 | 0.0698 | 33 | en | 4 | 8.9232 | 7 | 0.2206 | 0.0762 |
+| class2_cloze_4shot | logit | cloze | ta | native | 4 | 132 | 0.3258 | 0.2879 | 0.3561 | 27 | 0.4956 | 0.0107 | 46.3934 | 33 | 0.261 | 32 | en | 32 | 15.1425 | 0 | 0.1952 | 0.029 |
+| class2_cloze_4shot | logit | cloze | ta | roman | 4 | 242 | 0.0165 | 0.0165 | 0.0165 | 27 | 0.42 | 0.0117 | 35.8842 | 32 | 0.0621 | 13 | en | 4 | 7.4819 | 5 | 0.1903 | 0.0982 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class2_cloze_4shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot
+[vocab] 42/792 items collide (excluded)
+[run] 0/792  repetition_hi_hi_native_book
+[run] 50/792  repetition_hi_hi_native_four
+[run] 100/792  repetition_hi_hi_native_square
+[run] 150/792  repetition_hi_rom_hi_roman_song
+[run] 200/792  repetition_hi_rom_hi_roman_seat
+[run] 250/792  repetition_hi_rom_hi_roman_tower
+[run] 300/792  repetition_ta_ta_native_rice
+[run] 350/792  repetition_ta_ta_native_example
+[run] 400/792  repetition_ta_rom_ta_roman_soil
+[run] 450/792  repetition_ta_rom_ta_roman_eight
+[run] 500/792  repetition_ta_rom_ta_roman_tribe
+[run] 550/792  repetition_ml_ml_native_river
+[run] 600/792  repetition_ml_ml_native_machine
+[run] 650/792  repetition_ml_ml_native_section
+[run] 700/792  repetition_ml_rom_ml_roman_flower
+[run] 750/792  repetition_ml_rom_ml_roman_delete
+
+[gate] kept 750/792
+   lang script    n    sub exact  tok1
+     hi native  132  1.000 1.000 1.000
+     hi  roman  113  1.000 1.000 1.000
+     ml native  132  0.992 0.992 1.000
+     ml  roman  120  1.000 1.000 1.000
+     ta native  132  1.000 1.000 1.000
+     ta  roman  121  1.000 1.000 1.000
+[report] class3_repetition_1shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/curves__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/ranks__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/switch__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/curves__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/ranks__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/switch__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/curves__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/ranks__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/switch__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/curves__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/ranks__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/switch__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/lenscmp__repetition__en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/lenscmp__repetition__native.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures/lenscmp__repetition__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class3_repetition_1shot | jlens_en | repetition | hi | native | 1 | 132 | 1 | 1 | 1 | 29 | 0.5361 | 0.0004 | 1357.6379 | 32 | 0.5727 | 12 | en | 13 | 8.5442 | 2 | 0.213 | 0.1314 |
+| class3_repetition_1shot | jlens_en | repetition | hi | roman | 1 | 226 | 1 | 1 | 1 | 28 | 0.3043 | 0.0007 | 429.3228 | 31 | 0.91 | 23 | en | 11 | 9.6195 | 0 | 0.1073 | 0.1921 |
+| class3_repetition_1shot | jlens_en | repetition | ml | native | 1 | 132 | 0.9924 | 0.9924 | 1 | 28 | 0.4689 | 0.0007 | 692.8677 | 32 | 0.1808 | 11 | en | 11 | 7.7195 | 7 | 0.1949 | 0.0784 |
+| class3_repetition_1shot | jlens_en | repetition | ml | roman | 1 | 240 | 1 | 1 | 1 | 27 | 0.0798 | 0.001 | 83.7854 | 31 | 0.9627 | 7 | en | 12 | 7.4829 | 0 | 0.0554 | 0.2308 |
+| class3_repetition_1shot | jlens_en | repetition | ta | native | 1 | 132 | 1 | 1 | 1 | 27 | 0.4945 | 0.0005 | 902.5614 | 32 | 0.5381 | 12 | en | 12 | 7.7709 | 4 | 0.2022 | 0.1122 |
+| class3_repetition_1shot | jlens_en | repetition | ta | roman | 1 | 242 | 1 | 1 | 1 | 22 | 0.0437 | 0.0005 | 89.3657 | 30 | 0.945 | 23 | en | 6 | 7.8029 | 0 | 0.0446 | 0.2332 |
+| class3_repetition_1shot | jlens_indic | repetition | hi | native | 1 | 132 | 1 | 1 | 1 | 27 | 0.5606 | 0.0004 | 1419.7065 | 32 | 0.5727 | 0 | en | 0 | 5.2879 | 1 | 0.1979 | 0.1705 |
+| class3_repetition_1shot | jlens_indic | repetition | hi | roman | 1 | 226 | 1 | 1 | 1 | 27 | 0.2654 | 0.0007 | 374.3784 | 32 | 0.8942 | 0 | en | 1 | 8.2189 | 0 | 0.0974 | 0.2221 |
+| class3_repetition_1shot | jlens_indic | repetition | ml | native | 1 | 132 | 0.9924 | 0.9924 | 1 | 27 | 0.3996 | 0.0007 | 590.4412 | 31 | 0.2501 | 7 | en | 5 | 8.686 | 0 | 0.1674 | 0.1138 |
+| class3_repetition_1shot | jlens_indic | repetition | ml | roman | 1 | 240 | 1 | 1 | 1 | 27 | 0.0779 | 0.0025 | 31.1899 | 30 | 0.9352 | 0 | en | 0 | 6.5789 | 0 | 0.054 | 0.2833 |
+| class3_repetition_1shot | jlens_indic | repetition | ta | native | 1 | 132 | 1 | 1 | 1 | 27 | 0.5053 | 0.0005 | 922.1165 | 31 | 0.5648 | 0 | en | 0 | 5.6089 | 0 | 0.1799 | 0.1787 |
+| class3_repetition_1shot | jlens_indic | repetition | ta | roman | 1 | 242 | 1 | 1 | 1 | 25 | 0.0465 | 0.0017 | 26.6108 | 30 | 0.9064 | 0 | en | 0 | 6.0334 | 0 | 0.044 | 0.2838 |
+| class3_repetition_1shot | jlens_mixed | repetition | hi | native | 1 | 132 | 1 | 1 | 1 | 27 | 0.5305 | 0.0004 | 1343.3612 | 32 | 0.5727 | 1 | en | 0 | 7.3128 | 0 | 0.1939 | 0.1701 |
+| class3_repetition_1shot | jlens_mixed | repetition | hi | roman | 1 | 226 | 1 | 1 | 1 | 27 | 0.259 | 0.0007 | 365.3938 | 32 | 0.8942 | 0 | en | 0 | 8.5227 | 0 | 0.0971 | 0.2191 |
+| class3_repetition_1shot | jlens_mixed | repetition | ml | native | 1 | 132 | 0.9924 | 0.9924 | 1 | 27 | 0.4026 | 0.0007 | 594.8242 | 31 | 0.2419 | 6 | en | 5 | 8.0373 | 1 | 0.174 | 0.1149 |
+| class3_repetition_1shot | jlens_mixed | repetition | ml | roman | 1 | 240 | 1 | 1 | 1 | 27 | 0.0773 | 0.0021 | 37.1101 | 30 | 0.9376 | 0 | en | 0 | 6.5834 | 0 | 0.0547 | 0.2808 |
+| class3_repetition_1shot | jlens_mixed | repetition | ta | native | 1 | 132 | 1 | 1 | 1 | 27 | 0.5068 | 0.0005 | 924.9791 | 31 | 0.5382 | 0 | en | 0 | 6.5371 | 0 | 0.1829 | 0.175 |
+| class3_repetition_1shot | jlens_mixed | repetition | ta | roman | 1 | 242 | 1 | 1 | 1 | 25 | 0.0446 | 0.0014 | 32.3995 | 30 | 0.9131 | 0 | en | 0 | 5.796 | 0 | 0.0446 | 0.2809 |
+| class3_repetition_1shot | logit | repetition | hi | native | 1 | 132 | 1 | 1 | 1 | 27 | 0.6277 | 0.0116 | 54.2182 | 33 | 0.8824 | 31 | en | 4 | 13.7882 | 0 | 0.2089 | 0.0957 |
+| class3_repetition_1shot | logit | repetition | hi | roman | 1 | 226 | 1 | 1 | 1 | 27 | 0.3516 | 0.0123 | 28.4873 | 31 | 0.9162 | 11 | en | 1 | 8.5813 | 0 | 0.1133 | 0.2522 |
+| class3_repetition_1shot | logit | repetition | ml | native | 1 | 132 | 0.9924 | 0.9924 | 1 | 27 | 0.4918 | 0.0089 | 55.4524 | 33 | 0.8746 | 31 | en | 30.5 | 13.9116 | 0 | 0.1581 | 0.0551 |
+| class3_repetition_1shot | logit | repetition | ml | roman | 1 | 240 | 1 | 1 | 1 | 27 | 0.0811 | 0.0144 | 5.6377 | 31 | 0.9526 | 21 | en | 4 | 9.2996 | 0 | 0.052 | 0.2944 |
+| class3_repetition_1shot | logit | repetition | ta | native | 1 | 132 | 1 | 1 | 1 | 28 | 0.4971 | 0.0092 | 53.8301 | 33 | 0.8675 | 31 | en | 13 | 13.1544 | 0 | 0.1593 | 0.0751 |
+| class3_repetition_1shot | logit | repetition | ta | roman | 1 | 242 | 1 | 1 | 1 | 28 | 0.0395 | 0.0127 | 3.1059 | 30 | 0.9406 | 21 | en | 4 | 9.1361 | 0 | 0.0393 | 0.2917 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class3_repetition_1shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot
+[vocab] 42/792 items collide (excluded)
+[run] 0/792  repetition_hi_hi_native_book
+[run] 50/792  repetition_hi_hi_native_four
+[run] 100/792  repetition_hi_hi_native_square
+[run] 150/792  repetition_hi_rom_hi_roman_song
+[run] 200/792  repetition_hi_rom_hi_roman_seat
+[run] 250/792  repetition_hi_rom_hi_roman_tower
+[run] 300/792  repetition_ta_ta_native_rice
+[run] 350/792  repetition_ta_ta_native_example
+[run] 400/792  repetition_ta_rom_ta_roman_soil
+[run] 450/792  repetition_ta_rom_ta_roman_eight
+[run] 500/792  repetition_ta_rom_ta_roman_tribe
+[run] 550/792  repetition_ml_ml_native_river
+[run] 600/792  repetition_ml_ml_native_machine
+[run] 650/792  repetition_ml_ml_native_section
+[run] 700/792  repetition_ml_rom_ml_roman_flower
+[run] 750/792  repetition_ml_rom_ml_roman_delete
+
+[gate] kept 750/792
+   lang script    n    sub exact  tok1
+     hi native  132  1.000 1.000 1.000
+     hi  roman  113  1.000 1.000 1.000
+     ml native  132  0.992 0.992 1.000
+     ml  roman  120  1.000 1.000 1.000
+     ta native  132  1.000 1.000 1.000
+     ta  roman  121  1.000 1.000 1.000
+[report] class3_repetition_2shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/curves__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/ranks__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/switch__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/curves__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/ranks__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/switch__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/curves__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/ranks__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/switch__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/curves__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/ranks__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/switch__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/lenscmp__repetition__en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/lenscmp__repetition__native.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures/lenscmp__repetition__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class3_repetition_2shot | jlens_en | repetition | hi | native | 2 | 132 | 1 | 1 | 1 | 29 | 0.6253 | 0.0003 | 2411.6982 | 32 | 0.5881 | 12 | en | 12 | 9.5344 | 4 | 0.2367 | 0.1163 |
+| class3_repetition_2shot | jlens_en | repetition | hi | roman | 2 | 226 | 1 | 1 | 1 | 28 | 0.3234 | 0.001 | 335.3682 | 31 | 0.923 | 23 | en | 12 | 9.9208 | 0 | 0.1095 | 0.1919 |
+| class3_repetition_2shot | jlens_en | repetition | ml | native | 2 | 132 | 0.9924 | 0.9924 | 1 | 28 | 0.4716 | 0.0005 | 988.9119 | 32 | 0.2144 | 11 | en | 11 | 7.575 | 4 | 0.1886 | 0.0845 |
+| class3_repetition_2shot | jlens_en | repetition | ml | roman | 2 | 240 | 1 | 1 | 1 | 27 | 0.0512 | 0.0005 | 95.9123 | 31 | 0.9713 | 23 | en | 6 | 7.557 | 0 | 0.0483 | 0.2422 |
+| class3_repetition_2shot | jlens_en | repetition | ta | native | 2 | 132 | 1 | 1 | 1 | 28 | 0.5499 | 0.0004 | 1515.4895 | 32 | 0.5478 | 13 | en | 12 | 8.2216 | 5 | 0.2126 | 0.1005 |
+| class3_repetition_2shot | jlens_en | repetition | ta | roman | 2 | 242 | 1 | 1 | 1 | 22 | 0.052 | 0.0004 | 117.1238 | 31 | 0.9603 | 8 | en | 6 | 7.9989 | 0 | 0.046 | 0.2494 |
+| class3_repetition_2shot | jlens_indic | repetition | hi | native | 2 | 132 | 1 | 1 | 1 | 27 | 0.6184 | 0.0003 | 2384.9858 | 32 | 0.5881 | 0 | en | 0 | 5.6832 | 1 | 0.214 | 0.1569 |
+| class3_repetition_2shot | jlens_indic | repetition | hi | roman | 2 | 226 | 1 | 1 | 1 | 27 | 0.2522 | 0.001 | 261.5803 | 32 | 0.9219 | 0 | en | 1 | 8.7189 | 0 | 0.0941 | 0.2172 |
+| class3_repetition_2shot | jlens_indic | repetition | ml | native | 2 | 132 | 0.9924 | 0.9924 | 1 | 27 | 0.3821 | 0.0005 | 801.2303 | 31 | 0.2892 | 7 | en | 5.5 | 8.229 | 0 | 0.1589 | 0.1209 |
+| class3_repetition_2shot | jlens_indic | repetition | ml | roman | 2 | 240 | 1 | 1 | 1 | 27 | 0.0462 | 0.0015 | 30.1182 | 32 | 0.9601 | 0 | en | 0 | 6.4055 | 0 | 0.0458 | 0.2872 |
+| class3_repetition_2shot | jlens_indic | repetition | ta | native | 2 | 132 | 1 | 1 | 1 | 27 | 0.5359 | 0.0004 | 1477.0776 | 31 | 0.5519 | 0 | en | 0 | 5.7516 | 0 | 0.1907 | 0.1597 |
+| class3_repetition_2shot | jlens_indic | repetition | ta | roman | 2 | 242 | 1 | 1 | 1 | 27 | 0.0493 | 0.0015 | 33.0675 | 32 | 0.9591 | 0 | en | 0 | 6.2435 | 0 | 0.0436 | 0.288 |
+| class3_repetition_2shot | jlens_mixed | repetition | hi | native | 2 | 132 | 1 | 1 | 1 | 27 | 0.5994 | 0.0003 | 2311.5398 | 32 | 0.5881 | 1 | en | 0 | 7.7849 | 0 | 0.2129 | 0.1556 |
+| class3_repetition_2shot | jlens_mixed | repetition | hi | roman | 2 | 226 | 1 | 1 | 1 | 27 | 0.248 | 0.001 | 257.1978 | 32 | 0.9219 | 0 | en | 0 | 8.7552 | 0 | 0.0951 | 0.2154 |
+| class3_repetition_2shot | jlens_mixed | repetition | ml | native | 2 | 132 | 0.9924 | 0.9924 | 1 | 27 | 0.384 | 0.0005 | 805.1729 | 31 | 0.2844 | 6 | en | 5 | 8.1743 | 1 | 0.1648 | 0.1232 |
+| class3_repetition_2shot | jlens_mixed | repetition | ml | roman | 2 | 240 | 1 | 1 | 1 | 27 | 0.0459 | 0.0012 | 37.5523 | 32 | 0.9601 | 0 | en | 0 | 6.5092 | 0 | 0.0456 | 0.2837 |
+| class3_repetition_2shot | jlens_mixed | repetition | ta | native | 2 | 132 | 1 | 1 | 1 | 27 | 0.5376 | 0.0004 | 1481.568 | 32 | 0.5478 | 0 | en | 0 | 6.6067 | 0 | 0.1937 | 0.1559 |
+| class3_repetition_2shot | jlens_mixed | repetition | ta | roman | 2 | 242 | 1 | 1 | 1 | 27 | 0.0476 | 0.0011 | 42.8443 | 32 | 0.9591 | 0 | en | 0 | 5.8033 | 0 | 0.0444 | 0.2871 |
+| class3_repetition_2shot | logit | repetition | hi | native | 2 | 132 | 1 | 1 | 1 | 27 | 0.6689 | 0.0129 | 51.993 | 33 | 0.9135 | 31 | en | 4 | 13.4863 | 0 | 0.216 | 0.0893 |
+| class3_repetition_2shot | logit | repetition | hi | roman | 2 | 226 | 1 | 1 | 1 | 28 | 0.3534 | 0.0117 | 30.323 | 32 | 0.9219 | 3 | en | 1 | 8.5427 | 0 | 0.1032 | 0.242 |
+| class3_repetition_2shot | logit | repetition | ml | native | 2 | 132 | 0.9924 | 0.9924 | 1 | 27 | 0.4732 | 0.0083 | 56.8048 | 33 | 0.9425 | 31 | en | 30 | 13.8614 | 0 | 0.1416 | 0.0578 |
+| class3_repetition_2shot | logit | repetition | ml | roman | 2 | 240 | 1 | 1 | 1 | 27 | 0.0512 | 0.0134 | 3.8176 | 32 | 0.9601 | 21 | en | 3.5 | 9.028 | 0 | 0.0374 | 0.2867 |
+| class3_repetition_2shot | logit | repetition | ta | native | 2 | 132 | 1 | 1 | 1 | 28 | 0.5543 | 0.0093 | 59.3873 | 33 | 0.913 | 31 | en | 13 | 14.0158 | 0 | 0.1686 | 0.0742 |
+| class3_repetition_2shot | logit | repetition | ta | roman | 2 | 242 | 1 | 1 | 1 | 28 | 0.0484 | 0.011 | 4.3946 | 32 | 0.9591 | 21 | en | 4 | 8.7149 | 0 | 0.0357 | 0.2891 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class3_repetition_2shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot
+[vocab] 42/792 items collide (excluded)
+[run] 0/792  repetition_hi_hi_native_book
+[run] 50/792  repetition_hi_hi_native_four
+[run] 100/792  repetition_hi_hi_native_square
+[run] 150/792  repetition_hi_rom_hi_roman_song
+[run] 200/792  repetition_hi_rom_hi_roman_seat
+[run] 250/792  repetition_hi_rom_hi_roman_tower
+[run] 300/792  repetition_ta_ta_native_rice
+[run] 350/792  repetition_ta_ta_native_example
+[run] 400/792  repetition_ta_rom_ta_roman_soil
+[run] 450/792  repetition_ta_rom_ta_roman_eight
+[run] 500/792  repetition_ta_rom_ta_roman_tribe
+[run] 550/792  repetition_ml_ml_native_river
+[run] 600/792  repetition_ml_ml_native_machine
+[run] 650/792  repetition_ml_ml_native_section
+[run] 700/792  repetition_ml_rom_ml_roman_flower
+[run] 750/792  repetition_ml_rom_ml_roman_delete
+
+[gate] kept 750/792
+   lang script    n    sub exact  tok1
+     hi native  132  1.000 1.000 1.000
+     hi  roman  113  1.000 1.000 1.000
+     ml native  132  0.992 0.992 1.000
+     ml  roman  120  1.000 1.000 1.000
+     ta native  132  1.000 1.000 1.000
+     ta  roman  121  1.000 1.000 1.000
+[report] class3_repetition_3shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/curves__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/ranks__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/switch__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/curves__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/ranks__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/switch__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/curves__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/ranks__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/switch__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/curves__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/ranks__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/switch__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/lenscmp__repetition__en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/lenscmp__repetition__native.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures/lenscmp__repetition__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class3_repetition_3shot | jlens_en | repetition | hi | native | 3 | 132 | 1 | 1 | 1 | 29 | 0.6402 | 0.0002 | 2994.5276 | 32 | 0.5937 | 12 | en | 12 | 9.6313 | 5 | 0.2417 | 0.1101 |
+| class3_repetition_3shot | jlens_en | repetition | hi | roman | 3 | 226 | 1 | 1 | 1 | 28 | 0.2889 | 0.0004 | 822.2512 | 32 | 0.954 | 23 | en | 12 | 9.5728 | 0 | 0.0988 | 0.2133 |
+| class3_repetition_3shot | jlens_en | repetition | ml | native | 3 | 132 | 0.9924 | 0.9924 | 1 | 28 | 0.451 | 0.0004 | 1086.6703 | 32 | 0.2467 | 12 | en | 12 | 7.587 | 3 | 0.177 | 0.094 |
+| class3_repetition_3shot | jlens_en | repetition | ml | roman | 3 | 240 | 1 | 1 | 1 | 27 | 0.0399 | 0.0003 | 134.8582 | 31 | 0.9818 | 9 | en | 12 | 7.661 | 0 | 0.0484 | 0.2544 |
+| class3_repetition_3shot | jlens_en | repetition | ta | native | 3 | 132 | 1 | 1 | 1 | 28 | 0.5715 | 0.0003 | 1644.1068 | 32 | 0.571 | 13 | en | 12.5 | 8.3388 | 2 | 0.2146 | 0.1015 |
+| class3_repetition_3shot | jlens_en | repetition | ta | roman | 3 | 242 | 1 | 1 | 1 | 27 | 0.0524 | 0.0005 | 111.0031 | 32 | 0.975 | 8 | en | 6 | 8.0035 | 0 | 0.0473 | 0.2587 |
+| class3_repetition_3shot | jlens_indic | repetition | hi | native | 3 | 132 | 1 | 1 | 1 | 27 | 0.6218 | 0.0002 | 2908.4495 | 32 | 0.5937 | 0 | en | 0 | 5.934 | 1 | 0.217 | 0.1508 |
+| class3_repetition_3shot | jlens_indic | repetition | hi | roman | 3 | 226 | 1 | 1 | 1 | 27 | 0.2143 | 0.0007 | 327.809 | 32 | 0.954 | 0 | en | 1 | 8.5729 | 0 | 0.0831 | 0.2426 |
+| class3_repetition_3shot | jlens_indic | repetition | ml | native | 3 | 132 | 0.9924 | 0.9924 | 1 | 27 | 0.3507 | 0.0004 | 844.9664 | 31 | 0.3231 | 7 | en | 5.5 | 8.351 | 0 | 0.1453 | 0.1363 |
+| class3_repetition_3shot | jlens_indic | repetition | ml | roman | 3 | 240 | 1 | 1 | 1 | 27 | 0.0342 | 0.0009 | 38.6073 | 32 | 0.9783 | 0 | en | 0 | 6.5362 | 0 | 0.0442 | 0.2899 |
+| class3_repetition_3shot | jlens_indic | repetition | ta | native | 3 | 132 | 1 | 1 | 1 | 27 | 0.5415 | 0.0003 | 1557.847 | 31 | 0.5768 | 0 | en | 0 | 5.1997 | 0 | 0.1898 | 0.1615 |
+| class3_repetition_3shot | jlens_indic | repetition | ta | roman | 3 | 242 | 1 | 1 | 1 | 27 | 0.0488 | 0.0012 | 40.9727 | 32 | 0.975 | 0 | en | 0 | 6.3056 | 0 | 0.0437 | 0.2947 |
+| class3_repetition_3shot | jlens_mixed | repetition | hi | native | 3 | 132 | 1 | 1 | 1 | 27 | 0.6061 | 0.0002 | 2834.9001 | 32 | 0.5937 | 1 | en | 0 | 8.3104 | 0 | 0.2172 | 0.1476 |
+| class3_repetition_3shot | jlens_mixed | repetition | hi | roman | 3 | 226 | 1 | 1 | 1 | 27 | 0.2145 | 0.0005 | 429.0695 | 32 | 0.954 | 0 | en | 0 | 8.6423 | 0 | 0.0842 | 0.2401 |
+| class3_repetition_3shot | jlens_mixed | repetition | ml | native | 3 | 132 | 0.9924 | 0.9924 | 1 | 28 | 0.3534 | 0.0004 | 851.6025 | 31 | 0.3203 | 6 | en | 5 | 8.2855 | 0 | 0.1515 | 0.1388 |
+| class3_repetition_3shot | jlens_mixed | repetition | ml | roman | 3 | 240 | 1 | 1 | 1 | 27 | 0.0337 | 0.0007 | 51.1037 | 32 | 0.9783 | 0 | en | 0 | 6.8366 | 0 | 0.0453 | 0.2865 |
+| class3_repetition_3shot | jlens_mixed | repetition | ta | native | 3 | 132 | 1 | 1 | 1 | 27 | 0.5449 | 0.0003 | 1567.7131 | 32 | 0.571 | 0 | en | 0 | 6.8375 | 0 | 0.1947 | 0.1562 |
+| class3_repetition_3shot | jlens_mixed | repetition | ta | roman | 3 | 242 | 1 | 1 | 1 | 27 | 0.047 | 0.0009 | 53.884 | 32 | 0.975 | 0 | en | 0 | 5.9685 | 0 | 0.0439 | 0.2941 |
+| class3_repetition_3shot | logit | repetition | hi | native | 3 | 132 | 1 | 1 | 1 | 27 | 0.6777 | 0.012 | 56.5708 | 33 | 0.9219 | 31 | en | 4 | 13.6621 | 0 | 0.22 | 0.0872 |
+| class3_repetition_3shot | logit | repetition | hi | roman | 3 | 226 | 1 | 1 | 1 | 28 | 0.3036 | 0.0113 | 26.8523 | 32 | 0.954 | 3 | en | 1 | 8.0879 | 0 | 0.0867 | 0.2591 |
+| class3_repetition_3shot | logit | repetition | ml | native | 3 | 132 | 0.9924 | 0.9924 | 1 | 27 | 0.4316 | 0.0079 | 54.67 | 33 | 0.97 | 31 | en | 30 | 13.7142 | 0 | 0.1302 | 0.061 |
+| class3_repetition_3shot | logit | repetition | ml | roman | 3 | 240 | 1 | 1 | 1 | 28 | 0.0382 | 0.0125 | 3.0495 | 32 | 0.9783 | 21 | en | 4 | 9.0848 | 0 | 0.0374 | 0.2884 |
+| class3_repetition_3shot | logit | repetition | ta | native | 3 | 132 | 1 | 1 | 1 | 28 | 0.5637 | 0.0096 | 59.0084 | 33 | 0.9436 | 31 | en | 11 | 14.1938 | 0 | 0.1687 | 0.0752 |
+| class3_repetition_3shot | logit | repetition | ta | roman | 3 | 242 | 1 | 1 | 1 | 28 | 0.0506 | 0.0107 | 4.7384 | 32 | 0.975 | 21 | en | 4 | 8.416 | 0 | 0.0343 | 0.2921 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class3_repetition_3shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot
+[vocab] 42/792 items collide (excluded)
+[run] 0/792  repetition_hi_hi_native_book
+[run] 50/792  repetition_hi_hi_native_four
+[run] 100/792  repetition_hi_hi_native_square
+[run] 150/792  repetition_hi_rom_hi_roman_song
+[run] 200/792  repetition_hi_rom_hi_roman_seat
+[run] 250/792  repetition_hi_rom_hi_roman_tower
+[run] 300/792  repetition_ta_ta_native_rice
+[run] 350/792  repetition_ta_ta_native_example
+[run] 400/792  repetition_ta_rom_ta_roman_soil
+[run] 450/792  repetition_ta_rom_ta_roman_eight
+[run] 500/792  repetition_ta_rom_ta_roman_tribe
+[run] 550/792  repetition_ml_ml_native_river
+[run] 600/792  repetition_ml_ml_native_machine
+[run] 650/792  repetition_ml_ml_native_section
+[run] 700/792  repetition_ml_rom_ml_roman_flower
+[run] 750/792  repetition_ml_rom_ml_roman_delete
+
+[gate] kept 750/792
+   lang script    n    sub exact  tok1
+     hi native  132  1.000 1.000 1.000
+     hi  roman  113  1.000 1.000 1.000
+     ml native  132  0.992 0.992 1.000
+     ml  roman  120  1.000 1.000 1.000
+     ta native  132  1.000 1.000 1.000
+     ta  roman  121  1.000 1.000 1.000
+[report] class3_repetition_4shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/curves__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/ranks__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/switch__repetition__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/curves__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/ranks__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/switch__repetition__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/curves__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/ranks__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/switch__repetition__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/curves__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/ranks__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/scripts__repetition.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/switch__repetition__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/lenscmp__repetition__en.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/lenscmp__repetition__native.png
+  outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures/lenscmp__repetition__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class3_repetition_4shot | jlens_en | repetition | hi | native | 4 | 132 | 1 | 1 | 1 | 29 | 0.6241 | 0.0002 | 3611.407 | 32 | 0.6474 | 12 | en | 12 | 9.5096 | 4 | 0.2393 | 0.1185 |
+| class3_repetition_4shot | jlens_en | repetition | hi | roman | 4 | 226 | 1 | 1 | 1 | 28 | 0.2517 | 0.0002 | 1381.4069 | 32 | 0.9644 | 23 | en | 11 | 8.9497 | 0 | 0.0897 | 0.2229 |
+| class3_repetition_4shot | jlens_en | repetition | ml | native | 4 | 132 | 0.9924 | 0.9924 | 1 | 28 | 0.4426 | 0.0004 | 1231.5099 | 32 | 0.2576 | 12 | en | 12 | 7.5975 | 1 | 0.1733 | 0.0991 |
+| class3_repetition_4shot | jlens_en | repetition | ml | roman | 4 | 240 | 1 | 1 | 1 | 27 | 0.0319 | 0.0002 | 160.7212 | 32 | 0.9873 | 8 | en | 12 | 7.5503 | 0 | 0.0437 | 0.2631 |
+| class3_repetition_4shot | jlens_en | repetition | ta | native | 4 | 132 | 1 | 1 | 1 | 28 | 0.5697 | 0.0003 | 1895.2976 | 32 | 0.5582 | 13 | en | 12 | 8.7197 | 3 | 0.2152 | 0.1025 |
+| class3_repetition_4shot | jlens_en | repetition | ta | roman | 4 | 242 | 1 | 1 | 1 | 22 | 0.0441 | 0.0004 | 107.2058 | 32 | 0.9788 | 8 | en | 6 | 8.0307 | 0 | 0.0443 | 0.2603 |
+| class3_repetition_4shot | jlens_indic | repetition | hi | native | 4 | 132 | 1 | 1 | 1 | 27 | 0.6078 | 0.0002 | 3516.8206 | 32 | 0.6474 | 0 | en | 0 | 6.3454 | 0 | 0.2111 | 0.1618 |
+| class3_repetition_4shot | jlens_indic | repetition | hi | roman | 4 | 226 | 1 | 1 | 1 | 27 | 0.1702 | 0.0006 | 287.5464 | 32 | 0.9644 | 0 | en | 1 | 8.5066 | 0 | 0.0741 | 0.2552 |
+| class3_repetition_4shot | jlens_indic | repetition | ml | native | 4 | 132 | 0.9924 | 0.9924 | 1 | 27 | 0.3388 | 0.0004 | 942.6258 | 31 | 0.3393 | 7 | en | 6 | 8.5136 | 0 | 0.1386 | 0.1434 |
+| class3_repetition_4shot | jlens_indic | repetition | ml | roman | 4 | 240 | 1 | 1 | 1 | 27 | 0.0249 | 0.0007 | 33.3791 | 32 | 0.9873 | 0 | en | 0 | 6.5209 | 0 | 0.0404 | 0.2956 |
+| class3_repetition_4shot | jlens_indic | repetition | ta | native | 4 | 132 | 1 | 1 | 1 | 27 | 0.5408 | 0.0003 | 1799.0648 | 31 | 0.5671 | 0 | en | 0 | 4.8476 | 0 | 0.1889 | 0.1569 |
+| class3_repetition_4shot | jlens_indic | repetition | ta | roman | 4 | 242 | 1 | 1 | 1 | 25 | 0.0423 | 0.001 | 42.1817 | 32 | 0.9788 | 0 | en | 0 | 6.1698 | 0 | 0.0418 | 0.2946 |
+| class3_repetition_4shot | jlens_mixed | repetition | hi | native | 4 | 132 | 1 | 1 | 1 | 27 | 0.5911 | 0.0002 | 3420.4004 | 32 | 0.6474 | 2 | en | 0 | 7.5403 | 0 | 0.2118 | 0.1595 |
+| class3_repetition_4shot | jlens_mixed | repetition | hi | roman | 4 | 226 | 1 | 1 | 1 | 27 | 0.1734 | 0.0005 | 379.262 | 32 | 0.9644 | 0 | en | 0 | 8.8352 | 0 | 0.0747 | 0.2535 |
+| class3_repetition_4shot | jlens_mixed | repetition | ml | native | 4 | 132 | 0.9924 | 0.9924 | 1 | 28 | 0.3436 | 0.0004 | 956.0939 | 31 | 0.3378 | 6 | en | 5 | 8.0819 | 0 | 0.1443 | 0.1457 |
+| class3_repetition_4shot | jlens_mixed | repetition | ml | roman | 4 | 240 | 1 | 1 | 1 | 27 | 0.0248 | 0.0005 | 45.8063 | 32 | 0.9873 | 0 | en | 0 | 6.8581 | 0 | 0.0407 | 0.2941 |
+| class3_repetition_4shot | jlens_mixed | repetition | ta | native | 4 | 132 | 1 | 1 | 1 | 27 | 0.5444 | 0.0003 | 1811.1152 | 32 | 0.5582 | 0 | en | 0 | 6.9237 | 0 | 0.1933 | 0.1528 |
+| class3_repetition_4shot | jlens_mixed | repetition | ta | roman | 4 | 242 | 1 | 1 | 1 | 25 | 0.0395 | 0.0007 | 55.0354 | 32 | 0.9788 | 0 | en | 0 | 5.897 | 0 | 0.0418 | 0.2944 |
+| class3_repetition_4shot | logit | repetition | hi | native | 4 | 132 | 1 | 1 | 1 | 27 | 0.6686 | 0.0126 | 53.2473 | 33 | 0.9479 | 31 | en | 4 | 13.5681 | 0 | 0.2124 | 0.091 |
+| class3_repetition_4shot | logit | repetition | hi | roman | 4 | 226 | 1 | 1 | 1 | 28 | 0.2639 | 0.0119 | 22.2026 | 32 | 0.9644 | 3 | en | 1 | 8.1315 | 0 | 0.0762 | 0.2668 |
+| class3_repetition_4shot | logit | repetition | ml | native | 4 | 132 | 0.9924 | 0.9924 | 1 | 27 | 0.4093 | 0.0084 | 48.6636 | 33 | 0.979 | 31 | en | 30 | 13.6653 | 0 | 0.1234 | 0.0627 |
+| class3_repetition_4shot | logit | repetition | ml | roman | 4 | 240 | 1 | 1 | 1 | 28 | 0.0302 | 0.0127 | 2.3712 | 33 | 0.9881 | 21 | en | 4 | 9.1267 | 0 | 0.0316 | 0.2948 |
+| class3_repetition_4shot | logit | repetition | ta | native | 4 | 132 | 1 | 1 | 1 | 28 | 0.5708 | 0.0092 | 61.9025 | 33 | 0.9576 | 31 | en | 11 | 14.2146 | 0 | 0.1689 | 0.0759 |
+| class3_repetition_4shot | logit | repetition | ta | roman | 4 | 242 | 1 | 1 | 1 | 28 | 0.0458 | 0.0105 | 4.3571 | 32 | 0.9788 | 21 | en | 4 | 8.5203 | 0 | 0.031 | 0.2924 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class3_repetition_4shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class4_lang_swap
+[vocab] 84/1494 items collide (excluded)
+[run] 0/1494  swap_fr_hitoml_native_cloud
+[run] 50/1494  swap_fr_tatohi_native_star
+[run] 100/1494  swap_fr_mltota_native_song
+[run] 150/1494  swap_fr_hitoml_native_source
+[run] 200/1494  swap_fr_tatohi_native_net
+[run] 250/1494  swap_fr_mltota_native_one
+[run] 300/1494  swap_fr_hitoml_native_ten
+[run] 350/1494  swap_fr_tatohi_native_word
+[run] 400/1494  swap_fr_mltota_native_position
+[run] 450/1494  swap_fr_hitoml_native_tie
+[run] 500/1494  swap_fr_tatohi_native_platform
+[run] 550/1494  swap_fr_mltota_native_south
+[run] 600/1494  swap_fr_hitoml_native_tail
+[run] 650/1494  swap_fr_tatohi_native_person
+[run] 700/1494  swap_fr_mltota_native_summer
+[run] 750/1494  swap_en_hitoml_native_hand
+[run] 800/1494  swap_en_tatohi_native_fruit
+[run] 850/1494  swap_en_mltota_native_wave
+[run] 900/1494  swap_en_hitoml_native_ball
+[run] 950/1494  swap_en_tatohi_native_tea
+[run] 1000/1494  swap_en_mltota_native_three
+[run] 1050/1494  swap_en_hitoml_native_shop
+[run] 1100/1494  swap_en_tatohi_native_word
+[run] 1150/1494  swap_en_mltota_native_benefit
+[run] 1200/1494  swap_en_hitoml_native_school
+[run] 1250/1494  swap_en_tatohi_native_group
+[run] 1300/1494  swap_en_mltota_native_valley
+[run] 1350/1494  swap_en_hitoml_native_ground
+[run] 1400/1494  swap_en_tatohi_native_speech
+[run] 1450/1494  swap_en_mltota_native_hundred
+
+[gate] kept 1410/1494
+   lang script    n    sub exact  tok1
+     hi native  249  0.622 0.598 0.651
+     hi  roman  211  0.104 0.100 0.180
+     ml native  249  0.438 0.430 0.498
+     ml  roman  225  0.044 0.044 0.071
+     ta native  249  0.606 0.586 0.651
+     ta  roman  227  0.035 0.022 0.101
+[report] class4_lang_swap  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/curves__lang_swap__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/ranks__lang_swap__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/scripts__lang_swap.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/switch__lang_swap__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/curves__lang_swap__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/ranks__lang_swap__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/scripts__lang_swap.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/switch__lang_swap__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/curves__lang_swap__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/ranks__lang_swap__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/scripts__lang_swap.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/switch__lang_swap__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/curves__lang_swap__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/ranks__lang_swap__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/scripts__lang_swap.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/switch__lang_swap__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/lenscmp__lang_swap__en.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/lenscmp__lang_swap__native.png
+  outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures/lenscmp__lang_swap__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class4_lang_swap | jlens_en | lang_swap | hi | native | 4 | 249 | 0.6225 | 0.5984 | 0.6506 | 29 | 0.8027 | 0.001 | 813.6149 | 32 | 0.1313 | 11 | en | 11 | 4.6148 | 57 | 0.2982 | 0.0597 |
+| class4_lang_swap | jlens_en | lang_swap | hi | roman | 4 | 422 | 0.1043 | 0.0995 | 0.1801 | 28 | 0.7831 | 0.0077 | 102.3324 | 32 | 0.1604 | 32 | en | 11 | 10.9994 | 26 | 0.2704 | 0.0542 |
+| class4_lang_swap | jlens_en | lang_swap | ml | native | 4 | 249 | 0.4378 | 0.4297 | 0.498 | 29 | 0.7505 | 0.0009 | 850.9896 | 32 | 0.01 | 11 | en | 11 | 3.0447 | 61 | 0.2885 | 0.0348 |
+| class4_lang_swap | jlens_en | lang_swap | ml | roman | 4 | 450 | 0.0444 | 0.0444 | 0.0711 | 29 | 0.7147 | 0.0079 | 90.2411 | 32 | 0.0711 | -1 | en | 11 | 9.8778 | 39 | 0.2586 | 0.0449 |
+| class4_lang_swap | jlens_en | lang_swap | ta | native | 4 | 498 | 0.6064 | 0.5863 | 0.6506 | 26 | 0.7638 | 0.0008 | 904.0745 | 32 | 0.0996 | 11 | en | 11 | 4.7102 | 52 | 0.2914 | 0.0468 |
+| class4_lang_swap | jlens_en | lang_swap | ta | roman | 4 | 681 | 0.0352 | 0.022 | 0.1013 | 26 | 0.6572 | 0.009 | 73.2093 | 32 | 0.0592 | 32 | en | 11 | 10.9085 | 28 | 0.2423 | 0.0476 |
+| class4_lang_swap | jlens_indic | lang_swap | hi | native | 4 | 249 | 0.6225 | 0.5984 | 0.6506 | 27 | 0.8078 | 0.001 | 818.7919 | 32 | 0.1313 | 0 | en | 0 | 3.9695 | 3 | 0.2929 | 0.0605 |
+| class4_lang_swap | jlens_indic | lang_swap | hi | roman | 4 | 422 | 0.1043 | 0.0995 | 0.1801 | 26 | 0.7455 | 0.0077 | 97.4198 | 32 | 0.1604 | 0 | en | 0 | 7.9544 | 9 | 0.257 | 0.0564 |
+| class4_lang_swap | jlens_indic | lang_swap | ml | native | 4 | 249 | 0.4378 | 0.4297 | 0.498 | 27 | 0.6399 | 0.0009 | 725.571 | 32 | 0.01 | 10 | en | 4 | 5.3886 | 35 | 0.2682 | 0.0351 |
+| class4_lang_swap | jlens_indic | lang_swap | ml | roman | 4 | 450 | 0.0444 | 0.0444 | 0.0711 | 26 | 0.6481 | 0.0079 | 81.8319 | 32 | 0.0711 | 0 | en | 0 | 5.8186 | 14 | 0.2442 | 0.0495 |
+| class4_lang_swap | jlens_indic | lang_swap | ta | native | 4 | 498 | 0.6064 | 0.5863 | 0.6506 | 26 | 0.8073 | 0.0008 | 955.6331 | 32 | 0.0996 | 0 | en | 0 | 2.4066 | 3 | 0.2855 | 0.0536 |
+| class4_lang_swap | jlens_indic | lang_swap | ta | roman | 4 | 681 | 0.0352 | 0.022 | 0.1013 | 26 | 0.7077 | 0.009 | 78.8266 | 32 | 0.0592 | 0 | en | 0 | 6.8111 | 5 | 0.2297 | 0.0521 |
+| class4_lang_swap | jlens_mixed | lang_swap | hi | native | 4 | 249 | 0.6225 | 0.5984 | 0.6506 | 27 | 0.7927 | 0.001 | 803.4623 | 32 | 0.1313 | 2 | en | 0 | 4.7355 | 10 | 0.2908 | 0.0606 |
+| class4_lang_swap | jlens_mixed | lang_swap | hi | roman | 4 | 422 | 0.1043 | 0.0995 | 0.1801 | 27 | 0.7399 | 0.0077 | 96.6893 | 32 | 0.1604 | 0 | en | 0 | 8.6518 | 9 | 0.2589 | 0.056 |
+| class4_lang_swap | jlens_mixed | lang_swap | ml | native | 4 | 249 | 0.4378 | 0.4297 | 0.498 | 27 | 0.6545 | 0.0009 | 742.1373 | 32 | 0.01 | 8 | en | 4 | 5.5448 | 33 | 0.28 | 0.0353 |
+| class4_lang_swap | jlens_mixed | lang_swap | ml | roman | 4 | 450 | 0.0444 | 0.0444 | 0.0711 | 26 | 0.6587 | 0.0079 | 83.1677 | 32 | 0.0711 | 0 | en | 0 | 6.1544 | 17 | 0.2555 | 0.0492 |
+| class4_lang_swap | jlens_mixed | lang_swap | ta | native | 4 | 498 | 0.6064 | 0.5863 | 0.6506 | 26 | 0.8134 | 0.0008 | 962.7946 | 32 | 0.0996 | 0 | en | 0 | 3.1477 | 10 | 0.2944 | 0.0526 |
+| class4_lang_swap | jlens_mixed | lang_swap | ta | roman | 4 | 681 | 0.0352 | 0.022 | 0.1013 | 26 | 0.7195 | 0.009 | 80.1499 | 32 | 0.0592 | 0 | en | 0 | 7.1146 | 5 | 0.2408 | 0.0518 |
+| class4_lang_swap | logit | lang_swap | hi | native | 4 | 249 | 0.6225 | 0.5984 | 0.6506 | 26 | 0.8406 | 0.011 | 76.2824 | 33 | 0.4589 | 33 | en | 2.5 | 13.0338 | 1 | 0.3043 | 0.0491 |
+| class4_lang_swap | logit | lang_swap | hi | roman | 4 | 422 | 0.1043 | 0.0995 | 0.1801 | 26 | 0.7943 | 0.011 | 72.3417 | 32 | 0.1604 | 2 | en | 0 | 7.7006 | 5 | 0.3066 | 0.067 |
+| class4_lang_swap | logit | lang_swap | ml | native | 4 | 249 | 0.4378 | 0.4297 | 0.498 | 26 | 0.8215 | 0.0131 | 62.9501 | 33 | 0.2488 | 33 | en | 33 | 14.9735 | 3 | 0.2957 | 0.0231 |
+| class4_lang_swap | logit | lang_swap | ml | roman | 4 | 450 | 0.0444 | 0.0444 | 0.0711 | 26 | 0.7401 | 0.0174 | 42.618 | 32 | 0.0711 | -1 | en | 2 | 9.2948 | 15 | 0.2825 | 0.0601 |
+| class4_lang_swap | logit | lang_swap | ta | native | 4 | 498 | 0.6064 | 0.5863 | 0.6506 | 26 | 0.8465 | 0.0128 | 66.2249 | 33 | 0.384 | 33 | en | 12 | 13.3338 | 3 | 0.3017 | 0.0395 |
+| class4_lang_swap | logit | lang_swap | ta | roman | 4 | 681 | 0.0352 | 0.022 | 0.1013 | 26 | 0.7109 | 0.0144 | 49.4777 | 32 | 0.0592 | 32 | en | 4 | 7.1441 | 18 | 0.2698 | 0.0752 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class4_lang_swap/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class5_gibberish
+[vocab] 0/90 items collide (excluded)
+[run] 0/90  gibberish_hi_0
+[run] 50/90  gibberish_ta_20
+
+[gate] kept 90/90
+   lang script    n    sub exact  tok1
+     hi native   30  0.000 0.000 0.000
+     ml native   30  0.000 0.000 0.033
+     ta native   30  0.000 0.000 0.000
+[report] class5_gibberish  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/curves__gibberish__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/ranks__gibberish__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/scripts__gibberish.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/switch__gibberish__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/curves__gibberish__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/ranks__gibberish__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/scripts__gibberish.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/switch__gibberish__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/curves__gibberish__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/ranks__gibberish__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/scripts__gibberish.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/switch__gibberish__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/curves__gibberish__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/ranks__gibberish__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/scripts__gibberish.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/switch__gibberish__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures/lenscmp__gibberish__native.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | P_enctrl | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class5_gibberish | jlens_en | gibberish | hi | native | 0 | 30 | 0 | 0 | 0 | 0.0011 | 26 | 0.0049 | 26 | script | 24 | 6.4443 | 15 | 0.032 |
+| class5_gibberish | jlens_en | gibberish | ml | native | 0 | 30 | 0 | 0 | 0.0333 | 0.0069 | 26 | 0.0003 | -1 | script |  |  | 30 | 0.03 |
+| class5_gibberish | jlens_en | gibberish | ta | native | 0 | 30 | 0 | 0 | 0 | 0.0016 | 24 | 0.0044 | 32 | script | 32 | 2.0207 | 7 | 0.033 |
+| class5_gibberish | jlens_indic | gibberish | hi | native | 0 | 30 | 0 | 0 | 0 | 0.0008 | 31 | 0.0008 | -1 | script | 29 | 7.4253 | 21 | 0.0313 |
+| class5_gibberish | jlens_indic | gibberish | ml | native | 0 | 30 | 0 | 0 | 0.0333 | 0.0047 | 30 | 0.0003 | -1 | script |  |  | 30 | 0.0303 |
+| class5_gibberish | jlens_indic | gibberish | ta | native | 0 | 30 | 0 | 0 | 0 | 0.0021 | 24 | 0.0343 | 32 | script | 29 | 3.0368 | 6 | 0.0366 |
+| class5_gibberish | jlens_mixed | gibberish | hi | native | 0 | 30 | 0 | 0 | 0 | 0.0009 | 31 | 0.0006 | -1 | script | 29 | 2.2315 | 23 | 0.0312 |
+| class5_gibberish | jlens_mixed | gibberish | ml | native | 0 | 30 | 0 | 0 | 0.0333 | 0.004 | 29 | 0.0003 | -1 | script | 24 | 10.8423 | 27 | 0.0305 |
+| class5_gibberish | jlens_mixed | gibberish | ta | native | 0 | 30 | 0 | 0 | 0 | 0.0024 | 24 | 0.0085 | 32 | script | 26 | 3.2402 | 7 | 0.0353 |
+| class5_gibberish | logit | gibberish | hi | native | 0 | 30 | 0 | 0 | 0 | 0.0014 | 33 | 0.0013 | 5 | script | 5 | 6.9365 | 0 | 0.002 |
+| class5_gibberish | logit | gibberish | ml | native | 0 | 30 | 0 | 0 | 0.0333 | 0.0049 | 33 | 0.025 | 33 | script | 33 | 0 | 7 | 0.0026 |
+| class5_gibberish | logit | gibberish | ta | native | 0 | 30 | 0 | 0 | 0 | 0.0054 | 33 | 0.0097 | 32 | script | 32 | 0.423 | 0 | 0.0023 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class5_gibberish/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot
+[vocab] 42/396 items collide (excluded)
+[run] 0/396  r2r_hitota_hi_rom_ta_roman_book
+[run] 50/396  r2r_hitota_hi_rom_ta_roman_four
+[run] 100/396  r2r_hitota_hi_rom_ta_roman_square
+[run] 150/396  r2r_tatoml_ta_rom_ml_roman_song
+[run] 200/396  r2r_tatoml_ta_rom_ml_roman_seat
+[run] 250/396  r2r_tatoml_ta_rom_ml_roman_tower
+[run] 300/396  r2r_mltohi_ml_rom_hi_roman_rice
+[run] 350/396  r2r_mltohi_ml_rom_hi_roman_example
+
+[gate] kept 354/396
+   lang script    n    sub exact  tok1
+     hi  roman  113  0.142 0.115 0.168
+     ml  roman  120  0.167 0.117 0.225
+     ta  roman  121  0.017 0.017 0.066
+[report] class6_roman_to_roman_1shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/curves__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/ranks__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/switch__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/curves__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/ranks__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/switch__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/curves__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/ranks__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/switch__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/curves__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/ranks__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/switch__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/lenscmp__translation_r2r__en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures/lenscmp__translation_r2r__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class6_roman_to_roman_1shot | jlens_en | translation_r2r | hi | roman | 1 | 226 | 0.1416 | 0.115 | 0.1681 | 28 | 0.2353 | 0.0069 | 33.9837 | 32 | 0.1843 | 25 | en | 11 | 9.8391 | 3 | 0.1002 | 0.0601 |
+| class6_roman_to_roman_1shot | jlens_en | translation_r2r | ml | roman | 1 | 240 | 0.1667 | 0.1167 | 0.225 | 27 | 0.0806 | 0.0033 | 24.4572 | 32 | 0.2404 | 7 | en | 11 | 7.3061 | 2 | 0.0559 | 0.0882 |
+| class6_roman_to_roman_1shot | jlens_en | translation_r2r | ta | roman | 1 | 242 | 0.0165 | 0.0165 | 0.0661 | 27 | 0.2649 | 0.0076 | 34.6649 | 32 | 0.0621 | 27 | en | 11 | 9.6173 | 8 | 0.1148 | 0.0489 |
+| class6_roman_to_roman_1shot | jlens_indic | translation_r2r | hi | roman | 1 | 226 | 0.1416 | 0.115 | 0.1681 | 26 | 0.2057 | 0.0069 | 29.7062 | 32 | 0.1843 | 0 | en | 1 | 8.2236 | 0 | 0.092 | 0.0621 |
+| class6_roman_to_roman_1shot | jlens_indic | translation_r2r | ml | roman | 1 | 240 | 0.1667 | 0.1167 | 0.225 | 26 | 0.0809 | 0.0033 | 24.5473 | 32 | 0.2404 | 0 | en | 0 | 5.8692 | 1 | 0.0592 | 0.1082 |
+| class6_roman_to_roman_1shot | jlens_indic | translation_r2r | ta | roman | 1 | 242 | 0.0165 | 0.0165 | 0.0661 | 27 | 0.2689 | 0.0076 | 35.1855 | 32 | 0.0621 | 0 | en | 0 | 5.7441 | 3 | 0.1124 | 0.0591 |
+| class6_roman_to_roman_1shot | jlens_mixed | translation_r2r | hi | roman | 1 | 226 | 0.1416 | 0.115 | 0.1681 | 27 | 0.2018 | 0.0069 | 29.1521 | 32 | 0.1843 | 0 | en | 0 | 8.7194 | 0 | 0.0919 | 0.0624 |
+| class6_roman_to_roman_1shot | jlens_mixed | translation_r2r | ml | roman | 1 | 240 | 0.1667 | 0.1167 | 0.225 | 26 | 0.0778 | 0.0033 | 23.6191 | 32 | 0.2404 | 0 | en | 0 | 6.0923 | 1 | 0.0581 | 0.1066 |
+| class6_roman_to_roman_1shot | jlens_mixed | translation_r2r | ta | roman | 1 | 242 | 0.0165 | 0.0165 | 0.0661 | 27 | 0.2774 | 0.0076 | 36.3025 | 32 | 0.0621 | 0 | en | 0 | 5.6833 | 1 | 0.1149 | 0.0569 |
+| class6_roman_to_roman_1shot | logit | translation_r2r | hi | roman | 1 | 226 | 0.1416 | 0.115 | 0.1681 | 26 | 0.2466 | 0.0111 | 22.2913 | 32 | 0.1843 | 10 | en | 0 | 8.6942 | 2 | 0.121 | 0.0906 |
+| class6_roman_to_roman_1shot | logit | translation_r2r | ml | roman | 1 | 240 | 0.1667 | 0.1167 | 0.225 | 26 | 0.1032 | 0.0121 | 8.5303 | 32 | 0.2404 | 16 | en | 3 | 9.1414 | 4 | 0.0792 | 0.1623 |
+| class6_roman_to_roman_1shot | logit | translation_r2r | ta | roman | 1 | 242 | 0.0165 | 0.0165 | 0.0661 | 27 | 0.2666 | 0.0127 | 20.9731 | 32 | 0.0621 | 30 | en | 4 | 8.5991 | 10 | 0.1312 | 0.1008 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_1shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot
+[vocab] 42/396 items collide (excluded)
+[run] 0/396  r2r_hitota_hi_rom_ta_roman_book
+[run] 50/396  r2r_hitota_hi_rom_ta_roman_four
+[run] 100/396  r2r_hitota_hi_rom_ta_roman_square
+[run] 150/396  r2r_tatoml_ta_rom_ml_roman_song
+[run] 200/396  r2r_tatoml_ta_rom_ml_roman_seat
+[run] 250/396  r2r_tatoml_ta_rom_ml_roman_tower
+[run] 300/396  r2r_mltohi_ml_rom_hi_roman_rice
+[run] 350/396  r2r_mltohi_ml_rom_hi_roman_example
+
+[gate] kept 354/396
+   lang script    n    sub exact  tok1
+     hi  roman  113  0.124 0.115 0.168
+     ml  roman  120  0.158 0.117 0.233
+     ta  roman  121  0.025 0.025 0.074
+[report] class6_roman_to_roman_2shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/curves__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/ranks__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/switch__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/curves__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/ranks__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/switch__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/curves__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/ranks__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/switch__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/curves__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/ranks__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/switch__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/lenscmp__translation_r2r__en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures/lenscmp__translation_r2r__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class6_roman_to_roman_2shot | jlens_en | translation_r2r | hi | roman | 2 | 226 | 0.1239 | 0.115 | 0.1681 | 29 | 0.2471 | 0.0087 | 28.3726 | 32 | 0.1274 | 25 | en | 11 | 10.2417 | 1 | 0.1052 | 0.0562 |
+| class6_roman_to_roman_2shot | jlens_en | translation_r2r | ml | roman | 2 | 240 | 0.1583 | 0.1167 | 0.2333 | 26 | 0.0571 | 0.0032 | 17.9498 | 32 | 0.2599 | 8 | en | 11 | 7.6221 | 1 | 0.0502 | 0.0918 |
+| class6_roman_to_roman_2shot | jlens_en | translation_r2r | ta | roman | 2 | 242 | 0.0248 | 0.0248 | 0.0744 | 27 | 0.254 | 0.0097 | 26.0944 | 32 | 0.0601 | 27 | en | 11 | 9.4909 | 7 | 0.1102 | 0.0527 |
+| class6_roman_to_roman_2shot | jlens_indic | translation_r2r | hi | roman | 2 | 226 | 0.1239 | 0.115 | 0.1681 | 29 | 0.2136 | 0.0087 | 24.5218 | 32 | 0.1274 | 0 | en | 1 | 8.28 | 0 | 0.0958 | 0.0598 |
+| class6_roman_to_roman_2shot | jlens_indic | translation_r2r | ml | roman | 2 | 240 | 0.1583 | 0.1167 | 0.2333 | 26 | 0.0621 | 0.0032 | 19.5287 | 32 | 0.2599 | 0 | en | 0 | 6.3016 | 2 | 0.0524 | 0.1117 |
+| class6_roman_to_roman_2shot | jlens_indic | translation_r2r | ta | roman | 2 | 242 | 0.0248 | 0.0248 | 0.0744 | 27 | 0.2489 | 0.0097 | 25.5766 | 32 | 0.0601 | 0 | en | 0 | 5.1768 | 4 | 0.1094 | 0.0638 |
+| class6_roman_to_roman_2shot | jlens_mixed | translation_r2r | hi | roman | 2 | 226 | 0.1239 | 0.115 | 0.1681 | 29 | 0.218 | 0.0087 | 25.0331 | 32 | 0.1274 | 0 | en | 0 | 8.9288 | 1 | 0.0974 | 0.0594 |
+| class6_roman_to_roman_2shot | jlens_mixed | translation_r2r | ml | roman | 2 | 240 | 0.1583 | 0.1167 | 0.2333 | 26 | 0.0576 | 0.0032 | 18.0899 | 32 | 0.2599 | 0 | en | 0 | 6.7249 | 1 | 0.052 | 0.1104 |
+| class6_roman_to_roman_2shot | jlens_mixed | translation_r2r | ta | roman | 2 | 242 | 0.0248 | 0.0248 | 0.0744 | 27 | 0.258 | 0.0097 | 26.5101 | 32 | 0.0601 | 0 | en | 0 | 5.2145 | 2 | 0.1137 | 0.0616 |
+| class6_roman_to_roman_2shot | logit | translation_r2r | hi | roman | 2 | 226 | 0.1239 | 0.115 | 0.1681 | 29 | 0.2606 | 0.0128 | 20.2888 | 32 | 0.1274 | 3 | en | 0.5 | 8.4147 | 1 | 0.1154 | 0.0826 |
+| class6_roman_to_roman_2shot | logit | translation_r2r | ml | roman | 2 | 240 | 0.1583 | 0.1167 | 0.2333 | 26 | 0.0858 | 0.0127 | 6.7592 | 32 | 0.2599 | 21 | en | 4 | 8.8668 | 2 | 0.0722 | 0.17 |
+| class6_roman_to_roman_2shot | logit | translation_r2r | ta | roman | 2 | 242 | 0.0248 | 0.0248 | 0.0744 | 27 | 0.2529 | 0.0131 | 19.3156 | 32 | 0.0601 | 29 | en | 4 | 8.5067 | 4 | 0.1261 | 0.1082 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_2shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot
+[vocab] 42/396 items collide (excluded)
+[run] 0/396  r2r_hitota_hi_rom_ta_roman_book
+[run] 50/396  r2r_hitota_hi_rom_ta_roman_four
+[run] 100/396  r2r_hitota_hi_rom_ta_roman_square
+[run] 150/396  r2r_tatoml_ta_rom_ml_roman_song
+[run] 200/396  r2r_tatoml_ta_rom_ml_roman_seat
+[run] 250/396  r2r_tatoml_ta_rom_ml_roman_tower
+[run] 300/396  r2r_mltohi_ml_rom_hi_roman_rice
+[run] 350/396  r2r_mltohi_ml_rom_hi_roman_example
+
+[gate] kept 354/396
+   lang script    n    sub exact  tok1
+     hi  roman  113  0.097 0.088 0.142
+     ml  roman  120  0.167 0.125 0.225
+     ta  roman  121  0.041 0.041 0.074
+[report] class6_roman_to_roman_3shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/curves__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/ranks__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/switch__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/curves__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/ranks__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/switch__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/curves__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/ranks__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/switch__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/curves__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/ranks__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/switch__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/lenscmp__translation_r2r__en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures/lenscmp__translation_r2r__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class6_roman_to_roman_3shot | jlens_en | translation_r2r | hi | roman | 3 | 226 | 0.0973 | 0.0885 | 0.1416 | 29 | 0.2461 | 0.0087 | 28.1575 | 32 | 0.1145 | 26 | en | 11 | 10.0862 | 3 | 0.1071 | 0.0553 |
+| class6_roman_to_roman_3shot | jlens_en | translation_r2r | ml | roman | 3 | 240 | 0.1667 | 0.125 | 0.225 | 27 | 0.0883 | 0.0072 | 12.1925 | 30 | 0.1961 | 8 | en | 11 | 7.3346 | 2 | 0.0639 | 0.0877 |
+| class6_roman_to_roman_3shot | jlens_en | translation_r2r | ta | roman | 3 | 242 | 0.0413 | 0.0413 | 0.0744 | 27 | 0.2754 | 0.0109 | 25.3394 | 32 | 0.0622 | 27 | en | 11 | 9.4256 | 8 | 0.118 | 0.0543 |
+| class6_roman_to_roman_3shot | jlens_indic | translation_r2r | hi | roman | 3 | 226 | 0.0973 | 0.0885 | 0.1416 | 27 | 0.2139 | 0.0087 | 24.4755 | 32 | 0.1145 | 0 | en | 0 | 8.551 | 1 | 0.0991 | 0.0589 |
+| class6_roman_to_roman_3shot | jlens_indic | translation_r2r | ml | roman | 3 | 240 | 0.1667 | 0.125 | 0.225 | 26 | 0.0871 | 0.0072 | 12.0196 | 32 | 0.1943 | 0 | en | 0 | 6.388 | 1 | 0.0666 | 0.106 |
+| class6_roman_to_roman_3shot | jlens_indic | translation_r2r | ta | roman | 3 | 242 | 0.0413 | 0.0413 | 0.0744 | 27 | 0.269 | 0.0109 | 24.7495 | 32 | 0.0622 | 0 | en | 0 | 5.842 | 2 | 0.117 | 0.0671 |
+| class6_roman_to_roman_3shot | jlens_mixed | translation_r2r | hi | roman | 3 | 226 | 0.0973 | 0.0885 | 0.1416 | 29 | 0.2184 | 0.0087 | 24.9864 | 32 | 0.1145 | 0 | en | 0 | 8.9794 | 2 | 0.1002 | 0.0587 |
+| class6_roman_to_roman_3shot | jlens_mixed | translation_r2r | ml | roman | 3 | 240 | 0.1667 | 0.125 | 0.225 | 26 | 0.0837 | 0.0072 | 11.5578 | 32 | 0.1943 | 0 | en | 0 | 6.9888 | 2 | 0.066 | 0.1046 |
+| class6_roman_to_roman_3shot | jlens_mixed | translation_r2r | ta | roman | 3 | 242 | 0.0413 | 0.0413 | 0.0744 | 27 | 0.2774 | 0.0109 | 25.5241 | 32 | 0.0622 | 0 | en | 0 | 5.7532 | 1 | 0.1201 | 0.0646 |
+| class6_roman_to_roman_3shot | logit | translation_r2r | hi | roman | 3 | 226 | 0.0973 | 0.0885 | 0.1416 | 29 | 0.2587 | 0.0134 | 19.2797 | 32 | 0.1145 | 3 | en | 0 | 8.6779 | 1 | 0.1174 | 0.0836 |
+| class6_roman_to_roman_3shot | logit | translation_r2r | ml | roman | 3 | 240 | 0.1667 | 0.125 | 0.225 | 26 | 0.1047 | 0.0132 | 7.9516 | 32 | 0.1943 | 21 | en | 3 | 9.0904 | 2 | 0.0883 | 0.1691 |
+| class6_roman_to_roman_3shot | logit | translation_r2r | ta | roman | 3 | 242 | 0.0413 | 0.0413 | 0.0744 | 27 | 0.2655 | 0.0131 | 20.3467 | 32 | 0.0622 | 14 | en | 4 | 8.6243 | 3 | 0.1329 | 0.1099 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_3shot/figures
+
+[run] outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot
+[vocab] 42/396 items collide (excluded)
+[run] 0/396  r2r_hitota_hi_rom_ta_roman_book
+[run] 50/396  r2r_hitota_hi_rom_ta_roman_four
+[run] 100/396  r2r_hitota_hi_rom_ta_roman_square
+[run] 150/396  r2r_tatoml_ta_rom_ml_roman_song
+[run] 200/396  r2r_tatoml_ta_rom_ml_roman_seat
+[run] 250/396  r2r_tatoml_ta_rom_ml_roman_tower
+[run] 300/396  r2r_mltohi_ml_rom_hi_roman_rice
+[run] 350/396  r2r_mltohi_ml_rom_hi_roman_example
+
+[gate] kept 354/396
+   lang script    n    sub exact  tok1
+     hi  roman  113  0.062 0.053 0.106
+     ml  roman  120  0.167 0.133 0.258
+     ta  roman  121  0.033 0.033 0.074
+[report] class6_roman_to_roman_4shot  lenses=['jlens_en', 'jlens_indic', 'jlens_mixed', 'logit']
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/accuracy.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/curves__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/ranks__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/switch__translation_r2r__jlens_en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/curves__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/ranks__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/switch__translation_r2r__jlens_indic.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/curves__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/ranks__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/switch__translation_r2r__jlens_mixed.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/curves__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/ranks__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/scripts__translation_r2r.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/switch__translation_r2r__logit.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/lenscmp__translation_r2r__en.png
+  outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures/lenscmp__translation_r2r__roman.png
+
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class6_roman_to_roman_4shot | jlens_en | translation_r2r | hi | roman | 4 | 226 | 0.0619 | 0.0531 | 0.1062 | 29 | 0.2495 | 0.0084 | 29.5492 | 32 | 0.1083 | 26 | en | 11 | 10.0121 | 3 | 0.1079 | 0.0556 |
+| class6_roman_to_roman_4shot | jlens_en | translation_r2r | ml | roman | 4 | 240 | 0.1667 | 0.1333 | 0.2583 | 27 | 0.0746 | 0.0042 | 17.8306 | 32 | 0.2458 | 23 | en | 11 | 7.355 | 2 | 0.0565 | 0.0951 |
+| class6_roman_to_roman_4shot | jlens_en | translation_r2r | ta | roman | 4 | 242 | 0.0331 | 0.0331 | 0.0744 | 27 | 0.2591 | 0.0112 | 23.092 | 32 | 0.0597 | 27 | en | 6 | 9.6898 | 8 | 0.1127 | 0.0545 |
+| class6_roman_to_roman_4shot | jlens_indic | translation_r2r | hi | roman | 4 | 226 | 0.0619 | 0.0531 | 0.1062 | 29 | 0.2142 | 0.0084 | 25.3698 | 32 | 0.1083 | 0 | en | 1 | 8.8593 | 0 | 0.1005 | 0.0587 |
+| class6_roman_to_roman_4shot | jlens_indic | translation_r2r | ml | roman | 4 | 240 | 0.1667 | 0.1333 | 0.2583 | 26 | 0.0767 | 0.0042 | 18.3478 | 32 | 0.2458 | 0 | en | 0 | 6.3346 | 1 | 0.0596 | 0.1168 |
+| class6_roman_to_roman_4shot | jlens_indic | translation_r2r | ta | roman | 4 | 242 | 0.0331 | 0.0331 | 0.0744 | 26 | 0.2556 | 0.0112 | 22.7733 | 32 | 0.0597 | 0 | en | 0 | 5.7243 | 3 | 0.1109 | 0.0645 |
+| class6_roman_to_roman_4shot | jlens_mixed | translation_r2r | hi | roman | 4 | 226 | 0.0619 | 0.0531 | 0.1062 | 29 | 0.2184 | 0.0084 | 25.8583 | 32 | 0.1083 | 0 | en | 0 | 9.524 | 2 | 0.1018 | 0.0582 |
+| class6_roman_to_roman_4shot | jlens_mixed | translation_r2r | ml | roman | 4 | 240 | 0.1667 | 0.1333 | 0.2583 | 26 | 0.0719 | 0.0042 | 17.1958 | 32 | 0.2458 | 0 | en | 0 | 7.0571 | 1 | 0.0587 | 0.1142 |
+| class6_roman_to_roman_4shot | jlens_mixed | translation_r2r | ta | roman | 4 | 242 | 0.0331 | 0.0331 | 0.0744 | 27 | 0.2633 | 0.0112 | 23.4651 | 32 | 0.0597 | 0 | en | 0 | 5.1811 | 2 | 0.1149 | 0.0628 |
+| class6_roman_to_roman_4shot | logit | translation_r2r | hi | roman | 4 | 226 | 0.0619 | 0.0531 | 0.1062 | 29 | 0.261 | 0.0124 | 21.0783 | 32 | 0.1083 | 3 | en | 0 | 8.332 | 1 | 0.1193 | 0.0839 |
+| class6_roman_to_roman_4shot | logit | translation_r2r | ml | roman | 4 | 240 | 0.1667 | 0.1333 | 0.2583 | 26 | 0.0897 | 0.0133 | 6.7487 | 32 | 0.2458 | 17 | en | 4 | 9.0932 | 1 | 0.0744 | 0.1744 |
+| class6_roman_to_roman_4shot | logit | translation_r2r | ta | roman | 4 | 242 | 0.0331 | 0.0331 | 0.0744 | 27 | 0.2554 | 0.0132 | 19.4103 | 32 | 0.0597 | 14 | en | 4 | 7.9431 | 3 | 0.1287 | 0.1094 |
+
+[report] figures in outputs/romanlens/gemma-3-4b-pt/class6_roman_to_roman_4shot/figures
+
+=== romanlens / gemma-3-4b-it (float32)  lenses: logit jlens_en=lenses/gemma-3-4b-it_en.pt jlens_indic=lenses/gemma-3-4b-it_indic.pt jlens_mixed=lenses/gemma-3-4b-it_mixed.pt ===
+[lens] ['logit', 'jlens_en', 'jlens_indic', 'jlens_mixed']

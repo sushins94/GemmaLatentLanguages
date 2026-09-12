@@ -24,7 +24,7 @@
     "expected": "paii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_mouth",
@@ -78,7 +78,7 @@
     "expected": "kaii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_day",
@@ -150,7 +150,7 @@
     "expected": "pazham",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_grid",
@@ -240,7 +240,7 @@
     "expected": "kugai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_sea",
@@ -411,7 +411,7 @@
     "expected": "panii",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_horse",
@@ -420,7 +420,7 @@
     "expected": "kudhirai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_one",
@@ -564,7 +564,7 @@
     "expected": "kann",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_hitota_hi_rom_ta_roman_field",
@@ -1185,7 +1185,7 @@
     "expected": "koadai",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_book",
@@ -1221,7 +1221,7 @@
     "expected": "vaaya",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_soil",
@@ -1248,7 +1248,7 @@
     "expected": "thuni",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_heart",
@@ -1311,7 +1311,7 @@
     "expected": "maram",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_village",
@@ -1338,7 +1338,7 @@
     "expected": "pazham",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_grid",
@@ -1374,7 +1374,7 @@
     "expected": "kulam",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_sand",
@@ -1437,7 +1437,7 @@
     "expected": "kadal",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_lake",
@@ -1482,7 +1482,7 @@
     "expected": "pathipp",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_ball",
@@ -1518,7 +1518,7 @@
     "expected": "arrie",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_red",
@@ -1608,7 +1608,7 @@
     "expected": "kuthira",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_one",
@@ -1617,7 +1617,7 @@
     "expected": "onnu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_two",
@@ -1644,7 +1644,7 @@
     "expected": "naalu",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_five",
@@ -1707,7 +1707,7 @@
     "expected": "thala",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_shop",
@@ -1725,7 +1725,7 @@
     "expected": "patta",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_street",
@@ -1752,7 +1752,7 @@
     "expected": "kannu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_field",
@@ -1797,7 +1797,7 @@
     "expected": "jodi",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_seat",
@@ -1833,7 +1833,7 @@
     "expected": "vadakk",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_machine",
@@ -1914,7 +1914,7 @@
     "expected": "niram",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_kind",
@@ -1986,7 +1986,7 @@
     "expected": "paalam",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_item",
@@ -2049,7 +2049,7 @@
     "expected": "veedu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_sun",
@@ -2103,7 +2103,7 @@
     "expected": "thalamura",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_south",
@@ -2139,7 +2139,7 @@
     "expected": "nagaram",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_language",
@@ -2166,7 +2166,7 @@
     "expected": "thara",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_advance",
@@ -2175,7 +2175,7 @@
     "expected": "munnettam",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_attempt",
@@ -2229,7 +2229,7 @@
     "expected": "thirichuvaravu",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_speech",
@@ -2265,7 +2265,7 @@
     "expected": "mudi",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_household",
@@ -2310,7 +2310,7 @@
     "expected": "nooru",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_office",
@@ -2337,7 +2337,7 @@
     "expected": "uyarcha",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_left",
@@ -2346,7 +2346,7 @@
     "expected": "idathu",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_tatoml_ta_rom_ml_roman_sound",
@@ -2445,7 +2445,7 @@
     "expected": "hriday",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_hand",
@@ -2535,7 +2535,7 @@
     "expected": "jaal",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_song",
@@ -2544,7 +2544,7 @@
     "expected": "gaanaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_water",
@@ -2616,7 +2616,7 @@
     "expected": "gufa",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_sea",
@@ -2625,7 +2625,7 @@
     "expected": "samudra",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_lake",
@@ -2661,7 +2661,7 @@
     "expected": "bindu",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_version",
@@ -2688,7 +2688,7 @@
     "expected": "chitrakaari",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_station",
@@ -2724,7 +2724,7 @@
     "expected": "rekha",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_net",
@@ -2742,7 +2742,7 @@
     "expected": "phool",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_tea",
@@ -2751,7 +2751,7 @@
     "expected": "chaay",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_foot",
@@ -2796,7 +2796,7 @@
     "expected": "ghodaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_one",
@@ -2958,7 +2958,7 @@
     "expected": "sthal",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_dance",
@@ -2985,7 +2985,7 @@
     "expected": "jodaa",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_seat",
@@ -3030,7 +3030,7 @@
     "expected": "yantra",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_time",
@@ -3039,7 +3039,7 @@
     "expected": "samay",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_benefit",
@@ -3084,7 +3084,7 @@
     "expected": "madhya",
     "correct": true,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_friend",
@@ -3111,7 +3111,7 @@
     "expected": "dayalu",
     "correct": false,
     "correct_exact": false,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_judge",
@@ -3129,7 +3129,7 @@
     "expected": "vidyalaya",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_structure",
@@ -3210,7 +3210,7 @@
     "expected": "pratibha",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_beauty",
@@ -3237,7 +3237,7 @@
     "expected": "ghar",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_sun",
@@ -3336,7 +3336,7 @@
     "expected": "bhasha",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_speed",
@@ -3471,7 +3471,7 @@
     "expected": "vyakti",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_section",
@@ -3552,7 +3552,7 @@
     "expected": "shakti",
     "correct": true,
     "correct_exact": true,
-    "correct_first_token": false
+    "correct_first_token": true
   },
   {
     "id": "r2r_mltohi_ml_rom_hi_roman_summer",
