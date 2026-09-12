@@ -1,0 +1,812 @@
+[
+  {
+    "id": "gibberish_hi_0",
+    "completion": "ठीरि,\nकौ",
+    "answer_span": "ठीरि,",
+    "expected": "सुझी",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_1",
+    "completion": "\nगौटौ व",
+    "answer_span": "\nगौटौ व",
+    "expected": "देगेफि",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_2",
+    "completion": "\nअहलाउ,",
+    "answer_span": "\nअहलाउ,",
+    "expected": "बूढै",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_3",
+    "completion": "\nधोखि जू",
+    "answer_span": "\nधोखि जू",
+    "expected": "कुमे",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_4",
+    "completion": "\nकौ हियाव",
+    "answer_span": "\nकौ हियाव",
+    "expected": "टीघोशै",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_5",
+    "completion": "\nकूसो शूचौ",
+    "answer_span": "\nकूसो शूचौ",
+    "expected": "णौचूघो",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_6",
+    "completion": "\n(Thaeve tig",
+    "answer_span": "\n(Thaeve tig",
+    "expected": "घिवाषौ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_7",
+    "completion": "\n(घोंसला,",
+    "answer_span": "\n(घोंसला,",
+    "expected": "खूको",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_8",
+    "completion": "\nकौषाणो",
+    "answer_span": "\nकौषाणो",
+    "expected": "तीदिभी",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_9",
+    "completion": "\n(Tafono gh",
+    "answer_span": "\n(Tafono gh",
+    "expected": "षादू",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_10",
+    "completion": "\nसगिधो",
+    "answer_span": "\nसगिधो",
+    "expected": "ढासुशी",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_11",
+    "completion": "\n(घोढूचा",
+    "answer_span": "\n(घोढूचा",
+    "expected": "झोबे",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_12",
+    "completion": "\n(Sanskrit)\n\n",
+    "answer_span": "\n(Sanskrit)\n\n",
+    "expected": "नैटा",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_13",
+    "completion": "\nतौणू थेपी",
+    "answer_span": "\nतौणू थेपी",
+    "expected": "नूढो",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_14",
+    "completion": "णिजौ।\n(",
+    "answer_span": "णिजौ।",
+    "expected": "थेलै",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_15",
+    "completion": "\nकौ ठुला",
+    "answer_span": "\nकौ ठुला",
+    "expected": "फैनु",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_16",
+    "completion": "\n(Difi dauth",
+    "answer_span": "\n(Difi dauth",
+    "expected": "खीझोझी",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_17",
+    "completion": "\n(Sedagau fol",
+    "answer_span": "\n(Sedagau fol",
+    "expected": "लानौ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_18",
+    "completion": "\nउवउवउ",
+    "answer_span": "\nउवउवउ",
+    "expected": "हाजाडु",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_19",
+    "completion": "णिगै\nकौ",
+    "answer_span": "णिगै",
+    "expected": "कौचौ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_20",
+    "completion": "\nकौपौटा ख",
+    "answer_span": "\nकौपौटा ख",
+    "expected": "णिणेदा",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_21",
+    "completion": "\nबदौ, ",
+    "answer_span": "\nबदौ, ",
+    "expected": "हीधीगी",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_22",
+    "completion": "\nअहंसे ह",
+    "answer_span": "\nअहंसे ह",
+    "expected": "छैगोझो",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_23",
+    "completion": "\nअजई किजि",
+    "answer_span": "\nअजई किजि",
+    "expected": "खेसाडै",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_24",
+    "completion": "ळूळू,\n",
+    "answer_span": "ळूळू,",
+    "expected": "बोफु",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_25",
+    "completion": "\n(Dhimēsi",
+    "answer_span": "\n(Dhimēsi",
+    "expected": "तीकोलू",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_26",
+    "completion": "\nकौघि ढ",
+    "answer_span": "\nकौघि ढ",
+    "expected": "हैखुझू",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_27",
+    "completion": "\nकौला णा",
+    "answer_span": "\nकौला णा",
+    "expected": "पेहितै",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_28",
+    "completion": "\n(संसार)",
+    "answer_span": "\n(संसार)",
+    "expected": "रोबौरा",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_29",
+    "completion": "\nछैठैबा",
+    "answer_span": "\nछैठैबा",
+    "expected": "नीसैयौ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_0",
+    "completion": "ளெகெயே",
+    "answer_span": "ளெகெயே",
+    "expected": "லீழோ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_1",
+    "completion": "ஙைஞூறை ",
+    "answer_span": "ஙைஞூறை ",
+    "expected": "யிகுநை",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_2",
+    "completion": "ழீரு ழீ",
+    "answer_span": "ழீரு ழீ",
+    "expected": "றூளுயொ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_3",
+    "completion": "ணேவா\nசையே",
+    "answer_span": "ணேவா",
+    "expected": "கோரெயௌ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_4",
+    "completion": "றிபி பாடோ லு",
+    "answer_span": "றிபி பாடோ லு",
+    "expected": "பைளீ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_5",
+    "completion": "ஙீயௌ ங",
+    "answer_span": "ஙீயௌ ங",
+    "expected": "ழௌநௌ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_6",
+    "completion": "ளௌதீரொ ",
+    "answer_span": "ளௌதீரொ ",
+    "expected": "குகோ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_7",
+    "completion": "ளெவெ ள",
+    "answer_span": "ளெவெ ள",
+    "expected": "யீரினே",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_8",
+    "completion": "ழெடூ ங",
+    "answer_span": "ழெடூ ங",
+    "expected": "றொவிசோ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_9",
+    "completion": "ஙாவொ ழார",
+    "answer_span": "ஙாவொ ழார",
+    "expected": "ஞொநைமூ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_10",
+    "completion": "ணே ணே ",
+    "answer_span": "ணே ணே ",
+    "expected": "பேரௌலூ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_11",
+    "completion": "ளொயொயௌ",
+    "answer_span": "ளொயொயௌ",
+    "expected": "றீறொ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_12",
+    "completion": "ளூவூ ன",
+    "answer_span": "ளூவூ ன",
+    "expected": "றேநா",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_13",
+    "completion": "ழீஞொ னே",
+    "answer_span": "ழீஞொ னே",
+    "expected": "வேளா",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_14",
+    "completion": "ஙொசா ஙொ",
+    "answer_span": "ஙொசா ஙொ",
+    "expected": "செதூ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_15",
+    "completion": "ளொழேரொ",
+    "answer_span": "ளொழேரொ",
+    "expected": "றொஞா",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_16",
+    "completion": "ழோணோ ழ",
+    "answer_span": "ழோணோ ழ",
+    "expected": "டூனீ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_17",
+    "completion": "ளேயௌலா ங",
+    "answer_span": "ளேயௌலா ங",
+    "expected": "றெஞோ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_18",
+    "completion": "ணீயீ ண",
+    "answer_span": "ணீயீ ண",
+    "expected": "றெநௌ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_19",
+    "completion": "ழீவூ ழ",
+    "answer_span": "ழீவூ ழ",
+    "expected": "தைதேசி",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_20",
+    "completion": "ளௌவௌ ள",
+    "answer_span": "ளௌவௌ ள",
+    "expected": "சோபௌமே",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_21",
+    "completion": "ளூடொ ரு",
+    "answer_span": "ளூடொ ரு",
+    "expected": "ணாமைசௌ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_22",
+    "completion": "ஙெயொயொ",
+    "answer_span": "ஙெயொயொ",
+    "expected": "மௌநு",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_23",
+    "completion": "லுளெயொ ",
+    "answer_span": "லுளெயொ ",
+    "expected": "டோளூணா",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_24",
+    "completion": "ளெயேரெ",
+    "answer_span": "ளெயேரெ",
+    "expected": "துரௌழூ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_25",
+    "completion": "ழேகி ஙு",
+    "answer_span": "ழேகி ஙு",
+    "expected": "மெறெ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_26",
+    "completion": "ஙீயொ ங",
+    "answer_span": "ஙீயொ ங",
+    "expected": "சாசெலௌ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_27",
+    "completion": "ழூசௌநெ ல",
+    "answer_span": "ழூசௌநெ ல",
+    "expected": "ணைணி",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_28",
+    "completion": "ஙாஙோஙீ",
+    "answer_span": "ஙாஙோஙீ",
+    "expected": "ளேசி",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_29",
+    "completion": "ணேரொ ண",
+    "answer_span": "ணேரொ ண",
+    "expected": "ரெதௌ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_0",
+    "completion": "ഢൂഢൂ ഢ",
+    "answer_span": "ഢൂഢൂ ഢ",
+    "expected": "യുറു",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_1",
+    "completion": "ഥోయ్ ഥ",
+    "answer_span": "ഥోయ్ ഥ",
+    "expected": "ധേഹാസൌ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_2",
+    "completion": "ഝൈ��",
+    "answer_span": "ഝൈ��",
+    "expected": "ഞിഫു",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_3",
+    "completion": "ഢെഝൈ",
+    "answer_span": "ഢെഝൈ",
+    "expected": "ഭൂവെതീ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_4",
+    "completion": "ഴാവി ഴാ",
+    "answer_span": "ഴാവി ഴാ",
+    "expected": "യോഛൂ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_5",
+    "completion": "ഢൂഢെഠൂ",
+    "answer_span": "ഢൂഢെഠൂ",
+    "expected": "ഠൂഡൊ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_6",
+    "completion": "ഢ್ಞುಞ್",
+    "answer_span": "ഢ್ಞುಞ್",
+    "expected": "വാരീ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_7",
+    "completion": "ഝഝ",
+    "answer_span": "ഝഝ",
+    "expected": "ബെഛി",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_8",
+    "completion": "ഝെളുണ",
+    "answer_span": "ഝെളുണ",
+    "expected": "ശിമൂശൂ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_9",
+    "completion": "ഥൈളാനൈ ",
+    "answer_span": "ഥൈളാനൈ ",
+    "expected": "ബൂടീ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_10",
+    "completion": "ഢൊងൊ ള",
+    "answer_span": "ഢൊងൊ ള",
+    "expected": "നാരെ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_11",
+    "completion": "ഴെഗെ ഴ",
+    "answer_span": "ഴെഗെ ഴ",
+    "expected": "ഡെശീ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_12",
+    "completion": "ഢൊഢൊ ഢ",
+    "answer_span": "ഢൊഢൊ ഢ",
+    "expected": "വൌദേ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_13",
+    "completion": "ഴേഴൂ ഛ",
+    "answer_span": "ഴേഴൂ ഛ",
+    "expected": "ങൈഡെ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_14",
+    "completion": "ಙ�����",
+    "answer_span": "ಙ�����",
+    "expected": "ലീഠെ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_15",
+    "completion": "ഥൊഫുഫൂ",
+    "answer_span": "ഥൊഫുഫൂ",
+    "expected": "ലീചീ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_16",
+    "completion": "ഢൂഢൈ ഢ",
+    "answer_span": "ഢൂഢൈ ഢ",
+    "expected": "ളൌപൊ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_17",
+    "completion": "ഥോ ഥോ ",
+    "answer_span": "ഥോ ഥോ ",
+    "expected": "ഫാധിഫി",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_18",
+    "completion": "ഢൂഢൂ ഢ",
+    "answer_span": "ഢൂഢൂ ഢ",
+    "expected": "പാകൈ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_19",
+    "completion": "ഥ�����",
+    "answer_span": "ഥ�����",
+    "expected": "ധെദുയാ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_20",
+    "completion": "ളീഝൊ",
+    "answer_span": "ളീഝൊ",
+    "expected": "ടെഥൈ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_21",
+    "completion": "ഥோഥோ ഥ",
+    "answer_span": "ഥோഥோ ഥ",
+    "expected": "ജൊവീമു",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_22",
+    "completion": "ഝഝ",
+    "answer_span": "ഝഝ",
+    "expected": "നൂടീ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_23",
+    "completion": "ഛേഥെറൊ",
+    "answer_span": "ഛേഥെറൊ",
+    "expected": "ഴിഛോറു",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_24",
+    "completion": "ഢേലൂഢേ",
+    "answer_span": "ഢേലൂഢേ",
+    "expected": "ധിതൂ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_25",
+    "completion": "ഥേഥാ ഥ",
+    "answer_span": "ഥേഥാ ഥ",
+    "expected": "കൂവുയു",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_26",
+    "completion": "ഴാഢോ ഴ",
+    "answer_span": "ഴാഢോ ഴ",
+    "expected": "ണീയൌ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_27",
+    "completion": "ഝാനേഷൌ",
+    "answer_span": "ഝാനേഷൌ",
+    "expected": "രൈതൂ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_28",
+    "completion": "ളൂഥാ ള",
+    "answer_span": "ളൂഥാ ള",
+    "expected": "ഗീകൊ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_29",
+    "completion": "ഢൂഢെ ഢ",
+    "answer_span": "ഢൂഢെ ഢ",
+    "expected": "ഥൈധൂളെ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  }
+]
