@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "gibberish_hi_0",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "रैखूहौ णूहोढु ठीरि सौमीठि षेदौ ढैडु थौटालौ गैमा वेझेमि ",
+    "answers": {
+      "hi_native": "सुझी",
+      "en_control": "meadow"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_1",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "गिडौसो ठौठि वौजौपू गैडुठी वीखू गिभीषी विषौ वौटौलु षैपू ",
+    "answers": {
+      "hi_native": "देगेफि",
+      "en_control": "bridge"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_2",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "शुझायू मुढी ताघीशु वौफि घुफि गेविखा हीमि जासानै वूगु ",
+    "answers": {
+      "hi_native": "बूढै",
+      "en_control": "garden"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_3",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "धोखि जूढोवी हाली डौटि भीकोभै बेणूचौ थिडा चुरोढू पीमूणै ",
+    "answers": {
+      "hi_native": "कुमे",
+      "en_control": "garden"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_4",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "झोणै णैरा थिटी धोसौफा देठो लैजौ वीकै डाजामा जिफु ",
+    "answers": {
+      "hi_native": "टीघोशै",
+      "en_control": "pocket"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_5",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "कूसो शूचौ घीटाखा भूने हाशोमो ढौछुणू चीटे लेमिडा टीचू ",
+    "answers": {
+      "hi_native": "णौचूघो",
+      "en_control": "harbour"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_6",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "साठी ठैवे तिघौसो डेघोघो खूडीसी लिगिजु णाघै थोलुति झूपीतु ",
+    "answers": {
+      "hi_native": "घिवाषौ",
+      "en_control": "bridge"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_7",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "घोणू बाहु घुथै नीघोचै षौदेवो बुनुके वेखौचू वैपू गिधागु ",
+    "answers": {
+      "hi_native": "खूको",
+      "en_control": "paper"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_8",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "लीशो धैषौधा भौरि षुठौषै शैफुशा यीठौ डिदूहू णैखीबी ठेखा ",
+    "answers": {
+      "hi_native": "तीदिभी",
+      "en_control": "meadow"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_9",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "ताफोणो घोरी खीबे मौबे णोघा फेबिभू हैलू धुखै ढुथेलि ",
+    "answers": {
+      "hi_native": "षादू",
+      "en_control": "window"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_10",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "झिरौ धूहिचै सिसिति तीया तैकोसे गेगिढा ढीकुवे फीजा भिया ",
+    "answers": {
+      "hi_native": "ढासुशी",
+      "en_control": "garden"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_11",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "घोढूचा ढेदू सौबेछि नूछै हीलु धुझीठे भाशीफा गिचैठौ यीपैठे ",
+    "answers": {
+      "hi_native": "झोबे",
+      "en_control": "pocket"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_12",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "णैकै थुढूहो हीलि घौफीलो छैतीझो सौचेथि रुठावो कुठिरू तोगो ",
+    "answers": {
+      "hi_native": "नैटा",
+      "en_control": "letter"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_13",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "षाकूणौ थियूढू फिखि ठौडिधु गैशू धीपौबु तौणू थेपीछि णैपो ",
+    "answers": {
+      "hi_native": "नूढो",
+      "en_control": "harbour"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_14",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "जोदौडो थूचो षुके णाशौगि केखिफा शूयुचू घैथे छेतैचो धेचु ",
+    "answers": {
+      "hi_native": "थेलै",
+      "en_control": "river"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_15",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "णुलुथु षैखु शीढा झूफि रेतोखौ पोदूमो डूखा छेकू चिलै ",
+    "answers": {
+      "hi_native": "फैनु",
+      "en_control": "bridge"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_16",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "डिफि डौथेटा जेगु जुटूठौ टोढुखू कोदो सैदो घिगुघी षुथिवै ",
+    "answers": {
+      "hi_native": "खीझोझी",
+      "en_control": "lantern"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_17",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "सेडैघौ फौलुमू धोनूटु घिछै जूषा शाघैबू येझौ झुगौठे ढोठी ",
+    "answers": {
+      "hi_native": "लानौ",
+      "en_control": "paper"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_18",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "पालीषै छौगी लोपु यीवु ढीबोषि धेदो कुनीभो नेमिटी मुवेलू ",
+    "answers": {
+      "hi_native": "हाजाडु",
+      "en_control": "paper"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_19",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "भुटेभी केपौखी कोबाकु कुहे वाढै षुथै ढूछे णातूनौ रापितै ",
+    "answers": {
+      "hi_native": "कौचौ",
+      "en_control": "lantern"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_20",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "गेझी हाही मिति मीफाटे कादिढू थुधे यैडू हैकूधू खौपौटा ",
+    "answers": {
+      "hi_native": "णिणेदा",
+      "en_control": "window"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_21",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "याटूभु णूजिपे पौभे सीडा पीहे ठूडोलै छालीपा चेसाहो युगौसै ",
+    "answers": {
+      "hi_native": "हीधीगी",
+      "en_control": "basket"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_22",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "हौबौ रैटूठा रूहूनौ डुमैली रौचै थानैबु ढौही बेबो युपु ",
+    "answers": {
+      "hi_native": "छैगोझो",
+      "en_control": "lantern"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_23",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "हुछो सैबै टैषेफे ठादा जैणैरै पोढी डाणोसौ खिपे किजिभौ ",
+    "answers": {
+      "hi_native": "खेसाडै",
+      "en_control": "garden"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_24",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "तीफीणू छीषी मायौखौ हीढिगौ वूजू मूलूधो रोनी बीबौ षेवि ",
+    "answers": {
+      "hi_native": "बोफु",
+      "en_control": "meadow"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_25",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "धीमेसी रौखौगौ किघैफे डैधेवि डाछी डुखै मूलै फीढि खोढूभू ",
+    "answers": {
+      "hi_native": "तीकोलू",
+      "en_control": "silver"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_26",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "गेघिके छैफा थौयोदि नैलू बौघि ढिदाचौ हाकैडी छीरी हेहा ",
+    "answers": {
+      "hi_native": "हैखुझू",
+      "en_control": "paper"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_27",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "हुढु षैथे णाछा मीचाके खारि रीभै तैपे सीढौ नैगी ",
+    "answers": {
+      "hi_native": "पेहितै",
+      "en_control": "silver"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_28",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "णुसैझो सिवूटौ नाफोषु खेशैहि चैकै तिमोफो छेदै पूरौ सेढी ",
+    "answers": {
+      "hi_native": "रोबौरा",
+      "en_control": "silver"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_hi_29",
+    "task": "gibberish",
+    "src_lang": "hi",
+    "language": "hi",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "hi_native",
+    "prompt": "छेठैबा नैखैटै ढीचि छातैथि रैनौ छीजी कौचो षूमेभि रूषीडौ ",
+    "answers": {
+      "hi_native": "नीसैयौ",
+      "en_control": "morning"
+    },
+    "collision_labels": [
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_0",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "லெலை வேஞௌடீ றிதோ போணே ஙாஞெ யிழெபௌ நீனொசொ கௌணொ தைலூகோ ",
+    "answers": {
+      "ta_native": "லீழோ",
+      "en_control": "window"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_1",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "சௌலெநொ ஙைஞூறை ளூணுனெ மோடை சைலோ னிபைநி டெஞீஙௌ னுகா னோளிளொ ",
+    "answers": {
+      "ta_native": "யிகுநை",
+      "en_control": "lantern"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_2",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "புகைரொ சிமோவு லீநூதை மேடிலெ நௌரௌரே ரேமிளூ ழீரு யைநி லைறைநௌ ",
+    "answers": {
+      "ta_native": "றூளுயொ",
+      "en_control": "pocket"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_3",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "சையே வாஙே புயீ ணெகு கேனா ஞோதி தாறோவி நுவே கேதேஙோ ",
+    "answers": {
+      "ta_native": "கோரெயௌ",
+      "en_control": "bridge"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_4",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "றிபி பாடோ லுயு றொஞொஞை றைளீ னெடேபே றெநை ரைவா கொலைநே ",
+    "answers": {
+      "ta_native": "பைளீ",
+      "en_control": "silver"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_5",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "மெளோடொ தூறௌ ஙீயா ணைலௌதே தீலாயௌ யீறொ டௌளௌதோ ஙுளோயொ காஙீ ",
+    "answers": {
+      "ta_native": "ழௌநௌ",
+      "en_control": "pocket"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_6",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "றேமௌ ளௌதீரொ ழேழௌயை டுஞீ ழொதெஙா திவோவொ கௌடொ மேனொசி குவோரூ ",
+    "answers": {
+      "ta_native": "குகோ",
+      "en_control": "lantern"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_7",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "டைபிழூ லேறெ பிஙீ ளிறைவெ கிவோடீ ஞேநா பேஞெமெ னொஙெ ணைகௌ ",
+    "answers": {
+      "ta_native": "யீரினே",
+      "en_control": "meadow"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_8",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "போஞொ டைஙொ ரினு நேதோ ரீபெனு ழெடூ சௌயூ ஙிகூஞீ தொனெழி ",
+    "answers": {
+      "ta_native": "றொவிசோ",
+      "en_control": "bridge"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_9",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ணூநௌவௌ ஙாகௌபி யொமாநொ போஙே போநூயொ ழிவெணொ நைலா சூஞீ ழாரொ ",
+    "answers": {
+      "ta_native": "ஞொநைமூ",
+      "en_control": "river"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_10",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ளாணொரு டுமீ னூனா நேணு ணுறூ ழுஙே லொலு னொளிடி சாநே ",
+    "answers": {
+      "ta_native": "பேரௌலூ",
+      "en_control": "harbour"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_11",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ணோநு ஙொசை ழௌடோ கோடெரெ றௌபீகை லெளூ டைமெரௌ லோலொமௌ தேதூ ",
+    "answers": {
+      "ta_native": "றீறொ",
+      "en_control": "meadow"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_12",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "யூவூழௌ தூழி தோஞூ தீணௌ பாகாணூ லைரெ விகீ னூரு தெணீளௌ ",
+    "answers": {
+      "ta_native": "றேநா",
+      "en_control": "window"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_13",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ஙௌடொசே யௌதாயீ பைளோயூ ழீஞொ னேழேணோ டௌஞோஞீ மௌஞௌவூ ஞௌரொனி ஙோகீ ",
+    "answers": {
+      "ta_native": "வேளா",
+      "en_control": "paper"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_14",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "சேநா வாஙோ டொமேலொ ழொடொ தோணி மூபுலௌ ஙொசா டீறீஞெ யீயோ ",
+    "answers": {
+      "ta_native": "செதூ",
+      "en_control": "bridge"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_15",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ளைனொசி ழேலொளொ றிநீலொ டிடீஙே சொபோ ரௌளேயௌ றெநொஙே யொகுசை ரேநொ ",
+    "answers": {
+      "ta_native": "றொஞா",
+      "en_control": "basket"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_16",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ஙெணெபை வாநௌளெ ஙைறௌ லூளு ழோணோ யோயேடொ லுரேமு புனோ ழுயோடெ ",
+    "answers": {
+      "ta_native": "டூனீ",
+      "en_control": "candle"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_17",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ழைதீ நினைதூ பொதெவெ ஙுதோ னைசூ ளேயௌலா ஙெணூ மொவைரு சௌசொ ",
+    "answers": {
+      "ta_native": "றெஞோ",
+      "en_control": "silver"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_18",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ஙிமி டோறுபூ ணோநீ நூளூ புசீ ணுகெனௌ டூசோபோ கீதோ வீடை ",
+    "answers": {
+      "ta_native": "றெநௌ",
+      "en_control": "garden"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_19",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "யௌழுபௌ ஞெளூ னோமுமொ சீலிஞொ ழீவூ ணிபை லொஙெலே னோடௌ மோழொ ",
+    "answers": {
+      "ta_native": "தைதேசி",
+      "en_control": "candle"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_20",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ஞொழௌணா நுஞோ வினுறு ளிதி தொறௌ லௌபௌளௌ ரெதௌ தைதொ கீநை ",
+    "answers": {
+      "ta_native": "சோபௌமே",
+      "en_control": "paper"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_21",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "சோஞைரோ நீவு ளூடொ டிறெயௌ ருதூ லேஙீழி டொதோளெ டோவூ ஞீடை ",
+    "answers": {
+      "ta_native": "ணாமைசௌ",
+      "en_control": "paper"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_22",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ஞைநொ கௌசை பொலீநௌ றீளௌ குடோ டோணி பிபோ போவாசீ ஙெயூவே ",
+    "answers": {
+      "ta_native": "மௌநு",
+      "en_control": "meadow"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_23",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "டுறு யாபேறொ யோனே மிழௌ நௌபூசெ ழாலௌ ஙௌமொவை ணாபி புளைபொ ",
+    "answers": {
+      "ta_native": "டோளூணா",
+      "en_control": "silver"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_24",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "பிகேமெ யேடௌ நெளை ரேவே ஞினைடி றேளு ஞேஙௌமோ மூறி கீகியெ ",
+    "answers": {
+      "ta_native": "துரௌழூ",
+      "en_control": "candle"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_25",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ழேகி ஞெதூ றூசி ஙுஞௌணை ணைபீ கொலாஞி சௌலுபே ழௌறொ ணேகோவோ ",
+    "answers": {
+      "ta_native": "மெறெ",
+      "en_control": "bridge"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_26",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "பெபீணு யௌகெளோ நாஞைறீ லோயொ ஙைவை ராதோதி டௌசொனே திவானை குமேழொ ",
+    "answers": {
+      "ta_native": "சாசெலௌ",
+      "en_control": "river"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_27",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "நூளேனா மௌளீலௌ லோமைனெ வோணெஙே ழூசௌநெ லாயீ ளிஞீ நௌணா வீமேழூ ",
+    "answers": {
+      "ta_native": "ணைணி",
+      "en_control": "pocket"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_28",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "ளூமூ ஙோபெழி முழௌ னுலிவா செகூ ஙாஙோஙீ ளௌசோ கொடி சோஞு ",
+    "answers": {
+      "ta_native": "ளேசி",
+      "en_control": "bridge"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ta_29",
+    "task": "gibberish",
+    "src_lang": "ta",
+    "language": "ta",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ta_native",
+    "prompt": "றீனிடெ றீசௌறா ஞேரொ னோனேமு டோலெ ரொராகா பௌதௌ ணிளை பூடா ",
+    "answers": {
+      "ta_native": "ரெதௌ",
+      "en_control": "letter"
+    },
+    "collision_labels": [
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_0",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഞൌഥെഡൌ തെയി മൊബാഫു ഗേഴൂടൂ ദിഫൌ കൌദുഠൂ ളൌജീസു രൂഗൂ ഖോടെ ",
+    "answers": {
+      "ml_native": "യുറു",
+      "en_control": "window"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_1",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ശൊവോ ബെജാരെ ഷുമോ ഡോസേ ടീലേവൌ ഥിടോ നീഛീ ഠേഥൊരെ സൈജൂപൂ ",
+    "answers": {
+      "ml_native": "ധേഹാസൌ",
+      "en_control": "candle"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_2",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ലൂരാ രൊചൂ ഖൈമൊ റൈളൈറൈ ഖോബു ലിണിടോ ഝൈപൈഞൈ സെളുഗെ യൊഛൂഝൊ ",
+    "answers": {
+      "ml_native": "ഞിഫു",
+      "en_control": "window"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_3",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "സൈങോ ഝൌശോ ഥിനെ ശെഗെ ഛോജൂ ഭീകൌഷേ ഢിരൂസേ മീലുലൌ ദിഝൈ ",
+    "answers": {
+      "ml_native": "ഭൂവെതീ",
+      "en_control": "bridge"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_4",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഫുസീ ഴോവെ ചൌപീ ബൌജിമെ നെകുനൌ ടൊടൈ ചൊഥി മിയൈ ഞീഘിഞൌ ",
+    "answers": {
+      "ml_native": "യോഛൂ",
+      "en_control": "letter"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_5",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഢൂയീ ദെഠൌയൂ ടിഢൌ ശൌചെളേ ശാഝെഠൈ ണിഝൈ ഛെണിപീ തോറെ ഫോഷൊദൂ ",
+    "answers": {
+      "ml_native": "ഠൂഡൊ",
+      "en_control": "candle"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_6",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "നൈഠി ശൊളൊ രെഫുഫൈ ളാഷീ ചൊഖീ ഘെനൌ ങൌഘു ഭേളോ രുയാണോ ",
+    "answers": {
+      "ml_native": "വാരീ",
+      "en_control": "meadow"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_7",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ങോഝെ ധൈഫൊരൈ ദൊനൈഴെ ഫേദാഢൈ യേഝീഷു ഡിദൊ ഠൌസി തേഠിഘൊ ചിഝീ ",
+    "answers": {
+      "ml_native": "ബെഛി",
+      "en_control": "river"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_8",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഝെളുണോ ധിഝേഛു ഠൂദൌ ടൈഫൊഛി കാഡെലു ലോജെങൈ നുമാബെ ചൊദൈ ടീറോ ",
+    "answers": {
+      "ml_native": "ശിമൂശൂ",
+      "en_control": "window"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_9",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഖൈജീനെ ഞൈവാപീ ഖൂഠോടി ഹൈഴൌഝേ ഝൊഭോടി തിഡൈ ഖേഫൂ ഥൈളാനൈ ണൈകൊയെ ",
+    "answers": {
+      "ml_native": "ബൂടീ",
+      "en_control": "harbour"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_10",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഡിബേഞൂ ടേഖൌങീ രിങൌതൊ ഢെവൊ ടീഘൈ ഢൊഘൈങാ ഡീസൌ ളൂചീ ഴാഫൌനൊ ",
+    "answers": {
+      "ml_native": "നാരെ",
+      "en_control": "letter"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_11",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ദെഛൂഞെ കൌയാ ണേശൂകീ ഴികൌഗി യേഠു ഖായേ ടേഖൌപൌ ളുഹെതൌ രൈഹൌ ",
+    "answers": {
+      "ml_native": "ഡെശീ",
+      "en_control": "basket"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_12",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഢാഡി പെനീഠോ ദാമിസീ ണേമീറൌ ഭാളുഢൊ സുചൊജീ നാപി ളോഠൊ ഥാഭീഗൊ ",
+    "answers": {
+      "ml_native": "വൌദേ",
+      "en_control": "lantern"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_13",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "തോദു ഛൂസെധാ ഛെധുഫു ഡുമി ടെയാഴൌ ഴേജൂ ഹൂചി റെഠീജൂ ഠൈധുഴോ ",
+    "answers": {
+      "ml_native": "ങൈഡെ",
+      "en_control": "river"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_14",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "പിഝൈബൊ ങൈയൈ നൈഞൂഗേ ശോഠി യുധൌ ലൌധൊ ഘേരൊ ണുടൌഛി ധെസൊ ",
+    "answers": {
+      "ml_native": "ലീഠെ",
+      "en_control": "garden"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_15",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഫീഛൊ തിറിഷൊ ധെചുഗൌ ഥൊഫുഫൂ വീഗൌ വൂഫൂ ഖെപൌതെ ബേഡായൌ യോഖൊജെ ",
+    "answers": {
+      "ml_native": "ലീചീ",
+      "en_control": "window"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_16",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഡൌഭുചു പൌധാങൈ മുടൈകീ ടോഘി ഘൌണുസൂ ഭൌഴെസോ തീഢു ഝിഗോ ലൈവേ ",
+    "answers": {
+      "ml_native": "ളൌപൊ",
+      "en_control": "silver"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_17",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "നൊധൌ ളാശോതേ റൌനിപോ ഹൂവൈഛോ പിലെകി ഛൊഡോകാ നൈജൊ സുദൊ ഥുയോവൈ ",
+    "answers": {
+      "ml_native": "ഫാധിഫി",
+      "en_control": "garden"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_18",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ശൂബൂണീ ശൂഷിചൌ റാഥെ ഭാമൌഫീ ഷാഴൊനെ പിബാവോ ബോധൂ കൈടുബു ഘേവേ ",
+    "answers": {
+      "ml_native": "പാകൈ",
+      "en_control": "morning"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_19",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഠൈഛേ ഥിഝാ ഥേളൌ ങെഷോഫൂ ണാളുവൊ മെഗൊ ജൊതാ ഞുസൊസേ വൂഠാ ",
+    "answers": {
+      "ml_native": "ധെദുയാ",
+      "en_control": "window"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_20",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഝോഫോ ഖാഴീ ചീഞൊ രേഖെ ബോഖുകെ ഫിഭെങേ ഭോഥീ ളീഝൊ പോറൌ ",
+    "answers": {
+      "ml_native": "ടെഥൈ",
+      "en_control": "morning"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_21",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഠേരെഛെ ഥീഫൈ ഭെദൌ ഞേഢുടോ ലൌതാഭീ വേഛാ ധോഡേകോ യോസൈ യേഘൂഠീ ",
+    "answers": {
+      "ml_native": "ജൊവീമു",
+      "en_control": "harbour"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_22",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഥാശെ ബൊണൂഖൈ ദുഭാ ലുകുമീ റുഝേഷെ ഝായൌലെ ഞൂസൂയോ ശുഠൈ ഗേഡൊധേ ",
+    "answers": {
+      "ml_native": "നൂടീ",
+      "en_control": "meadow"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_23",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "നീടെ ടാഛീ ധൂഠാദോ ഛേഥെറൊ ഛൊറാഖെ ഷെണിലേ ഥൊബീ കീമെ ഭെളോ ",
+    "answers": {
+      "ml_native": "ഴിഛോറു",
+      "en_control": "silver"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_24",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "റേഞാചാ ഢേജേഢെ ഛീദു ഢേലു കൊദേ ഹിഭൌ ഥൊണൈഢോ ഛൂലൌ ഗിപെ ",
+    "answers": {
+      "ml_native": "ധിതൂ",
+      "en_control": "meadow"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_25",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഛേഷീ ണീതീഗോ ശൈറൊ ലുഢോ ഫീധി വുഷൂഷു ടോഢോയെ ഥേടീഴൈ തോബൌ ",
+    "answers": {
+      "ml_native": "കൂവുയു",
+      "en_control": "morning"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_26",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ഖെഗേഖോ ഘാരോ വെഖൊമി ദാഫാഘെ കൌളൌ ഴാഢോ ദിഛീജീ ണൈഥേ ഘൊളൈ ",
+    "answers": {
+      "ml_native": "ണീയൌ",
+      "en_control": "bridge"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_27",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "തുജീ സേഥോഡൊ റൌമീ ഝാനേഷൌ രെഴുങൂ ഫൂതൊ ദൂമെപു നൂഡി രൊടെ ",
+    "answers": {
+      "ml_native": "രൈതൂ",
+      "en_control": "candle"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_28",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "യിഷൈഛീ ളൂഥാ യുഖോടാ ലെലേഗൂ കിഗീറു ഫേഝൊ സുങൂഞോ തീകാ ദൂളാമൈ ",
+    "answers": {
+      "ml_native": "ഗീകൊ",
+      "en_control": "river"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "gibberish_ml_29",
+    "task": "gibberish",
+    "src_lang": "ml",
+    "language": "ml",
+    "script": "native",
+    "n_demos": 0,
+    "target_label": "ml_native",
+    "prompt": "ചെഖൌശൊ ഥേഘേ സീഢൌജൊ ളുറേ ദുഘെദി ഛൈഖൈ ഥേഠാളീ ലുനോ ഘുഖോ ",
+    "answers": {
+      "ml_native": "ഥൈധൂളെ",
+      "en_control": "paper"
+    },
+    "collision_labels": [
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  }
+]

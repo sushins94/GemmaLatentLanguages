@@ -1,0 +1,26 @@
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class2_cloze_3shot | jlens_en | cloze | hi | native | 3 | 14 | 0 | 0 | 0 | 28 | 0.1817 | 0.0003 | 525.7404 | 32 | 0.0031 | 13 | en | 15 | 8.9848 | 3 | 0.0839 | 0.035 |
+| class2_cloze_3shot | jlens_en | cloze | hi | roman | 3 | 18 | 0.3333 | 0.3333 | 0.3333 | 27 | 0.6501 | 0.003 | 214.8002 | 32 | 0.2887 | 2 | en | 2 | 9.5917 | 0 | 0.212 | 0.0722 |
+| class2_cloze_3shot | jlens_en | cloze | ml | native | 3 | 14 | 0 | 0 | 0 | 27 | 0.0273 | 0.0003 | 107.8047 | 32 | 0.0001 | 7 | en | 13 | 6.7885 | 2 | 0.0403 | 0.0301 |
+| class2_cloze_3shot | jlens_en | cloze | ml | roman | 3 | 16 | 0 | 0 | 0 | 27 | 0.3439 | 0.0049 | 69.9987 | 32 | 0.0491 | 7 | en | 12 | 9.6825 | 0 | 0.1417 | 0.0411 |
+| class2_cloze_3shot | jlens_en | cloze | ta | native | 3 | 14 | 0 | 0 | 0 | 27 | 0.0707 | 0.0001 | 581.5853 | 32 | 0.0017 | 13 | en | 13.5 | 8.5294 | 2 | 0.0646 | 0.033 |
+| class2_cloze_3shot | jlens_en | cloze | ta | roman | 3 | 16 | 0 | 0 | 0 | 27 | 0.3666 | 0.0055 | 66.5106 | 32 | 0.0617 | 6 | en | 6 | 2.7994 | 1 | 0.1708 | 0.0403 |
+| class2_cloze_3shot | jlens_indic | cloze | hi | native | 3 | 14 | 0 | 0 | 0 | 27 | 0.1173 | 0.0003 | 427.8232 | 32 | 0.0031 | 0 | en | 0 | 7.6134 | 0 | 0.0602 | 0.0352 |
+| class2_cloze_3shot | jlens_indic | cloze | hi | roman | 3 | 18 | 0.3333 | 0.3333 | 0.3333 | 27 | 0.6327 | 0.003 | 209.0448 | 32 | 0.2887 | 0 | en | 0 | 10.2198 | 0 | 0.2022 | 0.0722 |
+| class2_cloze_3shot | jlens_indic | cloze | ml | native | 3 | 14 | 0 | 0 | 0 | 32 | 0.0002 | 0.0001 | 1.4327 | 32 | 0.0001 | -1 | en | 1 | 12.4769 | 7 | 0.0323 | 0.03 |
+| class2_cloze_3shot | jlens_indic | cloze | ml | roman | 3 | 16 | 0 | 0 | 0 | 27 | 0.4086 | 0.0049 | 83.1784 | 32 | 0.0491 | 1 | en | 0 | 11.5476 | 1 | 0.155 | 0.0505 |
+| class2_cloze_3shot | jlens_indic | cloze | ta | native | 3 | 14 | 0 | 0 | 0 | 31 | 0.0045 | 0.0001 | 36.9704 | 32 | 0.0017 | 0 | en | 0 | 4.4475 | 0 | 0.0436 | 0.0344 |
+| class2_cloze_3shot | jlens_indic | cloze | ta | roman | 3 | 16 | 0 | 0 | 0 | 26 | 0.461 | 0.0055 | 83.6396 | 32 | 0.0617 | 0 | en | 0 | 13.6175 | 0 | 0.1785 | 0.0451 |
+| class2_cloze_3shot | jlens_mixed | cloze | hi | native | 3 | 14 | 0 | 0 | 0 | 27 | 0.1117 | 0.0003 | 407.3585 | 32 | 0.0031 | 0 | en | 1.5 | 10.0339 | 0 | 0.0625 | 0.0354 |
+| class2_cloze_3shot | jlens_mixed | cloze | hi | roman | 3 | 18 | 0.3333 | 0.3333 | 0.3333 | 27 | 0.5913 | 0.003 | 195.3598 | 32 | 0.2887 | 0 | en | 0 | 5.3495 | 0 | 0.2022 | 0.0721 |
+| class2_cloze_3shot | jlens_mixed | cloze | ml | native | 3 | 14 | 0 | 0 | 0 | 27 | 0.0005 | 0.0001 | 3.8311 | 32 | 0.0001 | -1 | en | 2 | 9.829 | 6 | 0.0332 | 0.03 |
+| class2_cloze_3shot | jlens_mixed | cloze | ml | roman | 3 | 16 | 0 | 0 | 0 | 27 | 0.4031 | 0.0049 | 82.0503 | 32 | 0.0491 | 0 | en | 0 | 6.5184 | 1 | 0.1512 | 0.048 |
+| class2_cloze_3shot | jlens_mixed | cloze | ta | native | 3 | 14 | 0 | 0 | 0 | 31 | 0.0051 | 0.0001 | 41.5609 | 32 | 0.0017 | 1 | en | 0.5 | 8.1228 | 0 | 0.0446 | 0.0345 |
+| class2_cloze_3shot | jlens_mixed | cloze | ta | roman | 3 | 16 | 0 | 0 | 0 | 27 | 0.4427 | 0.0055 | 80.3142 | 32 | 0.0617 | 0 | en | 0 | 14.4561 | 1 | 0.1899 | 0.0434 |
+| class2_cloze_3shot | logit | cloze | hi | native | 3 | 14 | 0 | 0 | 0 | 28 | 0.1276 | 0.0028 | 45.1304 | 33 | 0.019 | 32 | en | 32 | 15.3104 | 0 | 0.0482 | 0.0064 |
+| class2_cloze_3shot | logit | cloze | hi | roman | 3 | 18 | 0.3333 | 0.3333 | 0.3333 | 27 | 0.7238 | 0.0054 | 134.7957 | 32 | 0.2887 | 13 | en | 9 | 9.8658 | 0 | 0.3158 | 0.0668 |
+| class2_cloze_3shot | logit | cloze | ml | native | 3 | 14 | 0 | 0 | 0 | 22 | 0.0043 | 0.0024 | 1.7766 | 33 | 0.0171 | 33 | en | 33 | 10.7942 | 0 | 0.0168 | 0.0033 |
+| class2_cloze_3shot | logit | cloze | ml | roman | 3 | 16 | 0 | 0 | 0 | 27 | 0.3851 | 0.0103 | 37.2446 | 32 | 0.0491 | 19 | en | 3 | 9.0711 | 1 | 0.1839 | 0.0846 |
+| class2_cloze_3shot | logit | cloze | ta | native | 3 | 14 | 0 | 0 | 0 | 24 | 0.0372 | 0.0023 | 16.182 | 33 | 0.022 | 32 | en | 32 | 12.1529 | 0 | 0.0346 | 0.005 |
+| class2_cloze_3shot | logit | cloze | ta | roman | 3 | 16 | 0 | 0 | 0 | 27 | 0.3864 | 0.0103 | 37.5096 | 32 | 0.0617 | 17 | en | 4 | 11.0085 | 0 | 0.1993 | 0.0757 |

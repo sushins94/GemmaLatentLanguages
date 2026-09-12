@@ -1,0 +1,38 @@
+{
+  "class": "Gemma3ForConditionalGeneration",
+  "backbone_path": "model.language_model",
+  "n_layers": 48,
+  "d_model": 3840,
+  "vocab_head": 262208,
+  "vocab_tokenizer": 262145,
+  "softcap": null,
+  "tied": false,
+  "model": "/n/scratch/users/p/pas6744/BaseCall/data/models/gemma-3-12b-pt",
+  "prompt_set": "/n/scratch/users/p/pas6744/BaseCall/experiments/GemmaLatentLanguages/sets_placeholder/class6_roman_to_roman_1shot.json",
+  "weight_dtype": "bfloat16",
+  "lens_dtype": "float32",
+  "lenses": [
+    {
+      "name": "logit"
+    },
+    {
+      "name": "jlens_en",
+      "lam": 0.0,
+      "kind": "jlens_en",
+      "n_prompts": 25,
+      "seq_len": 128,
+      "skip_first": 4,
+      "target_layer": 46,
+      "n_positions": 3085,
+      "d_model": 3840,
+      "n_layers": 48,
+      "method": "exact_basis",
+      "corpus": "/n/scratch/users/p/pas6744/BaseCall/experiments/GemmaLatentLanguages/corpora/en.txt",
+      "model": "/n/scratch/users/p/pas6744/BaseCall/data/models/gemma-3-12b-pt"
+    }
+  ],
+  "chat_template": false,
+  "n_prompts": 42,
+  "n_collisions": 17,
+  "timestamp": "2026-09-12T13:08:03"
+}

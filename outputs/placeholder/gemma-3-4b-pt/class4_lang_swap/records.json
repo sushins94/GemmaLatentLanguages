@@ -1,0 +1,4678 @@
+[
+  {
+    "id": "swap_fr_hitoml_native_flower",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"montagne\" - हिंदी: \"पहाड़\"\nFrançais: \"fleur\" - മലയാളം: \"",
+    "answers": {
+      "en": "flower",
+      "ml_native": "പൂവ്",
+      "ml_roman": "poovu",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "src": "fleur"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_flower",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"montagne\" - Hindi: \"pahaad\"\nFrançais: \"fleur\" - Malayalam: \"",
+    "answers": {
+      "en": "flower",
+      "ml_native": "പൂവ്",
+      "ml_roman": "poovu",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "src": "fleur"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_flower",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"montagne\" - தமிழ்: \"மலை\"\nFrançais: \"fleur\" - हिंदी: \"",
+    "answers": {
+      "en": "flower",
+      "hi_native": "फूल",
+      "hi_roman": "phool",
+      "en_control": "audio",
+      "ta_native": "பூ",
+      "src": "fleur"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_flower",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"montagne\" - Tamil: \"malai\"\nFrançais: \"fleur\" - Hindi: \"",
+    "answers": {
+      "en": "flower",
+      "hi_native": "फूल",
+      "hi_roman": "phool",
+      "en_control": "audio",
+      "ta_native": "பூ",
+      "src": "fleur"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_native_flower",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"montagne\" - മലയാളം: \"മല\"\nFrançais: \"fleur\" - தமிழ்: \"",
+    "answers": {
+      "en": "flower",
+      "ta_native": "பூ",
+      "ta_roman": "poo",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "src": "fleur",
+      "ml_native": "പൂവ്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_flower",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"montagne\" - Malayalam: \"mala\"\nFrançais: \"fleur\" - Tamil: \"",
+    "answers": {
+      "en": "flower",
+      "ta_native": "பூ",
+      "ta_roman": "poo",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "src": "fleur",
+      "ml_native": "പൂവ്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_water",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"montagne\" - हिंदी: \"पहाड़\"\nFrançais: \"eau\" - മലയാളം: \"",
+    "answers": {
+      "en": "water",
+      "ml_native": "വെള്ളം",
+      "ml_roman": "vellam",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "src": "eau"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_water",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"montagne\" - Hindi: \"pahaad\"\nFrançais: \"eau\" - Malayalam: \"",
+    "answers": {
+      "en": "water",
+      "ml_native": "വെള്ളം",
+      "ml_roman": "vellam",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "src": "eau"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_water",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"montagne\" - தமிழ்: \"மலை\"\nFrançais: \"eau\" - हिंदी: \"",
+    "answers": {
+      "en": "water",
+      "hi_native": "पानी",
+      "hi_roman": "paani",
+      "en_control": "business",
+      "ta_native": "தண்ணீர்",
+      "src": "eau"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_water",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"montagne\" - Tamil: \"malai\"\nFrançais: \"eau\" - Hindi: \"",
+    "answers": {
+      "en": "water",
+      "hi_native": "पानी",
+      "hi_roman": "paani",
+      "en_control": "business",
+      "ta_native": "தண்ணீர்",
+      "src": "eau"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_native_water",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"montagne\" - മലയാളം: \"മല\"\nFrançais: \"eau\" - தமிழ்: \"",
+    "answers": {
+      "en": "water",
+      "ta_native": "தண்ணீர்",
+      "ta_roman": "thanneer",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "src": "eau",
+      "ml_native": "വെള്ളം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_roman_water",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"montagne\" - Malayalam: \"mala\"\nFrançais: \"eau\" - Tamil: \"",
+    "answers": {
+      "en": "water",
+      "ta_native": "தண்ணீர்",
+      "ta_roman": "thanneer",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "src": "eau",
+      "ml_native": "വെള്ളം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_book",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"montagne\" - हिंदी: \"पहाड़\"\nFrançais: \"livre\" - മലയാളം: \"",
+    "answers": {
+      "en": "book",
+      "ml_native": "പുസ്തകം",
+      "ml_roman": "pusthakam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "src": "livre"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_book",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"montagne\" - Hindi: \"pahaad\"\nFrançais: \"livre\" - Malayalam: \"",
+    "answers": {
+      "en": "book",
+      "ml_native": "പുസ്തകം",
+      "ml_roman": "pusthakam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "src": "livre"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_book",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"montagne\" - தமிழ்: \"மலை\"\nFrançais: \"livre\" - हिंदी: \"",
+    "answers": {
+      "en": "book",
+      "hi_native": "किताब",
+      "hi_roman": "kitaab",
+      "en_control": "trying",
+      "ta_native": "புத்தகம்",
+      "src": "livre"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_roman_book",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"montagne\" - Tamil: \"malai\"\nFrançais: \"livre\" - Hindi: \"",
+    "answers": {
+      "en": "book",
+      "hi_native": "किताब",
+      "hi_roman": "kitaab",
+      "en_control": "trying",
+      "ta_native": "புத்தகம்",
+      "src": "livre"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_native_book",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"montagne\" - മലയാളം: \"മല\"\nFrançais: \"livre\" - தமிழ்: \"",
+    "answers": {
+      "en": "book",
+      "ta_native": "புத்தகம்",
+      "ta_roman": "puthagam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "src": "livre",
+      "ml_native": "പുസ്തകം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_book",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"montagne\" - Malayalam: \"mala\"\nFrançais: \"livre\" - Tamil: \"",
+    "answers": {
+      "en": "book",
+      "ta_native": "புத்தகம்",
+      "ta_roman": "puthagam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "src": "livre",
+      "ml_native": "പുസ്തകം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_sun",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"montagne\" - हिंदी: \"पहाड़\"\nFrançais: \"soleil\" - മലയാളം: \"",
+    "answers": {
+      "en": "sun",
+      "ml_native": "സൂര്യൻ",
+      "ml_roman": "sooryan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "src": "soleil"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_sun",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"montagne\" - Hindi: \"pahaad\"\nFrançais: \"soleil\" - Malayalam: \"",
+    "answers": {
+      "en": "sun",
+      "ml_native": "സൂര്യൻ",
+      "ml_roman": "sooryan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "src": "soleil"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_sun",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"montagne\" - தமிழ்: \"மலை\"\nFrançais: \"soleil\" - हिंदी: \"",
+    "answers": {
+      "en": "sun",
+      "hi_native": "सूरज",
+      "hi_roman": "sooraj",
+      "en_control": "via",
+      "ta_native": "சூரியன்",
+      "src": "soleil"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_roman_sun",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"montagne\" - Tamil: \"malai\"\nFrançais: \"soleil\" - Hindi: \"",
+    "answers": {
+      "en": "sun",
+      "hi_native": "सूरज",
+      "hi_roman": "sooraj",
+      "en_control": "via",
+      "ta_native": "சூரியன்",
+      "src": "soleil"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_native_sun",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"montagne\" - മലയാളം: \"മല\"\nFrançais: \"soleil\" - தமிழ்: \"",
+    "answers": {
+      "en": "sun",
+      "ta_native": "சூரியன்",
+      "ta_roman": "sooriyan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "src": "soleil",
+      "ml_native": "സൂര്യൻ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_sun",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"montagne\" - Malayalam: \"mala\"\nFrançais: \"soleil\" - Tamil: \"",
+    "answers": {
+      "en": "sun",
+      "ta_native": "சூரியன்",
+      "ta_roman": "sooriyan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "src": "soleil",
+      "ml_native": "സൂര്യൻ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_mountain",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"montagne\" - മലയാളം: \"",
+    "answers": {
+      "en": "mountain",
+      "ml_native": "മല",
+      "ml_roman": "mala",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "src": "montagne"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_mountain",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"montagne\" - Malayalam: \"",
+    "answers": {
+      "en": "mountain",
+      "ml_native": "മല",
+      "ml_roman": "mala",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "src": "montagne"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_mountain",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"montagne\" - हिंदी: \"",
+    "answers": {
+      "en": "mountain",
+      "hi_native": "पहाड़",
+      "hi_roman": "pahaad",
+      "en_control": "advantage",
+      "ta_native": "மலை",
+      "src": "montagne"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_mountain",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"montagne\" - Hindi: \"",
+    "answers": {
+      "en": "mountain",
+      "hi_native": "पहाड़",
+      "hi_roman": "pahaad",
+      "en_control": "advantage",
+      "ta_native": "மலை",
+      "src": "montagne"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_native_mountain",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"montagne\" - தமிழ்: \"",
+    "answers": {
+      "en": "mountain",
+      "ta_native": "மலை",
+      "ta_roman": "malai",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "src": "montagne",
+      "ml_native": "മല"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_mountain",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"montagne\" - Tamil: \"",
+    "answers": {
+      "en": "mountain",
+      "ta_native": "மலை",
+      "ta_roman": "malai",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "src": "montagne",
+      "ml_native": "മല"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_fire",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"feu\" - മലയാളം: \"",
+    "answers": {
+      "en": "fire",
+      "ml_native": "തീ",
+      "ml_roman": "thee",
+      "en_control": "human",
+      "hi_native": "आग",
+      "src": "feu"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_fire",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"feu\" - Malayalam: \"",
+    "answers": {
+      "en": "fire",
+      "ml_native": "തീ",
+      "ml_roman": "thee",
+      "en_control": "human",
+      "hi_native": "आग",
+      "src": "feu"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_fire",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"feu\" - हिंदी: \"",
+    "answers": {
+      "en": "fire",
+      "hi_native": "आग",
+      "hi_roman": "aag",
+      "en_control": "human",
+      "ta_native": "நெருப்பு",
+      "src": "feu"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_roman_fire",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"feu\" - Hindi: \"",
+    "answers": {
+      "en": "fire",
+      "hi_native": "आग",
+      "hi_roman": "aag",
+      "en_control": "human",
+      "ta_native": "நெருப்பு",
+      "src": "feu"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_fire",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"feu\" - தமிழ்: \"",
+    "answers": {
+      "en": "fire",
+      "ta_native": "நெருப்பு",
+      "ta_roman": "neruppu",
+      "en_control": "human",
+      "hi_native": "आग",
+      "src": "feu",
+      "ml_native": "തീ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_fire",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"feu\" - Tamil: \"",
+    "answers": {
+      "en": "fire",
+      "ta_native": "நெருப்பு",
+      "ta_roman": "neruppu",
+      "en_control": "human",
+      "hi_native": "आग",
+      "src": "feu",
+      "ml_native": "തീ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_house",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"maison\" - മലയാളം: \"",
+    "answers": {
+      "en": "house",
+      "ml_native": "വീട്",
+      "ml_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "src": "maison"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_house",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"maison\" - Malayalam: \"",
+    "answers": {
+      "en": "house",
+      "ml_native": "വീട്",
+      "ml_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "src": "maison"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_house",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"maison\" - हिंदी: \"",
+    "answers": {
+      "en": "house",
+      "hi_native": "घर",
+      "hi_roman": "ghar",
+      "en_control": "little",
+      "ta_native": "வீடு",
+      "src": "maison"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_house",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"maison\" - Hindi: \"",
+    "answers": {
+      "en": "house",
+      "hi_native": "घर",
+      "hi_roman": "ghar",
+      "en_control": "little",
+      "ta_native": "வீடு",
+      "src": "maison"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_house",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"maison\" - தமிழ்: \"",
+    "answers": {
+      "en": "house",
+      "ta_native": "வீடு",
+      "ta_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "src": "maison",
+      "ml_native": "വീട്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_house",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"maison\" - Tamil: \"",
+    "answers": {
+      "en": "house",
+      "ta_native": "வீடு",
+      "ta_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "src": "maison",
+      "ml_native": "വീട്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_night",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"nuit\" - മലയാളം: \"",
+    "answers": {
+      "en": "night",
+      "ml_native": "രാത്രി",
+      "ml_roman": "raathri",
+      "en_control": "lantern",
+      "hi_native": "रात",
+      "src": "nuit"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_night",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"nuit\" - Malayalam: \"",
+    "answers": {
+      "en": "night",
+      "ml_native": "രാത്രി",
+      "ml_roman": "raathri",
+      "en_control": "lantern",
+      "hi_native": "रात",
+      "src": "nuit"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_night",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"nuit\" - हिंदी: \"",
+    "answers": {
+      "en": "night",
+      "hi_native": "रात",
+      "hi_roman": "raat",
+      "en_control": "basket",
+      "ta_native": "இரவு",
+      "src": "nuit"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_night",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"nuit\" - Hindi: \"",
+    "answers": {
+      "en": "night",
+      "hi_native": "रात",
+      "hi_roman": "raat",
+      "en_control": "basket",
+      "ta_native": "இரவு",
+      "src": "nuit"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_night",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"nuit\" - தமிழ்: \"",
+    "answers": {
+      "en": "night",
+      "ta_native": "இரவு",
+      "ta_roman": "iravu",
+      "en_control": "river",
+      "hi_native": "रात",
+      "src": "nuit",
+      "ml_native": "രാത്രി"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_night",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"nuit\" - Tamil: \"",
+    "answers": {
+      "en": "night",
+      "ta_native": "இரவு",
+      "ta_roman": "iravu",
+      "en_control": "river",
+      "hi_native": "रात",
+      "src": "nuit",
+      "ml_native": "രാത്രി"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_milk",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"lait\" - മലയാളം: \"",
+    "answers": {
+      "en": "milk",
+      "ml_native": "പാൽ",
+      "ml_roman": "paal",
+      "en_control": "bridge",
+      "hi_native": "दूध",
+      "src": "lait"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_milk",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"lait\" - Malayalam: \"",
+    "answers": {
+      "en": "milk",
+      "ml_native": "പാൽ",
+      "ml_roman": "paal",
+      "en_control": "bridge",
+      "hi_native": "दूध",
+      "src": "lait"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_milk",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"lait\" - हिंदी: \"",
+    "answers": {
+      "en": "milk",
+      "hi_native": "दूध",
+      "hi_roman": "doodh",
+      "en_control": "candle",
+      "ta_native": "பால்",
+      "src": "lait"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_milk",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"lait\" - Hindi: \"",
+    "answers": {
+      "en": "milk",
+      "hi_native": "दूध",
+      "hi_roman": "doodh",
+      "en_control": "candle",
+      "ta_native": "பால்",
+      "src": "lait"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_milk",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"lait\" - தமிழ்: \"",
+    "answers": {
+      "en": "milk",
+      "ta_native": "பால்",
+      "ta_roman": "paal",
+      "en_control": "pocket",
+      "hi_native": "दूध",
+      "src": "lait",
+      "ml_native": "പാൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_milk",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"lait\" - Tamil: \"",
+    "answers": {
+      "en": "milk",
+      "ta_native": "பால்",
+      "ta_roman": "paal",
+      "en_control": "pocket",
+      "hi_native": "दूध",
+      "src": "lait",
+      "ml_native": "പാൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_tree",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"arbre\" - മലയാളം: \"",
+    "answers": {
+      "en": "tree",
+      "ml_native": "മരം",
+      "ml_roman": "maram",
+      "en_control": "paper",
+      "hi_native": "पेड़",
+      "src": "arbre"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_tree",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"arbre\" - Malayalam: \"",
+    "answers": {
+      "en": "tree",
+      "ml_native": "മരം",
+      "ml_roman": "maram",
+      "en_control": "paper",
+      "hi_native": "पेड़",
+      "src": "arbre"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_tree",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"arbre\" - हिंदी: \"",
+    "answers": {
+      "en": "tree",
+      "hi_native": "पेड़",
+      "hi_roman": "ped",
+      "en_control": "morning",
+      "ta_native": "மரம்",
+      "src": "arbre"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_roman_tree",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"arbre\" - Hindi: \"",
+    "answers": {
+      "en": "tree",
+      "hi_native": "पेड़",
+      "hi_roman": "ped",
+      "en_control": "morning",
+      "ta_native": "மரம்",
+      "src": "arbre"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_native_tree",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"arbre\" - தமிழ்: \"",
+    "answers": {
+      "en": "tree",
+      "ta_native": "மரம்",
+      "ta_roman": "maram",
+      "en_control": "letter",
+      "hi_native": "पेड़",
+      "src": "arbre",
+      "ml_native": "മരം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_roman_tree",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"arbre\" - Tamil: \"",
+    "answers": {
+      "en": "tree",
+      "ta_native": "மரம்",
+      "ta_roman": "maram",
+      "en_control": "letter",
+      "hi_native": "पेड़",
+      "src": "arbre",
+      "ml_native": "മരം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_bus",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"autobus\" - മലയാളം: \"",
+    "answers": {
+      "en": "bus",
+      "ml_native": "ബസ്",
+      "ml_roman": "bas",
+      "en_control": "paper",
+      "hi_native": "बस",
+      "src": "autobus"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_bus",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"autobus\" - Malayalam: \"",
+    "answers": {
+      "en": "bus",
+      "ml_native": "ബസ്",
+      "ml_roman": "bas",
+      "en_control": "paper",
+      "hi_native": "बस",
+      "src": "autobus"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_bus",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"autobus\" - हिंदी: \"",
+    "answers": {
+      "en": "bus",
+      "hi_native": "बस",
+      "hi_roman": "bas",
+      "en_control": "window",
+      "ta_native": "பேருந்து",
+      "src": "autobus"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_roman_bus",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"autobus\" - Hindi: \"",
+    "answers": {
+      "en": "bus",
+      "hi_native": "बस",
+      "hi_roman": "bas",
+      "en_control": "window",
+      "ta_native": "பேருந்து",
+      "src": "autobus"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_native_bus",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"autobus\" - தமிழ்: \"",
+    "answers": {
+      "en": "bus",
+      "ta_native": "பேருந்து",
+      "ta_roman": "bus",
+      "en_control": "river",
+      "hi_native": "बस",
+      "src": "autobus",
+      "ml_native": "ബസ്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_bus",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"autobus\" - Tamil: \"",
+    "answers": {
+      "en": "bus",
+      "ta_native": "பேருந்து",
+      "ta_roman": "bus",
+      "en_control": "river",
+      "hi_native": "बस",
+      "src": "autobus",
+      "ml_native": "ബസ്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_hotel",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"hôtel\" - മലയാളം: \"",
+    "answers": {
+      "en": "hotel",
+      "ml_native": "ഹോട്ടൽ",
+      "ml_roman": "hotel",
+      "en_control": "candle",
+      "hi_native": "होटल",
+      "src": "hôtel"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_hotel",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"hôtel\" - Malayalam: \"",
+    "answers": {
+      "en": "hotel",
+      "ml_native": "ഹോട്ടൽ",
+      "ml_roman": "hotel",
+      "en_control": "candle",
+      "hi_native": "होटल",
+      "src": "hôtel"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_native_hotel",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"hôtel\" - हिंदी: \"",
+    "answers": {
+      "en": "hotel",
+      "hi_native": "होटल",
+      "hi_roman": "hotel",
+      "en_control": "meadow",
+      "ta_native": "ஹோட்டல்",
+      "src": "hôtel"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_hotel",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"hôtel\" - Hindi: \"",
+    "answers": {
+      "en": "hotel",
+      "hi_native": "होटल",
+      "hi_roman": "hotel",
+      "en_control": "meadow",
+      "ta_native": "ஹோட்டல்",
+      "src": "hôtel"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_hotel",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"hôtel\" - தமிழ்: \"",
+    "answers": {
+      "en": "hotel",
+      "ta_native": "ஹோட்டல்",
+      "ta_roman": "hotel",
+      "en_control": "basket",
+      "hi_native": "होटल",
+      "src": "hôtel",
+      "ml_native": "ഹോട്ടൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_hotel",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"hôtel\" - Tamil: \"",
+    "answers": {
+      "en": "hotel",
+      "ta_native": "ஹோட்டல்",
+      "ta_roman": "hotel",
+      "en_control": "basket",
+      "hi_native": "होटल",
+      "src": "hôtel",
+      "ml_native": "ഹോട്ടൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_native_coffee",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"café\" - മലയാളം: \"",
+    "answers": {
+      "en": "coffee",
+      "ml_native": "കാപ്പി",
+      "ml_roman": "coffee",
+      "en_control": "letter",
+      "hi_native": "कॉफी",
+      "src": "café"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_coffee",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"café\" - Malayalam: \"",
+    "answers": {
+      "en": "coffee",
+      "ml_native": "കാപ്പി",
+      "ml_roman": "coffee",
+      "en_control": "letter",
+      "hi_native": "कॉफी",
+      "src": "café"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_coffee",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"café\" - हिंदी: \"",
+    "answers": {
+      "en": "coffee",
+      "hi_native": "कॉफी",
+      "hi_roman": "coffee",
+      "en_control": "pocket",
+      "ta_native": "காபி",
+      "src": "café"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_coffee",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"café\" - Hindi: \"",
+    "answers": {
+      "en": "coffee",
+      "hi_native": "कॉफी",
+      "hi_roman": "coffee",
+      "en_control": "pocket",
+      "ta_native": "காபி",
+      "src": "café"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_native_coffee",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"café\" - தமிழ்: \"",
+    "answers": {
+      "en": "coffee",
+      "ta_native": "காபி",
+      "ta_roman": "coffee",
+      "en_control": "candle",
+      "hi_native": "कॉफी",
+      "src": "café",
+      "ml_native": "കാപ്പി"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_coffee",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"café\" - Tamil: \"",
+    "answers": {
+      "en": "coffee",
+      "ta_native": "காபி",
+      "ta_roman": "coffee",
+      "en_control": "candle",
+      "hi_native": "कॉफी",
+      "src": "café",
+      "ml_native": "കാപ്പി"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_mobile",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "Français: \"fleur\" - हिंदी: \"फूल\"\nFrançais: \"eau\" - हिंदी: \"पानी\"\nFrançais: \"livre\" - हिंदी: \"किताब\"\nFrançais: \"soleil\" - हिंदी: \"सूरज\"\nFrançais: \"mobile\" - മലയാളം: \"",
+    "answers": {
+      "en": "mobile",
+      "ml_native": "മൊബൈൽ",
+      "ml_roman": "mobile",
+      "en_control": "meadow",
+      "hi_native": "मोबाइल",
+      "src": "mobile"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_mobile",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "Français: \"fleur\" - Hindi: \"phool\"\nFrançais: \"eau\" - Hindi: \"paani\"\nFrançais: \"livre\" - Hindi: \"kitaab\"\nFrançais: \"soleil\" - Hindi: \"sooraj\"\nFrançais: \"mobile\" - Malayalam: \"",
+    "answers": {
+      "en": "mobile",
+      "ml_native": "മൊബൈൽ",
+      "ml_roman": "mobile",
+      "en_control": "meadow",
+      "hi_native": "मोबाइल",
+      "src": "mobile"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_native_mobile",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "Français: \"fleur\" - தமிழ்: \"பூ\"\nFrançais: \"eau\" - தமிழ்: \"தண்ணீர்\"\nFrançais: \"livre\" - தமிழ்: \"புத்தகம்\"\nFrançais: \"soleil\" - தமிழ்: \"சூரியன்\"\nFrançais: \"mobile\" - हिंदी: \"",
+    "answers": {
+      "en": "mobile",
+      "hi_native": "मोबाइल",
+      "hi_roman": "mobile",
+      "en_control": "basket",
+      "ta_native": "மொபைல்",
+      "src": "mobile"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_mobile",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "Français: \"fleur\" - Tamil: \"poo\"\nFrançais: \"eau\" - Tamil: \"thanneer\"\nFrançais: \"livre\" - Tamil: \"puthagam\"\nFrançais: \"soleil\" - Tamil: \"sooriyan\"\nFrançais: \"mobile\" - Hindi: \"",
+    "answers": {
+      "en": "mobile",
+      "hi_native": "मोबाइल",
+      "hi_roman": "mobile",
+      "en_control": "basket",
+      "ta_native": "மொபைல்",
+      "src": "mobile"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_mobile",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "Français: \"fleur\" - മലയാളം: \"പൂവ്\"\nFrançais: \"eau\" - മലയാളം: \"വെള്ളം\"\nFrançais: \"livre\" - മലയാളം: \"പുസ്തകം\"\nFrançais: \"soleil\" - മലയാളം: \"സൂര്യൻ\"\nFrançais: \"mobile\" - தமிழ்: \"",
+    "answers": {
+      "en": "mobile",
+      "ta_native": "மொபைல்",
+      "ta_roman": "mobile",
+      "en_control": "harbour",
+      "hi_native": "मोबाइल",
+      "src": "mobile",
+      "ml_native": "മൊബൈൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_mobile",
+    "task": "lang_swap",
+    "src_lang": "fr",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "Français: \"fleur\" - Malayalam: \"poovu\"\nFrançais: \"eau\" - Malayalam: \"vellam\"\nFrançais: \"livre\" - Malayalam: \"pusthakam\"\nFrançais: \"soleil\" - Malayalam: \"sooryan\"\nFrançais: \"mobile\" - Tamil: \"",
+    "answers": {
+      "en": "mobile",
+      "ta_native": "மொபைல்",
+      "ta_roman": "mobile",
+      "en_control": "harbour",
+      "hi_native": "मोबाइल",
+      "src": "mobile",
+      "ml_native": "മൊബൈൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_native_flower",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"mountain\" - हिंदी: \"पहाड़\"\nEnglish: \"flower\" - മലയാളം: \"",
+    "answers": {
+      "en": "flower",
+      "ml_native": "പൂവ്",
+      "ml_roman": "poovu",
+      "en_control": "audio",
+      "hi_native": "फूल"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_roman_flower",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"mountain\" - Hindi: \"pahaad\"\nEnglish: \"flower\" - Malayalam: \"",
+    "answers": {
+      "en": "flower",
+      "ml_native": "പൂവ്",
+      "ml_roman": "poovu",
+      "en_control": "audio",
+      "hi_native": "फूल"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_flower",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"mountain\" - தமிழ்: \"மலை\"\nEnglish: \"flower\" - हिंदी: \"",
+    "answers": {
+      "en": "flower",
+      "hi_native": "फूल",
+      "hi_roman": "phool",
+      "en_control": "audio",
+      "ta_native": "பூ"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_flower",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"mountain\" - Tamil: \"malai\"\nEnglish: \"flower\" - Hindi: \"",
+    "answers": {
+      "en": "flower",
+      "hi_native": "फूल",
+      "hi_roman": "phool",
+      "en_control": "audio",
+      "ta_native": "பூ"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_native_flower",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"mountain\" - മലയാളം: \"മല\"\nEnglish: \"flower\" - தமிழ்: \"",
+    "answers": {
+      "en": "flower",
+      "ta_native": "பூ",
+      "ta_roman": "poo",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "ml_native": "പൂവ്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_flower",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"mountain\" - Malayalam: \"mala\"\nEnglish: \"flower\" - Tamil: \"",
+    "answers": {
+      "en": "flower",
+      "ta_native": "பூ",
+      "ta_roman": "poo",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "ml_native": "പൂവ്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_water",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"mountain\" - हिंदी: \"पहाड़\"\nEnglish: \"water\" - മലയാളം: \"",
+    "answers": {
+      "en": "water",
+      "ml_native": "വെള്ളം",
+      "ml_roman": "vellam",
+      "en_control": "business",
+      "hi_native": "पानी"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_water",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"mountain\" - Hindi: \"pahaad\"\nEnglish: \"water\" - Malayalam: \"",
+    "answers": {
+      "en": "water",
+      "ml_native": "വെള്ളം",
+      "ml_roman": "vellam",
+      "en_control": "business",
+      "hi_native": "पानी"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_water",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"mountain\" - தமிழ்: \"மலை\"\nEnglish: \"water\" - हिंदी: \"",
+    "answers": {
+      "en": "water",
+      "hi_native": "पानी",
+      "hi_roman": "paani",
+      "en_control": "business",
+      "ta_native": "தண்ணீர்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_water",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"mountain\" - Tamil: \"malai\"\nEnglish: \"water\" - Hindi: \"",
+    "answers": {
+      "en": "water",
+      "hi_native": "पानी",
+      "hi_roman": "paani",
+      "en_control": "business",
+      "ta_native": "தண்ணீர்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_native_water",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"mountain\" - മലയാളം: \"മല\"\nEnglish: \"water\" - தமிழ்: \"",
+    "answers": {
+      "en": "water",
+      "ta_native": "தண்ணீர்",
+      "ta_roman": "thanneer",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "ml_native": "വെള്ളം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_roman_water",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"mountain\" - Malayalam: \"mala\"\nEnglish: \"water\" - Tamil: \"",
+    "answers": {
+      "en": "water",
+      "ta_native": "தண்ணீர்",
+      "ta_roman": "thanneer",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "ml_native": "വെള്ളം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_book",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"mountain\" - हिंदी: \"पहाड़\"\nEnglish: \"book\" - മലയാളം: \"",
+    "answers": {
+      "en": "book",
+      "ml_native": "പുസ്തകം",
+      "ml_roman": "pusthakam",
+      "en_control": "trying",
+      "hi_native": "किताब"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_book",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"mountain\" - Hindi: \"pahaad\"\nEnglish: \"book\" - Malayalam: \"",
+    "answers": {
+      "en": "book",
+      "ml_native": "പുസ്തകം",
+      "ml_roman": "pusthakam",
+      "en_control": "trying",
+      "hi_native": "किताब"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_book",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"mountain\" - தமிழ்: \"மலை\"\nEnglish: \"book\" - हिंदी: \"",
+    "answers": {
+      "en": "book",
+      "hi_native": "किताब",
+      "hi_roman": "kitaab",
+      "en_control": "trying",
+      "ta_native": "புத்தகம்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_roman_book",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"mountain\" - Tamil: \"malai\"\nEnglish: \"book\" - Hindi: \"",
+    "answers": {
+      "en": "book",
+      "hi_native": "किताब",
+      "hi_roman": "kitaab",
+      "en_control": "trying",
+      "ta_native": "புத்தகம்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_book",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"mountain\" - മലയാളം: \"മല\"\nEnglish: \"book\" - தமிழ்: \"",
+    "answers": {
+      "en": "book",
+      "ta_native": "புத்தகம்",
+      "ta_roman": "puthagam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "ml_native": "പുസ്തകം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_book",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"mountain\" - Malayalam: \"mala\"\nEnglish: \"book\" - Tamil: \"",
+    "answers": {
+      "en": "book",
+      "ta_native": "புத்தகம்",
+      "ta_roman": "puthagam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "ml_native": "പുസ്തകം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_sun",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"mountain\" - हिंदी: \"पहाड़\"\nEnglish: \"sun\" - മലയാളം: \"",
+    "answers": {
+      "en": "sun",
+      "ml_native": "സൂര്യൻ",
+      "ml_roman": "sooryan",
+      "en_control": "via",
+      "hi_native": "सूरज"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_sun",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"mountain\" - Hindi: \"pahaad\"\nEnglish: \"sun\" - Malayalam: \"",
+    "answers": {
+      "en": "sun",
+      "ml_native": "സൂര്യൻ",
+      "ml_roman": "sooryan",
+      "en_control": "via",
+      "hi_native": "सूरज"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_sun",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"mountain\" - தமிழ்: \"மலை\"\nEnglish: \"sun\" - हिंदी: \"",
+    "answers": {
+      "en": "sun",
+      "hi_native": "सूरज",
+      "hi_roman": "sooraj",
+      "en_control": "via",
+      "ta_native": "சூரியன்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_sun",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"mountain\" - Tamil: \"malai\"\nEnglish: \"sun\" - Hindi: \"",
+    "answers": {
+      "en": "sun",
+      "hi_native": "सूरज",
+      "hi_roman": "sooraj",
+      "en_control": "via",
+      "ta_native": "சூரியன்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_native_sun",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"mountain\" - മലയാളം: \"മല\"\nEnglish: \"sun\" - தமிழ்: \"",
+    "answers": {
+      "en": "sun",
+      "ta_native": "சூரியன்",
+      "ta_roman": "sooriyan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "ml_native": "സൂര്യൻ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_sun",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"mountain\" - Malayalam: \"mala\"\nEnglish: \"sun\" - Tamil: \"",
+    "answers": {
+      "en": "sun",
+      "ta_native": "சூரியன்",
+      "ta_roman": "sooriyan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "ml_native": "സൂര്യൻ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_mountain",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"mountain\" - മലയാളം: \"",
+    "answers": {
+      "en": "mountain",
+      "ml_native": "മല",
+      "ml_roman": "mala",
+      "en_control": "advantage",
+      "hi_native": "पहाड़"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_roman_mountain",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"mountain\" - Malayalam: \"",
+    "answers": {
+      "en": "mountain",
+      "ml_native": "മല",
+      "ml_roman": "mala",
+      "en_control": "advantage",
+      "hi_native": "पहाड़"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_mountain",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"mountain\" - हिंदी: \"",
+    "answers": {
+      "en": "mountain",
+      "hi_native": "पहाड़",
+      "hi_roman": "pahaad",
+      "en_control": "advantage",
+      "ta_native": "மலை"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_mountain",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"mountain\" - Hindi: \"",
+    "answers": {
+      "en": "mountain",
+      "hi_native": "पहाड़",
+      "hi_roman": "pahaad",
+      "en_control": "advantage",
+      "ta_native": "மலை"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_native_mountain",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"mountain\" - தமிழ்: \"",
+    "answers": {
+      "en": "mountain",
+      "ta_native": "மலை",
+      "ta_roman": "malai",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "ml_native": "മല"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_mountain",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"mountain\" - Tamil: \"",
+    "answers": {
+      "en": "mountain",
+      "ta_native": "மலை",
+      "ta_roman": "malai",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "ml_native": "മല"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_fire",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"fire\" - മലയാളം: \"",
+    "answers": {
+      "en": "fire",
+      "ml_native": "തീ",
+      "ml_roman": "thee",
+      "en_control": "human",
+      "hi_native": "आग"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_fire",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"fire\" - Malayalam: \"",
+    "answers": {
+      "en": "fire",
+      "ml_native": "തീ",
+      "ml_roman": "thee",
+      "en_control": "human",
+      "hi_native": "आग"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_fire",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"fire\" - हिंदी: \"",
+    "answers": {
+      "en": "fire",
+      "hi_native": "आग",
+      "hi_roman": "aag",
+      "en_control": "human",
+      "ta_native": "நெருப்பு"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_fire",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"fire\" - Hindi: \"",
+    "answers": {
+      "en": "fire",
+      "hi_native": "आग",
+      "hi_roman": "aag",
+      "en_control": "human",
+      "ta_native": "நெருப்பு"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_fire",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"fire\" - தமிழ்: \"",
+    "answers": {
+      "en": "fire",
+      "ta_native": "நெருப்பு",
+      "ta_roman": "neruppu",
+      "en_control": "human",
+      "hi_native": "आग",
+      "ml_native": "തീ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_fire",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"fire\" - Tamil: \"",
+    "answers": {
+      "en": "fire",
+      "ta_native": "நெருப்பு",
+      "ta_roman": "neruppu",
+      "en_control": "human",
+      "hi_native": "आग",
+      "ml_native": "തീ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_house",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"house\" - മലയാളം: \"",
+    "answers": {
+      "en": "house",
+      "ml_native": "വീട്",
+      "ml_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_house",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"house\" - Malayalam: \"",
+    "answers": {
+      "en": "house",
+      "ml_native": "വീട്",
+      "ml_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_house",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"house\" - हिंदी: \"",
+    "answers": {
+      "en": "house",
+      "hi_native": "घर",
+      "hi_roman": "ghar",
+      "en_control": "little",
+      "ta_native": "வீடு"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_house",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"house\" - Hindi: \"",
+    "answers": {
+      "en": "house",
+      "hi_native": "घर",
+      "hi_roman": "ghar",
+      "en_control": "little",
+      "ta_native": "வீடு"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_house",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"house\" - தமிழ்: \"",
+    "answers": {
+      "en": "house",
+      "ta_native": "வீடு",
+      "ta_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "ml_native": "വീട്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_house",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"house\" - Tamil: \"",
+    "answers": {
+      "en": "house",
+      "ta_native": "வீடு",
+      "ta_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "ml_native": "വീട്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_night",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"night\" - മലയാളം: \"",
+    "answers": {
+      "en": "night",
+      "ml_native": "രാത്രി",
+      "ml_roman": "raathri",
+      "en_control": "lantern",
+      "hi_native": "रात"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_night",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"night\" - Malayalam: \"",
+    "answers": {
+      "en": "night",
+      "ml_native": "രാത്രി",
+      "ml_roman": "raathri",
+      "en_control": "lantern",
+      "hi_native": "रात"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_night",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"night\" - हिंदी: \"",
+    "answers": {
+      "en": "night",
+      "hi_native": "रात",
+      "hi_roman": "raat",
+      "en_control": "basket",
+      "ta_native": "இரவு"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_night",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"night\" - Hindi: \"",
+    "answers": {
+      "en": "night",
+      "hi_native": "रात",
+      "hi_roman": "raat",
+      "en_control": "basket",
+      "ta_native": "இரவு"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_night",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"night\" - தமிழ்: \"",
+    "answers": {
+      "en": "night",
+      "ta_native": "இரவு",
+      "ta_roman": "iravu",
+      "en_control": "river",
+      "hi_native": "रात",
+      "ml_native": "രാത്രി"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_night",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"night\" - Tamil: \"",
+    "answers": {
+      "en": "night",
+      "ta_native": "இரவு",
+      "ta_roman": "iravu",
+      "en_control": "river",
+      "hi_native": "रात",
+      "ml_native": "രാത്രി"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_milk",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"milk\" - മലയാളം: \"",
+    "answers": {
+      "en": "milk",
+      "ml_native": "പാൽ",
+      "ml_roman": "paal",
+      "en_control": "bridge",
+      "hi_native": "दूध"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_roman_milk",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"milk\" - Malayalam: \"",
+    "answers": {
+      "en": "milk",
+      "ml_native": "പാൽ",
+      "ml_roman": "paal",
+      "en_control": "bridge",
+      "hi_native": "दूध"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_native_milk",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"milk\" - हिंदी: \"",
+    "answers": {
+      "en": "milk",
+      "hi_native": "दूध",
+      "hi_roman": "doodh",
+      "en_control": "candle",
+      "ta_native": "பால்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_milk",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"milk\" - Hindi: \"",
+    "answers": {
+      "en": "milk",
+      "hi_native": "दूध",
+      "hi_roman": "doodh",
+      "en_control": "candle",
+      "ta_native": "பால்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_milk",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"milk\" - தமிழ்: \"",
+    "answers": {
+      "en": "milk",
+      "ta_native": "பால்",
+      "ta_roman": "paal",
+      "en_control": "pocket",
+      "hi_native": "दूध",
+      "ml_native": "പാൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_milk",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"milk\" - Tamil: \"",
+    "answers": {
+      "en": "milk",
+      "ta_native": "பால்",
+      "ta_roman": "paal",
+      "en_control": "pocket",
+      "hi_native": "दूध",
+      "ml_native": "പാൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_tree",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"tree\" - മലയാളം: \"",
+    "answers": {
+      "en": "tree",
+      "ml_native": "മരം",
+      "ml_roman": "maram",
+      "en_control": "paper",
+      "hi_native": "पेड़"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_tree",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"tree\" - Malayalam: \"",
+    "answers": {
+      "en": "tree",
+      "ml_native": "മരം",
+      "ml_roman": "maram",
+      "en_control": "paper",
+      "hi_native": "पेड़"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_tree",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"tree\" - हिंदी: \"",
+    "answers": {
+      "en": "tree",
+      "hi_native": "पेड़",
+      "hi_roman": "ped",
+      "en_control": "morning",
+      "ta_native": "மரம்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_roman_tree",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"tree\" - Hindi: \"",
+    "answers": {
+      "en": "tree",
+      "hi_native": "पेड़",
+      "hi_roman": "ped",
+      "en_control": "morning",
+      "ta_native": "மரம்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_native_tree",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"tree\" - தமிழ்: \"",
+    "answers": {
+      "en": "tree",
+      "ta_native": "மரம்",
+      "ta_roman": "maram",
+      "en_control": "letter",
+      "hi_native": "पेड़",
+      "ml_native": "മരം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_roman_tree",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"tree\" - Tamil: \"",
+    "answers": {
+      "en": "tree",
+      "ta_native": "மரம்",
+      "ta_roman": "maram",
+      "en_control": "letter",
+      "hi_native": "पेड़",
+      "ml_native": "മരം"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_bus",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"bus\" - മലയാളം: \"",
+    "answers": {
+      "en": "bus",
+      "ml_native": "ബസ്",
+      "ml_roman": "bas",
+      "en_control": "paper",
+      "hi_native": "बस"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_bus",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"bus\" - Malayalam: \"",
+    "answers": {
+      "en": "bus",
+      "ml_native": "ബസ്",
+      "ml_roman": "bas",
+      "en_control": "paper",
+      "hi_native": "बस"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_bus",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"bus\" - हिंदी: \"",
+    "answers": {
+      "en": "bus",
+      "hi_native": "बस",
+      "hi_roman": "bas",
+      "en_control": "window",
+      "ta_native": "பேருந்து"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_bus",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"bus\" - Hindi: \"",
+    "answers": {
+      "en": "bus",
+      "hi_native": "बस",
+      "hi_roman": "bas",
+      "en_control": "window",
+      "ta_native": "பேருந்து"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_native_bus",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"bus\" - தமிழ்: \"",
+    "answers": {
+      "en": "bus",
+      "ta_native": "பேருந்து",
+      "ta_roman": "bus",
+      "en_control": "river",
+      "hi_native": "बस",
+      "ml_native": "ബസ്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_bus",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"bus\" - Tamil: \"",
+    "answers": {
+      "en": "bus",
+      "ta_native": "பேருந்து",
+      "ta_roman": "bus",
+      "en_control": "river",
+      "hi_native": "बस",
+      "ml_native": "ബസ്"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_native_hotel",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"hotel\" - മലയാളം: \"",
+    "answers": {
+      "en": "hotel",
+      "ml_native": "ഹോട്ടൽ",
+      "ml_roman": "hotel",
+      "en_control": "candle",
+      "hi_native": "होटल"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_hotel",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"hotel\" - Malayalam: \"",
+    "answers": {
+      "en": "hotel",
+      "ml_native": "ഹോട്ടൽ",
+      "ml_roman": "hotel",
+      "en_control": "candle",
+      "hi_native": "होटल"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_native_hotel",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"hotel\" - हिंदी: \"",
+    "answers": {
+      "en": "hotel",
+      "hi_native": "होटल",
+      "hi_roman": "hotel",
+      "en_control": "meadow",
+      "ta_native": "ஹோட்டல்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_hotel",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"hotel\" - Hindi: \"",
+    "answers": {
+      "en": "hotel",
+      "hi_native": "होटल",
+      "hi_roman": "hotel",
+      "en_control": "meadow",
+      "ta_native": "ஹோட்டல்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_hotel",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"hotel\" - தமிழ்: \"",
+    "answers": {
+      "en": "hotel",
+      "ta_native": "ஹோட்டல்",
+      "ta_roman": "hotel",
+      "en_control": "basket",
+      "hi_native": "होटल",
+      "ml_native": "ഹോട്ടൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_hotel",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"hotel\" - Tamil: \"",
+    "answers": {
+      "en": "hotel",
+      "ta_native": "ஹோட்டல்",
+      "ta_roman": "hotel",
+      "en_control": "basket",
+      "hi_native": "होटल",
+      "ml_native": "ഹോട്ടൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_native_coffee",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"coffee\" - മലയാളം: \"",
+    "answers": {
+      "en": "coffee",
+      "ml_native": "കാപ്പി",
+      "ml_roman": "coffee",
+      "en_control": "letter",
+      "hi_native": "कॉफी"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_roman_coffee",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"coffee\" - Malayalam: \"",
+    "answers": {
+      "en": "coffee",
+      "ml_native": "കാപ്പി",
+      "ml_roman": "coffee",
+      "en_control": "letter",
+      "hi_native": "कॉफी"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_coffee",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"coffee\" - हिंदी: \"",
+    "answers": {
+      "en": "coffee",
+      "hi_native": "कॉफी",
+      "hi_roman": "coffee",
+      "en_control": "pocket",
+      "ta_native": "காபி"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_coffee",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"coffee\" - Hindi: \"",
+    "answers": {
+      "en": "coffee",
+      "hi_native": "कॉफी",
+      "hi_roman": "coffee",
+      "en_control": "pocket",
+      "ta_native": "காபி"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_native_coffee",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"coffee\" - தமிழ்: \"",
+    "answers": {
+      "en": "coffee",
+      "ta_native": "காபி",
+      "ta_roman": "coffee",
+      "en_control": "candle",
+      "hi_native": "कॉफी",
+      "ml_native": "കാപ്പി"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_coffee",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"coffee\" - Tamil: \"",
+    "answers": {
+      "en": "coffee",
+      "ta_native": "காபி",
+      "ta_roman": "coffee",
+      "en_control": "candle",
+      "hi_native": "कॉफी",
+      "ml_native": "കാപ്പി"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_mobile",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ml_native",
+    "prompt": "English: \"flower\" - हिंदी: \"फूल\"\nEnglish: \"water\" - हिंदी: \"पानी\"\nEnglish: \"book\" - हिंदी: \"किताब\"\nEnglish: \"sun\" - हिंदी: \"सूरज\"\nEnglish: \"mobile\" - മലയാളം: \"",
+    "answers": {
+      "en": "mobile",
+      "ml_native": "മൊബൈൽ",
+      "ml_roman": "mobile",
+      "en_control": "meadow",
+      "hi_native": "मोबाइल"
+    },
+    "collision_labels": [
+      "en",
+      "ml_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_mobile",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ml",
+    "demo_language": "hi",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ml_roman",
+    "prompt": "English: \"flower\" - Hindi: \"phool\"\nEnglish: \"water\" - Hindi: \"paani\"\nEnglish: \"book\" - Hindi: \"kitaab\"\nEnglish: \"sun\" - Hindi: \"sooraj\"\nEnglish: \"mobile\" - Malayalam: \"",
+    "answers": {
+      "en": "mobile",
+      "ml_native": "മൊബൈൽ",
+      "ml_roman": "mobile",
+      "en_control": "meadow",
+      "hi_native": "मोबाइल"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_native_mobile",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "hi_native",
+    "prompt": "English: \"flower\" - தமிழ்: \"பூ\"\nEnglish: \"water\" - தமிழ்: \"தண்ணீர்\"\nEnglish: \"book\" - தமிழ்: \"புத்தகம்\"\nEnglish: \"sun\" - தமிழ்: \"சூரியன்\"\nEnglish: \"mobile\" - हिंदी: \"",
+    "answers": {
+      "en": "mobile",
+      "hi_native": "मोबाइल",
+      "hi_roman": "mobile",
+      "en_control": "basket",
+      "ta_native": "மொபைல்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_mobile",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "hi",
+    "demo_language": "ta",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "hi_roman",
+    "prompt": "English: \"flower\" - Tamil: \"poo\"\nEnglish: \"water\" - Tamil: \"thanneer\"\nEnglish: \"book\" - Tamil: \"puthagam\"\nEnglish: \"sun\" - Tamil: \"sooriyan\"\nEnglish: \"mobile\" - Hindi: \"",
+    "answers": {
+      "en": "mobile",
+      "hi_native": "मोबाइल",
+      "hi_roman": "mobile",
+      "en_control": "basket",
+      "ta_native": "மொபைல்"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_mobile",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "native",
+    "n_demos": 4,
+    "target_label": "ta_native",
+    "prompt": "English: \"flower\" - മലയാളം: \"പൂവ്\"\nEnglish: \"water\" - മലയാളം: \"വെള്ളം\"\nEnglish: \"book\" - മലയാളം: \"പുസ്തകം\"\nEnglish: \"sun\" - മലയാളം: \"സൂര്യൻ\"\nEnglish: \"mobile\" - தமிழ்: \"",
+    "answers": {
+      "en": "mobile",
+      "ta_native": "மொபைல்",
+      "ta_roman": "mobile",
+      "en_control": "harbour",
+      "hi_native": "मोबाइल",
+      "ml_native": "മൊബൈൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_native"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_mobile",
+    "task": "lang_swap",
+    "src_lang": "en",
+    "language": "ta",
+    "demo_language": "ml",
+    "script": "roman",
+    "n_demos": 4,
+    "target_label": "ta_roman",
+    "prompt": "English: \"flower\" - Malayalam: \"poovu\"\nEnglish: \"water\" - Malayalam: \"vellam\"\nEnglish: \"book\" - Malayalam: \"pusthakam\"\nEnglish: \"sun\" - Malayalam: \"sooryan\"\nEnglish: \"mobile\" - Tamil: \"",
+    "answers": {
+      "en": "mobile",
+      "ta_native": "மொபைல்",
+      "ta_roman": "mobile",
+      "en_control": "harbour",
+      "hi_native": "मोबाइल",
+      "ml_native": "മൊബൈൽ"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  }
+]

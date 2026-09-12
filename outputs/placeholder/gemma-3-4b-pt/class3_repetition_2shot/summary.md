@@ -1,0 +1,26 @@
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class3_repetition_2shot | jlens_en | repetition | hi | native | 2 | 14 | 1 | 1 | 1 | 29 | 0.7839 | 0.0001 | 8198.1904 | 32 | 0.5448 | 13 | en | 13 | 10.8601 | 1 | 0.2752 | 0.1086 |
+| class3_repetition_2shot | jlens_en | repetition | hi | roman | 2 | 18 | 1 | 1 | 1 | 27 | 0.5297 | 0.0002 | 3157.5317 | 32 | 0.9496 | 29 | en | 6 | 9.7309 | 0 | 0.1638 | 0.1945 |
+| class3_repetition_2shot | jlens_en | repetition | ml | native | 2 | 14 | 1 | 1 | 1 | 28 | 0.6974 | 0.0266 | 26.2172 | 32 | 0.1739 | 12 | en | 13.5 | 8.0664 | 0 | 0.2621 | 0.0694 |
+| class3_repetition_2shot | jlens_en | repetition | ml | roman | 2 | 16 | 1 | 1 | 1 | 28 | 0.4509 | 0.0001 | 3189.2053 | 32 | 0.9803 | 23 | en | 13.5 | 8.1662 | 0 | 0.1314 | 0.193 |
+| class3_repetition_2shot | jlens_en | repetition | ta | native | 2 | 14 | 1 | 1 | 1 | 29 | 0.7169 | 0.0029 | 247.0197 | 32 | 0.4175 | 13 | en | 14.5 | 9.6471 | 0 | 0.2699 | 0.083 |
+| class3_repetition_2shot | jlens_en | repetition | ta | roman | 2 | 16 | 1 | 1 | 1 | 27 | 0.3214 | 0.0002 | 1647.0906 | 31 | 0.9845 | 6 | en | 6 | 5.8949 | 0 | 0.1143 | 0.1963 |
+| class3_repetition_2shot | jlens_indic | repetition | hi | native | 2 | 14 | 1 | 1 | 1 | 27 | 0.7522 | 0.0001 | 7867.4429 | 32 | 0.5448 | 0 | en | 0 | 4.3852 | 0 | 0.2622 | 0.116 |
+| class3_repetition_2shot | jlens_indic | repetition | hi | roman | 2 | 18 | 1 | 1 | 1 | 27 | 0.5476 | 0.0002 | 3263.9187 | 32 | 0.9496 | 0 | en | 0 | 6.1423 | 0 | 0.1496 | 0.1996 |
+| class3_repetition_2shot | jlens_indic | repetition | ml | native | 2 | 14 | 1 | 1 | 1 | 27 | 0.6023 | 0.0266 | 22.642 | 31 | 0.2818 | 4 | en | 3.5 | 2.8124 | 2 | 0.2358 | 0.0888 |
+| class3_repetition_2shot | jlens_indic | repetition | ml | roman | 2 | 16 | 1 | 1 | 1 | 27 | 0.5049 | 0.0005 | 936.2422 | 32 | 0.9803 | 0 | en | 0 | 7.0843 | 0 | 0.1299 | 0.1965 |
+| class3_repetition_2shot | jlens_indic | repetition | ta | native | 2 | 14 | 1 | 1 | 1 | 27 | 0.7361 | 0.0029 | 253.6485 | 32 | 0.4175 | 0 | en | 0 | 2.2189 | 0 | 0.2526 | 0.1106 |
+| class3_repetition_2shot | jlens_indic | repetition | ta | roman | 2 | 16 | 1 | 1 | 1 | 27 | 0.403 | 0.001 | 418.7383 | 32 | 0.9831 | 0 | en | 0 | 5.5396 | 0 | 0.1147 | 0.2189 |
+| class3_repetition_2shot | jlens_mixed | repetition | hi | native | 2 | 14 | 1 | 1 | 1 | 27 | 0.7257 | 0.0001 | 7590.1362 | 32 | 0.5448 | 3 | en | 2.5 | 10.7229 | 0 | 0.2572 | 0.1166 |
+| class3_repetition_2shot | jlens_mixed | repetition | hi | roman | 2 | 18 | 1 | 1 | 1 | 27 | 0.5174 | 0.0002 | 3084.2034 | 32 | 0.9496 | 0 | en | 0 | 5.8521 | 0 | 0.1512 | 0.199 |
+| class3_repetition_2shot | jlens_mixed | repetition | ml | native | 2 | 14 | 1 | 1 | 1 | 27 | 0.6009 | 0.0266 | 22.5893 | 31 | 0.2665 | 6 | en | 4.5 | 8.0876 | 2 | 0.2448 | 0.0874 |
+| class3_repetition_2shot | jlens_mixed | repetition | ml | roman | 2 | 16 | 1 | 1 | 1 | 27 | 0.5106 | 0.0004 | 1268.1547 | 32 | 0.9803 | 0 | en | 0 | 5.5099 | 0 | 0.1319 | 0.2 |
+| class3_repetition_2shot | jlens_mixed | repetition | ta | native | 2 | 14 | 1 | 1 | 1 | 27 | 0.7445 | 0.0029 | 256.5466 | 32 | 0.4175 | 0 | en | 0 | 7.8937 | 0 | 0.263 | 0.1074 |
+| class3_repetition_2shot | jlens_mixed | repetition | ta | roman | 2 | 16 | 1 | 1 | 1 | 27 | 0.4011 | 0.0009 | 431.2515 | 32 | 0.9831 | 0 | en | 0 | 7.5405 | 0 | 0.1161 | 0.2248 |
+| class3_repetition_2shot | logit | repetition | hi | native | 2 | 14 | 1 | 1 | 1 | 30 | 0.8572 | 0.0089 | 95.9187 | 33 | 0.9429 | 32 | en | 32 | 14.1884 | 0 | 0.276 | 0.0888 |
+| class3_repetition_2shot | logit | repetition | hi | roman | 2 | 18 | 1 | 1 | 1 | 28 | 0.6682 | 0.0133 | 50.3565 | 32 | 0.9496 | 14 | en | 8 | 11.5288 | 0 | 0.1622 | 0.2259 |
+| class3_repetition_2shot | logit | repetition | ml | native | 2 | 14 | 1 | 1 | 1 | 27 | 0.7243 | 0.0266 | 27.2313 | 33 | 0.9097 | 32 | en | 32 | 11.2106 | 0 | 0.2246 | 0.0541 |
+| class3_repetition_2shot | logit | repetition | ml | roman | 2 | 16 | 1 | 1 | 1 | 27 | 0.5165 | 0.0156 | 33.2094 | 32 | 0.9803 | 21 | en | 2 | 10.3531 | 0 | 0.1199 | 0.2973 |
+| class3_repetition_2shot | logit | repetition | ta | native | 2 | 14 | 1 | 1 | 1 | 27 | 0.8242 | 0.0077 | 106.5674 | 33 | 0.9408 | 32 | en | 12.5 | 13.5091 | 0 | 0.243 | 0.0686 |
+| class3_repetition_2shot | logit | repetition | ta | roman | 2 | 16 | 1 | 1 | 1 | 27 | 0.3708 | 0.0237 | 15.626 | 32 | 0.9831 | 21 | en | 0.5 | 2.6926 | 0 | 0.0958 | 0.2739 |

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "cloze_hi_hi_native_flower",
+    "completion": "भँव भँव\" कर",
+    "answer_span": "भँव भँव",
+    "expected": "फूल",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_water",
+    "completion": "\nसही शब्द भरें।",
+    "answer_span": "\nसही शब्द भरें।",
+    "expected": "पानी",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_book",
+    "completion": "मधुमक्खी का जीवन",
+    "answer_span": "मधुमक्खी का जीवन",
+    "expected": "किताब",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_sun",
+    "completion": "\n\"सूरज\" शब्द",
+    "answer_span": "\n",
+    "expected": "सूरज",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_mountain",
+    "completion": "\n\"ये ___ बहुत सुंदर",
+    "answer_span": "\n",
+    "expected": "पहाड़",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_fire",
+    "completion": "बज़, बज़,",
+    "answer_span": "बज़, बज़,",
+    "expected": "आग",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_house",
+    "completion": "\nसही शब्द भरें:",
+    "answer_span": "\nसही शब्द भरें:",
+    "expected": "घर",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_night",
+    "completion": "भँव भँव\"\n",
+    "answer_span": "भँव भँव",
+    "expected": "रात",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_milk",
+    "completion": "\nये पंक्तियाँ किस",
+    "answer_span": "\nये पंक्तियाँ किस",
+    "expected": "दूध",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_tree",
+    "completion": "\n\"सूरज ___ में",
+    "answer_span": "\n",
+    "expected": "पेड़",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_bus",
+    "completion": "बस\"\nफिर वह ___",
+    "answer_span": "बस",
+    "expected": "बस",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_hi_hi_native_hotel",
+    "completion": "\n\"क्या आप ___ में",
+    "answer_span": "\n",
+    "expected": "होटल",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_coffee",
+    "completion": "\nये पंक्तियाँ किस",
+    "answer_span": "\nये पंक्तियाँ किस",
+    "expected": "कॉफी",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_hi_native_mobile",
+    "completion": "\nमधुमक्खी फूल",
+    "answer_span": "\nमधुमक्खी फूल",
+    "expected": "मोबाइल",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_flower",
+    "completion": "phool\".\nबच्चे",
+    "answer_span": "phool",
+    "expected": "phool",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_water",
+    "completion": "paani\".\nवह ___",
+    "answer_span": "paani",
+    "expected": "paani",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_book",
+    "completion": "kitaab\".\nउसने",
+    "answer_span": "kitaab",
+    "expected": "kitaab",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_sun",
+    "completion": "suraj\".\nरात में",
+    "answer_span": "suraj",
+    "expected": "sooraj",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_mountain",
+    "completion": "pahad\".\nउन्होंने ___",
+    "answer_span": "pahad",
+    "expected": "pahaad",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_fire",
+    "completion": "patta\".\nमधुम",
+    "answer_span": "patta",
+    "expected": "aag",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_house",
+    "completion": "ghor\".\nमधुम",
+    "answer_span": "ghor",
+    "expected": "ghar",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_night",
+    "completion": "raat\".\nसूरज",
+    "answer_span": "raat",
+    "expected": "raat",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_milk",
+    "completion": "paani\".\nयह एक",
+    "answer_span": "paani",
+    "expected": "doodh",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_tree",
+    "completion": "ped\".\nवह ___ खा",
+    "answer_span": "ped",
+    "expected": "ped",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_bus",
+    "completion": "bus\".\nफिर वह ___",
+    "answer_span": "bus",
+    "expected": "bas",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_hotel",
+    "completion": "hotel\".\nमुझे ___ खाना",
+    "answer_span": "hotel",
+    "expected": "hotel",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_coffee",
+    "completion": "chai\".\nवह ___ से",
+    "answer_span": "chai",
+    "expected": "coffee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_hi_rom_hi_roman_mobile",
+    "completion": "tota\".\nवह ___",
+    "answer_span": "tota",
+    "expected": "mobile",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_flower",
+    "completion": "\nஅவள் ___ வரை",
+    "answer_span": "\nஅவள் ___ வரை",
+    "expected": "பூ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_water",
+    "completion": "\nஅவர்கள் ___ விளையாட",
+    "answer_span": "\nஅவர்கள் ___ விளையாட",
+    "expected": "தண்ணீர்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_book",
+    "completion": "\nஅவள் ___ வரை",
+    "answer_span": "\nஅவள் ___ வரை",
+    "expected": "புத்தகம்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_sun",
+    "completion": "\n\"பூக்கள் ___ வா",
+    "answer_span": "\n",
+    "expected": "சூரியன்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_mountain",
+    "completion": "\nஅவள் ___ வரை",
+    "answer_span": "\nஅவள் ___ வரை",
+    "expected": "மலை",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_fire",
+    "completion": "\nஅவள் ___ மீது",
+    "answer_span": "\nஅவள் ___ மீது",
+    "expected": "நெருப்பு",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_house",
+    "completion": "\nஅவள் ஒரு ___",
+    "answer_span": "\nஅவள் ஒரு ___",
+    "expected": "வீடு",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_night",
+    "completion": "\n\"பூக்கள் ___ பூ",
+    "answer_span": "\n",
+    "expected": "இரவு",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_milk",
+    "completion": "\nஒரு ___ பறந்து சென்ற",
+    "answer_span": "\nஒரு ___ பறந்து சென்ற",
+    "expected": "பால்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_tree",
+    "completion": "\n\"பூனை ___ மீது",
+    "answer_span": "\n",
+    "expected": "மரம்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_bus",
+    "completion": "\nஅவள் ___ மீது",
+    "answer_span": "\nஅவள் ___ மீது",
+    "expected": "பேருந்து",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_hotel",
+    "completion": "\nஅவள் ஒரு ___",
+    "answer_span": "\nஅவள் ஒரு ___",
+    "expected": "ஹோட்டல்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_coffee",
+    "completion": "\nஅவள் ___ சாப்பி",
+    "answer_span": "\nஅவள் ___ சாப்பி",
+    "expected": "காபி",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_ta_native_mobile",
+    "completion": "\nஅவள் ___ மீது",
+    "answer_span": "\nஅவள் ___ மீது",
+    "expected": "மொபைல்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_flower",
+    "completion": "pushpa\".\nகுழந்தை",
+    "answer_span": "pushpa",
+    "expected": "poo",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_water",
+    "completion": "paani\".\nஅவன்",
+    "answer_span": "paani",
+    "expected": "thanneer",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_book",
+    "completion": "pattayam\".\nஅ",
+    "answer_span": "pattayam",
+    "expected": "puthagam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_sun",
+    "completion": "ravan\".\nஅவ",
+    "answer_span": "ravan",
+    "expected": "sooriyan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_mountain",
+    "completion": "malai\".\nஅவர்",
+    "answer_span": "malai",
+    "expected": "malai",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_fire",
+    "completion": "neer\".\nஅவ",
+    "answer_span": "neer",
+    "expected": "neruppu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_house",
+    "completion": "veetukku\".\n",
+    "answer_span": "veetukku",
+    "expected": "veedu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_night",
+    "completion": "varum\".\nஅவ",
+    "answer_span": "varum",
+    "expected": "iravu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_milk",
+    "completion": "paal\".\nஅவன்",
+    "answer_span": "paal",
+    "expected": "paal",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_tree",
+    "completion": "vayal\".\nபூனை",
+    "answer_span": "vayal",
+    "expected": "maram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_bus",
+    "completion": "bus\".\nஅவள்",
+    "answer_span": "bus",
+    "expected": "bus",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_hotel",
+    "completion": "veedhu\".\nஅ",
+    "answer_span": "veedhu",
+    "expected": "hotel",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_coffee",
+    "completion": "coffee\".\nஅவள்",
+    "answer_span": "coffee",
+    "expected": "coffee",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_ta_rom_ta_roman_mobile",
+    "completion": "vees\".\nஅவ",
+    "answer_span": "vees",
+    "expected": "mobile",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_flower",
+    "completion": "ബസ്സ്സ്\" എന്ന്",
+    "answer_span": "ബസ്സ്സ്",
+    "expected": "പൂവ്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_water",
+    "completion": "\nഈ ശൂന്യമായ",
+    "answer_span": "\nഈ ശൂന്യമായ",
+    "expected": "വെള്ളം",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_book",
+    "completion": "\nഇവയിൽ ശരിയായ",
+    "answer_span": "\nഇവയിൽ ശരിയായ",
+    "expected": "പുസ്തകം",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_sun",
+    "completion": "\nഈ ശൂന്യസ്ഥ",
+    "answer_span": "\nഈ ശൂന്യസ്ഥ",
+    "expected": "സൂര്യൻ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_mountain",
+    "completion": "ഞങ്ങൾ വിജയിച്ചു\"",
+    "answer_span": "ഞങ്ങൾ വിജയിച്ചു",
+    "expected": "മല",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_fire",
+    "completion": "\nഈ ശൂന്യസ്ഥ",
+    "answer_span": "\nഈ ശൂന്യസ്ഥ",
+    "expected": "തീ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_house",
+    "completion": "\nഒരു നല്ല ചിത്രം വരയ്",
+    "answer_span": "\nഒരു നല്ല ചിത്രം വരയ്",
+    "expected": "വീട്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_night",
+    "completion": "\nഈ ശൂന്യസ്ഥ",
+    "answer_span": "\nഈ ശൂന്യസ്ഥ",
+    "expected": "രാത്രി",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_milk",
+    "completion": "ആഹ്!\" എന്ന് പറഞ്ഞു\n",
+    "answer_span": "ആഹ്!",
+    "expected": "പാൽ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_tree",
+    "completion": "\nഈ ശൂന്യസ്ഥ",
+    "answer_span": "\nഈ ശൂന്യസ്ഥ",
+    "expected": "മരം",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_bus",
+    "completion": "\nഈ ശൂന്യസ്ഥ",
+    "answer_span": "\nഈ ശൂന്യസ്ഥ",
+    "expected": "ബസ്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_hotel",
+    "completion": "\n\"അവൻ ഒരു നല്ല",
+    "answer_span": "\n",
+    "expected": "ഹോട്ടൽ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_coffee",
+    "completion": "\nഇവ മൂന്നു വാ",
+    "answer_span": "\nഇവ മൂന്നു വാ",
+    "expected": "കാപ്പി",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_ml_native_mobile",
+    "completion": "\nഈ ശൂന്യസ്ഥ",
+    "answer_span": "\nഈ ശൂന്യസ്ഥ",
+    "expected": "മൊബൈൽ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_flower",
+    "completion": "pushpam\".\nഞാൻ",
+    "answer_span": "pushpam",
+    "expected": "poovu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_water",
+    "completion": "neer\".\nകുട്ട",
+    "answer_span": "neer",
+    "expected": "vellam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_book",
+    "completion": "puthakku\".\nഅ",
+    "answer_span": "puthakku",
+    "expected": "pusthakam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_sun",
+    "completion": "ravu\".\nഞാൻ",
+    "answer_span": "ravu",
+    "expected": "sooryan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_mountain",
+    "completion": "manassu\".\nകു",
+    "answer_span": "manassu",
+    "expected": "mala",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_fire",
+    "completion": "veedu\".\nഅവൻ",
+    "answer_span": "veedu",
+    "expected": "thee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_house",
+    "completion": "veedu\".\nഅവൻ",
+    "answer_span": "veedu",
+    "expected": "veedu",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_night",
+    "completion": "varum\".\nഞാൻ",
+    "answer_span": "varum",
+    "expected": "raathri",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_milk",
+    "completion": "paal\".\nഅവൻ",
+    "answer_span": "paal",
+    "expected": "paal",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_tree",
+    "completion": "veezha\".\nകു",
+    "answer_span": "veezha",
+    "expected": "maram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_bus",
+    "completion": "bus\".\nഅവൾ",
+    "answer_span": "bus",
+    "expected": "bas",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_hotel",
+    "completion": "veedu\".\nഅവൻ",
+    "answer_span": "veedu",
+    "expected": "hotel",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_coffee",
+    "completion": "coffee\".\nഅവൻ ഒരു",
+    "answer_span": "coffee",
+    "expected": "coffee",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "cloze_ml_rom_ml_roman_mobile",
+    "completion": "kuri\".\nഅവ",
+    "answer_span": "kuri",
+    "expected": "mobile",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  }
+]

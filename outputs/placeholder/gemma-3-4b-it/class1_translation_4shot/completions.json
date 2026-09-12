@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "translation_fr_hi_native_flower",
+    "completion": "फूल\"\nFrançais:",
+    "answer_span": "फूल",
+    "expected": "फूल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_water",
+    "completion": "पानी\"\nFrançais:",
+    "answer_span": "पानी",
+    "expected": "पानी",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_book",
+    "completion": "किताब\"\nFrançais",
+    "answer_span": "किताब",
+    "expected": "किताब",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_sun",
+    "completion": "सूरज\"\nFrançais",
+    "answer_span": "सूरज",
+    "expected": "सूरज",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_mountain",
+    "completion": "पहाड़\"\nFr",
+    "answer_span": "पहाड़",
+    "expected": "पहाड़",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_fire",
+    "completion": "आग\"\nFrançais",
+    "answer_span": "आग",
+    "expected": "आग",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_house",
+    "completion": "घर\"\nFrançais:",
+    "answer_span": "घर",
+    "expected": "घर",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_night",
+    "completion": "रात\"\nFrançais:",
+    "answer_span": "रात",
+    "expected": "रात",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_milk",
+    "completion": "दूध\"\nFrançais",
+    "answer_span": "दूध",
+    "expected": "दूध",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_tree",
+    "completion": "पेड़\"\nFrançais",
+    "answer_span": "पेड़",
+    "expected": "पेड़",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_bus",
+    "completion": "बस\"\nFrançais:",
+    "answer_span": "बस",
+    "expected": "बस",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_hotel",
+    "completion": "होटल\"\nFr",
+    "answer_span": "होटल",
+    "expected": "होटल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_coffee",
+    "completion": "कॉफ़ी\"\nFrançais",
+    "answer_span": "कॉफ़ी",
+    "expected": "कॉफी",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_native_mobile",
+    "completion": "मोबाइल\"\nFrançais:",
+    "answer_span": "मोबाइल",
+    "expected": "मोबाइल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_flower",
+    "completion": "फूल\"\nEnglish: \"",
+    "answer_span": "फूल",
+    "expected": "फूल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_water",
+    "completion": "पानी\"\nEnglish: \"",
+    "answer_span": "पानी",
+    "expected": "पानी",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_book",
+    "completion": "किताब\"\nEnglish:",
+    "answer_span": "किताब",
+    "expected": "किताब",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_sun",
+    "completion": "सूरज\"\nEnglish:",
+    "answer_span": "सूरज",
+    "expected": "सूरज",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_mountain",
+    "completion": "पहाड़\"\nEnglish",
+    "answer_span": "पहाड़",
+    "expected": "पहाड़",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_fire",
+    "completion": "आग\"\nEnglish:",
+    "answer_span": "आग",
+    "expected": "आग",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_house",
+    "completion": "घर\"\nEnglish: \"",
+    "answer_span": "घर",
+    "expected": "घर",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_night",
+    "completion": "रात\"\nEnglish: \"",
+    "answer_span": "रात",
+    "expected": "रात",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_milk",
+    "completion": "दूध\"\nEnglish:",
+    "answer_span": "दूध",
+    "expected": "दूध",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_tree",
+    "completion": "पेड़\"\nEnglish:",
+    "answer_span": "पेड़",
+    "expected": "पेड़",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_bus",
+    "completion": "बस\"\nEnglish: \"",
+    "answer_span": "बस",
+    "expected": "बस",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_hotel",
+    "completion": "होटल\"\nEnglish",
+    "answer_span": "होटल",
+    "expected": "होटल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_coffee",
+    "completion": "कॉफ़ी\"\nEnglish:",
+    "answer_span": "कॉफ़ी",
+    "expected": "कॉफी",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_native_mobile",
+    "completion": "मोबाइल\"\nEnglish: \"",
+    "answer_span": "मोबाइल",
+    "expected": "मोबाइल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_roman_flower",
+    "completion": "pakka\"\nFrançais",
+    "answer_span": "pakka",
+    "expected": "phool",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_hi_roman_water",
+    "completion": "jal\"\nFrançais:",
+    "answer_span": "jal",
+    "expected": "paani",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_hi_roman_book",
+    "completion": "kitaab\"\nFrançais",
+    "answer_span": "kitaab",
+    "expected": "kitaab",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_roman_sun",
+    "completion": "sooraj\"\nFrançais",
+    "answer_span": "sooraj",
+    "expected": "sooraj",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_roman_mountain",
+    "completion": "parvat\"\nFrançais",
+    "answer_span": "parvat",
+    "expected": "pahaad",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_hi_roman_fire",
+    "completion": "aag\"\nFrançais",
+    "answer_span": "aag",
+    "expected": "aag",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_roman_house",
+    "completion": "ghar\"\nFrançais:",
+    "answer_span": "ghar",
+    "expected": "ghar",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_roman_night",
+    "completion": "raat\"\nFrançais",
+    "answer_span": "raat",
+    "expected": "raat",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_roman_milk",
+    "completion": "doodh\"\nFr",
+    "answer_span": "doodh",
+    "expected": "doodh",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_roman_tree",
+    "completion": "paar\"\nFrançais",
+    "answer_span": "paar",
+    "expected": "ped",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_hi_roman_bus",
+    "completion": "bus\"\nFrançais:",
+    "answer_span": "bus",
+    "expected": "bas",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_hi_roman_hotel",
+    "completion": "hotel\"\nFrançais:",
+    "answer_span": "hotel",
+    "expected": "hotel",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_roman_coffee",
+    "completion": "coffee\" (pronounced similarly)",
+    "answer_span": "coffee",
+    "expected": "coffee",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_hi_roman_mobile",
+    "completion": "mobile\" (same)\n",
+    "answer_span": "mobile",
+    "expected": "mobile",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_roman_flower",
+    "completion": "lota\"\nEnglish:",
+    "answer_span": "lota",
+    "expected": "phool",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_hi_roman_water",
+    "completion": "pani\"\nEnglish: \"",
+    "answer_span": "pani",
+    "expected": "paani",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_hi_roman_book",
+    "completion": "kitaab\"\nEnglish:",
+    "answer_span": "kitaab",
+    "expected": "kitaab",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_roman_sun",
+    "completion": "sooraj\"\nEnglish:",
+    "answer_span": "sooraj",
+    "expected": "sooraj",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_roman_mountain",
+    "completion": "parvat\"\nEnglish:",
+    "answer_span": "parvat",
+    "expected": "pahaad",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_hi_roman_fire",
+    "completion": "aag\"\nEnglish:",
+    "answer_span": "aag",
+    "expected": "aag",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_roman_house",
+    "completion": "ghar\"\nEnglish: \"",
+    "answer_span": "ghar",
+    "expected": "ghar",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_roman_night",
+    "completion": "raat\"\nEnglish:",
+    "answer_span": "raat",
+    "expected": "raat",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_roman_milk",
+    "completion": "doodh\"\nEnglish",
+    "answer_span": "doodh",
+    "expected": "doodh",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_roman_tree",
+    "completion": "paar\"\nEnglish:",
+    "answer_span": "paar",
+    "expected": "ped",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_hi_roman_bus",
+    "completion": "bus\" (same)\n",
+    "answer_span": "bus",
+    "expected": "bas",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_hi_roman_hotel",
+    "completion": "hotel\" (often used directly",
+    "answer_span": "hotel",
+    "expected": "hotel",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_roman_coffee",
+    "completion": "coffee\" (often used directly",
+    "answer_span": "coffee",
+    "expected": "coffee",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_hi_roman_mobile",
+    "completion": "mobile\" (often used directly",
+    "answer_span": "mobile",
+    "expected": "mobile",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_flower",
+    "completion": "பூ\"\nFrançais:",
+    "answer_span": "பூ",
+    "expected": "பூ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_water",
+    "completion": "நீர்\"\nFrançais:",
+    "answer_span": "நீர்",
+    "expected": "தண்ணீர்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_native_book",
+    "completion": "புத்தகம்\"\nFr",
+    "answer_span": "புத்தகம்",
+    "expected": "புத்தகம்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_sun",
+    "completion": "சூரியன்\"\nFr",
+    "answer_span": "சூரியன்",
+    "expected": "சூரியன்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_mountain",
+    "completion": "மலை\"\nFrançais:",
+    "answer_span": "மலை",
+    "expected": "மலை",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_fire",
+    "completion": "நெருப்பு\"\nFr",
+    "answer_span": "நெருப்பு",
+    "expected": "நெருப்பு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_house",
+    "completion": "வீடு\"\nFrançais",
+    "answer_span": "வீடு",
+    "expected": "வீடு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_night",
+    "completion": "இரவு\"\nFrançais",
+    "answer_span": "இரவு",
+    "expected": "இரவு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_milk",
+    "completion": "பால்\"\nFrançais:",
+    "answer_span": "பால்",
+    "expected": "பால்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_tree",
+    "completion": "மரம்\"\nFrançais",
+    "answer_span": "மரம்",
+    "expected": "மரம்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_bus",
+    "completion": "பேருந்து\"\nFr",
+    "answer_span": "பேருந்து",
+    "expected": "பேருந்து",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_hotel",
+    "completion": "தங்கும் விடுதி\"\n",
+    "answer_span": "தங்கும் விடுதி",
+    "expected": "ஹோட்டல்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_native_coffee",
+    "completion": "காபி\"\nFrançais",
+    "answer_span": "காபி",
+    "expected": "காபி",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_native_mobile",
+    "completion": "கைபேசி\"\nFr",
+    "answer_span": "கைபேசி",
+    "expected": "மொபைல்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_native_flower",
+    "completion": "பூ\"\nEnglish: \"",
+    "answer_span": "பூ",
+    "expected": "பூ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_water",
+    "completion": "நீர்\"\nEnglish: \"",
+    "answer_span": "நீர்",
+    "expected": "தண்ணீர்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_native_book",
+    "completion": "புத்தகம்\"\nEnglish",
+    "answer_span": "புத்தகம்",
+    "expected": "புத்தகம்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_sun",
+    "completion": "சூரியன்\"\nEnglish",
+    "answer_span": "சூரியன்",
+    "expected": "சூரியன்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_mountain",
+    "completion": "மலை\"\nEnglish: \"",
+    "answer_span": "மலை",
+    "expected": "மலை",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_fire",
+    "completion": "நெருப்பு\"\nEnglish",
+    "answer_span": "நெருப்பு",
+    "expected": "நெருப்பு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_house",
+    "completion": "வீடு\"\nEnglish:",
+    "answer_span": "வீடு",
+    "expected": "வீடு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_night",
+    "completion": "இரவு\"\nEnglish:",
+    "answer_span": "இரவு",
+    "expected": "இரவு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_milk",
+    "completion": "பால்\"\nEnglish: \"",
+    "answer_span": "பால்",
+    "expected": "பால்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_tree",
+    "completion": "மரம்\"\nEnglish:",
+    "answer_span": "மரம்",
+    "expected": "மரம்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_bus",
+    "completion": "பேருந்து\"\nEnglish",
+    "answer_span": "பேருந்து",
+    "expected": "பேருந்து",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_hotel",
+    "completion": "ஹோட்டல்\"\n",
+    "answer_span": "ஹோட்டல்",
+    "expected": "ஹோட்டல்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_coffee",
+    "completion": "காபி\"\nEnglish:",
+    "answer_span": "காபி",
+    "expected": "காபி",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_native_mobile",
+    "completion": "கைபேசி\"\nEnglish",
+    "answer_span": "கைபேசி",
+    "expected": "மொபைல்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_flower",
+    "completion": "puspa\"\nFrançais",
+    "answer_span": "puspa",
+    "expected": "poo",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_water",
+    "completion": "nal\"\nFrançais:",
+    "answer_span": "nal",
+    "expected": "thanneer",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_book",
+    "completion": "boos\"\nFrançais",
+    "answer_span": "boos",
+    "expected": "puthagam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_sun",
+    "completion": "soorai\"\nFr",
+    "answer_span": "soorai",
+    "expected": "sooriyan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_roman_mountain",
+    "completion": "munnaagaram\"\n",
+    "answer_span": "munnaagaram",
+    "expected": "malai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_fire",
+    "completion": "vaani\"\nFrançais",
+    "answer_span": "vaani",
+    "expected": "neruppu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_house",
+    "completion": "malai\"\nFrançais",
+    "answer_span": "malai",
+    "expected": "veedu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_night",
+    "completion": "vaazhga\"\n",
+    "answer_span": "vaazhga",
+    "expected": "iravu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_milk",
+    "completion": "thaal\"\nFrançais",
+    "answer_span": "thaal",
+    "expected": "paal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_tree",
+    "completion": "magizhchi\"\nFr",
+    "answer_span": "magizhchi",
+    "expected": "maram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_bus",
+    "completion": "vahanam\"\nFrançais",
+    "answer_span": "vahanam",
+    "expected": "bus",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_hotel",
+    "completion": "hotel\"\nFrançais:",
+    "answer_span": "hotel",
+    "expected": "hotel",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ta_roman_coffee",
+    "completion": "kaaffee\"\nFrançais",
+    "answer_span": "kaaffee",
+    "expected": "coffee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ta_roman_mobile",
+    "completion": "mobile\"\nFrançais:",
+    "answer_span": "mobile",
+    "expected": "mobile",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_roman_flower",
+    "completion": "pookkal\"\nEnglish",
+    "answer_span": "pookkal",
+    "expected": "poo",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_water",
+    "completion": "nal\"\nEnglish: \"",
+    "answer_span": "nal",
+    "expected": "thanneer",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_book",
+    "completion": "boos\"\nEnglish:",
+    "answer_span": "boos",
+    "expected": "puthagam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_sun",
+    "completion": "surya\"\nEnglish:",
+    "answer_span": "surya",
+    "expected": "sooriyan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_mountain",
+    "completion": "munnaik kodai\"",
+    "answer_span": "munnaik kodai",
+    "expected": "malai",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_fire",
+    "completion": "vaazhthu\"\n",
+    "answer_span": "vaazhthu",
+    "expected": "neruppu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_house",
+    "completion": "malai\"\nEnglish:",
+    "answer_span": "malai",
+    "expected": "veedu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_night",
+    "completion": "maatra\"\nEnglish:",
+    "answer_span": "maatra",
+    "expected": "iravu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_milk",
+    "completion": "thaalaiyir\"\n",
+    "answer_span": "thaalaiyir",
+    "expected": "paal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_tree",
+    "completion": "maattu\"\nEnglish:",
+    "answer_span": "maattu",
+    "expected": "maram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_bus",
+    "completion": "vahanam\"\nEnglish:",
+    "answer_span": "vahanam",
+    "expected": "bus",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_hotel",
+    "completion": "hotel\" (often used directly",
+    "answer_span": "hotel",
+    "expected": "hotel",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ta_roman_coffee",
+    "completion": "kaafikka\"\nEnglish",
+    "answer_span": "kaafikka",
+    "expected": "coffee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ta_roman_mobile",
+    "completion": "mobile\" (often used directly",
+    "answer_span": "mobile",
+    "expected": "mobile",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ml_native_flower",
+    "completion": "പുൽ\"\nFrançais",
+    "answer_span": "പുൽ",
+    "expected": "പൂവ്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_native_water",
+    "completion": "물\"\nFrançais:",
+    "answer_span": "물",
+    "expected": "വെള്ളം",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_native_book",
+    "completion": "പുസ്തകം\"\nFr",
+    "answer_span": "പുസ്തകം",
+    "expected": "പുസ്തകം",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ml_native_sun",
+    "completion": "സൂര്യൻ\"\n",
+    "answer_span": "സൂര്യൻ",
+    "expected": "സൂര്യൻ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ml_native_mountain",
+    "completion": "പർവ്വതം\"\n",
+    "answer_span": "പർവ്വതം",
+    "expected": "മല",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_native_fire",
+    "completion": "불\"\nFrançais:",
+    "answer_span": "불",
+    "expected": "തീ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_native_house",
+    "completion": "집\"\nFrançais:",
+    "answer_span": "집",
+    "expected": "വീട്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_native_night",
+    "completion": "രാത്രി\"\nFrançais",
+    "answer_span": "രാത്രി",
+    "expected": "രാത്രി",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ml_native_milk",
+    "completion": "பால்\"\nFrançais:",
+    "answer_span": "பால்",
+    "expected": "പാൽ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_native_tree",
+    "completion": "മരം\"\nFrançais",
+    "answer_span": "മരം",
+    "expected": "മരം",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ml_native_bus",
+    "completion": "ബസ്\"\nFrançais",
+    "answer_span": "ബസ്",
+    "expected": "ബസ്",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ml_native_hotel",
+    "completion": "ഹോട്ടൽ\"\nFr",
+    "answer_span": "ഹോട്ടൽ",
+    "expected": "ഹോട്ടൽ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ml_native_coffee",
+    "completion": "قهوة\"\nFrançais",
+    "answer_span": "قهوة",
+    "expected": "കാപ്പി",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_native_mobile",
+    "completion": "eteleഫോൺ\"\nFr",
+    "answer_span": "eteleഫോൺ",
+    "expected": "മൊബൈൽ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_native_flower",
+    "completion": "പുൽ\"\nEnglish:",
+    "answer_span": "പുൽ",
+    "expected": "പൂവ്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_native_water",
+    "completion": "വെള്ളം\"\nEnglish",
+    "answer_span": "വെള്ളം",
+    "expected": "വെള്ളം",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ml_native_book",
+    "completion": "പുസ്തകം\"\nEnglish",
+    "answer_span": "പുസ്തകം",
+    "expected": "പുസ്തകം",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ml_native_sun",
+    "completion": "സൂര്യൻ\"\n",
+    "answer_span": "സൂര്യൻ",
+    "expected": "സൂര്യൻ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ml_native_mountain",
+    "completion": "പർവ്വതം\"\n",
+    "answer_span": "പർവ്വതം",
+    "expected": "മല",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_native_fire",
+    "completion": "തീ\"\nEnglish: \"",
+    "answer_span": "തീ",
+    "expected": "തീ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ml_native_house",
+    "completion": "집\"\nEnglish: \"",
+    "answer_span": "집",
+    "expected": "വീട്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_native_night",
+    "completion": "രാത്രി\"\nEnglish:",
+    "answer_span": "രാത്രി",
+    "expected": "രാത്രി",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ml_native_milk",
+    "completion": "பால்\"\nEnglish: \"",
+    "answer_span": "பால்",
+    "expected": "പാൽ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_native_tree",
+    "completion": "മരം\"\nEnglish:",
+    "answer_span": "മരം",
+    "expected": "മരം",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ml_native_bus",
+    "completion": "ബസ്\"\nEnglish:",
+    "answer_span": "ബസ്",
+    "expected": "ബസ്",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ml_native_hotel",
+    "completion": "ഹോട്ടൽ\"\nEnglish",
+    "answer_span": "ഹോട്ടൽ",
+    "expected": "ഹോട്ടൽ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ml_native_coffee",
+    "completion": "قهوة\" (Qah",
+    "answer_span": "قهوة",
+    "expected": "കാപ്പി",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_native_mobile",
+    "completion": "മൊബൈൽ\"\n",
+    "answer_span": "മൊബൈൽ",
+    "expected": "മൊബൈൽ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ml_roman_flower",
+    "completion": "pooma\"\nFrançais",
+    "answer_span": "pooma",
+    "expected": "poovu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ml_roman_water",
+    "completion": "jalakshi\"\nFr",
+    "answer_span": "jalakshi",
+    "expected": "vellam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_roman_book",
+    "completion": "kutambam\"\nFr",
+    "answer_span": "kutambam",
+    "expected": "pusthakam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_roman_sun",
+    "completion": "suryam\"\nFr",
+    "answer_span": "suryam",
+    "expected": "sooryan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_roman_mountain",
+    "completion": "munnu\"\nFrançais",
+    "answer_span": "munnu",
+    "expected": "mala",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_roman_fire",
+    "completion": "jwala\"\nFrançais",
+    "answer_span": "jwala",
+    "expected": "thee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_roman_house",
+    "completion": "nalu\"\nFrançais",
+    "answer_span": "nalu",
+    "expected": "veedu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_roman_night",
+    "completion": "raatri\"\nFrançais",
+    "answer_span": "raatri",
+    "expected": "raathri",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ml_roman_milk",
+    "completion": "payasam\"\nFrançais",
+    "answer_span": "payasam",
+    "expected": "paal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_roman_tree",
+    "completion": "aksharam\"\nFr",
+    "answer_span": "aksharam",
+    "expected": "maram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_roman_bus",
+    "completion": "autobuses\"\nFr",
+    "answer_span": "autobuses",
+    "expected": "bas",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_roman_hotel",
+    "completion": "hotel\"\nFrançais:",
+    "answer_span": "hotel",
+    "expected": "hotel",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_fr_ml_roman_coffee",
+    "completion": "kafe\"\nFrançais",
+    "answer_span": "kafe",
+    "expected": "coffee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_fr_ml_roman_mobile",
+    "completion": "mobail\"\nFrançais",
+    "answer_span": "mobail",
+    "expected": "mobile",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_flower",
+    "completion": "kalamu\"\nEnglish:",
+    "answer_span": "kalamu",
+    "expected": "poovu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_water",
+    "completion": "jalakshi\"\nEnglish",
+    "answer_span": "jalakshi",
+    "expected": "vellam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_book",
+    "completion": "uthpadham\"\nEnglish",
+    "answer_span": "uthpadham",
+    "expected": "pusthakam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_sun",
+    "completion": "suryam\"\nEnglish",
+    "answer_span": "suryam",
+    "expected": "sooryan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_mountain",
+    "completion": "munnu\"\nEnglish:",
+    "answer_span": "munnu",
+    "expected": "mala",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_fire",
+    "completion": "jwala\"\nEnglish:",
+    "answer_span": "jwala",
+    "expected": "thee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_house",
+    "completion": "nalu\"\nEnglish:",
+    "answer_span": "nalu",
+    "expected": "veedu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_night",
+    "completion": "raatri\"\nEnglish:",
+    "answer_span": "raatri",
+    "expected": "raathri",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ml_roman_milk",
+    "completion": "payasam\"\nEnglish",
+    "answer_span": "payasam",
+    "expected": "paal",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_tree",
+    "completion": "kooda\"\nEnglish",
+    "answer_span": "kooda",
+    "expected": "maram",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_bus",
+    "completion": "bussu\"\nEnglish",
+    "answer_span": "bussu",
+    "expected": "bas",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_hotel",
+    "completion": "hotel\"\nEnglish: \"",
+    "answer_span": "hotel",
+    "expected": "hotel",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "translation_en_ml_roman_coffee",
+    "completion": "kafee\"\nEnglish:",
+    "answer_span": "kafee",
+    "expected": "coffee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "translation_en_ml_roman_mobile",
+    "completion": "mobile phone\" - Malayalam:",
+    "answer_span": "mobile phone",
+    "expected": "mobile",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  }
+]

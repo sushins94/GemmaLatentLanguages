@@ -1,0 +1,23 @@
+{
+  "class": "Gemma3ForConditionalGeneration",
+  "backbone_path": "model.language_model",
+  "n_layers": 48,
+  "d_model": 3840,
+  "vocab_head": 262208,
+  "vocab_tokenizer": 262145,
+  "softcap": null,
+  "tied": false,
+  "model": "/n/scratch/users/p/pas6744/BaseCall/data/models/gemma-3-12b-it",
+  "prompt_set": "/n/scratch/users/p/pas6744/BaseCall/experiments/GemmaLatentLanguages/sets_placeholder/class2_cloze_2shot.json",
+  "weight_dtype": "bfloat16",
+  "lens_dtype": "float32",
+  "lenses": [
+    {
+      "name": "logit"
+    }
+  ],
+  "chat_template": false,
+  "n_prompts": 84,
+  "n_collisions": 17,
+  "timestamp": "2026-09-12T13:16:32"
+}

@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "swap_fr_hitoml_native_flower",
+    "completion": "പുഷ്പം\"\nFr",
+    "answer_span": "പുഷ്പം",
+    "expected": "പൂവ്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_flower",
+    "completion": "pookka\"\nFr",
+    "answer_span": "pookka",
+    "expected": "poovu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_flower",
+    "completion": "फूल\"\nFrançais:",
+    "answer_span": "फूल",
+    "expected": "फूल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_flower",
+    "completion": "phool\"\nFrançais",
+    "answer_span": "phool",
+    "expected": "phool",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_flower",
+    "completion": "பூ\"\nFrançais:",
+    "answer_span": "பூ",
+    "expected": "பூ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_flower",
+    "completion": "malar\"\nFrançais",
+    "answer_span": "malar",
+    "expected": "poo",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_water",
+    "completion": "ജലം\"\nFrançais",
+    "answer_span": "ജലം",
+    "expected": "വെള്ളം",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_water",
+    "completion": "neeru\"\nFrançais",
+    "answer_span": "neeru",
+    "expected": "vellam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_water",
+    "completion": "पानी\"\nFrançais:",
+    "answer_span": "पानी",
+    "expected": "पानी",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_water",
+    "completion": "paani\"\nFrançais",
+    "answer_span": "paani",
+    "expected": "paani",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_water",
+    "completion": "நீர்\"\nFrançais:",
+    "answer_span": "நீர்",
+    "expected": "தண்ணீர்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_roman_water",
+    "completion": "neer\"\nFrançais",
+    "answer_span": "neer",
+    "expected": "thanneer",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_book",
+    "completion": "പുസ്തകം\"\nFr",
+    "answer_span": "പുസ്തകം",
+    "expected": "പുസ്തകം",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_book",
+    "completion": "pustakam\"\nFr",
+    "answer_span": "pustakam",
+    "expected": "pusthakam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_native_book",
+    "completion": "किताब\"\nFrançais",
+    "answer_span": "किताब",
+    "expected": "किताब",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_book",
+    "completion": "kitaab\"\nFrançais",
+    "answer_span": "kitaab",
+    "expected": "kitaab",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_book",
+    "completion": "புத்தகம்\"\nFr",
+    "answer_span": "புத்தகம்",
+    "expected": "புத்தகம்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_book",
+    "completion": "pukkal\"\nFr",
+    "answer_span": "pukkal",
+    "expected": "puthagam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_sun",
+    "completion": "சூரியன்\"\nFr",
+    "answer_span": "சூரியன்",
+    "expected": "സൂര്യൻ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_sun",
+    "completion": "kaalam\"\nFrançais",
+    "answer_span": "kaalam",
+    "expected": "sooryan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_sun",
+    "completion": "सूरज\"\nFrançais",
+    "answer_span": "सूरज",
+    "expected": "सूरज",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_sun",
+    "completion": "sooraj\"\nFrançais",
+    "answer_span": "sooraj",
+    "expected": "sooraj",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_sun",
+    "completion": "சூரியன்\"\nFr",
+    "answer_span": "சூரியன்",
+    "expected": "சூரியன்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_sun",
+    "completion": "selavu\"\nFrançais",
+    "answer_span": "selavu",
+    "expected": "sooriyan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_mountain",
+    "completion": "പർവതം\"\n",
+    "answer_span": "പർവതം",
+    "expected": "മല",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_mountain",
+    "completion": "malai\"\nFrançais",
+    "answer_span": "malai",
+    "expected": "mala",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_mountain",
+    "completion": "पहाड़\"\nFr",
+    "answer_span": "पहाड़",
+    "expected": "पहाड़",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_mountain",
+    "completion": "parvat\"\nFrançais",
+    "answer_span": "parvat",
+    "expected": "pahaad",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_native_mountain",
+    "completion": "மலை\"\nFrançais:",
+    "answer_span": "மலை",
+    "expected": "மலை",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_mountain",
+    "completion": "malai\"\nFrançais",
+    "answer_span": "malai",
+    "expected": "malai",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_native_fire",
+    "completion": "അഗ്നി\"\nFr",
+    "answer_span": "അഗ്നി",
+    "expected": "തീ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_fire",
+    "completion": "chennu\"\nFrançais",
+    "answer_span": "chennu",
+    "expected": "thee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_fire",
+    "completion": "आग\"\nFrançais",
+    "answer_span": "आग",
+    "expected": "आग",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_fire",
+    "completion": "aag\"\nFrançais",
+    "answer_span": "aag",
+    "expected": "aag",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_fire",
+    "completion": "நெருப்பு\"\nFr",
+    "answer_span": "நெருப்பு",
+    "expected": "நெருப்பு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_fire",
+    "completion": "agasi\"\nFrançais",
+    "answer_span": "agasi",
+    "expected": "neruppu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_house",
+    "completion": "ഇల్లు\"\nFrançais",
+    "answer_span": "ഇల్లు",
+    "expected": "വീട്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_house",
+    "completion": "veedu\"\nFrançais",
+    "answer_span": "veedu",
+    "expected": "veedu",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_native_house",
+    "completion": "घर\"\nFrançais:",
+    "answer_span": "घर",
+    "expected": "घर",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_house",
+    "completion": "ghar\"\nFrançais:",
+    "answer_span": "ghar",
+    "expected": "ghar",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_house",
+    "completion": "வீடு\"\nFrançais",
+    "answer_span": "வீடு",
+    "expected": "வீடு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_house",
+    "completion": "veedu\"\nFrançais",
+    "answer_span": "veedu",
+    "expected": "veedu",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_native_night",
+    "completion": "രാത്രി\"\nFrançais",
+    "answer_span": "രാത്രി",
+    "expected": "രാത്രി",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_night",
+    "completion": "raatri\"\nFrançais",
+    "answer_span": "raatri",
+    "expected": "raathri",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_native_night",
+    "completion": "रात\"\nFrançais:",
+    "answer_span": "रात",
+    "expected": "रात",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_night",
+    "completion": "raat\"\nFrançais",
+    "answer_span": "raat",
+    "expected": "raat",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_night",
+    "completion": "இரவு\"\nFrançais",
+    "answer_span": "இரவு",
+    "expected": "இரவு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_night",
+    "completion": "raatri\"\nFrançais",
+    "answer_span": "raatri",
+    "expected": "iravu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_milk",
+    "completion": "പാൽ\"\nFrançais",
+    "answer_span": "പാൽ",
+    "expected": "പാൽ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_milk",
+    "completion": "paal\"\nFrançais",
+    "answer_span": "paal",
+    "expected": "paal",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_native_milk",
+    "completion": "दूध\"\nFrançais",
+    "answer_span": "दूध",
+    "expected": "दूध",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_milk",
+    "completion": "dudh\"\nFrançais",
+    "answer_span": "dudh",
+    "expected": "doodh",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_milk",
+    "completion": "பால்\"\nFrançais:",
+    "answer_span": "பால்",
+    "expected": "பால்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_milk",
+    "completion": "paal\"\nFrançais",
+    "answer_span": "paal",
+    "expected": "paal",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_native_tree",
+    "completion": "മരം\"\nFrançais",
+    "answer_span": "മരം",
+    "expected": "മരം",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_tree",
+    "completion": "maram\"\nFrançais",
+    "answer_span": "maram",
+    "expected": "maram",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_native_tree",
+    "completion": "पेड़\"\nFrançais",
+    "answer_span": "पेड़",
+    "expected": "पेड़",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_tree",
+    "completion": "ped\"\nFrançais:",
+    "answer_span": "ped",
+    "expected": "ped",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_tree",
+    "completion": "மரம்\"\nFrançais",
+    "answer_span": "மரம்",
+    "expected": "மரம்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_tree",
+    "completion": "maram\"\nFrançais",
+    "answer_span": "maram",
+    "expected": "maram",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_native_bus",
+    "completion": "बस\"\nFrançais:",
+    "answer_span": "बस",
+    "expected": "ബസ്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_bus",
+    "completion": "bus\"\nFrançais:",
+    "answer_span": "bus",
+    "expected": "bas",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_bus",
+    "completion": "बस\"\nFrançais:",
+    "answer_span": "बस",
+    "expected": "बस",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_bus",
+    "completion": "bas\"\nFrançais:",
+    "answer_span": "bas",
+    "expected": "bas",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_bus",
+    "completion": "பேருந்து\"\nFr",
+    "answer_span": "பேருந்து",
+    "expected": "பேருந்து",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_bus",
+    "completion": "bus\"\nFrançais:",
+    "answer_span": "bus",
+    "expected": "bus",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_native_hotel",
+    "completion": "ഹോട്ടൽ\"\nFr",
+    "answer_span": "ഹോട്ടൽ",
+    "expected": "ഹോട്ടൽ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_hotel",
+    "completion": "vitta\"\nFrançais",
+    "answer_span": "vitta",
+    "expected": "hotel",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_hotel",
+    "completion": "होटल\"\nFr",
+    "answer_span": "होटल",
+    "expected": "होटल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_hotel",
+    "completion": "hotel\"\nFrançais:",
+    "answer_span": "hotel",
+    "expected": "hotel",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_hotel",
+    "completion": "விடுதி\"\nFrançais",
+    "answer_span": "விடுதி",
+    "expected": "ஹோட்டல்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_roman_hotel",
+    "completion": "thottam\"\nFrançais",
+    "answer_span": "thottam",
+    "expected": "hotel",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_coffee",
+    "completion": "കഫേ\"\nFr",
+    "answer_span": "കഫേ",
+    "expected": "കാപ്പി",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_roman_coffee",
+    "completion": "kaappi\"\nFrançais",
+    "answer_span": "kaappi",
+    "expected": "coffee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_coffee",
+    "completion": "कॉफ़ी\"\nFrançais",
+    "answer_span": "कॉफ़ी",
+    "expected": "कॉफी",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_coffee",
+    "completion": "chai\"\nFrançais:",
+    "answer_span": "chai",
+    "expected": "coffee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_native_coffee",
+    "completion": "காபி\"\nFrançais",
+    "answer_span": "காபி",
+    "expected": "காபி",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_roman_coffee",
+    "completion": "café\"\nFrançais",
+    "answer_span": "café",
+    "expected": "coffee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_hitoml_native_mobile",
+    "completion": "മൊബൈൽ\"\n",
+    "answer_span": "മൊബൈൽ",
+    "expected": "മൊബൈൽ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_hitoml_roman_mobile",
+    "completion": "moobail\"\nFr",
+    "answer_span": "moobail",
+    "expected": "mobile",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_tatohi_native_mobile",
+    "completion": "मोबाइल\"\nFrançais:",
+    "answer_span": "मोबाइल",
+    "expected": "मोबाइल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_tatohi_roman_mobile",
+    "completion": "mobile\"\nFrançais:",
+    "answer_span": "mobile",
+    "expected": "mobile",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_fr_mltota_native_mobile",
+    "completion": "கைபேசி\"\nFr",
+    "answer_span": "கைபேசி",
+    "expected": "மொபைல்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_fr_mltota_roman_mobile",
+    "completion": "seli\"\nFrançais",
+    "answer_span": "seli",
+    "expected": "mobile",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_flower",
+    "completion": "പൂവ്\"\nEnglish",
+    "answer_span": "പൂവ്",
+    "expected": "പൂവ്",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_flower",
+    "completion": "pushpa\"\nEnglish:",
+    "answer_span": "pushpa",
+    "expected": "poovu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_flower",
+    "completion": "फूल\"\nEnglish: \"",
+    "answer_span": "फूल",
+    "expected": "फूल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_flower",
+    "completion": "phool\" - Tamil:",
+    "answer_span": "phool",
+    "expected": "phool",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_flower",
+    "completion": "பூ\"\nEnglish: \"",
+    "answer_span": "பூ",
+    "expected": "பூ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_flower",
+    "completion": "malar\"\nEnglish:",
+    "answer_span": "malar",
+    "expected": "poo",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_water",
+    "completion": "ജലം\"\nEnglish:",
+    "answer_span": "ജലം",
+    "expected": "വെള്ളം",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_roman_water",
+    "completion": "neeru\"\nEnglish:",
+    "answer_span": "neeru",
+    "expected": "vellam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_water",
+    "completion": "पानी\"\nEnglish: \"",
+    "answer_span": "पानी",
+    "expected": "पानी",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_water",
+    "completion": "paani\" - Tamil:",
+    "answer_span": "paani",
+    "expected": "paani",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_water",
+    "completion": "நீர்\"\nEnglish: \"",
+    "answer_span": "நீர்",
+    "expected": "தண்ணீர்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_roman_water",
+    "completion": "neer\" - Malayalam:",
+    "answer_span": "neer",
+    "expected": "thanneer",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_book",
+    "completion": "പുസ്തകം\"\nEnglish",
+    "answer_span": "പുസ്തകം",
+    "expected": "പുസ്തകം",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_book",
+    "completion": "pustakam\"\nEnglish",
+    "answer_span": "pustakam",
+    "expected": "pusthakam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_native_book",
+    "completion": "किताब\"\nEnglish:",
+    "answer_span": "किताब",
+    "expected": "किताब",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_book",
+    "completion": "kitaab\"\nEnglish:",
+    "answer_span": "kitaab",
+    "expected": "kitaab",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_book",
+    "completion": "புத்தகம்\"\nEnglish",
+    "answer_span": "புத்தகம்",
+    "expected": "புத்தகம்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_book",
+    "completion": "pusthakam\"\n",
+    "answer_span": "pusthakam",
+    "expected": "puthagam",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_sun",
+    "completion": "சூரியன்\"\nEnglish",
+    "answer_span": "சூரியன்",
+    "expected": "സൂര്യൻ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_roman_sun",
+    "completion": "ravu\"\nEnglish:",
+    "answer_span": "ravu",
+    "expected": "sooryan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_sun",
+    "completion": "सूरज\"\nEnglish:",
+    "answer_span": "सूरज",
+    "expected": "सूरज",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_sun",
+    "completion": "soorya\"\nEnglish",
+    "answer_span": "soorya",
+    "expected": "sooraj",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_native_sun",
+    "completion": "சூரியன்\"\nEnglish",
+    "answer_span": "சூரியன்",
+    "expected": "சூரியன்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_sun",
+    "completion": "suriyam\"\nEnglish:",
+    "answer_span": "suriyam",
+    "expected": "sooriyan",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_mountain",
+    "completion": "പർവതം\"\n",
+    "answer_span": "പർവതം",
+    "expected": "മല",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_roman_mountain",
+    "completion": "malai\"\nEnglish:",
+    "answer_span": "malai",
+    "expected": "mala",
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_mountain",
+    "completion": "पहाड़\"\nEnglish",
+    "answer_span": "पहाड़",
+    "expected": "पहाड़",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_mountain",
+    "completion": "parvat\" - Tamil:",
+    "answer_span": "parvat",
+    "expected": "pahaad",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_native_mountain",
+    "completion": "மலை\"\nEnglish: \"",
+    "answer_span": "மலை",
+    "expected": "மலை",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_mountain",
+    "completion": "malai\"\nEnglish:",
+    "answer_span": "malai",
+    "expected": "malai",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_native_fire",
+    "completion": "അഗ്നി\"\nEnglish",
+    "answer_span": "അഗ്നി",
+    "expected": "തീ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_roman_fire",
+    "completion": "chennu\"\nEnglish:",
+    "answer_span": "chennu",
+    "expected": "thee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_fire",
+    "completion": "आग\"\nEnglish:",
+    "answer_span": "आग",
+    "expected": "आग",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_fire",
+    "completion": "aag\"\nEnglish:",
+    "answer_span": "aag",
+    "expected": "aag",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_fire",
+    "completion": "நெருப்பு\"\nEnglish",
+    "answer_span": "நெருப்பு",
+    "expected": "நெருப்பு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_fire",
+    "completion": "agni\"\nEnglish:",
+    "answer_span": "agni",
+    "expected": "neruppu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_house",
+    "completion": "ഇల్లు\"\nEnglish:",
+    "answer_span": "ഇల్లు",
+    "expected": "വീട്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_roman_house",
+    "completion": "veedu\"\nEnglish:",
+    "answer_span": "veedu",
+    "expected": "veedu",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_native_house",
+    "completion": "घर\"\nEnglish: \"",
+    "answer_span": "घर",
+    "expected": "घर",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_house",
+    "completion": "ghar\" - Tamil: \"",
+    "answer_span": "ghar",
+    "expected": "ghar",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_house",
+    "completion": "வீடு\"\nEnglish:",
+    "answer_span": "வீடு",
+    "expected": "வீடு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_house",
+    "completion": "veedu\"\nEnglish:",
+    "answer_span": "veedu",
+    "expected": "veedu",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_native_night",
+    "completion": "രാത്രി\"\nEnglish:",
+    "answer_span": "രാത്രി",
+    "expected": "രാത്രി",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_night",
+    "completion": " रात \" (Raatri)",
+    "answer_span": " रात ",
+    "expected": "raathri",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_night",
+    "completion": "रात\"\nEnglish: \"",
+    "answer_span": "रात",
+    "expected": "रात",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_night",
+    "completion": "raat\"\nEnglish:",
+    "answer_span": "raat",
+    "expected": "raat",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_night",
+    "completion": "இரவு\"\nEnglish:",
+    "answer_span": "இரவு",
+    "expected": "இரவு",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_night",
+    "completion": "raatri\"\nEnglish:",
+    "answer_span": "raatri",
+    "expected": "iravu",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_milk",
+    "completion": "പാൽ\"\nEnglish:",
+    "answer_span": "പാൽ",
+    "expected": "പാൽ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_milk",
+    "completion": "paal\"\nEnglish:",
+    "answer_span": "paal",
+    "expected": "paal",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_native_milk",
+    "completion": "दूध\"\nEnglish:",
+    "answer_span": "दूध",
+    "expected": "दूध",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_milk",
+    "completion": "dudh\"\nEnglish:",
+    "answer_span": "dudh",
+    "expected": "doodh",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_milk",
+    "completion": "பால்\"\nEnglish: \"",
+    "answer_span": "பால்",
+    "expected": "பால்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_milk",
+    "completion": "paal\"\nEnglish:",
+    "answer_span": "paal",
+    "expected": "paal",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_native_tree",
+    "completion": "മരം\"\nEnglish:",
+    "answer_span": "മരം",
+    "expected": "മരം",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_tree",
+    "completion": "maram\"\nEnglish:",
+    "answer_span": "maram",
+    "expected": "maram",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_native_tree",
+    "completion": "पेड़\"\nEnglish:",
+    "answer_span": "पेड़",
+    "expected": "पेड़",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_tree",
+    "completion": "ped\" - Tamil: \"",
+    "answer_span": "ped",
+    "expected": "ped",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_tree",
+    "completion": "மரம்\"\nEnglish:",
+    "answer_span": "மரம்",
+    "expected": "மரம்",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_tree",
+    "completion": "maram\"\nEnglish:",
+    "answer_span": "maram",
+    "expected": "maram",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_native_bus",
+    "completion": "बस\"\nEnglish: \"",
+    "answer_span": "बस",
+    "expected": "ബസ്",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_roman_bus",
+    "completion": "bus\"\nEnglish: \"",
+    "answer_span": "bus",
+    "expected": "bas",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_bus",
+    "completion": "बस\"\nEnglish: \"",
+    "answer_span": "बस",
+    "expected": "बस",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_bus",
+    "completion": "bas\"\nEnglish: \"",
+    "answer_span": "bas",
+    "expected": "bas",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_bus",
+    "completion": "பேருந்து\"\nEnglish",
+    "answer_span": "பேருந்து",
+    "expected": "பேருந்து",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_bus",
+    "completion": "paasai\"\nEnglish",
+    "answer_span": "paasai",
+    "expected": "bus",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_hotel",
+    "completion": "ഹോട്ട്ൽ\"\nEnglish",
+    "answer_span": "ഹോട്ട്ൽ",
+    "expected": "ഹോട്ടൽ",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_hotel",
+    "completion": "veedum\"\nEnglish",
+    "answer_span": "veedum",
+    "expected": "hotel",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_hotel",
+    "completion": "होटल\"\nEnglish",
+    "answer_span": "होटल",
+    "expected": "होटल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_hotel",
+    "completion": "hotel\"\nEnglish: \"",
+    "answer_span": "hotel",
+    "expected": "hotel",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_hotel",
+    "completion": "விடுதி\"\nEnglish:",
+    "answer_span": "விடுதி",
+    "expected": "ஹோட்டல்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_roman_hotel",
+    "completion": "thodargal\"\n",
+    "answer_span": "thodargal",
+    "expected": "hotel",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_coffee",
+    "completion": "കോഫി\"\nEnglish",
+    "answer_span": "കോഫി",
+    "expected": "കാപ്പി",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_roman_coffee",
+    "completion": "kaappi\"\nEnglish:",
+    "answer_span": "kaappi",
+    "expected": "coffee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_coffee",
+    "completion": "कॉफी\"\nEnglish:",
+    "answer_span": "कॉफी",
+    "expected": "कॉफी",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_coffee",
+    "completion": "kaapi\"\nEnglish:",
+    "answer_span": "kaapi",
+    "expected": "coffee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_native_coffee",
+    "completion": "காபி\"\nEnglish:",
+    "answer_span": "காபி",
+    "expected": "காபி",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_roman_coffee",
+    "completion": "kaapi\"\nEnglish:",
+    "answer_span": "kaapi",
+    "expected": "coffee",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_hitoml_native_mobile",
+    "completion": "മൊബൈൽ\"\n",
+    "answer_span": "മൊബൈൽ",
+    "expected": "മൊബൈൽ",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_hitoml_roman_mobile",
+    "completion": "nakkhu\"\nEnglish",
+    "answer_span": "nakkhu",
+    "expected": "mobile",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_tatohi_native_mobile",
+    "completion": "मोबाइल\"\nEnglish: \"",
+    "answer_span": "मोबाइल",
+    "expected": "मोबाइल",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_tatohi_roman_mobile",
+    "completion": "mobile\"\nEnglish: \"",
+    "answer_span": "mobile",
+    "expected": "mobile",
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "swap_en_mltota_native_mobile",
+    "completion": "கைபேசி\"\nEnglish",
+    "answer_span": "கைபேசி",
+    "expected": "மொபைல்",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "swap_en_mltota_roman_mobile",
+    "completion": "selavam\"\nEnglish:",
+    "answer_span": "selavam",
+    "expected": "mobile",
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  }
+]

@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_flower",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"paani\" - Tamil: \"thanneer\"\nHindi: \"phool\" - Tamil: \"",
+    "answers": {
+      "en": "flower",
+      "ta_native": "பூ",
+      "ta_roman": "poo",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "src": "phool"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_water",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"paani\" - Tamil: \"",
+    "answers": {
+      "en": "water",
+      "ta_native": "தண்ணீர்",
+      "ta_roman": "thanneer",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "src": "paani"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_book",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"kitaab\" - Tamil: \"",
+    "answers": {
+      "en": "book",
+      "ta_native": "புத்தகம்",
+      "ta_roman": "puthagam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "src": "kitaab"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_sun",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"sooraj\" - Tamil: \"",
+    "answers": {
+      "en": "sun",
+      "ta_native": "சூரியன்",
+      "ta_roman": "sooriyan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "src": "sooraj"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_mountain",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"pahaad\" - Tamil: \"",
+    "answers": {
+      "en": "mountain",
+      "ta_native": "மலை",
+      "ta_roman": "malai",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "src": "pahaad"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_fire",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"aag\" - Tamil: \"",
+    "answers": {
+      "en": "fire",
+      "ta_native": "நெருப்பு",
+      "ta_roman": "neruppu",
+      "en_control": "human",
+      "hi_native": "आग",
+      "src": "aag"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_house",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"ghar\" - Tamil: \"",
+    "answers": {
+      "en": "house",
+      "ta_native": "வீடு",
+      "ta_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "src": "ghar"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_night",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"raat\" - Tamil: \"",
+    "answers": {
+      "en": "night",
+      "ta_native": "இரவு",
+      "ta_roman": "iravu",
+      "en_control": "river",
+      "hi_native": "रात",
+      "src": "raat"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_milk",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"doodh\" - Tamil: \"",
+    "answers": {
+      "en": "milk",
+      "ta_native": "பால்",
+      "ta_roman": "paal",
+      "en_control": "pocket",
+      "hi_native": "दूध",
+      "src": "doodh"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_tree",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"ped\" - Tamil: \"",
+    "answers": {
+      "en": "tree",
+      "ta_native": "மரம்",
+      "ta_roman": "maram",
+      "en_control": "letter",
+      "hi_native": "पेड़",
+      "src": "ped"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_bus",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"bas\" - Tamil: \"",
+    "answers": {
+      "en": "bus",
+      "ta_native": "பேருந்து",
+      "ta_roman": "bus",
+      "en_control": "river",
+      "hi_native": "बस",
+      "src": "bas"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_hotel",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"hotel\" - Tamil: \"",
+    "answers": {
+      "en": "hotel",
+      "ta_native": "ஹோட்டல்",
+      "ta_roman": "hotel",
+      "en_control": "basket",
+      "hi_native": "होटल",
+      "src": "hotel"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_coffee",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"coffee\" - Tamil: \"",
+    "answers": {
+      "en": "coffee",
+      "ta_native": "காபி",
+      "ta_roman": "coffee",
+      "en_control": "candle",
+      "hi_native": "कॉफी",
+      "src": "coffee"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_hitota_hi_rom_ta_roman_mobile",
+    "task": "translation_r2r",
+    "src_lang": "hi_rom",
+    "language": "ta",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "ta_roman",
+    "prompt": "Hindi: \"phool\" - Tamil: \"poo\"\nHindi: \"mobile\" - Tamil: \"",
+    "answers": {
+      "en": "mobile",
+      "ta_native": "மொபைல்",
+      "ta_roman": "mobile",
+      "en_control": "harbour",
+      "hi_native": "मोबाइल",
+      "src": "mobile"
+    },
+    "collision_labels": [
+      "en",
+      "ta_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_flower",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"thanneer\" - Malayalam: \"vellam\"\nTamil: \"poo\" - Malayalam: \"",
+    "answers": {
+      "en": "flower",
+      "ml_native": "പൂവ്",
+      "ml_roman": "poovu",
+      "en_control": "audio",
+      "hi_native": "फूल",
+      "src": "poo"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_water",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"thanneer\" - Malayalam: \"",
+    "answers": {
+      "en": "water",
+      "ml_native": "വെള്ളം",
+      "ml_roman": "vellam",
+      "en_control": "business",
+      "hi_native": "पानी",
+      "src": "thanneer"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_book",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"puthagam\" - Malayalam: \"",
+    "answers": {
+      "en": "book",
+      "ml_native": "പുസ്തകം",
+      "ml_roman": "pusthakam",
+      "en_control": "trying",
+      "hi_native": "किताब",
+      "src": "puthagam"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_sun",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"sooriyan\" - Malayalam: \"",
+    "answers": {
+      "en": "sun",
+      "ml_native": "സൂര്യൻ",
+      "ml_roman": "sooryan",
+      "en_control": "via",
+      "hi_native": "सूरज",
+      "src": "sooriyan"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_mountain",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"malai\" - Malayalam: \"",
+    "answers": {
+      "en": "mountain",
+      "ml_native": "മല",
+      "ml_roman": "mala",
+      "en_control": "advantage",
+      "hi_native": "पहाड़",
+      "src": "malai"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_fire",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"neruppu\" - Malayalam: \"",
+    "answers": {
+      "en": "fire",
+      "ml_native": "തീ",
+      "ml_roman": "thee",
+      "en_control": "human",
+      "hi_native": "आग",
+      "src": "neruppu"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_house",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"veedu\" - Malayalam: \"",
+    "answers": {
+      "en": "house",
+      "ml_native": "വീട്",
+      "ml_roman": "veedu",
+      "en_control": "little",
+      "hi_native": "घर",
+      "src": "veedu"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_night",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"iravu\" - Malayalam: \"",
+    "answers": {
+      "en": "night",
+      "ml_native": "രാത്രി",
+      "ml_roman": "raathri",
+      "en_control": "lantern",
+      "hi_native": "रात",
+      "src": "iravu"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_milk",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"paal\" - Malayalam: \"",
+    "answers": {
+      "en": "milk",
+      "ml_native": "പാൽ",
+      "ml_roman": "paal",
+      "en_control": "bridge",
+      "hi_native": "दूध",
+      "src": "paal"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_tree",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"maram\" - Malayalam: \"",
+    "answers": {
+      "en": "tree",
+      "ml_native": "മരം",
+      "ml_roman": "maram",
+      "en_control": "paper",
+      "hi_native": "पेड़",
+      "src": "maram"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_bus",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"bus\" - Malayalam: \"",
+    "answers": {
+      "en": "bus",
+      "ml_native": "ബസ്",
+      "ml_roman": "bas",
+      "en_control": "paper",
+      "hi_native": "बस",
+      "src": "bus"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_hotel",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"hotel\" - Malayalam: \"",
+    "answers": {
+      "en": "hotel",
+      "ml_native": "ഹോട്ടൽ",
+      "ml_roman": "hotel",
+      "en_control": "candle",
+      "hi_native": "होटल",
+      "src": "hotel"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_coffee",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"coffee\" - Malayalam: \"",
+    "answers": {
+      "en": "coffee",
+      "ml_native": "കാപ്പി",
+      "ml_roman": "coffee",
+      "en_control": "letter",
+      "hi_native": "कॉफी",
+      "src": "coffee"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_tatoml_ta_rom_ml_roman_mobile",
+    "task": "translation_r2r",
+    "src_lang": "ta_rom",
+    "language": "ml",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "ml_roman",
+    "prompt": "Tamil: \"poo\" - Malayalam: \"poovu\"\nTamil: \"mobile\" - Malayalam: \"",
+    "answers": {
+      "en": "mobile",
+      "ml_native": "മൊബൈൽ",
+      "ml_roman": "mobile",
+      "en_control": "meadow",
+      "hi_native": "मोबाइल",
+      "src": "mobile"
+    },
+    "collision_labels": [
+      "en",
+      "ml_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_flower",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"vellam\" - Hindi: \"paani\"\nMalayalam: \"poovu\" - Hindi: \"",
+    "answers": {
+      "en": "flower",
+      "hi_native": "फूल",
+      "hi_roman": "phool",
+      "en_control": "audio",
+      "ta_native": "பூ",
+      "src": "poovu"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_water",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"vellam\" - Hindi: \"",
+    "answers": {
+      "en": "water",
+      "hi_native": "पानी",
+      "hi_roman": "paani",
+      "en_control": "business",
+      "ta_native": "தண்ணீர்",
+      "src": "vellam"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_book",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"pusthakam\" - Hindi: \"",
+    "answers": {
+      "en": "book",
+      "hi_native": "किताब",
+      "hi_roman": "kitaab",
+      "en_control": "trying",
+      "ta_native": "புத்தகம்",
+      "src": "pusthakam"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_sun",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"sooryan\" - Hindi: \"",
+    "answers": {
+      "en": "sun",
+      "hi_native": "सूरज",
+      "hi_roman": "sooraj",
+      "en_control": "via",
+      "ta_native": "சூரியன்",
+      "src": "sooryan"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_mountain",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"mala\" - Hindi: \"",
+    "answers": {
+      "en": "mountain",
+      "hi_native": "पहाड़",
+      "hi_roman": "pahaad",
+      "en_control": "advantage",
+      "ta_native": "மலை",
+      "src": "mala"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_fire",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"thee\" - Hindi: \"",
+    "answers": {
+      "en": "fire",
+      "hi_native": "आग",
+      "hi_roman": "aag",
+      "en_control": "human",
+      "ta_native": "நெருப்பு",
+      "src": "thee"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_house",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"veedu\" - Hindi: \"",
+    "answers": {
+      "en": "house",
+      "hi_native": "घर",
+      "hi_roman": "ghar",
+      "en_control": "little",
+      "ta_native": "வீடு",
+      "src": "veedu"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_night",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"raathri\" - Hindi: \"",
+    "answers": {
+      "en": "night",
+      "hi_native": "रात",
+      "hi_roman": "raat",
+      "en_control": "basket",
+      "ta_native": "இரவு",
+      "src": "raathri"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_milk",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"paal\" - Hindi: \"",
+    "answers": {
+      "en": "milk",
+      "hi_native": "दूध",
+      "hi_roman": "doodh",
+      "en_control": "candle",
+      "ta_native": "பால்",
+      "src": "paal"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_tree",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": false,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"maram\" - Hindi: \"",
+    "answers": {
+      "en": "tree",
+      "hi_native": "पेड़",
+      "hi_roman": "ped",
+      "en_control": "morning",
+      "ta_native": "மரம்",
+      "src": "maram"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": false,
+    "kept": true,
+    "correct": false,
+    "correct_exact": false,
+    "correct_first_token": false
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_bus",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"bas\" - Hindi: \"",
+    "answers": {
+      "en": "bus",
+      "hi_native": "बस",
+      "hi_roman": "bas",
+      "en_control": "window",
+      "ta_native": "பேருந்து",
+      "src": "bas"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_hotel",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"hotel\" - Hindi: \"",
+    "answers": {
+      "en": "hotel",
+      "hi_native": "होटल",
+      "hi_roman": "hotel",
+      "en_control": "meadow",
+      "ta_native": "ஹோட்டல்",
+      "src": "hotel"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_coffee",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"coffee\" - Hindi: \"",
+    "answers": {
+      "en": "coffee",
+      "hi_native": "कॉफी",
+      "hi_roman": "coffee",
+      "en_control": "pocket",
+      "ta_native": "காபி",
+      "src": "coffee"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  },
+  {
+    "id": "r2r_mltohi_ml_rom_hi_roman_mobile",
+    "task": "translation_r2r",
+    "src_lang": "ml_rom",
+    "language": "hi",
+    "script": "roman",
+    "cognate": true,
+    "n_demos": 1,
+    "target_label": "hi_roman",
+    "prompt": "Malayalam: \"poovu\" - Hindi: \"phool\"\nMalayalam: \"mobile\" - Hindi: \"",
+    "answers": {
+      "en": "mobile",
+      "hi_native": "मोबाइल",
+      "hi_roman": "mobile",
+      "en_control": "basket",
+      "ta_native": "மொபைல்",
+      "src": "mobile"
+    },
+    "collision_labels": [
+      "en",
+      "hi_roman"
+    ],
+    "collision": true,
+    "kept": false,
+    "correct": true,
+    "correct_exact": true,
+    "correct_first_token": true
+  }
+]

@@ -1,0 +1,26 @@
+| run | lens | task | lang | script | shots | n | acc | acc_exact | acc_tok1 | L_en | P_en | P_enctrl | en_ratio | L_tgt | P_tgt | L_switch | sw_ref | sw_med | sw_sd | sw_never | MRR_en | MRR_tgt |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| class1_translation_4shot | jlens_en | translation | hi | native | 4 | 28 | 0.9286 | 0.9286 | 1 | 29 | 0.9668 | 0 | 28852.543 | 32 | 0.5203 | 32 | en | 32 | 10.5864 | 2 | 0.2966 | 0.0824 |
+| class1_translation_4shot | jlens_en | translation | hi | roman | 4 | 36 | 0.5556 | 0.5556 | 0.5556 | 28 | 0.9811 | 0.0001 | 9699.3633 | 32 | 0.5696 | 31 | en | 5 | 8.8457 | 0 | 0.2542 | 0.0667 |
+| class1_translation_4shot | jlens_en | translation | ml | native | 4 | 28 | 0.5357 | 0.5357 | 0.5357 | 27 | 0.9201 | 0.0004 | 2622.9675 | 32 | 0.0171 | -1 | en | 6 | 3.5145 | 14 | 0.2886 | 0.0384 |
+| class1_translation_4shot | jlens_en | translation | ml | roman | 4 | 32 | 0 | 0 | 0.1875 | 29 | 0.949 | 0.0056 | 168.017 | 32 | 0.2154 | 32 | en | 7.5 | 9.2702 | 0 | 0.2479 | 0.0467 |
+| class1_translation_4shot | jlens_en | translation | ta | native | 4 | 28 | 0.8214 | 0.8214 | 0.8214 | 28 | 0.9704 | 0.0082 | 118.1312 | 32 | 0.3309 | 32 | en | 15.5 | 9.9334 | 6 | 0.2974 | 0.0577 |
+| class1_translation_4shot | jlens_en | translation | ta | roman | 4 | 32 | 0.0625 | 0 | 0 | 27 | 0.9386 | 0.0553 | 16.9741 | 32 | 0.1896 | 32 | en | 5 | 9.6393 | 1 | 0.2512 | 0.0451 |
+| class1_translation_4shot | jlens_indic | translation | hi | native | 4 | 28 | 0.9286 | 0.9286 | 1 | 29 | 0.9718 | 0 | 29003.8242 | 32 | 0.5203 | 0 | en | 0 | 2.4503 | 0 | 0.2848 | 0.0793 |
+| class1_translation_4shot | jlens_indic | translation | hi | roman | 4 | 36 | 0.5556 | 0.5556 | 0.5556 | 28 | 0.9455 | 0.0001 | 9347.4219 | 32 | 0.5696 | 1 | en | 1 | 4.5691 | 0 | 0.2344 | 0.0711 |
+| class1_translation_4shot | jlens_indic | translation | ml | native | 4 | 28 | 0.5357 | 0.5357 | 0.5357 | 27 | 0.8653 | 0.0004 | 2466.6133 | 32 | 0.0171 | 5 | en | 2 | 2.0785 | 3 | 0.2685 | 0.0372 |
+| class1_translation_4shot | jlens_indic | translation | ml | roman | 4 | 32 | 0 | 0 | 0.1875 | 29 | 0.9276 | 0.0053 | 173.4415 | 32 | 0.2154 | 1 | en | 1 | 5.1819 | 3 | 0.2484 | 0.0453 |
+| class1_translation_4shot | jlens_indic | translation | ta | native | 4 | 28 | 0.8214 | 0.8214 | 0.8214 | 28 | 0.9675 | 0.0082 | 117.7872 | 32 | 0.3309 | 0 | en | 0 | 1.567 | 2 | 0.2889 | 0.0595 |
+| class1_translation_4shot | jlens_indic | translation | ta | roman | 4 | 32 | 0.0625 | 0 | 0 | 29 | 0.9279 | 0.0553 | 16.7789 | 32 | 0.1896 | 0 | en | 1 | 4.1226 | 0 | 0.2582 | 0.0445 |
+| class1_translation_4shot | jlens_mixed | translation | hi | native | 4 | 28 | 0.9286 | 0.9286 | 1 | 29 | 0.9671 | 0 | 28861.9863 | 32 | 0.5203 | 0 | en | 0 | 4.3029 | 0 | 0.2795 | 0.0808 |
+| class1_translation_4shot | jlens_mixed | translation | hi | roman | 4 | 36 | 0.5556 | 0.5556 | 0.5556 | 28 | 0.9549 | 0.0001 | 9440.5596 | 32 | 0.5696 | 0 | en | 0 | 5.054 | 0 | 0.2382 | 0.0684 |
+| class1_translation_4shot | jlens_mixed | translation | ml | native | 4 | 28 | 0.5357 | 0.5357 | 0.5357 | 27 | 0.8752 | 0.0004 | 2494.8418 | 32 | 0.0171 | 6 | en | 3 | 2.1487 | 7 | 0.277 | 0.0373 |
+| class1_translation_4shot | jlens_mixed | translation | ml | roman | 4 | 32 | 0 | 0 | 0.1875 | 29 | 0.9384 | 0.0053 | 175.4439 | 32 | 0.2154 | 0 | en | 0 | 5.4986 | 0 | 0.2524 | 0.0455 |
+| class1_translation_4shot | jlens_mixed | translation | ta | native | 4 | 28 | 0.8214 | 0.8214 | 0.8214 | 28 | 0.9684 | 0.0082 | 117.8898 | 32 | 0.3309 | 0 | en | 1 | 2.2926 | 2 | 0.2951 | 0.0597 |
+| class1_translation_4shot | jlens_mixed | translation | ta | roman | 4 | 32 | 0.0625 | 0 | 0 | 29 | 0.941 | 0.0553 | 17.0158 | 32 | 0.1896 | 0 | en | 0 | 4.272 | 0 | 0.2618 | 0.0445 |
+| class1_translation_4shot | logit | translation | hi | native | 4 | 28 | 0.9286 | 0.9286 | 1 | 29 | 0.9391 | 0.0136 | 69.2671 | 33 | 0.967 | 32 | en | 5.5 | 13.8711 | 0 | 0.3386 | 0.0809 |
+| class1_translation_4shot | logit | translation | hi | roman | 4 | 36 | 0.5556 | 0.5556 | 0.5556 | 29 | 0.9718 | 0.0161 | 60.3429 | 33 | 0.6466 | 31 | en | 7 | 12.2888 | 0 | 0.336 | 0.0773 |
+| class1_translation_4shot | logit | translation | ml | native | 4 | 28 | 0.5357 | 0.5357 | 0.5357 | 28 | 0.8858 | 0.0174 | 51.0093 | 33 | 0.4973 | 33 | en | 33 | 13.0261 | 0 | 0.3338 | 0.0253 |
+| class1_translation_4shot | logit | translation | ml | roman | 4 | 32 | 0 | 0 | 0.1875 | 29 | 0.9461 | 0.0157 | 60.1578 | 32 | 0.2154 | 32 | en | 4 | 13.4058 | 1 | 0.3352 | 0.0832 |
+| class1_translation_4shot | logit | translation | ta | native | 4 | 28 | 0.8214 | 0.8214 | 0.8214 | 28 | 0.9581 | 0.0136 | 70.6696 | 33 | 0.8307 | 32 | en | 12.5 | 13.7944 | 0 | 0.3406 | 0.0518 |
+| class1_translation_4shot | logit | translation | ta | roman | 4 | 32 | 0.0625 | 0 | 0 | 29 | 0.9576 | 0.0553 | 17.3172 | 32 | 0.1896 | 0 | en | 1 | 1.9431 | 2 | 0.3446 | 0.044 |
