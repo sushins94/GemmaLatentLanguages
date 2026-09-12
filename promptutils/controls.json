@@ -1,0 +1,926 @@
+{
+  "book": {
+    "control": "trying",
+    "zipf_target": 5.43,
+    "zipf_control": 5.47,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "cloud": {
+    "control": "jordan",
+    "zipf_target": 4.46,
+    "zipf_control": 4.51,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "bag": {
+    "control": "lie",
+    "zipf_target": 4.79,
+    "zipf_control": 4.84,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "mouth": {
+    "control": "award",
+    "zipf_target": 4.83,
+    "zipf_control": 4.88,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "soil": {
+    "control": "drew",
+    "zipf_target": 4.42,
+    "zipf_control": 4.46,
+    "n_start_target": 7,
+    "n_start_control": 7
+  },
+  "mountain": {
+    "control": "advantage",
+    "zipf_target": 4.73,
+    "zipf_control": 4.78,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "cloth": {
+    "control": "advances",
+    "zipf_target": 4.03,
+    "zipf_control": 4.08,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "heart": {
+    "control": "taken",
+    "zipf_target": 5.31,
+    "zipf_control": 5.33,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "hand": {
+    "control": "area",
+    "zipf_target": 5.41,
+    "zipf_control": 5.46,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "day": {
+    "control": "may",
+    "zipf_target": 5.95,
+    "zipf_control": 5.98,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "star": {
+    "control": "cost",
+    "zipf_target": 5.19,
+    "zipf_control": 5.24,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "spring": {
+    "control": "clean",
+    "zipf_target": 4.92,
+    "zipf_control": 4.97,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "moon": {
+    "control": "henry",
+    "zipf_target": 4.7,
+    "zipf_control": 4.74,
+    "n_start_target": 7,
+    "n_start_control": 7
+  },
+  "wood": {
+    "control": "cent",
+    "zipf_target": 4.78,
+    "zipf_control": 4.83,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "village": {
+    "control": "economy",
+    "zipf_target": 4.82,
+    "zipf_control": 4.87,
+    "n_start_target": 12,
+    "n_start_control": 12
+  },
+  "forest": {
+    "control": "believed",
+    "zipf_target": 4.7,
+    "zipf_control": 4.75,
+    "n_start_target": 12,
+    "n_start_control": 12
+  },
+  "fruit": {
+    "control": "alex",
+    "zipf_target": 4.57,
+    "zipf_control": 4.62,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "grid": {
+    "control": "charlotte",
+    "zipf_target": 4.18,
+    "zipf_control": 4.22,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "song": {
+    "control": "form",
+    "zipf_target": 5.26,
+    "zipf_control": 5.31,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "water": {
+    "control": "business",
+    "zipf_target": 5.52,
+    "zipf_control": 5.56,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "pond": {
+    "control": "arch",
+    "zipf_target": 3.98,
+    "zipf_control": 4.02,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "sand": {
+    "control": "bush",
+    "zipf_target": 4.44,
+    "zipf_control": 4.49,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "river": {
+    "control": "council",
+    "zipf_target": 5.03,
+    "zipf_control": 5.08,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "law": {
+    "control": "men",
+    "zipf_target": 5.46,
+    "zipf_control": 5.51,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "wave": {
+    "control": "feed",
+    "zipf_target": 4.62,
+    "zipf_control": 4.67,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "ocean": {
+    "control": "busy",
+    "zipf_target": 4.7,
+    "zipf_control": 4.75,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "cave": {
+    "control": "adams",
+    "zipf_target": 4.2,
+    "zipf_control": 4.25,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "sea": {
+    "control": "dog",
+    "zipf_target": 5.06,
+    "zipf_control": 5.1,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "lake": {
+    "control": "holy",
+    "zipf_target": 4.83,
+    "zipf_control": 4.88,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "source": {
+    "control": "common",
+    "zipf_target": 5.15,
+    "zipf_control": 5.2,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "fire": {
+    "control": "human",
+    "zipf_target": 5.3,
+    "zipf_control": 5.35,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "point": {
+    "control": "having",
+    "zipf_target": 5.54,
+    "zipf_control": 5.59,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "version": {
+    "control": "central",
+    "zipf_target": 5.07,
+    "zipf_control": 5.12,
+    "n_start_target": 12,
+    "n_start_control": 12
+  },
+  "ball": {
+    "control": "damn",
+    "zipf_target": 5.04,
+    "zipf_control": 5.09,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "painting": {
+    "control": "flowers",
+    "zipf_target": 4.6,
+    "zipf_control": 4.64,
+    "n_start_target": 12,
+    "n_start_control": 12
+  },
+  "station": {
+    "control": "australia",
+    "zipf_target": 5.01,
+    "zipf_control": 5.06,
+    "n_start_target": 11,
+    "n_start_control": 11
+  },
+  "rice": {
+    "control": "bomb",
+    "zipf_target": 4.55,
+    "zipf_control": 4.6,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "red": {
+    "control": "air",
+    "zipf_target": 5.32,
+    "zipf_control": 5.37,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "line": {
+    "control": "full",
+    "zipf_target": 5.49,
+    "zipf_control": 5.54,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "net": {
+    "control": "bet",
+    "zipf_target": 4.76,
+    "zipf_control": 4.79,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "flower": {
+    "control": "audio",
+    "zipf_target": 4.42,
+    "zipf_control": 4.47,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "tea": {
+    "control": "joe",
+    "zipf_target": 4.73,
+    "zipf_control": 4.78,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "foot": {
+    "control": "band",
+    "zipf_target": 4.87,
+    "zipf_control": 4.92,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "gold": {
+    "control": "date",
+    "zipf_target": 5.17,
+    "zipf_control": 5.22,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "door": {
+    "control": "amount",
+    "zipf_target": 5.08,
+    "zipf_control": 5.13,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "snow": {
+    "control": "anywhere",
+    "zipf_target": 4.66,
+    "zipf_control": 4.71,
+    "n_start_target": 7,
+    "n_start_control": 7
+  },
+  "horse": {
+    "control": "agent",
+    "zipf_target": 4.76,
+    "zipf_control": 4.81,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "one": {
+    "control": "his",
+    "zipf_target": 6.47,
+    "zipf_control": 6.51,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "two": {
+    "control": "our",
+    "zipf_target": 6.1,
+    "zipf_control": 6.14,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "three": {
+    "control": "every",
+    "zipf_target": 5.78,
+    "zipf_control": 5.79,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "four": {
+    "control": "done",
+    "zipf_target": 5.53,
+    "zipf_control": 5.58,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "five": {
+    "control": "job",
+    "zipf_target": 5.45,
+    "zipf_control": 5.5,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "six": {
+    "control": "low",
+    "zipf_target": 5.29,
+    "zipf_control": 5.33,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "seven": {
+    "control": "david",
+    "zipf_target": 5.08,
+    "zipf_control": 5.13,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "eight": {
+    "control": "huge",
+    "zipf_target": 5.02,
+    "zipf_control": 5.06,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "nine": {
+    "control": "band",
+    "zipf_target": 4.87,
+    "zipf_control": 4.92,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "ten": {
+    "control": "oil",
+    "zipf_target": 5.05,
+    "zipf_control": 5.1,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "head": {
+    "control": "business",
+    "zipf_target": 5.51,
+    "zipf_control": 5.56,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "shop": {
+    "control": "civil",
+    "zipf_target": 4.88,
+    "zipf_control": 4.93,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "strip": {
+    "control": "amounts",
+    "zipf_target": 4.36,
+    "zipf_control": 4.41,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "street": {
+    "control": "report",
+    "zipf_target": 5.28,
+    "zipf_control": 5.32,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "part": {
+    "control": "love",
+    "zipf_target": 5.78,
+    "zipf_control": 5.82,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "eye": {
+    "control": "lol",
+    "zipf_target": 5.02,
+    "zipf_control": 5.05,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "field": {
+    "control": "building",
+    "zipf_target": 5.24,
+    "zipf_control": 5.29,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "site": {
+    "control": "meet",
+    "zipf_target": 5.22,
+    "zipf_control": 5.27,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "dance": {
+    "control": "clean",
+    "zipf_target": 4.93,
+    "zipf_control": 4.97,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "word": {
+    "control": "form",
+    "zipf_target": 5.26,
+    "zipf_control": 5.31,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "pair": {
+    "control": "copy",
+    "zipf_target": 4.72,
+    "zipf_control": 4.77,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "seat": {
+    "control": "catch",
+    "zipf_target": 4.82,
+    "zipf_control": 4.87,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "light": {
+    "control": "else",
+    "zipf_target": 5.33,
+    "zipf_control": 5.38,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "thousand": {
+    "control": "download",
+    "zipf_target": 4.64,
+    "zipf_control": 4.68,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "north": {
+    "control": "almost",
+    "zipf_target": 5.34,
+    "zipf_control": 5.39,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "machine": {
+    "control": "centre",
+    "zipf_target": 4.9,
+    "zipf_control": 4.95,
+    "n_start_target": 11,
+    "n_start_control": 11
+  },
+  "time": {
+    "control": "were",
+    "zipf_target": 6.29,
+    "zipf_control": 6.34,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "benefit": {
+    "control": "economy",
+    "zipf_target": 4.82,
+    "zipf_control": 4.87,
+    "n_start_target": 12,
+    "n_start_control": 12
+  },
+  "position": {
+    "control": "thinking",
+    "zipf_target": 5.21,
+    "zipf_control": 5.24,
+    "n_start_target": 12,
+    "n_start_control": 12
+  },
+  "province": {
+    "control": "attached",
+    "zipf_target": 4.47,
+    "zipf_control": 4.52,
+    "n_start_target": 12,
+    "n_start_control": 12
+  },
+  "exchange": {
+    "control": "carry",
+    "zipf_target": 4.85,
+    "zipf_control": 4.89,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "middle": {
+    "control": "killed",
+    "zipf_target": 5.18,
+    "zipf_control": 5.22,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "friend": {
+    "control": "talk",
+    "zipf_target": 5.37,
+    "zipf_control": 5.42,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "color": {
+    "control": "asking",
+    "zipf_target": 4.91,
+    "zipf_control": 4.96,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "kind": {
+    "control": "came",
+    "zipf_target": 5.45,
+    "zipf_control": 5.5,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "judge": {
+    "control": "cross",
+    "zipf_target": 4.95,
+    "zipf_control": 5.0,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "school": {
+    "control": "better",
+    "zipf_target": 5.71,
+    "zipf_control": 5.76,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "structure": {
+    "control": "parties",
+    "zipf_target": 4.84,
+    "zipf_control": 4.89,
+    "n_start_target": 12,
+    "n_start_control": 12
+  },
+  "tie": {
+    "control": "kevin",
+    "zipf_target": 4.51,
+    "zipf_control": 4.56,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "example": {
+    "control": "among",
+    "zipf_target": 5.27,
+    "zipf_control": 5.31,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "face": {
+    "control": "came",
+    "zipf_target": 5.45,
+    "zipf_control": 5.5,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "bridge": {
+    "control": "agent",
+    "zipf_target": 4.77,
+    "zipf_control": 4.81,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "item": {
+    "control": "suicide",
+    "zipf_target": 4.57,
+    "zipf_control": 4.62,
+    "n_start_target": 7,
+    "n_start_control": 7
+  },
+  "delete": {
+    "control": "counting",
+    "zipf_target": 4.22,
+    "zipf_control": 4.27,
+    "n_start_target": 11,
+    "n_start_control": 11
+  },
+  "group": {
+    "control": "looking",
+    "zipf_target": 5.57,
+    "zipf_control": 5.57,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "talent": {
+    "control": "download",
+    "zipf_target": 4.64,
+    "zipf_control": 4.68,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "beauty": {
+    "control": "nations",
+    "zipf_target": 4.75,
+    "zipf_control": 4.8,
+    "n_start_target": 11,
+    "n_start_control": 11
+  },
+  "platform": {
+    "control": "facts",
+    "zipf_target": 4.67,
+    "zipf_control": 4.72,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "house": {
+    "control": "little",
+    "zipf_target": 5.71,
+    "zipf_control": 5.75,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "sun": {
+    "control": "via",
+    "zipf_target": 4.97,
+    "zipf_control": 5.02,
+    "n_start_target": 6,
+    "n_start_control": 6
+  },
+  "meeting": {
+    "control": "common",
+    "zipf_target": 5.15,
+    "zipf_control": 5.2,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "history": {
+    "control": "university",
+    "zipf_target": 5.39,
+    "zipf_control": 5.39,
+    "n_start_target": 14,
+    "n_start_control": 14
+  },
+  "valley": {
+    "control": "setting",
+    "zipf_target": 4.72,
+    "zipf_control": 4.77,
+    "n_start_target": 11,
+    "n_start_control": 11
+  },
+  "square": {
+    "control": "winter",
+    "zipf_target": 4.84,
+    "zipf_control": 4.89,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "generation": {
+    "control": "complex",
+    "zipf_target": 4.82,
+    "zipf_control": 4.86,
+    "n_start_target": 14,
+    "n_start_control": 14
+  },
+  "south": {
+    "control": "early",
+    "zipf_target": 5.4,
+    "zipf_control": 5.43,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "virtue": {
+    "control": "adapt",
+    "zipf_target": 3.94,
+    "zipf_control": 3.98,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "tribe": {
+    "control": "barrel",
+    "zipf_target": 4.12,
+    "zipf_control": 4.17,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "city": {
+    "control": "ever",
+    "zipf_target": 5.61,
+    "zipf_control": 5.66,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "language": {
+    "control": "countries",
+    "zipf_target": 5.1,
+    "zipf_control": 5.13,
+    "n_start_target": 11,
+    "n_start_control": 11
+  },
+  "speed": {
+    "control": "base",
+    "zipf_target": 5.0,
+    "zipf_control": 5.05,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "ground": {
+    "control": "common",
+    "zipf_target": 5.15,
+    "zipf_control": 5.2,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "advance": {
+    "control": "beer",
+    "zipf_target": 4.65,
+    "zipf_control": 4.7,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "attempt": {
+    "control": "basic",
+    "zipf_target": 4.85,
+    "zipf_control": 4.89,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "defeat": {
+    "control": "button",
+    "zipf_target": 4.51,
+    "zipf_control": 4.56,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "tail": {
+    "control": "arab",
+    "zipf_target": 4.34,
+    "zipf_control": 4.39,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "mother": {
+    "control": "building",
+    "zipf_target": 5.24,
+    "zipf_control": 5.29,
+    "n_start_target": 9,
+    "n_start_control": 9
+  },
+  "east": {
+    "control": "above",
+    "zipf_target": 5.16,
+    "zipf_control": 5.2,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "return": {
+    "control": "cost",
+    "zipf_target": 5.19,
+    "zipf_control": 5.24,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "speech": {
+    "control": "cars",
+    "zipf_target": 4.85,
+    "zipf_control": 4.89,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "child": {
+    "control": "happy",
+    "zipf_target": 5.3,
+    "zipf_control": 5.35,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "tower": {
+    "control": "chose",
+    "zipf_target": 4.5,
+    "zipf_control": 4.55,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "hair": {
+    "control": "amount",
+    "zipf_target": 5.08,
+    "zipf_control": 5.13,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "household": {
+    "control": "attached",
+    "zipf_target": 4.47,
+    "zipf_control": 4.52,
+    "n_start_target": 12,
+    "n_start_control": 12
+  },
+  "person": {
+    "control": "called",
+    "zipf_target": 5.55,
+    "zipf_control": 5.59,
+    "n_start_target": 11,
+    "n_start_control": 11
+  },
+  "section": {
+    "control": "missing",
+    "zipf_target": 5.0,
+    "zipf_control": 5.05,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "official": {
+    "control": "companies",
+    "zipf_target": 5.14,
+    "zipf_control": 5.18,
+    "n_start_target": 12,
+    "n_start_control": 12
+  },
+  "hundred": {
+    "control": "apple",
+    "zipf_target": 4.71,
+    "zipf_control": 4.76,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "office": {
+    "control": "story",
+    "zipf_target": 5.4,
+    "zipf_control": 5.45,
+    "n_start_target": 10,
+    "n_start_control": 10
+  },
+  "rock": {
+    "control": "choice",
+    "zipf_target": 5.03,
+    "zipf_control": 5.08,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "rise": {
+    "control": "eating",
+    "zipf_target": 4.81,
+    "zipf_control": 4.85,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "left": {
+    "control": "feel",
+    "zipf_target": 5.62,
+    "zipf_control": 5.67,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "sound": {
+    "control": "above",
+    "zipf_target": 5.15,
+    "zipf_control": 5.2,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "power": {
+    "control": "business",
+    "zipf_target": 5.52,
+    "zipf_control": 5.56,
+    "n_start_target": 8,
+    "n_start_control": 8
+  },
+  "summer": {
+    "control": "available",
+    "zipf_target": 5.23,
+    "zipf_control": 5.28,
+    "n_start_target": 10,
+    "n_start_control": 10
+  }
+}
